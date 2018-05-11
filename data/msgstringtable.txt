@@ -1566,16 +1566,16 @@ Not able to receive battle field list. Please check and try again#
 Level is not high enough to enter#
 You must consume all '%d' points in your 1st Tab.#
 You must consume all '%d' remaining points in your 2nd Tab. 1st Tab is already done.#
-Convertible item#
-Items that can be converted#
-Item to convert#
-Combination of item is not possible in conversion.#
-Is a very heavy weight of the Inventory.#
-Please ensure an extra space in your inventory.#
-Item does not exist.#
+Items available for conversion#
+Insert items to convert#
+Inconvertible combination#
+Inventory weight is too much#
+Please secure some room in the inventory#
+Material doesn't exist#
 Successful.#
-All material has disappeared and failed.#
-Not very long to change the name of the specified tab.#
+Failed.#
+all materials are gone due to failure#
+unable to change the name of the specified tab, because it's too long.#
 Cannot add more.#
 Authentication failed.#
 Bot checks#
