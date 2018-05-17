@@ -30387,42 +30387,42 @@ QuestInfoList = {
 		Description = {
 			"본토에서 <ITEM>고구마<INFO>516</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."
 		},
-		Summary = "<ITEM>고구마<INFO>516</INFO></ITEM> 160개"
+		Summary = "고구마 160개"
 	},
 	[12384] = {
 		Title = "고기의 조달",
 		Description = {
 			"본토에서 <ITEM>고기<INFO>517</INFO></ITEM> 50개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."
 		},
-		Summary = "<ITEM>고기<INFO>517</INFO></ITEM> 50개"
+		Summary = "고기 50개"
 	},
 	[12385] = {
 		Title = "당근의 조달",
 		Description = {
 			"본토에서 <ITEM>당근<INFO>515</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."
 		},
-		Summary = "<ITEM>당근<INFO>515</INFO></ITEM> 160개"
+		Summary = "당근 160개"
 	},
 	[12386] = {
 		Title = "바나나의 조달",
 		Description = {
 			"본토에서 <ITEM>바나나<INFO>513</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."
 		},
-		Summary = "<ITEM>바나나<INFO>513</INFO></ITEM> 160개"
+		Summary = "바나나 160개"
 	},
 	[12387] = {
 		Title = "호박의 조달",
 		Description = {
 			"본토에서 <ITEM>호박<INFO>535</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."
 		},
-		Summary = "<ITEM>호박<INFO>535</INFO></ITEM> 160개"
+		Summary = "호박 160개"
 	},
 	[12388] = {
 		Title = "식용버섯의 조달",
 		Description = {
 			"본토에서 <ITEM>식용버섯<INFO>581</INFO></ITEM> 60개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 요리재료상인들에게서 구할 수 있을 것입니다."
 		},
-		Summary = "<ITEM>식용버섯<INFO>581</INFO></ITEM> 60개"
+		Summary = "식용버섯 60개"
 	},
 	[12389] = {
 		Title = "락릿지의 수호자",
