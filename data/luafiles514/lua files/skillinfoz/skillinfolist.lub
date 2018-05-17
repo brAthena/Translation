@@ -12269,7 +12269,7 @@ SKILL_INFO_LIST = {
 		"AB_ADORAMUS",
 		SkillName = "Adoramus",
 		MaxLv = 10,
-		SpAmount = { 32, 40, 48, 56, 64, 72, 78, 88, 96, 104 },
+		SpAmount = { 32, 40, 48, 56, 64, 72, 80, 88, 96, 104 },
 		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11, 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
