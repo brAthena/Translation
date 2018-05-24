@@ -21030,6 +21030,14 @@ QuestInfoList = {
 		},
 		Summary = "달콤이 껍질 30개 조달"
 	},
+	[8538] = {
+		Title = "고급 산소마스크 대여중",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"오늘은 이미 미세먼지 요원에게 고급 산소마스크를 대여했다. 내일 다시 빌릴 수 있다."
+		},
+		Summary = "04시 초기화"
+	},
 	[9000] = {
 		Title = "Job Change to Knight",
 		Description = {
