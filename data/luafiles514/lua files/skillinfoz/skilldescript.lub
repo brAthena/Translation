@@ -7485,7 +7485,7 @@ SKILL_DESCRIPT = {
 		"and magical damage^000000",
 		"[Lv 1]: ^777777ATK +165%, MATK +440% / 90 sec duration.^000000",
 		"[Lv 2]: ^777777ATK +180%, MATK +480% / 120 sec duration.^000000",
-		"[Lv 3]: ^777777ATK +205%, MATK +520% / 150 sec duration.^000000",
+		"[Lv 3]: ^777777ATK +195%, MATK +520% / 150 sec duration.^000000",
 		"[Lv 4]: ^777777ATK +210%, MATK +560% / 180 sec duration.^000000",
 		"[Lv 5]: ^777777ATK +225%, MATK +600% / 210 sec duration.^000000",
 		"[Lv 6]: ^777777ATK +240%, MATK +640% / 240 sec duration.^000000",

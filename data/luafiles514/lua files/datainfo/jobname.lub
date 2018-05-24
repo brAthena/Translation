@@ -3878,5 +3878,6 @@ JobNameTable = {
 	[jobtbl.JT_ILL_WOOTAN_DEFENDER] = "ill_wootan_defender",
 	[jobtbl.JT_G_ILL_MEGALITH] = "ill_megalith",
 	[jobtbl.JT_G_ILL_WOOTAN_SHOOTER] = "ill_wootan_shooter",
-	[jobtbl.JT_G_ILL_WOOTAN_FIGHTER] = "ill_wootan_fighter"
+	[jobtbl.JT_G_ILL_WOOTAN_FIGHTER] = "ill_wootan_fighter",
+	[jobtbl.JT_E_FINE_DUST] = "gaster"
 }
