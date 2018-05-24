@@ -4673,3 +4673,5 @@
 25643	1	1	1	1	0	1	1	1	//Autographed_Book
 23340	1	1	0	1	0	1	1	1	//보상확성기
 25659	1	1	1	1	0	1	1	1	//Evt_May02_KR
+19389	1	1	1	1	1	1	1	1	//E_Oxygen_Mask
+23771	1	1	1	1	0	1	1	1	//Mysterious_Plastic
