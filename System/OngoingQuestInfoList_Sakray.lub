@@ -9887,7 +9887,7 @@ QuestInfoList = {
 	[5367] = {
 		Title = "Daily Necessities Transport",
 		Description = {
-			"Deliver the supplies to Area Z-2. Go to ^0000FFMechanical Engineer Al^000000 in the Machine Warehouse and deliver the message: ^0000FFYou idiots, stop wasting valuable resources on making machines!^000000",
+			"Deliver the supplies to <NAVI>[F-2 Area]<INFO>un_bk_q,372,217,0,101,0</INFO>. Go to <NAVI>[Mechanical Engineer Al]<INFO>un_bk_q,82,323,0,101,0</INFO></NAVI> in the Machine Warehouse and deliver the message: ^0000FFYou idiots, stop wasting valuable resources on making machines!^000000",
 		},
 		Summary = ""
 	},
@@ -27828,6 +27828,13 @@ QuestInfoList = {
 		},
 		Summary = "제작 1단계"
 	},
+	[11573] = {
+		Title = "성제 전직 퀘스트",
+		Description = {
+			"묘르닐 산맥 북쪽에서 <NAVI>[산지기]<INFO>mjolnir_03,236,185,0,101,0</INFO></NAVI>를 만나 유성림으로 이동하자."
+		},
+		Summary = "유성림으로"
+	},
 	[12000] = {
 		Title = "An old friend",
 		Description = {
@@ -30669,6 +30676,76 @@ QuestInfoList = {
 			"차원 너머의 세계에서 고군분투중인 바르문트를 도와 수호석의 복구를 담당하게 되었다."
 		},
 		Summary = "수호석복구"
+	},
+	[12442] = {
+		Title = "소울리퍼의 길 1",
+		Description = {
+			"여관 일꾼들에게 둘러싸인 반약의 사정을 들어보자."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12443] = {
+		Title = "소울리퍼의 길 2",
+		Description = {
+			"반약과 인연이 된다면 다시 만나보자. 그는 아마 페이욘 어딘가의 <NAVI>[주막]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI>으로 끌려간 것 같다."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12444] = {
+		Title = "소울리퍼의 길 3",
+		Description = {
+			"반약의 봇짐 도둑에 대한 행보를 확인할 수 있다면 해보자. 주막 근처에 조력자가 있을지도 모른다."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12445] = {
+		Title = "소울리퍼의 길 4",
+		Description = {
+			"봇짐 도둑의 정체에 대해 <NAVI>[반약]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI>과 이야기를 나눠보자."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12446] = {
+		Title = "소울리퍼의 길 5",
+		Description = {
+			"봇짐도둑의 정체를 밝히기위해 꼬맹이, 반약과 함께 주막이와 설전을 벌이자."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12447] = {
+		Title = "소울리퍼의 길 6",
+		Description = {
+			"페이욘 북쪽에서 <NAVI>[반약]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>과 재회"
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12448] = {
+		Title = "소울리퍼의 길 7",
+		Description = {
+			"<NAVI>[야엉이]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>에게 대법에 필요한 <ITEM>[여우의꼬리]<INFO>1022</INFO></ITEM> 44개를 모아 주자. "
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12449] = {
+		Title = "소울리퍼의 길 8",
+		Description = {
+			"<NAVI>[반약]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>을 만나 초혼대법에 얽힌 사연을 확인하자."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12450] = {
+		Title = "소울리퍼의 길 9",
+		Description = {
+			"초혼대법으로 반약의 정신세계로 들어가 그녀(?)의 동생을 구해내자."
+		},
+		Summary = "소울리퍼의 길"
+	},
+	[12451] = {
+		Title = "소울리퍼의 길 최종장",
+		Description = {
+			"<NAVI>[반약]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>과의 대화로 소울리퍼의 길에 대한 결정을 하자."
+		},
+		Summary = "소울리퍼의 길"
 	},
 	[13000] = {
 		Title = "RWC 2011Card Gathering",
