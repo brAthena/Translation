@@ -796,6 +796,16 @@ StateIconList[EFST_IDs.EFST_PROPERTYTELEKINESIS] = {
 		{ "Inflicts Ghost element damage to target" }
 	}
 }
+StateIconList[EFST_IDs.EFST_SOULLINK] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "영혼 부여 상태", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "소울 링커가 부여하는" },
+		{ "영혼을 받은 상태" }
+	}
+}
 StateIconList[EFST_IDs.EFST_PLUSATTACKPOWER] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 1,
@@ -4886,6 +4896,199 @@ StateIconList[EFST_IDs.EFST_ASPD_POPCORN] = {
 		{ "공격 속도 증가", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "공격 후딜레이 10% 감소." }
+	}
+}
+StateIconList[EFST_IDs.EFST_LIGHTOFMOON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "달의 빛", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "만월각 데미지 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_LIGHTOFSUN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "태양의 빛", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "태양 폭발 데미지 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_LIGHTOFSTAR] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "별의 빛", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "유성낙하 데미지 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_LUNARSTANCE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "달의 자세", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "MaxHP 증가" },
+		{ "달 계열 스킬 사용 가능" }
+	}
+}
+StateIconList[EFST_IDs.EFST_UNIVERSESTANCE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "우주의 자세", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "모든 스테이터스 증가" },
+		{ "우주 계열 스킬 사용 가능" },
+		{ "태양 계열 스킬 사용 가능" },
+		{ "달 계열 스킬 사용 가능" },
+		{ "별 계열 스킬 사용 가능" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SUNSTANCE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "태양의 자세", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "ATK 증가" },
+		{ "태양 계열 스킬 사용 가능" }
+	}
+}
+StateIconList[EFST_IDs.EFST_FLASHKICK] = {
+	descript = {
+		{ "별의 징표", COLOR_TITLE_DEBUFF }
+	}
+}
+StateIconList[EFST_IDs.EFST_NEWMOON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "삭월", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "모습이 보이지 않는다" },
+		{ "만월각 사용 가능" }
+	}
+}
+StateIconList[EFST_IDs.EFST_STARSTANCE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "별의 자세", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "공격속도 증가" },
+		{ "별 계열 스킬 사용 가능" }
+	}
+}
+StateIconList[EFST_IDs.EFST_DIMENSION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "차원의 서", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "신성폭발, 성제강림 사용 시" },
+		{ "특수 효과 발동" }
+	}
+}
+StateIconList[EFST_IDs.EFST_CREATINGSTAR] = {
+	descript = {
+		{ "창성의 서", COLOR_TITLE_DEBUFF },
+		{ "이동 속도 감소" }
+	}
+}
+StateIconList[EFST_IDs.EFST_FALLINGSTAR] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "유성 낙하", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "공격시 일정 확률로" },
+		{ "별의 징표 대상에게" },
+		{ "유성이 떨어진다" }
+	}
+}
+StateIconList[EFST_IDs.EFST_GRAVITYCONTROL] = {
+	descript = {
+		{ "중력 조절", COLOR_TITLE_DEBUFF },
+		{ "공격 및 이동 불가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULCOLLECT] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "영혼 축적", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "일정 시간마다 영혼에너지 축적" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULREAPER] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "영혼 수확", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "공격 시, 일정 확률로" },
+		{ "영혼 에너지 획득" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULUNITY] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "영혼 결속", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "3초당 HP 회복" },
+		{ "카우트 가능 대상." }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULSHADOW] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "그림자의 영혼 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "CRI 증가" },
+		{ "ASPD 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULFAIRY] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "요정의 영혼 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "MATK 증가" },
+		{ "변동 캐스팅 감소" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULFALCON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "매의 영혼 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "ATK 증가" },
+		{ "명중률 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULGOLEM] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "골렘의 영혼 부여", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "DEF 증가" },
+		{ "MDEF 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SOULDIVISION] = {
+	descript = {
+		{ "영혼 분열", COLOR_TITLE_DEBUFF },
+		{ "스킬 후 딜레이 증가" }
 	}
 }
 StateIconList[EFST_IDs.EFST_INFINITY_DRINK] = {
