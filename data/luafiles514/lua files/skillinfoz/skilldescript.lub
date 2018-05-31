@@ -11269,7 +11269,7 @@ SKILL_DESCRIPT = {
 		"[Level 7] : ^777777magical damage 2500% / Area of effect : 7 X 7^000000"
 	},
 	[SKID.SP_SOULUNITY] = {
-		"Soul Unity,
+		"Soul Unity",
 		"MAX Lv : 7",
 		"^777777Prerequisite skill : Soul Energy Research level 3^000000",
 		"Type : ^777777Buff / Special^000000",
