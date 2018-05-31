@@ -10263,7 +10263,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_LIGHTOFMOON] = {
 		"SJ_LIGHTOFMOON",
-		SkillName = "",
+		SkillName = "Light of the Moon",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
 		bSeperateLv = true,
@@ -10274,7 +10274,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_LUNARSTANCE] = {
 		"SJ_LUNARSTANCE",
-		SkillName = "",
+		SkillName = "Lunar Stance",
 		MaxLv = 3,
 		SpAmount = { 10, 10, 10 },
 		bSeperateLv = true,
@@ -10285,7 +10285,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_FULLMOONKICK] = {
 		"SJ_FULLMOONKICK",
-		SkillName = "",
+		SkillName = "Full Moon Kick",
 		MaxLv = 7,
 		SpAmount = { 30, 35, 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -10296,7 +10296,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_LIGHTOFSTAR] = {
 		"SJ_LIGHTOFSTAR",
-		SkillName = "",
+		SkillName = "Light of the Star",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
 		bSeperateLv = true,
@@ -10307,7 +10307,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_STARSTANCE] = {
 		"SJ_STARSTANCE",
-		SkillName = "",
+		SkillName = "Stellar Stance",
 		MaxLv = 3,
 		SpAmount = { 10, 10, 10 },
 		bSeperateLv = true,
@@ -10318,7 +10318,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_NEWMOONKICK] = {
 		"SJ_NEWMOONKICK",
-		SkillName = "",
+		SkillName = "New Moon Kick",
 		MaxLv = 7,
 		SpAmount = { 20, 25, 30, 35, 40, 45, 50 },
 		bSeperateLv = true,
@@ -10329,7 +10329,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_FLASHKICK] = {
 		"SJ_FLASHKICK",
-		SkillName = "",
+		SkillName = "Flash Kick",
 		MaxLv = 7,
 		SpAmount = { 45, 40, 35, 30, 25, 20, 15 },
 		bSeperateLv = false,
@@ -10340,7 +10340,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_STAREMPEROR] = {
 		"SJ_STAREMPEROR",
-		SkillName = "",
+		SkillName = "Star Emperor Advent",
 		MaxLv = 5,
 		SpAmount = { 70, 75, 80, 85, 90 },
 		bSeperateLv = true,
@@ -10352,7 +10352,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_NOVAEXPLOSING] = {
 		"SJ_NOVAEXPLOSING",
-		SkillName = "",
+		SkillName = "Nova Explosion",
 		MaxLv = 5,
 		SpAmount = { 60, 65, 70, 75, 80 },
 		bSeperateLv = true,
@@ -10363,7 +10363,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_UNIVERSESTANCE] = {
 		"SJ_UNIVERSESTANCE",
-		SkillName = "",
+		SkillName = "Universe Stance",
 		MaxLv = 3,
 		SpAmount = { 10, 10, 10 },
 		bSeperateLv = true,
@@ -10376,7 +10376,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_FALLINGSTAR] = {
 		"SJ_FALLINGSTAR",
-		SkillName = "",
+		SkillName = "Falling Star",
 		MaxLv = 7,
 		SpAmount = { 40, 45, 50, 55, 60, 65, 70 },
 		bSeperateLv = true,
@@ -10387,7 +10387,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_GRAVITYCONTROL] = {
 		"SJ_GRAVITYCONTROL",
-		SkillName = "",
+		SkillName = "Gravity control",
 		MaxLv = 1,
 		SpAmount = { 80 },
 		bSeperateLv = true,
@@ -10398,7 +10398,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_BOOKOFDIMENSION] = {
 		"SJ_BOOKOFDIMENSION",
-		SkillName = "",
+		SkillName = "Book of Dimension",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
 		bSeperateLv = true,
@@ -10410,7 +10410,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_BOOKOFCREATINGSTAR] = {
 		"SJ_BOOKOFCREATINGSTAR",
-		SkillName = "",
+		SkillName = "Book of Creation",
 		MaxLv = 5,
 		SpAmount = { 50, 55, 60, 65, 70 },
 		bSeperateLv = true,
@@ -10422,7 +10422,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_DOCUMENT] = {
 		"SJ_DOCUMENT",
-		SkillName = "",
+		SkillName = "Document of Sun, Moon and Star",
 		MaxLv = 3,
 		SpAmount = { 60, 60, 60 },
 		bSeperateLv = true,
@@ -10434,7 +10434,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_PURIFY] = {
 		"SJ_PURIFY",
-		SkillName = "",
+		SkillName = "Purification of Sun, Moon and Star",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -10445,7 +10445,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_LIGHTOFSUN] = {
 		"SJ_LIGHTOFSUN",
-		SkillName = "",
+		SkillName = "Light of the Sun",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
 		bSeperateLv = true,
@@ -10456,7 +10456,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_SUNSTANCE] = {
 		"SJ_SUNSTANCE",
-		SkillName = "",
+		SkillName = "Solar Stance",
 		MaxLv = 3,
 		SpAmount = { 10, 10, 10 },
 		bSeperateLv = true,
@@ -10467,7 +10467,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_SOLARBURST] = {
 		"SJ_SOLARBURST",
-		SkillName = "",
+		SkillName = "Solar Burst",
 		MaxLv = 7,
 		SpAmount = { 34, 37, 40, 43, 46, 49, 52 },
 		bSeperateLv = true,
@@ -10478,7 +10478,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_PROMINENCEKICK] = {
 		"SJ_PROMINENCEKICK",
-		SkillName = "",
+		SkillName = "Prominence Kick",
 		MaxLv = 7,
 		SpAmount = { 20, 20, 20, 20, 20, 20, 20 },
 		bSeperateLv = true,
@@ -10489,7 +10489,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_FALLINGSTAR_ATK] = {
 		"SJ_FALLINGSTAR_ATK",
-		SkillName = "",
+		SkillName = "Falling Star Attack",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -10497,7 +10497,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SJ_FALLINGSTAR_ATK2] = {
 		"SJ_FALLINGSTAR_ATK2",
-		SkillName = "",
+		SkillName = "Falling Star Attack",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -10505,7 +10505,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULGOLEM] = {
 		"SP_SOULGOLEM",
-		SkillName = "",
+		SkillName = "Golem's Soul",
 		MaxLv = 5,
 		SpAmount = { 250, 200, 150, 100, 50 },
 		bSeperateLv = true,
@@ -10516,7 +10516,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULSHADOW] = {
 		"SP_SOULSHADOW",
-		SkillName = "",
+		SkillName = "Shadow's Soul",
 		MaxLv = 5,
 		SpAmount = { 250, 200, 150, 100, 50 },
 		bSeperateLv = true,
@@ -10527,7 +10527,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULFALCON] = {
 		"SP_SOULFALCON",
-		SkillName = "",
+		SkillName = "Falcon's Soul",
 		MaxLv = 5,
 		SpAmount = { 250, 200, 150, 100, 50 },
 		bSeperateLv = true,
@@ -10538,7 +10538,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULFAIRY] = {
 		"SP_SOULFAIRY",
-		SkillName = "",
+		SkillName = "Fairy's Soul",
 		MaxLv = 5,
 		SpAmount = { 250, 200, 150, 100, 50 },
 		bSeperateLv = true,
@@ -10549,7 +10549,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_CURSEEXPLOSION] = {
 		"SP_CURSEEXPLOSION",
-		SkillName = "",
+		SkillName = "Curse explosion",
 		MaxLv = 5,
 		SpAmount = { 50, 55, 60, 65, 70 },
 		bSeperateLv = true,
@@ -10560,7 +10560,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULCURSE] = {
 		"SP_SOULCURSE",
-		SkillName = "",
+		SkillName = "Evil spirit's Curse",
 		MaxLv = 5,
 		SpAmount = { 70, 70, 70, 70, 70 },
 		bSeperateLv = true,
@@ -10571,7 +10571,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SPA] = {
 		"SP_SPA",
-		SkillName = "",
+		SkillName = "Espa",
 		MaxLv = 5,
 		SpAmount = { 52, 56, 60, 64, 68 },
 		bSeperateLv = true,
@@ -10582,7 +10582,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SHA] = {
 		"SP_SHA",
-		SkillName = "",
+		SkillName = "Esha",
 		MaxLv = 5,
 		SpAmount = { 18, 20, 22, 24, 26 },
 		bSeperateLv = true,
@@ -10593,7 +10593,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SWHOO] = {
 		"SP_SWHOO",
-		SkillName = "",
+		SkillName = "Eswhoo﻿﻿",
 		MaxLv = 7,
 		SpAmount = { 66, 70, 74, 78, 82, 86, 90 },
 		bSeperateLv = true,
@@ -10604,7 +10604,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULUNITY] = {
 		"SP_SOULUNITY",
-		SkillName = "",
+		SkillName = "Soul Unity",
 		MaxLv = 7,
 		SpAmount = { 44, 46, 48, 50, 52, 54, 56 },
 		bSeperateLv = true,
@@ -10615,7 +10615,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULDIVISION] = {
 		"SP_SOULDIVISION",
-		SkillName = "",
+		SkillName = "Soul Division",
 		MaxLv = 5,
 		SpAmount = { 36, 40, 44, 48, 52 },
 		bSeperateLv = true,
@@ -10627,7 +10627,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULREAPER] = {
 		"SP_SOULREAPER",
-		SkillName = "",
+		SkillName = "Soul Reap",
 		MaxLv = 5,
 		SpAmount = { 42, 44, 46, 48, 50 },
 		bSeperateLv = true,
@@ -10638,7 +10638,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULREVOLVE] = {
 		"SP_SOULREVOLVE",
-		SkillName = "",
+		SkillName = "Soul Revolution",
 		MaxLv = 3,
 		SpAmount = { 50, 100, 150 },
 		bSeperateLv = true,
@@ -10650,7 +10650,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULCOLLECT] = {
 		"SP_SOULCOLLECT",
-		SkillName = "",
+		SkillName = "Soul Collect",
 		MaxLv = 5,
 		SpAmount = { 100, 100, 100, 100, 100 },
 		bSeperateLv = true,
@@ -10658,7 +10658,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULEXPLOSION] = {
 		"SP_SOULEXPLOSION",
-		SkillName = "",
+		SkillName = "Soul Explosion",
 		MaxLv = 5,
 		SpAmount = { 30, 60, 90, 120, 150 },
 		bSeperateLv = true,
@@ -10673,7 +10673,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_SOULENERGY] = {
 		"SP_SOULENERGY",
-		SkillName = "",
+		SkillName = "Soul Energy Research",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -10684,7 +10684,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SP_KAUTE] = {
 		"SP_KAUTE",
-		SkillName = "",
+		SkillName = "Kaute",
 		MaxLv = 5,
 		SpAmount = { 24, 30, 36, 42, 48 },
 		bSeperateLv = true,
