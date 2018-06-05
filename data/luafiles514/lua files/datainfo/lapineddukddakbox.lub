@@ -766,6 +766,21 @@ tblLapineDdukddakBox = {
 					"¥Ìº≠æ∆∏”S",
 					1,
 					24281
+				},
+				{
+					"S_Rebellion_Armor",
+					1,
+					24402
+				},
+				{
+					"S_Kagerou_Armor",
+					1,
+					24403
+				},
+				{
+					"S_Oboro_Armor",
+					1,
+					24404
 				}
 			},
 			NeedSource_String = "+7 ≈¨∑°Ω∫ æ∆∏” Ω¶µµøÏ"
@@ -839,6 +854,21 @@ tblLapineDdukddakBox = {
 					"¥Ìº≠Ω¥¡ÓS",
 					1,
 					24268
+				},
+				{
+					"S_Rebellion_Shoes",
+					1,
+					24405
+				},
+				{
+					"S_Kagerou_Shoes",
+					1,
+					24406
+				},
+				{
+					"S_Oboro_Shoes",
+					1,
+					24407
 				}
 			},
 			NeedSource_String = "+7 ≈¨∑°Ω∫ Ω¥¡Ó Ω¶µµøÏ"
@@ -2909,6 +2939,36 @@ tblLapineDdukddakBox = {
 					"S_CriticalHit_Armor",
 					1,
 					15280
+				},
+				{
+					"S_Rebellion_Armor",
+					1,
+					24402
+				},
+				{
+					"S_Kagerou_Armor",
+					1,
+					24403
+				},
+				{
+					"S_Oboro_Armor",
+					1,
+					24404
+				},
+				{
+					"S_Rebellion_Shoes",
+					1,
+					24405
+				},
+				{
+					"S_Kagerou_Shoes",
+					1,
+					24406
+				},
+				{
+					"S_Oboro_Shoes",
+					1,
+					24407
 				}
 			},
 			NeedSource_String = "Ω¶µµøÏ æ∆¿Ã≈€"

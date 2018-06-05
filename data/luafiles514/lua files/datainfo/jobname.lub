@@ -3421,6 +3421,7 @@ JobNameTable = {
 	[jobtbl.JT_E_IMP] = "E_IMP",
 	[jobtbl.JT_E_EXPLOSION] = "E_EXPLOSION",
 	[jobtbl.JT_E_SALAMANDER] = "E_SALAMANDER",
+	[jobtbl.JT_E_PECOPECO] = "pecopeco",
 	[jobtbl.JT_E16_2_SEYREN] = "seyren",
 	[jobtbl.JT_E_NYAIL_PIG] = "e_nyailo",
 	[jobtbl.JT_E_PIT] = "soil",

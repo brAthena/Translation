@@ -1679,6 +1679,30 @@ tblLapineUpgradeBox = {
 				{
 					"아처이어링S",
 					28392
+				},
+				{
+					"S_Rebellion_Armor",
+					24402
+				},
+				{
+					"S_Kagerou_Armor",
+					24403
+				},
+				{
+					"S_Oboro_Armor",
+					24404
+				},
+				{
+					"S_Rebellion_Shoes",
+					24405
+				},
+				{
+					"S_Kagerou_Shoes",
+					24406
+				},
+				{
+					"S_Oboro_Shoes",
+					24407
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
