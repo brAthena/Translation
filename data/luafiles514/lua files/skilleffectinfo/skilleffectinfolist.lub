@@ -310,14 +310,6 @@ SKILL_EFFECT_INFO_LIST = {
 		},
 		LaunchZC_USE_SKILL = true
 	},
-	[SKID.RL_H_MINE] = {
-		targetEffectNum = 1,
-		targetEffectID = {
-			EFID.EF_H_MINE
-		},
-		onTarget = true,
-		LaunchZC_USE_SKILL = true
-	},
 	[SKID.RL_FALLEN_ANGEL] = {
 		effectNum = 1,
 		effectID = {
@@ -372,12 +364,6 @@ SKILL_EFFECT_INFO_LIST = {
 		},
 		waveFileName = "effect\\t_ÇÇ¸µ.wav"
 	},
-	[SKID.SJ_FULLMOONKICK] = {
-		effectNum = 1,
-		effectID = {
-			EFID.EF_BASH3D3
-		}
-	},
 	[SKID.SJ_NOVAEXPLOSING] = {
 		targetEffectNum = 1,
 		targetEffectID = {
@@ -404,11 +390,26 @@ SKILL_EFFECT_INFO_LIST = {
 		},
 		targetWaveFileName = "effect\\wizard_sightrasher.wav"
 	},
-	[SKID.SJ_FULLMOONKICK] = {
+	[SKID.SJ_NEWMOONKICK] = {
 		effectNum = 1,
 		effectID = {
-			EFID.EF_STORMKICK8
+			EFID.EF_NEWMOON_KICK
 		}
+	},
+	[SKID.SJ_FULLMOONKICK] = {
+		effectNum = 3,
+		effectID = {
+			EFID.EF_BASH3D3,
+			EFID.EF_STORMKICK8,
+			EFID.EF_FULLMOON_KICK
+		}
+	},
+	[SKID.SJ_BOOKOFDIMENSION] = {
+		effectNum = 1,
+		effectID = {
+			EFID.EF_BOOK_OF_DIMENSION
+		},
+		waveFileName = "effect\\so_elemental_shield.wav"
 	},
 	[SKID.SP_SHA] = {
 		effectNum = 1,
@@ -443,6 +444,25 @@ SKILL_EFFECT_INFO_LIST = {
 		effectNum = 1,
 		effectID = {
 			EFID.EF_BLINK_BODY
+		}
+	},
+	[SKID.SP_SOULREAPER] = {
+		effectNum = 1,
+		effectID = {
+			EFID.EF_SOUL_REAPER
+		},
+		waveFileName = "effect\\ef_signum.wav"
+	},
+	[SKID.SP_CURSEEXPLOSION] = {
+		targetEffectNum = 1,
+		targetEffectID = {
+			EFID.EF_CURSE_EXPLOSION
+		}
+	},
+	[SKID.SP_SOULCURSE] = {
+		targetEffectNum = 1,
+		targetEffectID = {
+			EFID.EF_SOUL_CURSE
 		}
 	}
 }
