@@ -4675,3 +4675,5 @@
 25659	1	1	1	1	0	1	1	1	//Evt_May02_KR
 19389	1	1	1	1	1	1	1	1	//E_Oxygen_Mask
 23771	1	1	1	1	0	1	1	1	//Mysterious_Plastic
+19396	1	1	0	1	1	1	1	1	//Racing_C_Star
+19397	1	1	0	1	1	1	1	1	//Racing_C_Soul
