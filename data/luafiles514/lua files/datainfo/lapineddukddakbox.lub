@@ -3691,6 +3691,66 @@ tblLapineDdukddakBox = {
 					"변동캐스팅스톤_걸칠것",
 					1,
 					25306
+				},
+				{
+					"HighpriestStone_Top",
+					1,
+					25706
+				},
+				{
+					"HighpriestStone_Middle",
+					1,
+					25707
+				},
+				{
+					"HighpriestStone_Bottom",
+					1,
+					25708
+				},
+				{
+					"ArchbishopStone_Robe",
+					1,
+					25709
+				},
+				{
+					"PaladinStone_Top",
+					1,
+					25710
+				},
+				{
+					"PaladinStone_Middle",
+					1,
+					25711
+				},
+				{
+					"PaladinStone_Bottom",
+					1,
+					25712
+				},
+				{
+					"RoyalguardStone_Robe",
+					1,
+					25713
+				},
+				{
+					"AssacrossStone_Top",
+					1,
+					25714
+				},
+				{
+					"AssacrossStone_Middle",
+					1,
+					25715
+				},
+				{
+					"AssacrossStone_Bottom",
+					1,
+					25716
+				},
+				{
+					"GuillcrossStone_Robe",
+					1,
+					25717
 				}
 			},
 			NeedSource_String = "의상인챈트스톤"
@@ -5990,6 +6050,26 @@ tblLapineDdukddakBox = {
 					"C_Blinking_Thin_Eyes",
 					1,
 					31398
+				},
+				{
+					"C_Bouquet_Hat",
+					1,
+					31489
+				},
+				{
+					"C_Poring_Muffler",
+					1,
+					31490
+				},
+				{
+					"C_Happy_Rabbit_Ribbon",
+					1,
+					31529
+				},
+				{
+					"C_PinkButterfly_Wing_T",
+					1,
+					20533
 				}
 			},
 			NeedSource_String = "냥다래 의상"
