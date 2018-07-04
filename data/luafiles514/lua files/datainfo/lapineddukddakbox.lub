@@ -781,6 +781,26 @@ tblLapineDdukddakBox = {
 					"S_Oboro_Armor",
 					1,
 					24404
+				},
+				{
+					"S_DoramPhysical_Armor",
+					1,
+					24408
+				},
+				{
+					"S_DoramMagical_Armor",
+					1,
+					24410
+				},
+				{
+					"S_Star_Emperor_Armor",
+					1,
+					24412
+				},
+				{
+					"S_Soul_Reaper_Armor",
+					1,
+					24414
 				}
 			},
 			NeedSource_String = "+7 클래스 아머 쉐도우"
@@ -869,6 +889,26 @@ tblLapineDdukddakBox = {
 					"S_Oboro_Shoes",
 					1,
 					24407
+				},
+				{
+					"S_DoramPhysical_Shoes",
+					1,
+					24409
+				},
+				{
+					"S_DoramMagical_Shoes",
+					1,
+					24411
+				},
+				{
+					"S_Star_Emperor_Shoes",
+					1,
+					24413
+				},
+				{
+					"S_Soul_Reaper_Shoes",
+					1,
+					24415
 				}
 			},
 			NeedSource_String = "+7 클래스 슈즈 쉐도우"
@@ -2969,6 +3009,46 @@ tblLapineDdukddakBox = {
 					"S_Oboro_Shoes",
 					1,
 					24407
+				},
+				{
+					"S_DoramPhysical_Armor",
+					1,
+					24408
+				},
+				{
+					"S_DoramPhysical_Shoes",
+					1,
+					24409
+				},
+				{
+					"S_DoramMagical_Armor",
+					1,
+					24410
+				},
+				{
+					"S_DoramMagical_Shoes",
+					1,
+					24411
+				},
+				{
+					"S_Star_Emperor_Armor",
+					1,
+					24412
+				},
+				{
+					"S_Star_Emperor_Shoes",
+					1,
+					24413
+				},
+				{
+					"S_Soul_Reaper_Armor",
+					1,
+					24414
+				},
+				{
+					"S_Soul_Reaper_Shoes",
+					1,
+					24415
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
