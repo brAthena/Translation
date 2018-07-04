@@ -39743,6 +39743,14 @@ QuestInfoList = {
 		},
 		Summary = ""
 	},
+	[16376] = {
+		Title = "EL1_A17T 제압",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"EL1_A17T을 제압하였다."
+		},
+		Summary = ""
+	},
 	[17000] = {
 		Title = "대화 거부",
 		IconName = "ico_ep.bmp",
