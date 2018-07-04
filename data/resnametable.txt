@@ -1,3 +1,26 @@
+//-- 최종갱신 사크라이 2018-07-02
+
+// 에피소드 17.1 태동, 일루시온
+1@cor.gnd#1@cor.gnd#
+1@cor.gat#1@cor.gat#
+1@cor.rsw#1@cor.rsw#
+유저인터페이스\map\1@cor.bmp#유저인터페이스\map\1@cor.bmp#
+
+1@os_a.gnd#1@os_a.gnd#
+1@os_a.gat#1@os_a.gat#
+1@os_a.rsw#1@os_a.rsw#
+유저인터페이스\map\1@os_a.bmp#유저인터페이스\map\1@os_a.bmp#
+
+1@os_b.gnd#1@os_b.gnd#
+1@os_b.gat#1@os_b.gat#
+1@os_b.rsw#1@os_b.rsw#
+유저인터페이스\map\1@os_b.bmp#유저인터페이스\map\1@os_b.bmp#
+
+1@rgsr.gnd#1@rgsr.gnd#
+1@rgsr.gat#1@rgsr.gat#
+1@rgsr.rsw#1@rgsr.rsw#
+유저인터페이스\map\1@rgsr.bmp#유저인터페이스\map\1@rgsr.bmp#
+
 //초혼대법
 1@soul.gnd#1@soul.gnd#
 1@soul.gat#1@soul.gat#

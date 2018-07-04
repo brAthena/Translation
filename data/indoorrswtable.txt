@@ -1,3 +1,7 @@
+//201805 17.1 추가맵
+pub_cat.rsw#
+rgsr_in.rsw#
+
 //201804_성제전직용
 star_in.rsw#
 

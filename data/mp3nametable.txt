@@ -1,4 +1,4 @@
-//-최종갱신 사크라이 2018-05-29
+//-최종갱신 사크라이 2018-07-02
 //맵이름.rsw#bgm\\음악번호#
 
 //--- 통상판 마을음악
@@ -32,6 +32,19 @@ hu_in01.rsw#bgm\\93.mp3#
 //prt_church.rsw#bgm\\56.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
+
+// 에피소드 17.1 태동, 일루시온
+1@cor.rsw#bgm\\103.mp3#
+1@os_a.rsw#bgm\\102.mp3#
+1@os_b.rsw#bgm\\87.mp3#
+1@rgsr.rsw#bgm\\162.mp3#
+rgsr_in.rsw#bgm\\90.mp3#
+pub_cat.rsw#bgm\\160.mp3#
+sp_cor.rsw#bgm\\87.mp3#
+sp_os.rsw#bgm\\87.mp3#
+sp_rudus.rsw#bgm\\158.mp3#
+sp_rudus2.rsw#bgm\\158.mp3#
+sp_rudus3.rsw#bgm\\161.mp3#
 
 // 성제 전직
 star_frst.rsw#bgm\\14.mp3#
