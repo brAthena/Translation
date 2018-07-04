@@ -618,7 +618,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"라그나로크 세계에서 모험의 무대는 크게 인간들이 중심인 땅 미드가르드 대륙, \n\t\t\t\t요정과 거인이 존재하는 차원 너머의 땅, 그리고 탐험심 가득한 이들이 찾아낸 미지의 지역 로컬라이징으로 분류됩니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶미드가르드 대륙<INFO>4001</INFO></TIPBOX>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"라그나로크 세계에서 모험의 무대는 크게 인간들이 중심인 땅 미드가르드 대륙,\n\t\t\t\t요정과 거인이 존재하는 차원 너머의 땅, 그리고 탐험심 가득한 이들이 찾아낸 미지의 지역 로컬라이징으로 분류됩니다.\n\n\t\t\t\t<TIPBOX>▶미드가르드 대륙<INFO>4001</INFO></TIPBOX>\n\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4001] = {
@@ -627,7 +627,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"미드가르드는 신족과 마족 그리고 인간이 서로의 신념을 위해 싸웠던 성전 이후, \n\t\t\t\t살아남은 인간들의 삶의 터전이자 중심대륙입니다. \n\t\t\t\t미드가르드 대륙의 동남부 해안선을 따라 주축이 되는 세 개의 나라가 있습니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶룬-미드가츠 왕국<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶슈발츠발드 공화국<INFO>4040</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶아루나펠츠 교국<INFO>4050</INFO></TIPBOX>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"미드가르드는 신족과 마족 그리고 인간이 서로의 신념을 위해 싸웠던 성전 이후,\n\t\t\t\t살아남은 인간들의 삶의 터전이자 중심대륙입니다.\n\t\t\t\t미드가르드 대륙의 동남부 해안선을 따라 주축이 되는 세 개의 나라가 있습니다.\n\n\t\t\t\t<TIPBOX>▶룬-미드가츠 왕국<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶슈발츠발드 공화국<INFO>4040</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶아루나펠츠 교국<INFO>4050</INFO></TIPBOX>\n\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4004] = {
@@ -636,7 +636,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"성전에 참여했던 영웅들이 세운 국가.\n\t\t\t\t영웅의 계보를 잇는 일곱 가문을 중심으로 한 왕정체제이며, 묘르닐 산맥을 기준으로 남부지역을 아우르고 있습니다.\n\t\t\t\t왕국민을 위협하는 마물을 대비해 모험가 양성을 장려하고 많은 후원을 하고 있습니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶왕도 프론테라<INFO>4005</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶마법도시 게펜<INFO>4006</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶사막도시 모로크<INFO>4007</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶산악도시 페이욘<INFO>4008</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶항구도시 알베르타<INFO>4009</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶국경도시 알데바란<INFO>4010</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶휴양도시 코모도<INFO>4011</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶부족마을 움발라<INFO>4012</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶위성도시 이즈루드<INFO>4013</INFO></TIPBOX>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>",
+			"성전에 참여했던 영웅들이 세운 국가.\n\t\t\t\t영웅의 계보를 잇는 일곱 가문을 중심으로 한 왕정체제이며, 묘르닐 산맥을 기준으로 남부지역을 아우르고 있습니다.\n\t\t\t\t왕국민을 위협하는 마물을 대비해 모험가 양성을 장려하고 많은 후원을 하고 있습니다.\n\n\t\t\t\t<TIPBOX>▶왕도 프론테라<INFO>4005</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶마법도시 게펜<INFO>4006</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶사막도시 모로크<INFO>4007</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶산악도시 페이욘<INFO>4008</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶항구도시 알베르타<INFO>4009</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶국경도시 알데바란<INFO>4010</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶휴양도시 코모도<INFO>4011</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶부족마을 움발라<INFO>4012</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶위성도시 이즈루드<INFO>4013</INFO></TIPBOX>\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>",
 			"영웅왕가 게오보르그를 주축으로 하여, 하이네, 네리우스, 발터, 리하르트, 위그너, 뢰겐부르그의 일곱 왕가에서 왕위선출을 통해 선정 된 자가 왕위를 계승합니다. 왕가에서는 본격적인 겨울이 오기 전, 마물 퇴치를 위한 왕실 사냥 대회 등을 열기도 합니다."
 		}
 	},
@@ -646,7 +646,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"룬-미드가츠 왕궁의 중심이며, 왕궁이 있는 왕도입니다.\n\t\t\t\t묘르닐 산맥을 등지고 앞으로 넓은 필드를 가지고 있기 때문에 다른 지역에 비해 마물의 피해가 적으며 평화롭습니다.\n\t\t\t\t주신 오딘을 모시는 대성당과, 기사단이 있어 성직자나 기사가 꿈인 자들이 많이 모입니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[프론테라 대성당]<INFO>prontera,235,315,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[크루세이더 집무실]<INFO>prt_cas,248,102,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[프론테라 기사단]<INFO>prontera,49,342,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[성 카피톨리나 수도원]<INFO>prt_monk,180,205,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"룬-미드가츠 왕궁의 중심이며, 왕궁이 있는 왕도입니다.\n\t\t\t\t묘르닐 산맥을 등지고 앞으로 넓은 필드를 가지고 있기 때문에 다른 지역에 비해 마물의 피해가 적으며 평화롭습니다.\n\t\t\t\t주신 오딘을 모시는 대성당과, 기사단이 있어 성직자나 기사가 꿈인 자들이 많이 모입니다.\n\n\t\t\t\t<NAVI>[프론테라 대성당]<INFO>prontera,235,315,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[크루세이더 집무실]<INFO>prt_cas,248,102,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[프론테라 기사단]<INFO>prontera,49,342,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[성 카피톨리나 수도원]<INFO>prt_monk,180,205,0,101,0</INFO></NAVI>\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4006] = {
@@ -655,7 +655,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"프론테라 서쪽 습지 너머에 위치한 마법사들의 도시. 중앙에 마탑 게펜타워가 있으며 과거 전설의 도시 게페니아가 있던 곳이라는 소문이 있습니다. 종종 마법사들의 축제 게펜 마법대회를 개최합니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[마술사 길드]<INFO>geffen_in,164,124,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[게펜 타워 최상층]<INFO>gef_tower,111,27,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[게펜 명물 전망대]<INFO>gef_fild07,179,242,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"프론테라 서쪽 습지 너머에 위치한 마법사들의 도시. 중앙에 마탑 게펜타워가 있으며 과거 전설의 도시 게페니아가 있던 곳이라는 소문이 있습니다. 종종 마법사들의 축제 게펜 마법대회를 개최합니다.\n\n\t\t\t\t<NAVI>[마술사 길드]<INFO>geffen_in,164,124,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[게펜 타워 최상층]<INFO>gef_tower,111,27,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[게펜 명물 전망대]<INFO>gef_fild07,179,242,0,101,0</INFO></NAVI>\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4007] = {
@@ -664,8 +664,8 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"과거 성전이 끝난 후, 마신 모로크가 미드가르드 대륙에 강림했었습니다. 마검사 타나토스의 활약으로 모로크는 봉인됐으나, 그 봉인의 여파로 일대가 사막이 되었습니다. 오아시스를 중심으로 도시가 형성되었는데, 모로크가 봉인된 지역이라 도시명이 모로크가 되었습니다. 최근 모로크가 봉인을 깨는 바람에 도시와 인근 사막이 다시 파괴되고, 도시는 새로이 재건 되었습니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[도둑 길드]<INFO>moc_prydb1,39,126,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[어쌔신 길드]<INFO>moc_fild16,206,290,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>",
-			"오아시스를 중심으로 발달한 사막도시 특유의 문화와 함께, 고대에 세워진 수수께끼의 건축물, 구시대의 방어요새, 사막의 위협 개미굴 등이 존재합니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[피라미드]<INFO>moc_ruins,64,162,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[스핑크스]<INFO>moc_fild19,105,100,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[산다르만 요새]<INFO>cmd_fild08,98,129,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[개미굴]<INFO>cmd_fild08,326,351,0,101,0</INFO></NAVI>\n\t\t\t\t"
+			"과거 성전이 끝난 후, 마신 모로크가 미드가르드 대륙에 강림했었습니다. 마검사 타나토스의 활약으로 모로크는 봉인됐으나, 그 봉인의 여파로 일대가 사막이 되었습니다. 오아시스를 중심으로 도시가 형성되었는데, 모로크가 봉인된 지역이라 도시명이 모로크가 되었습니다. 최근 모로크가 봉인을 깨는 바람에 도시와 인근 사막이 다시 파괴되고, 도시는 새로이 재건 되었습니다.\n\n\t\t\t\t<NAVI>[도둑 길드]<INFO>moc_prydb1,39,126,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[어쌔신 길드]<INFO>moc_fild16,206,290,0,101,0</INFO></NAVI>\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>",
+			"오아시스를 중심으로 발달한 사막도시 특유의 문화와 함께, 고대에 세워진 수수께끼의 건축물, 구시대의 방어요새, 사막의 위협 개미굴 등이 존재합니다.\n\n\t\t\t\t<NAVI>[피라미드]<INFO>moc_ruins,64,162,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[스핑크스]<INFO>moc_fild19,105,100,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[산다르만 요새]<INFO>cmd_fild08,98,129,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[개미굴]<INFO>cmd_fild08,326,351,0,101,0</INFO></NAVI>\n\t\t\t\t"
 		}
 	},
 	[4008] = {
@@ -674,7 +674,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"룬-미드가츠 남동부 산악에 자리잡은 도시. 복잡한 산과 숲으로 인해 외부와 오랫동안 단절된 탓에 상당히 독자적인 문화를 형성하고 있습니다. 사성수의 가호를 받는다거나 신수에 대한 이야기가 많습니다. 뛰어난 명사수와 사냥꾼이 많으며 북쪽 동굴에는 폐가촌이 있습니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[궁수 길드]<INFO>payon_in02,64,71,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[페이욘 불상]<INFO>pay_arche,137,31,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[폐가촌]<INFO>pay_dun03,155,147,0,101,0</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"룬-미드가츠 남동부 산악에 자리잡은 도시. 복잡한 산과 숲으로 인해 외부와 오랫동안 단절된 탓에 상당히 독자적인 문화를 형성하고 있습니다. 사성수의 가호를 받는다거나 신수에 대한 이야기가 많습니다. 뛰어난 명사수와 사냥꾼이 많으며 북쪽 동굴에는 폐가촌이 있습니다.\n\n\t\t\t\t<NAVI>[궁수 길드]<INFO>payon_in02,64,71,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[페이욘 불상]<INFO>pay_arche,137,31,0,101,0</INFO></NAVI>\n\t\t\t\t<NAVI>[폐가촌]<INFO>pay_dun03,155,147,0,101,0</INFO></NAVI>\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4009] = {
@@ -683,7 +683,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"미드가르드의 모든 물길과 연결되는 항구를 가진 도시이며, 상인길드가 위치하고 있기 때문에 상업도시라고도 불립니다. 물길을 통한 미지의 탐험을 즐기는 자들과 돈의 흐름을 읽는 자들이 모이는 곳입니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[상인 길드]<INFO>alberta_in,56,43</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"미드가르드의 모든 물길과 연결되는 항구를 가진 도시이며, 상인길드가 위치하고 있기 때문에 상업도시라고도 불립니다. 물길을 통한 미지의 탐험을 즐기는 자들과 돈의 흐름을 읽는 자들이 모이는 곳입니다.\n\n\t\t\t\t<NAVI>[상인 길드]<INFO>alberta_in,56,43</INFO></NAVI>\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4010] = {
@@ -692,7 +692,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"묘르닐 산맥 북부, 슈발츠발드와의 경계선 바로 아래에 위치해 있습니다. 중앙에 거대한 시계탑을 중심으로 사방으로 뻗은 운하가 아름다운 도시입니다. 북쪽에 국경검문소가 있습니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"묘르닐 산맥 북부, 슈발츠발드와의 경계선 바로 아래에 위치해 있습니다. 중앙에 거대한 시계탑을 중심으로 사방으로 뻗은 운하가 아름다운 도시입니다. 북쪽에 국경검문소가 있습니다.\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4011] = {
@@ -701,7 +701,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"남서부 해안 아래 형성 된 동굴을 끼고 있는 신비한 마을. 휴양을 목적으로 찾아오는 관광객들이 많은 곳이라 지역 명물 상품도 많이 개발되었습니다. 인근에 습지와 밀림, 비밀을 품은 동굴을 가지고 있어 탐험가들에게도 매력적인 장소라고 합니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"남서부 해안 아래 형성 된 동굴을 끼고 있는 신비한 마을. 휴양을 목적으로 찾아오는 관광객들이 많은 곳이라 지역 명물 상품도 많이 개발되었습니다. 인근에 습지와 밀림, 비밀을 품은 동굴을 가지고 있어 탐험가들에게도 매력적인 장소라고 합니다.\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4012] = {
@@ -710,7 +710,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"코모도 북쪽 밀림지대에 있는 작은 부족마을. 문명과 동떨어져 태초의 생활방식 그대로를 고수하며 살아가는 부족들의 마을입니다. 세계수 이그드라실의 뿌리가 닿아있다는 이야기가 있습니다. 대륙 공용어를 사용하지 않으니 주의가 필요합니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"코모도 북쪽 밀림지대에 있는 작은 부족마을. 문명과 동떨어져 태초의 생활방식 그대로를 고수하며 살아가는 부족들의 마을입니다. 세계수 이그드라실의 뿌리가 닿아있다는 이야기가 있습니다. 대륙 공용어를 사용하지 않으니 주의가 필요합니다.\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4013] = {
@@ -719,7 +719,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"프론테라 동쪽 해안에 위치한 작은 도시. 수도 프론테라를 보조하기 위해 형성된 위성도시입니다. 모험가 양성을 위한 지원기관 크리투라 학원과 검사 길드가 있으며, 작은 항구도 겸하고 있습니다.\n\t\t\t\t\n\t\t\t\t<NAVI>[검사 길드]<INFO>izlude_in,74,172</INFO></NAVI>\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"프론테라 동쪽 해안에 위치한 작은 도시. 수도 프론테라를 보조하기 위해 형성된 위성도시입니다. 모험가 양성을 위한 지원기관 크리투라 학원과 검사 길드가 있으며, 작은 항구도 겸하고 있습니다.\n\n\t\t\t\t<NAVI>[검사 길드]<INFO>izlude_in,74,172</INFO></NAVI>\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4004</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4040] = {
@@ -728,7 +728,7 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"현자의 도시 유노를 수도로 하는 묘르닐 북부의 나라. 대통령과 의회를 구성한 공화정을 채택하고 있으며, 거대한 기업 레켄베르로 인해 공업이 발달한 나라입니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"현자의 도시 유노를 수도로 하는 묘르닐 북부의 나라. 대통령과 의회를 구성한 공화정을 채택하고 있으며, 거대한 기업 레켄베르로 인해 공업이 발달한 나라입니다.\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4050] = {
@@ -737,7 +737,54 @@ tbl = {
 		Image = "",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"여신 프레이야를 모시는 제정일치의 종교국가입니다. 주신이 오딘인 룬-미드가츠와는 과거 성전 이후 종교적 문제로 마찰이 있어 사이가 좋지 않습니다. 당시 종교적으로 박해받던 이들이 이주를 해 건설한 나라가 아루나펠츠입니다. 수도 라헬에는 거대한 신전 세스룸니르가 있습니다.\n\t\t\t\t\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"여신 프레이야를 모시는 제정일치의 종교국가입니다. 주신이 오딘인 룬-미드가츠와는 과거 성전 이후 종교적 문제로 마찰이 있어 사이가 좋지 않습니다. 당시 종교적으로 박해받던 이들이 이주를 해 건설한 나라가 아루나펠츠입니다. 수도 라헬에는 거대한 신전 세스룸니르가 있습니다.\n\n\t\t\t\t<TIPBOX>▶이전 페이지로<INFO>4001</INFO></TIPBOX>\n\t\t\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[8086] = {
+		Title = "EL1_A17T 진압작전",
+		Search = 0,
+		Image = "유저인터페이스\\tipbox\\tip08086",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"4곳의 위치에 매복한 감시 장치를 무효화한 뒤, 엘류미나의 안내를 받아 EL1_A17T에 접근하십시오."
+		},
+		PageEX = {
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 173,
+				StartY = 92,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 173,
+				StartY = 154,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 120,
+				StartY = 199,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			},
+			{
+				EffectNum = 4,
+				Twinkle = 1,
+				StartX = 103,
+				StartY = 233,
+				DistX = 0,
+				DistY = 0,
+				MoveTime = 0
+			}
 		}
 	}
 }
