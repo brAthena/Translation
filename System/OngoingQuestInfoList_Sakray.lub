@@ -39796,7 +39796,7 @@ QuestInfoList = {
 		Title = "취업 로드, 여정 시작",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"우리는 지금부터 팩씨의 취업부터 현재까지의 흔적을 좇는 여정을 시작합니다. <NAVI>[리히타르젠]<INFO>lighthalzen,244,90,0,101,0</INFO></NAVI>에서 뵙겠습니다."
+			"우리는 지금부터 팩씨의 취업부터 현재까지의 흔적을 좇는 여정을 시작합니다. <NAVI>[리히타르젠]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>에서 뵙겠습니다."
 		},
 		Summary = "리히타르젠으로",
 		NpcSpr = "4_M_LAZY",
@@ -40039,8 +40039,8 @@ QuestInfoList = {
 		Summary = "소각장으로",
 		NpcSpr = "4_M_02",
 		NpcNavi = "sp_cor",
-		NpcPosX = 187,
-		NpcPosY = 114
+		NpcPosX = 70,
+		NpcPosY = 263
 	},
 	[17024] = {
 		Title = "팩씨를 찾아서",
