@@ -28355,25 +28355,25 @@ QuestInfoList = {
 	},
 	[11596] = {
 		Title = "오래된 추억",
-		IconName = "ico_ep,bmp",
+		IconName = "ico_ep.bmp",
 		Description = { "아인브로크 근처에서 폐광으로 위장한 적들의 본거지를 찾은 것 같다. 주변에 다른 적이 없는지 살펴보자." },
 		Summary = "주변 탐색"
 	},
 	[11597] = {
 		Title = "오래된 추억",
-		IconName = "ico_ep,bmp",
+		IconName = "ico_ep.bmp",
 		Description = { "특별한 것은 보이지 않는다. 다른 곳을 살펴보자." },
 		Summary = "주변 탐색"
 	},
 	[11598] = {
 		Title = "오래된 추억",
-		IconName = "ico_ep,bmp",
+		IconName = "ico_ep.bmp",
 		Description = { "특별한 것은 보이지 않는다. 다른 곳을 살펴보자." },
 		Summary = "주변 탐색"
 	},
 	[11599] = {
 		Title = "오래된 추억",
-		IconName = "ico_ep,bmp",
+		IconName = "ico_ep.bmp",
 		Description = { "특별한 것은 보이지 않는다. 리벨리온 대원에게 돌아가자." },
 		Summary = "리벨리온 대원과 대화",
 		RewardEXP = 100000,
@@ -28381,7 +28381,7 @@ QuestInfoList = {
 	},
 	[11600] = {
 		Title = "오래된 추억",
-		IconName = "ico_ep,bmp",
+		IconName = "ico_ep.bmp",
 		Description = { "길이 막혀 있다는 폐광 안쪽을 살펴보자." },
 		Summary = "안으로",
 		RewardEXP = 600000,
@@ -28389,19 +28389,19 @@ QuestInfoList = {
 	},
 	[11601] = {
 		Title = "오래된 추억",
-		IconName = "ico_ep,bmp",
+		IconName = "ico_ep.bmp",
 		Description = { "다음 지역으로 이동할 수 있는 길이 열렸다. 총알 탄 고양이로 돌아가 소식을 전하고 디엔의 방에서 디엔이 찾는 물건을 가지고 돌아오자." },
 		Summary = "총알 탄 고양이로"
 	},
 	[11602] = {
 		Title = "오래된 추억",
-		IconName = "ico_ep,bmp",
+		IconName = "ico_ep.bmp",
 		Description = { "디엔의 방에서 디엔이 찾는 물건을 가지고 돌아오자." },
 		Summary = "디엔의 부적"
 	},
 	[11603] = {
 		Title = "오래된 추억",
-		IconName = "ico_ep,bmp",
+		IconName = "ico_ep.bmp",
 		Description = { "디엔의 부적을 찾았다. 다시 디엔에게 돌아가자." },
 		Summary = "다시 디엔에게",
 		RewardEXP = 200000,
