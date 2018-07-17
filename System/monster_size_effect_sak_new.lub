@@ -3780,8 +3780,8 @@ tbl = {
 	[20341] = {
 		MonsterSize = 1.4,
 		MonsterEff = {
-			EFFECT.EF_GRAYBODY,
-			EFFECT.EF_TORCH_RED
+			EFFECT.EF_BLUELIGHTBODY,
+			EFFECT.EF_REFLECTBODY
 		}
 	}
 }
