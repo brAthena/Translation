@@ -39,12 +39,12 @@ hu_in01.rsw#bgm\\93.mp3#
 1@os_b.rsw#bgm\\87.mp3#
 1@rgsr.rsw#bgm\\162.mp3#
 rgsr_in.rsw#bgm\\90.mp3#
-pub_cat.rsw#bgm\\160.mp3#
-sp_cor.rsw#bgm\\87.mp3#
-sp_os.rsw#bgm\\87.mp3#
-sp_rudus.rsw#bgm\\158.mp3#
-sp_rudus2.rsw#bgm\\158.mp3#
-sp_rudus3.rsw#bgm\\161.mp3#
+pub_cat.rsw#bgm\\175.mp3#
+sp_cor.rsw#bgm\\174.mp3#
+sp_os.rsw#bgm\\174.mp3#
+sp_rudus.rsw#bgm\\176.mp3#
+sp_rudus2.rsw#bgm\\176.mp3#
+sp_rudus3.rsw#bgm\\176.mp3#
 
 // 성제 전직
 star_frst.rsw#bgm\\14.mp3#
