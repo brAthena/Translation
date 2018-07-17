@@ -18633,7 +18633,7 @@ QuestInfoList = {
 		Title = "기업의 위기",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"내부의 배신자에게 점령당한 레겐쉬름 연구소를 되찾기 위해 에스트 일행과 합류하기로 했다. 리히타르젠에서 작전 대기 중인 <NAVI>[공화국 경비병]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>과 만나자."
+			"내부의 배신자에게 점령당한 레겐쉬름 연구소를 되찾기 위해 에스트 일행과 합류하기로 했다. 리히타르젠에서 작전 대기 중인 <NAVI>[공화국 경비병]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI>과 만나자."
 		},
 		Summary = "공화국 경비병과 대화"
 	},
@@ -18641,7 +18641,7 @@ QuestInfoList = {
 		Title = "레겐쉬름 탈환작전",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"연구소에 잠입 해 내부를 정리하기로 했다.  대기 중인 <NAVI>[오스카]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI>를 통해 연구소로 진입이 가능하다."
+			"연구소에 잠입 해 내부를 정리하기로 했다.  대기 중인 <NAVI>[오스카]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>를 통해 연구소로 진입이 가능하다."
 		},
 		Summary = "연구소 탈환"
 	},
@@ -39932,10 +39932,12 @@ QuestInfoList = {
 		Title = "연구소는 없었다",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"모험가는 여기서 뭘 더 할 수 있겠어? 난 아닌데. 배도 좀 고프고. 다리도 좀 아프고. 얼른 <NAVI>[야옹이네]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>으로 가자."
+			"모험가는 여기서 뭘 더 할 수 있겠어? 난 아닌데. 배도 좀 고프고. 다리도 좀 아프고.",
+			"얼른 <NAVI>[야옹이네]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>로 가자."
 		},
 		Summary = "총알탄 야옹이로 복귀",
-		NpcSpr = "4_M_PHILOFONTES=],\n\tNpcNavi = [=[pub_cat",
+		NpcSpr = "4_M_PHILOFONTES",
+		NpcNavi = "pub_cat",
 		NpcPosX = 93,
 		NpcPosY = 105
 	},
@@ -39943,7 +39945,8 @@ QuestInfoList = {
 		Title = "이것이 부사장의 언변",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"연구소에서 일하던 분들이군요. 이 분들께는 <NAVI>[내가]<INFO>sp_cor,165,79,0,101,0</INFO></NAVI> 한 번 이야기 해보겠소."
+			"연구소에서 일하던 분들이군요.",
+			"이 분들께는 <NAVI>[내가]<INFO>sp_cor,165,79,0,101,0</INFO></NAVI> 한 번 이야기 해보겠소."
 		},
 		Summary = "카야 토스씨의 설득",
 		NpcSpr = "4_EP17_KAYA",
@@ -40017,7 +40020,8 @@ QuestInfoList = {
 		Title = "팩씨를 찾아서",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"아무튼 누굴 찾는다면 연구원들한테 물어야지. 다들 도망가서 남아 있는게 얼마 없을 테지만, <NAVI>[보조]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI>라면 몇 남아 있으니까."
+			"아무튼 누굴 찾는다면 연구원들한테 물어야지. 다들 도망가서 남아 있는게 얼마 없을 테지만...",
+			"<NAVI>[보조]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI>라면 몇 남아 있으니까 가봐요."
 		},
 		Summary = "연구원에게",
 		NpcSpr = "4_F_SCIENCE",
