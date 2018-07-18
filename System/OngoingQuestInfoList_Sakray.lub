@@ -18612,7 +18612,12 @@ QuestInfoList = {
 		Description = {
 			"리벨리온 대원 일부는 격벽 너머에서 들려오는 소리의 정체를 밝히기 위해 이미 움직였다. 루키는 소리의 근원이 괴물이라면 멋지게 해치워 달라고 했다."
 		},
-		Summary = "괴물 사냥"
+		Summary = "괴물 사냥",
+		RewardEXP = 800000,
+		RewardJEXP = 800000,
+		RewardItemList = {
+			{ ItemID = 25723, ItemNum = 15 }
+		}
 	},
 	[7859] = {
 		Title = "테스에게 보고",
@@ -18652,7 +18657,9 @@ QuestInfoList = {
 		Description = {
 			"연구소의 경호 1팀과 관련된 자료입니다."
 		},
-		Summary = "테스에게 보고"
+		Summary = "테스에게 보고",
+		RewardEXP = 200000,
+		RewardJEXP = 200000
 	},
 	[7864] = {
 		Title = "환기",
@@ -18676,7 +18683,31 @@ QuestInfoList = {
 		Description = {
 			"총알 탄 야옹이'로 돌아가 <NAVI>[테스]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>에게 연구소의 전말을 보고해야 한다."
 		},
-		Summary = "테스와 대화"
+		Summary = "테스와 대화",
+		RewardEXP = 1000000,
+		RewardJEXP = 800000,
+		RewardItemList = {
+			{ ItemID = 25669, ItemNum = 25 }
+		}
+	},
+	[7867] = {
+		Title = "용병vs용병",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"특수경계지역 코르의 <NAVI>[유슬란]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>은 오스 내부에서 등장하는 하트헌터 벨라레와 사나레의 처치를 부탁했다."
+		},
+		Summary = "하트헌터 처치",
+		RewardEXP = 200000,
+		RewardJEXP = 200000
+	},
+	[7868] = {
+		Title = "용병vs용병-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행 할 수 있습니다.",
+			"특수경계지역 코르의 <NAVI>[유슬란]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
 	},
 	[7998] = {
 		Title = "그대에게 마지막 평온을",
@@ -39804,11 +39835,7 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[레이지]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>씨는 더 이상 카야 토스 부사장과 대화 하기를 거부했다. 무슨 사연이 있는지 물어 보자."
 		},
-		Summary = "레이지씨와 대화",
-		NpcSpr = "4_M_LAZY",
-		NpcNavi = "pub_cat",
-		NpcPosX = 105,
-		NpcPosY = 58
+		Summary = "레이지씨와 대화"
 	},
 	[17001] = {
 		Title = "동행 제안",
@@ -39816,11 +39843,7 @@ QuestInfoList = {
 		Description = {
 			"레이지씨와 카야 토스 부사장은 서로의 말을 믿지 못하고 있다. <NAVI>[카야 토스]<INFO>pub_cat,109,71,0,101,0</INFO></NAVI>씨에게 동행을 제안해 보자."
 		},
-		Summary = "카야 토스씨와 대화",
-		NpcSpr = "4_EP17_KAYA",
-		NpcNavi = "pub_cat",
-		NpcPosX = 109,
-		NpcPosY = 71
+		Summary = "카야 토스씨와 대화"
 	},
 	[17002] = {
 		Title = "고민의 시간",
@@ -39829,10 +39852,6 @@ QuestInfoList = {
 			"카야 토스씨는 잠시 생각할 시간이 필요한 것 같다. <NAVI>[레이지]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>씨에게 돌아가 이에 대해 의논해 보자."
 		},
 		Summary = "레이지씨와 대화",
-		NpcSpr = "4_M_LAZY",
-		NpcNavi = "pub_cat",
-		NpcPosX = 105,
-		NpcPosY = 58,
 		RewardEXP = 300000,
 		RewardJEXP = 300000
 	},
@@ -39842,11 +39861,7 @@ QuestInfoList = {
 		Description = {
 			"모험가! 갈 길이 머니까 서둘러야 해. 아인브로크 <NAVI>[공항]<INFO>einbroch,42,208,0,101,0</INFO></NAVI>으로 어서 가자."
 		},
-		Summary = "아인브로크 공항으로",
-		NpcSpr = "4_M_LAZY",
-		NpcNavi = "einbroch",
-		NpcPosX = 42,
-		NpcPosY = 208
+		Summary = "아인브로크 공항으로"
 	},
 	[17004] = {
 		Title = "취업 로드, 여정 시작",
@@ -39854,11 +39869,7 @@ QuestInfoList = {
 		Description = {
 			"우리는 지금부터 팩씨의 취업부터 현재까지의 흔적을 좇는 여정을 시작합니다. <NAVI>[리히타르젠]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>에서 뵙겠습니다."
 		},
-		Summary = "리히타르젠으로",
-		NpcSpr = "4_M_LAZY",
-		NpcNavi = "lighthalzen",
-		NpcPosX = 259,
-		NpcPosY = 215
+		Summary = "리히타르젠으로"
 	},
 	[17005] = {
 		Title = "리히타르젠의 빈민가",
@@ -39867,10 +39878,6 @@ QuestInfoList = {
 			"이 여정은 <NAVI>[팩씨의 집]<INFO>lighthalzen,336,266,0,101,0</INFO></NAVI>이 있는 빈민가에서부터 시작합니다."
 		},
 		Summary = "팩씨의 집으로",
-		NpcSpr = "4_M_LAZY",
-		NpcNavi = "lighthalzen",
-		NpcPosX = 336,
-		NpcPosY = 266,
 		RewardEXP = 300000,
 		RewardJEXP = 300000
 	},
@@ -39880,11 +39887,7 @@ QuestInfoList = {
 		Description = {
 			"빈민가 투어는 어떠셨습니까? 다음은 레켄베르 <NAVI>[본사]<INFO>lighthalzen,107,165,0,101,0</INFO></NAVI>로 모시겠습니다. 갑시다~"
 		},
-		Summary = "레켄베르로",
-		NpcSpr = "4_M_LAZY",
-		NpcNavi = "lighthalzen",
-		NpcPosX = 107,
-		NpcPosY = 165
+		Summary = "레켄베르로"
 	},
 	[17007] = {
 		Title = "레켄베르 조사",
@@ -39892,11 +39895,7 @@ QuestInfoList = {
 		Description = {
 			"신규 입사자들은 가장 처음 어디로 향하게 될까요? <NAVI>[로비]<INFO>lhz_in01,107,137,0,101,0</INFO></NAVI>로 가봅시다."
 		},
-		Summary = "본사 안으로",
-		NpcSpr = "1_F_LIBRARYGIRL",
-		NpcNavi = "lhz_in01",
-		NpcPosX = 107,
-		NpcPosY = 137
+		Summary = "본사 안으로"
 	},
 	[17008] = {
 		Title = "레켄베르 조사",
@@ -39904,11 +39903,7 @@ QuestInfoList = {
 		Description = {
 			"팩씨가 레켄베르에서의 생활을 시작한 2층 <NAVI>[회의실]<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI>로 모두들 이동하시죠."
 		},
-		Summary = "2층으로",
-		NpcSpr = "4_M_EINMAN",
-		NpcNavi = "lhz_in01",
-		NpcPosX = 162,
-		NpcPosY = 257
+		Summary = "2층으로"
 	},
 	[17009] = {
 		Title = "레켄베르 조사",
@@ -39916,11 +39911,7 @@ QuestInfoList = {
 		Description = {
 			"왜 연구실에서는 신체 건강한 사람들만 데리고 갔을까요? 궁금하다, 너어무 궁금해! 어서 <NAVI>[별관 연구소]<INFO>rgsr_in,157,84,0,101,0</INFO></NAVI>로 가자."
 		},
-		Summary = "별관 연구소",
-		NpcSpr = "4_M_LAZY",
-		NpcNavi = "rgsr_in",
-		NpcPosX = 157,
-		NpcPosY = 84
+		Summary = "별관 연구소"
 	},
 	[17010] = {
 		Title = "레켄베르 조사",
@@ -39928,11 +39919,7 @@ QuestInfoList = {
 		Description = {
 			"패트릭 카우프먼? 누구지? 죄송합니다. 잘 모르겠습니다. 아마도 저 안쪽의 <NAVI>[누군가]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI>가 잘 알 겁니다."
 		},
-		Summary = "안쪽으로",
-		NpcSpr = "4_M_04",
-		NpcNavi = "rgsr_in",
-		NpcPosX = 12,
-		NpcPosY = 46
+		Summary = "안쪽으로"
 	},
 	[17011] = {
 		Title = "레켄베르 조사",
@@ -39940,11 +39927,7 @@ QuestInfoList = {
 		Description = {
 			"흠... 팩씨가 전출된 연구소라... 해당 부서의 누군가는 알 테니 일단 <NAVI>[사무실]<INFO>lhz_in01,80,210,0,101,0</INFO></NAVI>로 가 봅시다."
 		},
-		Summary = "다시 본사 건물로",
-		NpcSpr = "4_M_RUSMAN1",
-		NpcNavi = "lhz_in01",
-		NpcPosX = 80,
-		NpcPosY = 210
+		Summary = "다시 본사 건물로"
 	},
 	[17012] = {
 		Title = "레켄베르 조사",
@@ -39952,11 +39935,7 @@ QuestInfoList = {
 		Description = {
 			"비밀스레 일을 처리하고 싶으신 거라면, 굳이 인사팀을 거치는 것보다는 바로 <NAVI>[문서 보관실]<INFO>lhz_in01,32,264,0,101,0</INFO></NAVI>로 가셔서 해당 문건을 찾아 보시는 쪽이 더 나으실 겁니다."
 		},
-		Summary = "문서 보관실로",
-		NpcSpr = "4_M_HUMAN_02",
-		NpcNavi = "lhz_in01",
-		NpcPosX = 32,
-		NpcPosY = 264
+		Summary = "문서 보관실로"
 	},
 	[17013] = {
 		Title = "신설 연구소의 위치",
@@ -39965,10 +39944,6 @@ QuestInfoList = {
 			"패트릭씨가 갔다던 <NAVI>[신설 연구소]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI>의 위치는... 아인브로크 산맥의 01구역 95-146번지이네요."
 		},
 		Summary = "아인브로크 외곽으로",
-		NpcSpr = "4_EP17_KAYA",
-		NpcNavi = "ein_fild01",
-		NpcPosX = 95,
-		NpcPosY = 146,
 		RewardEXP = 600000,
 		RewardJEXP = 600000,
 		RewardItemList = {
@@ -39982,11 +39957,7 @@ QuestInfoList = {
 			"모험가는 여기서 뭘 더 할 수 있겠어? 난 아닌데. 배도 좀 고프고. 다리도 좀 아프고.",
 			"얼른 <NAVI>[야옹이네]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>로 가자."
 		},
-		Summary = "총알탄 야옹이로 복귀",
-		NpcSpr = "4_M_PHILOFONTES",
-		NpcNavi = "pub_cat",
-		NpcPosX = 93,
-		NpcPosY = 105
+		Summary = "총알탄 야옹이로 복귀"
 	},
 	[17015] = {
 		Title = "이것이 부사장의 언변",
@@ -39995,11 +39966,7 @@ QuestInfoList = {
 			"연구소에서 일하던 분들이군요.",
 			"이 분들께는 <NAVI>[내가]<INFO>sp_cor,165,79,0,101,0</INFO></NAVI> 한 번 이야기 해보겠소."
 		},
-		Summary = "카야 토스씨의 설득",
-		NpcSpr = "4_EP17_KAYA",
-		NpcNavi = "sp_cor",
-		NpcPosX = 165,
-		NpcPosY = 79
+		Summary = "카야 토스씨의 설득"
 	},
 	[17016] = {
 		Title = "말이 통하지 않으니...",
@@ -40007,11 +39974,7 @@ QuestInfoList = {
 		Description = {
 			"어떻게 이야기해도 들으려 하지 않습니다. 이래서는 결론이 나지 않겠습니다. <NAVI>[저와]<INFO>sp_cor,166,81,0,101,0</INFO></NAVI>함께 잠시 대책을 세워 봅시다."
 		},
-		Summary = "테스씨와 대책 의논",
-		NpcSpr = "4_M_PHILOFONTES",
-		NpcNavi = "sp_cor",
-		NpcPosX = 166,
-		NpcPosY = 81
+		Summary = "테스씨와 대책 의논"
 	},
 	[17017] = {
 		Title = "공격에 대비",
@@ -40019,11 +39982,7 @@ QuestInfoList = {
 		Description = {
 			"부상자를 데리고 <NAVI>[안전한 장소]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>로 이동합니다! 서두르십시오!"
 		},
-		Summary = "안전한 곳으로 이동",
-		NpcSpr = "4_M_PHILOFONTES",
-		NpcNavi = "sp_cor",
-		NpcPosX = 122,
-		NpcPosY = 141
+		Summary = "안전한 곳으로 이동"
 	},
 	[17018] = {
 		Title = "환자들의 상태",
@@ -40032,10 +39991,6 @@ QuestInfoList = {
 			"<NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>씨는 카야 토스씨에게 긴히 보고할 일이 있다고 한다."
 		},
 		Summary = "아스씨에게",
-		NpcSpr = "4_EP17_AS",
-		NpcNavi = "sp_cor",
-		NpcPosX = 135,
-		NpcPosY = 147,
 		RewardEXP = 300000,
 		RewardJEXP = 300000
 	},
@@ -40045,11 +40000,7 @@ QuestInfoList = {
 		Description = {
 			"도주한 연구원의 수색 인력이 더 필요합니다! <NAVI>[왼편]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>에서 다른 수색대와 합류하십시오!"
 		},
-		Summary = "수색 참여",
-		NpcSpr = "4_F_REBELLION3",
-		NpcNavi = "sp_cor",
-		NpcPosX = 108,
-		NpcPosY = 130
+		Summary = "수색 참여"
 	},
 	[17020] = {
 		Title = "조사 재개",
@@ -40057,11 +40008,7 @@ QuestInfoList = {
 		Description = {
 			"패트릭 카우프먼씨에 대한 조사를 계속 부탁드리겠습니다. 아마 이곳에서 <NAVI>[일하던 분]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI>들이라면 뭔가 단서를 얻을 수 있을지도 모르겠습니다."
 		},
-		Summary = "일꾼들에게",
-		NpcSpr = "4_F_05",
-		NpcNavi = "sp_cor",
-		NpcPosX = 133,
-		NpcPosY = 144
+		Summary = "일꾼들에게"
 	},
 	[17021] = {
 		Title = "팩씨를 찾아서",
@@ -40070,11 +40017,7 @@ QuestInfoList = {
 			"아무튼 누굴 찾는다면 연구원들한테 물어야지. 다들 도망가서 남아 있는게 얼마 없을 테지만...",
 			"<NAVI>[보조]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI>라면 몇 남아 있으니까 가봐요."
 		},
-		Summary = "연구원에게",
-		NpcSpr = "4_F_SCIENCE",
-		NpcNavi = "sp_cor",
-		NpcPosX = 224,
-		NpcPosY = 77
+		Summary = "연구원에게"
 	},
 	[17022] = {
 		Title = "팩씨를 찾아서",
@@ -40083,10 +40026,6 @@ QuestInfoList = {
 			"사람을 찾는다면 세탁물을 관리하던 <NAVI>[사람]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>한테 가 봐요. 오래 있었으니까. 발이 무척 넓거든요."
 		},
 		Summary = "세탁물 담당자에게",
-		NpcSpr = "4_M_RUSMAN2",
-		NpcNavi = "sp_cor",
-		NpcPosX = 151,
-		NpcPosY = 180,
 		RewardEXP = 300000,
 		RewardJEXP = 300000
 	},
@@ -40096,11 +40035,7 @@ QuestInfoList = {
 		Description = {
 			"뭔가 찾는다면 <NAVI>[소각장]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>에 가 봐요. 거기에서 지금 여기저기 흩어진 자료들을 모아서 분류하는 작업을 한다니까 뭔가 얻을 수 있을지 모르죠."
 		},
-		Summary = "소각장으로",
-		NpcSpr = "4_M_02",
-		NpcNavi = "sp_cor",
-		NpcPosX = 70,
-		NpcPosY = 263
+		Summary = "소각장으로"
 	},
 	[17024] = {
 		Title = "팩씨를 찾아서",
@@ -40117,10 +40052,6 @@ QuestInfoList = {
 			"<NAVI>[어디선가]<INFO>sp_rudus,15,280,0,101,0</INFO></NAVI> 말소리가 들린다. 찾아가 보자."
 		},
 		Summary = "소리를 따라",
-		NpcSpr = "4_F_MUT1",
-		NpcNavi = "sp_rudus",
-		NpcPosX = 15,
-		NpcPosY = 280,
 		RewardEXP = 300000,
 		RewardJEXP = 300000
 	},
@@ -40179,10 +40110,6 @@ QuestInfoList = {
 			"쓰레기 더미에 파묻혀 있던 팔찌 하나를 파냈다. 이것을 가지고 <NAVI>[카야]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI>씨에게로 돌아 가자."
 		},
 		Summary = "카야 토스씨에게",
-		NpcSpr = "4_EP17_KAYA",
-		NpcNavi = "sp_cor",
-		NpcPosX = 136,
-		NpcPosY = 146,
 		RewardEXP = 600000,
 		RewardJEXP = 600000,
 		RewardItemList = {
@@ -40195,11 +40122,7 @@ QuestInfoList = {
 		Description = {
 			"차후의 일처리는 모두 여기 있는 <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>군을 통해서 해주십시오. 수거한 팔찌도 아스군에게 전달하시면 됩니다."
 		},
-		Summary = "아스씨에게",
-		NpcSpr = "4_EP17_AS",
-		NpcNavi = "sp_cor",
-		NpcPosX = 135,
-		NpcPosY = 147
+		Summary = "아스씨에게"
 	},
 	[17034] = {
 		Title = "루두스로",
@@ -40208,10 +40131,6 @@ QuestInfoList = {
 			"그럼 돌로르라 불리는 실험체 20분들께 안식을 드리고, 실험체용 식별 팔찌 10개를 부탁드립니다. - <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
 		Summary = "실험체용 식별 팔찌 20",
-		NpcSpr = "4_EP17_AS",
-		NpcNavi = "sp_cor",
-		NpcPosX = 135,
-		NpcPosY = 147,
 		RewardEXP = 300000,
 		RewardJEXP = 300000,
 		RewardItemList = {
@@ -40225,11 +40144,7 @@ QuestInfoList = {
 		Description = {
 			"새벽이 지난 후에 다시 뵙겠습니다. 정말로 고생 많으셨습니다. - <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
-		Summary = "초기화 시간 04시",
-		NpcSpr = "4_EP17_AS",
-		NpcNavi = "sp_cor",
-		NpcPosX = 135,
-		NpcPosY = 147
+		Summary = "초기화 시간 04시"
 	},
 	[21001] = {
 		Title = "Escape the Wreck",
