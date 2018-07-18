@@ -174,7 +174,7 @@ function StylingShop_GetIsColoring_by_goods(goods)
   if nil == StylingShop.HeadStyle then
     return nil
   end
-  local size = #StylingShop.HeadPalette
+  local size = #StylingShop.HeadStyle
   for seq = 1, size do
     if goods == StylingShop.HeadStyle[seq].goods then
       if false == StylingShop.HeadStyle[seq].isDoram then
