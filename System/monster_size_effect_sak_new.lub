@@ -3783,6 +3783,406 @@ tbl = {
 			EFFECT.EF_BLUELIGHTBODY,
 			EFFECT.EF_REFLECTBODY
 		}
+	},
+	[1511] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1685] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1785] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1518] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1630] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1039] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1874] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[2068] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[2253] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1272] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1418] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1719] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1046] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1389] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1112] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1115] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[3633] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1871] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1252] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[2251] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1768] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1086] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1885] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[2165] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1492] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1832] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[2255] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1734] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1251] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[2202] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1779] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1980] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1688] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[2156] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1373] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1147] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[3741] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1150] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1917] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[2362] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1190] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1087] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1157] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1159] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[2249] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[2087] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1751] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1623] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1583] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[1312] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
 	}
 }
 function main()
