@@ -6153,6 +6153,1374 @@ tblLapineDdukddakBox = {
 				}
 			},
 			NeedSource_String = "냥다래 의상"
+		},
+		Bs_Item_M_S_2 = {
+			ItemID = 23818,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					10,
+					25731
+				},
+				{
+					"Token_of_OrcGeneral",
+					150,
+					25508
+				}
+			},
+			NeedSource_String = "오크 장군의 증표, 제르늄"
+		},
+		Bs_Item_M_S_8 = {
+			ItemID = 23819,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					10,
+					25731
+				},
+				{
+					"발할라의꽃",
+					150,
+					7510
+				}
+			},
+			NeedSource_String = "발할라의 꽃, 제르늄"
+		},
+		Bs_Item_M_S_10 = {
+			ItemID = 23820,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					10,
+					25731
+				},
+				{
+					"부서진왕관",
+					150,
+					7754
+				}
+			},
+			NeedSource_String = "부서진 왕관, 제르늄"
+		},
+		Bs_Item_M_S_11 = {
+			ItemID = 23821,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					10,
+					25731
+				},
+				{
+					"어머니의악몽",
+					150,
+					7020
+				}
+			},
+			NeedSource_String = "어머니의 악몽, 제르늄"
+		},
+		Bs_Item_M_S_34 = {
+			ItemID = 23822,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					10,
+					25731
+				},
+				{
+					"해골갑옷조각",
+					150,
+					7450
+				}
+			},
+			NeedSource_String = "해골 갑옷 조각, 제르늄"
+		},
+		Bs_Item_M_S_41 = {
+			ItemID = 23823,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					10,
+					25731
+				},
+				{
+					"어머니의악몽",
+					150,
+					7020
+				}
+			},
+			NeedSource_String = "어머니의 악몽, 제르늄"
+		},
+		Bs_Item_M_S_42 = {
+			ItemID = 23824,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					10,
+					25731
+				},
+				{
+					"빛나는창날",
+					50,
+					7109
+				}
+			},
+			NeedSource_String = "빛나는 창날, 제르늄"
+		},
+		Bs_Item_M_S_43 = {
+			ItemID = 23825,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					10,
+					25731
+				},
+				{
+					"오시리스인형",
+					30,
+					751
+				}
+			},
+			NeedSource_String = "오시리스 인형, 제르늄"
+		},
+		Bs_Item_M_S_44 = {
+			ItemID = 23826,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					10,
+					25731
+				},
+				{
+					"가름의이빨",
+					120,
+					7036
+				}
+			},
+			NeedSource_String = "하티의 이빨, 제르늄"
+		},
+		Bs_Sha_M_S_1 = {
+			ItemID = 23827,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					10,
+					25729
+				},
+				{
+					"회중시계",
+					50,
+					7513
+				}
+			},
+			NeedSource_String = "회중시계, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_17 = {
+			ItemID = 23828,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					10,
+					25729
+				},
+				{
+					"오시리스인형",
+					10,
+					751
+				}
+			},
+			NeedSource_String = "오시리스 인형, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_18 = {
+			ItemID = 23879,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					10,
+					25729
+				},
+				{
+					"바포매트인형",
+					10,
+					750
+				}
+			},
+			NeedSource_String = "바포메트 인형, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_19 = {
+			ItemID = 23830,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					10,
+					25729
+				},
+				{
+					"빛나는창날",
+					50,
+					7109
+				}
+			},
+			NeedSource_String = "빛나는 창날, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_20 = {
+			ItemID = 23831,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					10,
+					25729
+				},
+				{
+					"로키의속삭임",
+					50,
+					7019
+				}
+			},
+			NeedSource_String = "로키의 속삭임, 쉐도우데오콘"
+		},
+		Bs_Item_M_S_4 = {
+			ItemID = 23832,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"바포매트인형",
+					30,
+					750
+				}
+			},
+			NeedSource_String = "바포메트인형, 제르늄"
+		},
+		Bs_Item_M_S_6 = {
+			ItemID = 23833,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"호랑이의발바닥",
+					150,
+					1030
+				}
+			},
+			NeedSource_String = "호랑이 발바닥, 제르늄"
+		},
+		Bs_Item_M_S_7 = {
+			ItemID = 23834,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"White_Snake_Tear",
+					150,
+					25622
+				}
+			},
+			NeedSource_String = "하얀 뱀의 눈물, 제르늄"
+		},
+		Bs_Item_M_S_12 = {
+			ItemID = 23835,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"원석",
+					150,
+					7300
+				}
+			},
+			NeedSource_String = "보석의 원석, 제르늄"
+		},
+		Bs_Item_M_S_13 = {
+			ItemID = 23836,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"어린나뭇가지",
+					150,
+					7018
+				}
+			},
+			NeedSource_String = "어린 나뭇가지, 제르늄"
+		},
+		Bs_Item_M_S_15 = {
+			ItemID = 23837,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"태극패",
+					150,
+					7169
+				}
+			},
+			NeedSource_String = "태극패, 제르늄"
+		},
+		Bs_Item_M_S_28 = {
+			ItemID = 23838,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"얼음비늘",
+					150,
+					7562
+				}
+			},
+			NeedSource_String = "얼음 비늘, 제르늄"
+		},
+		Bs_Item_M_S_29 = {
+			ItemID = 23839,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"원석",
+					150,
+					7300
+				}
+			},
+			NeedSource_String = "보석의 원석, 제르늄"
+		},
+		Bs_Item_M_S_31 = {
+			ItemID = 23840,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"검붉은비늘조각",
+					150,
+					6091
+				}
+			},
+			NeedSource_String = "검붉은 비늘 조각, 제르늄"
+		},
+		Bs_Item_M_S_32 = {
+			ItemID = 23841,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"어머니의악몽",
+					150,
+					7020
+				}
+			},
+			NeedSource_String = "어머니의 악몽, 제르늄"
+		},
+		Bs_Item_M_S_33 = {
+			ItemID = 23842,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"부서진왕관",
+					150,
+					7754
+				}
+			},
+			NeedSource_String = "부서진 왕관, 제르늄"
+		},
+		Bs_Item_M_S_36 = {
+			ItemID = 23843,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"호랑이의발바닥",
+					150,
+					1030
+				}
+			},
+			NeedSource_String = "호랑이 발바닥, 제르늄"
+		},
+		Bs_Item_M_S_37 = {
+			ItemID = 23844,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"로키의속삭임",
+					150,
+					7019
+				}
+			},
+			NeedSource_String = "로키의 속삭임, 제르늄"
+		},
+		Bs_Item_M_S_38 = {
+			ItemID = 23845,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"회중시계",
+					150,
+					7513
+				}
+			},
+			NeedSource_String = "회중시계, 제르늄"
+		},
+		Bs_Item_M_S_39 = {
+			ItemID = 23846,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"투탄카멘마스크",
+					150,
+					7114
+				}
+			},
+			NeedSource_String = "투탄카멘 마스크, 제르늄"
+		},
+		Bs_Item_M_S_40 = {
+			ItemID = 23847,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"깨진파라오상징",
+					150,
+					7113
+				}
+			},
+			NeedSource_String = "깨진 파라오의 상징, 제르늄"
+		},
+		Bs_Item_M_S_45 = {
+			ItemID = 23848,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"검붉은비늘조각",
+					150,
+					6091
+				}
+			},
+			NeedSource_String = "검붉은 비늘 조각, 제르늄"
+		},
+		Bs_Item_M_S_46 = {
+			ItemID = 23849,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"화룡의비늘조각",
+					150,
+					7451
+				}
+			},
+			NeedSource_String = "화룡의 비늘 조각, 제르늄"
+		},
+		Bs_Item_M_S_47 = {
+			ItemID = 23850,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"Konts_Letter",
+					150,
+					25629
+				}
+			},
+			NeedSource_String = "매듭 편지, 제르늄"
+		},
+		Bs_Item_M_S_48 = {
+			ItemID = 23851,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"오시리스인형",
+					30,
+					751
+				}
+			},
+			NeedSource_String = "오시리스 인형, 제르늄"
+		},
+		Bs_Item_M_S_49 = {
+			ItemID = 23852,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"Token_of_OrcGeneral",
+					150,
+					25508
+				}
+			},
+			NeedSource_String = "오크 장군의 증표, 제르늄"
+		},
+		Bs_Item_M_S_50 = {
+			ItemID = 23853,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"어린나뭇가지",
+					150,
+					7018
+				}
+			},
+			NeedSource_String = "어린 나뭇가지, 제르늄"
+		},
+		Bs_Item_M_S_51 = {
+			ItemID = 23894,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					20,
+					25731
+				},
+				{
+					"여왕의날개조각",
+					150,
+					6326
+				}
+			},
+			NeedSource_String = "여왕의 날개 조각, 제르늄"
+		},
+		Bs_Sha_M_S_2 = {
+			ItemID = 23854,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					20,
+					25729
+				},
+				{
+					"화룡의비늘조각",
+					50,
+					7451
+				}
+			},
+			NeedSource_String = "화룡의 비늘 조각, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_5 = {
+			ItemID = 23855,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					20,
+					25729
+				},
+				{
+					"여왕의날개조각",
+					50,
+					6326
+				}
+			},
+			NeedSource_String = "여왕의 날개 조각, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_6 = {
+			ItemID = 23856,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					20,
+					25729
+				},
+				{
+					"호랑이의발바닥",
+					50,
+					1030
+				}
+			},
+			NeedSource_String = "호랑이 발바닥, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_7 = {
+			ItemID = 23857,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					20,
+					25729
+				},
+				{
+					"깨진방패조각",
+					50,
+					7108
+				}
+			},
+			NeedSource_String = "깨진 방패 조각, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_8 = {
+			ItemID = 23858,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					20,
+					25729
+				},
+				{
+					"암흑의의지_",
+					50,
+					7566
+				}
+			},
+			NeedSource_String = "붉은 암흑의 의지, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_13 = {
+			ItemID = 23859,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					20,
+					25729
+				},
+				{
+					"오크용자의증표",
+					50,
+					968
+				}
+			},
+			NeedSource_String = "오크 용자의 증표, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_15 = {
+			ItemID = 23860,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					20,
+					25729
+				},
+				{
+					"Token_of_OrcGeneral",
+					50,
+					25508
+				}
+			},
+			NeedSource_String = "오크 장군의 증표, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_16 = {
+			ItemID = 23861,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					20,
+					25729
+				},
+				{
+					"어머니의악몽",
+					50,
+					7020
+				}
+			},
+			NeedSource_String = "어머니의 악몽, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_23 = {
+			ItemID = 23862,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					20,
+					25729
+				},
+				{
+					"부러진뿔",
+					50,
+					6649
+				}
+			},
+			NeedSource_String = "부러진 뿔, 쉐도우데오콘"
+		},
+		Bs_Item_M_S_5 = {
+			ItemID = 23863,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					25,
+					25731
+				},
+				{
+					"오시리스인형",
+					30,
+					751
+				}
+			},
+			NeedSource_String = "오시리스 인형, 제르늄"
+		},
+		Bs_Item_M_S_9 = {
+			ItemID = 23864,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					25,
+					25731
+				},
+				{
+					"발할라의꽃",
+					150,
+					7510
+				}
+			},
+			NeedSource_String = "발할라의 꽃, 제르늄"
+		},
+		Bs_Item_M_S_14 = {
+			ItemID = 23865,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					25,
+					25731
+				},
+				{
+					"검붉은비늘조각",
+					150,
+					6091
+				}
+			},
+			NeedSource_String = "검붉은 비늘 조각, 제르늄"
+		},
+		Bs_Item_M_S_16 = {
+			ItemID = 23866,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					25,
+					25731
+				},
+				{
+					"암흑의의지_",
+					150,
+					7566
+				}
+			},
+			NeedSource_String = "붉은 암흑의 의지, 제르늄"
+		},
+		Bs_Item_M_S_17 = {
+			ItemID = 23867,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					25,
+					25731
+				},
+				{
+					"어머니의악몽",
+					150,
+					7020
+				}
+			},
+			NeedSource_String = "어머니의 악몽, 제르늄"
+		},
+		Bs_Item_M_S_19 = {
+			ItemID = 23868,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					25,
+					25731
+				},
+				{
+					"얼음비늘",
+					150,
+					7562
+				}
+			},
+			NeedSource_String = "얼음비늘, 제르늄"
+		},
+		Bs_Item_M_S_27 = {
+			ItemID = 23869,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					25,
+					25731
+				},
+				{
+					"부서진왕관",
+					150,
+					7754
+				}
+			},
+			NeedSource_String = "부서진 왕관, 제르늄"
+		},
+		Bs_Item_M_S_35 = {
+			ItemID = 23870,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					25,
+					25731
+				},
+				{
+					"암흑의의지_",
+					150,
+					7566
+				}
+			},
+			NeedSource_String = "붉은 암흑의 의지, 제르늄"
+		},
+		Bs_Sha_M_S_9 = {
+			ItemID = 23871,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					25,
+					25729
+				},
+				{
+					"어린나뭇가지",
+					50,
+					7018
+				}
+			},
+			NeedSource_String = "어린 나뭇가지, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_10 = {
+			ItemID = 23872,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					25,
+					25729
+				},
+				{
+					"호랑이의발바닥",
+					50,
+					1030
+				}
+			},
+			NeedSource_String = "호랑이 발바닥, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_11 = {
+			ItemID = 23873,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					25,
+					25729
+				},
+				{
+					"암흑의의지_",
+					50,
+					7566
+				}
+			},
+			NeedSource_String = "붉은 암흑의 의지, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_21 = {
+			ItemID = 23874,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					25,
+					25729
+				},
+				{
+					"빛나는창날",
+					10,
+					7109
+				}
+			},
+			NeedSource_String = "빛나는 창날, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_22 = {
+			ItemID = 23875,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					25,
+					25729
+				},
+				{
+					"가름의이빨",
+					50,
+					7036
+				}
+			},
+			NeedSource_String = "하티의 이빨, 쉐도우데오콘"
+		},
+		Bs_Item_M_S_1 = {
+			ItemID = 23876,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					30,
+					25731
+				},
+				{
+					"발할라의꽃",
+					300,
+					7510
+				}
+			},
+			NeedSource_String = "발할라의 꽃, 제르늄"
+		},
+		Bs_Item_M_S_3 = {
+			ItemID = 23877,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					30,
+					25731
+				},
+				{
+					"부서진왕관",
+					150,
+					7754
+				}
+			},
+			NeedSource_String = "부서진 왕관, 제르늄"
+		},
+		Bs_Item_M_S_18 = {
+			ItemID = 23879,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					30,
+					25731
+				},
+				{
+					"로제타스톤",
+					150,
+					7211
+				}
+			},
+			NeedSource_String = "로제타스톤 조각, 제르늄"
+		},
+		Bs_Item_M_S_20 = {
+			ItemID = 23880,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					30,
+					25731
+				},
+				{
+					"로키의속삭임",
+					200,
+					7019
+				}
+			},
+			NeedSource_String = "로키의 속삭임, 제르늄"
+		},
+		Bs_Item_M_S_21 = {
+			ItemID = 23881,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					30,
+					25731
+				},
+				{
+					"부러진뿔",
+					150,
+					6649
+				}
+			},
+			NeedSource_String = "부러진 뿔, 제르늄"
+		},
+		Bs_Item_M_S_22 = {
+			ItemID = 23882,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					30,
+					25731
+				},
+				{
+					"태극패",
+					150,
+					7169
+				}
+			},
+			NeedSource_String = "태극패, 제르늄"
+		},
+		Bs_Item_M_S_23 = {
+			ItemID = 23883,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					30,
+					25731
+				},
+				{
+					"가름의이빨",
+					150,
+					7036
+				}
+			},
+			NeedSource_String = "하티의 이빨, 제르늄"
+		},
+		Bs_Item_M_S_24 = {
+			ItemID = 23884,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					30,
+					25731
+				},
+				{
+					"원석",
+					150,
+					7300
+				}
+			},
+			NeedSource_String = "보석의 원석, 제르늄"
+		},
+		Bs_Item_M_S_25 = {
+			ItemID = 23885,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					30,
+					25731
+				},
+				{
+					"어린나뭇가지",
+					150,
+					7018
+				}
+			},
+			NeedSource_String = "어린 나뭇가지, 제르늄"
+		},
+		Bs_Item_M_S_26 = {
+			ItemID = 23886,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					30,
+					25731
+				},
+				{
+					"깨진방패조각",
+					150,
+					7108
+				}
+			},
+			NeedSource_String = "깨진 방패 조각, 제르늄"
+		},
+		Bs_Item_M_S_30 = {
+			ItemID = 23887,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Zelunium",
+					30,
+					25731
+				},
+				{
+					"빛나는창날",
+					50,
+					7109
+				}
+			},
+			NeedSource_String = "빛나는 창날, 제르늄"
+		},
+		Bs_Sha_M_S_3 = {
+			ItemID = 23888,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					30,
+					25729
+				},
+				{
+					"해골갑옷조각",
+					50,
+					7450
+				}
+			},
+			NeedSource_String = "해골 갑옷 조각, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_4 = {
+			ItemID = 23889,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					30,
+					25729
+				},
+				{
+					"Konts_Letter",
+					50,
+					25629
+				}
+			},
+			NeedSource_String = "매듭 편지, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_12 = {
+			ItemID = 23890,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					30,
+					25729
+				},
+				{
+					"태극패",
+					50,
+					7169
+				}
+			},
+			NeedSource_String = "태극패, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_14 = {
+			ItemID = 23891,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					30,
+					25729
+				},
+				{
+					"로키의속삭임",
+					50,
+					7019
+				}
+			},
+			NeedSource_String = "로키의 속삭임, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_24 = {
+			ItemID = 23892,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					25,
+					25729
+				},
+				{
+					"회중시계",
+					150,
+					7513
+				}
+			},
+			NeedSource_String = "회중시계, 쉐도우데오콘"
+		},
+		Bs_Sha_M_S_25 = {
+			ItemID = 23893,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					25,
+					25729
+				},
+				{
+					"원석",
+					150,
+					7300
+				}
+			},
+			NeedSource_String = "보석의 원석, 쉐도우데오콘"
 		}
 	},
 	get_lapine_box = function(in_box_id)

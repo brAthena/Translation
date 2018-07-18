@@ -4861,6 +4861,24 @@ StateIconList[EFST_IDs.EFST_LHZ_DUN_N4] = {
 		{ "리스트 : 전사자의 무덤 MVP 몬스터." }
 	}
 }
+StateIconList[EFST_IDs.EFST_ALL_STAT_DOWN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "올 스텟 감소", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "모든 스테이터스 감소." }
+	}
+}
+StateIconList[EFST_IDs.EFST_GRADUAL_GRAVITY] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "중력 증가", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "1초당 HP를 잃는다." }
+	}
+}
 StateIconList[EFST_IDs.EFST_SPECIALCOOKIE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -5121,5 +5139,15 @@ StateIconList[EFST_IDs.EFST_ANCILLA] = {
 		{ "%s", COLOR_TIME },
 		{ "힐량 15% 증가." },
 		{ "SP 회복력 30% 상승." }
+	}
+}
+StateIconList[EFST_IDs.EFST_WEAPONBLOCK_ON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "카운터 상태", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "카운터 슬래쉬" },
+		{ "사용 가능" }
 	}
 }
