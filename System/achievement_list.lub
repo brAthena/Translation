@@ -5812,6 +5812,46 @@ achievement_tbl = {
 		},
 		score = 10
 	},
+	[200033] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "새로운 마음가짐으로!(1)",
+		content = {
+			summary = "3-1차 직업으로 Base Lv170 달성!",
+			details = "3-1차 직업으로 베이스 170레벨을 달성한다."
+		},
+		resource = {
+			[1] = {
+				text = "베이스 레벨 170"
+			}
+		},
+		reward = {
+			item = 6959
+		},
+		score = 50
+	},
+	[200034] = {
+		UI_Type = 0,
+		group = "GOAL_LEVEL",
+		major = 1,
+		minor = 0,
+		title = "새로운 마음가짐으로!(2)",
+		content = {
+			summary = "3-2차 직업으로 Base Lv170 달성!",
+			details = "3-2차 직업으로 베이스 170레벨을 달성한다."
+		},
+		resource = {
+			[1] = {
+				text = "베이스 레벨 170"
+			}
+		},
+		reward = {
+			item = 6959
+		},
+		score = 50
+	},
 	[220000] = {
 		UI_Type = 0,
 		group = "CHATTING",
