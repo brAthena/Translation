@@ -447,9 +447,7 @@ SKILL_INFO_LIST = {
 			{ SKID.AC_OWL, 3 }
 		},
 		NeedSkillList = {
-			[JOBID.JT_ROGUE] = {
-				{}
-			}
+			[JOBID.JT_ROGUE] = {}
 		}
 	},
 	[SKID.AC_CONCENTRATION] = {
