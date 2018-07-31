@@ -6150,6 +6150,21 @@ tblLapineDdukddakBox = {
 					"C_PinkButterfly_Wing_T",
 					1,
 					20533
+				},
+				{
+					"C세피아캡",
+					1,
+					20171
+				},
+				{
+					"C낙원의새장",
+					1,
+					20482
+				},
+				{
+					"C법사관",
+					1,
+					20033
 				}
 			},
 			NeedSource_String = "냥다래 의상"

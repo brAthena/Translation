@@ -3932,5 +3932,9 @@ JobNameTable = {
 	[jobtbl.JT_ICE_GHOST_H] = "ice_ghost",
 	[jobtbl.JT_FLAME_GHOST_H] = "flame_ghost",
 	[jobtbl.JT_EP17_1_R4885_BESTIA] = "ep17_1_r4885_bestia",
-	[jobtbl.JT_G_TWIN_CAPUT2] = "caput2"
+	[jobtbl.JT_G_TWIN_CAPUT2] = "caput2",
+	[jobtbl.JT_MUSPELLSKOLL_H] = "muspellskoll_mj",
+	[jobtbl.JT_WANDER_MAN_H] = "wander_man_mj",
+	[jobtbl.JT_BRINARANEA_H] = "brinaranea_mj",
+	[jobtbl.JT_DARK_LORD_H] = "dark_lord_mj"
 }
