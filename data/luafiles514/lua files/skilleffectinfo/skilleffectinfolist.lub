@@ -429,9 +429,10 @@ SKILL_EFFECT_INFO_LIST = {
 	[SKID.SP_SOULEXPLOSION] = {
 		targetEffectNum = 2,
 		targetEffectID = {
-			EFID.EF_MAGNUMBREAK,
-			EFID.EF_SUI_EXPLOSION
-		}
+			EFID.EF_ENERGYDRAIN_BLACK,
+			EFID.EF_SOUL_EXPLOSION
+		},
+		targetWaveFileName = "effect\\hunter_landmine.wav"
 	},
 	[SKID.SP_SOULDIVISION] = {
 		targetEffectNum = 1,
@@ -457,12 +458,6 @@ SKILL_EFFECT_INFO_LIST = {
 		targetEffectNum = 1,
 		targetEffectID = {
 			EFID.EF_CURSE_EXPLOSION
-		}
-	},
-	[SKID.SP_SOULCURSE] = {
-		targetEffectNum = 1,
-		targetEffectID = {
-			EFID.EF_SOUL_CURSE
 		}
 	}
 }
