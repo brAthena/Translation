@@ -12491,7 +12491,7 @@ QuestInfoList = {
 	[5846] = {
 		Title = "환영의 회랑",
 		Description = {
-			"<NAVI>[환영의 망령]<INFO>comodo,214,186,000,0</INFO></NAVI>에게 하루에 한번 1시간 동안 사용 가능한 <ITEM>[환영의 인장]<INFO>25504</INFO></ITEM>을 받을 수 있습니다."
+			"<NAVI>[환영의 망령]<INFO>comodo,214,186,0,101,0</INFO></NAVI>에게 하루에 한번 1시간 동안 사용 가능한 <ITEM>[환영의 인장]<INFO>25504</INFO></ITEM>을 받을 수 있습니다."
 		},
 		Summary = "초기화 04시"
 	},
@@ -12499,7 +12499,7 @@ QuestInfoList = {
 		Title = "루안다에게 전할 이야기",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"조금 전 보고 겪은 일을 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>에게 이야기해주자."
+			"조금 전 보고 겪은 일을 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>에게 이야기해주자."
 		},
 		Summary = "",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -12530,7 +12530,7 @@ QuestInfoList = {
 		Title = "[대기]거석족 퇴치의 증거",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>는 내일도 거석족을 퇴치한 증거를 가져간다면, 보상을 해줄 것이다."
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>는 내일도 거석족을 퇴치한 증거를 가져간다면, 보상을 해줄 것이다."
 		},
 		Summary = "초기화 04시",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -12559,7 +12559,7 @@ QuestInfoList = {
 		Title = "[대기]우탄족 퇴치의 증거",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>는 내일도 우탄족을 퇴치한 증거를 가져간다면, 보상을 해줄 것이다."
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>는 내일도 우탄족을 퇴치한 증거를 가져간다면, 보상을 해줄 것이다."
 		},
 		Summary = "초기화 04시",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -12571,7 +12571,7 @@ QuestInfoList = {
 		Title = "거석족 퇴치작전",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"마을에서는 거석족 토벌을 계획하고 있다. <NAVI>[고대의 트라이조인트]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 스터랙틱 고렘]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 메갈리스]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>를 다섯 마리씩 잡고서 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>에게 보고하자."
+			"마을에서는 거석족 토벌을 계획하고 있다. <NAVI>[고대의 트라이조인트]<INFO>ILL_TRI_JOINT,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 스터랙틱 고렘]<INFO>ILL_STALACTIC_GOLEM,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 메갈리스]<INFO>ILL_MEGALITH,0,0,3,-222,1</INFO></NAVI>를 다섯 마리씩 잡고서 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>에게 보고하자."
 		},
 		Summary = "",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -12588,7 +12588,7 @@ QuestInfoList = {
 		Title = "[대기]거석족 퇴치작전",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>는 당신이 내일도 거석족 토벌에 나서주길 기대하고 있다."
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>는 당신이 내일도 거석족 토벌에 나서주길 기대하고 있다."
 		},
 		Summary = "초기화 04시",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -12600,7 +12600,7 @@ QuestInfoList = {
 		Title = "우탄족 퇴치작전",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"마을에서는 거석족 토벌을 계획하고 있다. <NAVI>[고대의 스톤슈터]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 우탄슈터]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 우탄파이터]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>를 다섯 마리씩 잡고서 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>에게 보고하자."
+			"마을에서는 거석족 토벌을 계획하고 있다. <NAVI>[고대의 스톤슈터]<INFO>ILL_STONE_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 우탄슈터]<INFO>ILL_WOOTAN_SHOOTER,0,0,3,-222,1</INFO></NAVI>, <NAVI>[고대의 우탄파이터]<INFO>ILL_WOOTAN_FIGHTER,0,0,3,-222,1</INFO></NAVI>를 다섯 마리씩 잡고서 <NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>에게 보고하자."
 		},
 		Summary = "",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -12617,7 +12617,7 @@ QuestInfoList = {
 		Title = "[대기]우탄족 퇴치작전",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>는 당신이 내일도 우탄족 토벌에 나서주길 기대하고 있다."
+			"<NAVI>[수비책임자 루안다]<INFO>com_d02_i,241,255,0,101,0</INFO></NAVI>는 당신이 내일도 우탄족 토벌에 나서주길 기대하고 있다."
 		},
 		Summary = "초기화 04시",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -12631,7 +12631,7 @@ QuestInfoList = {
 		Description = {
 			"안녕! 이 쪽지를 읽는 친구",
 			"급하게 이동을 해야해서 아이를 두고 가게 됐어. 저 아이는 루두스에 버려진 실험체야.",
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>라고 불러주면 돼.",
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>라고 불러주면 돼.",
 			"떠넘기는 건 아니고 나도 시간이 날 때마다 보러 올 테니 아침이 식사 정도만 챙겨줘. 달라는 걸 주면 될 거야. 당장은 데려갈 형편이 안돼서. 부탁해.",
 			"-올그"
 		},
@@ -12722,7 +12722,7 @@ QuestInfoList = {
 		Title = "[대기] 아침이 챙겨주기",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>의 식사를 챙겨줬다. 여유가 된다면 내일도 챙겨주는 게 좋지 않을까?"
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>의 식사를 챙겨줬다. 여유가 된다면 내일도 챙겨주는 게 좋지 않을까?"
 		},
 		Summary = "초기화 04시",
 		NpcSpr = "4_EP17_MORNING",
@@ -12734,7 +12734,7 @@ QuestInfoList = {
 		Title = "아침이의 메뉴 선택",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>는 오늘 젤로피를 먹고 싶어 하는 것 같다. <ITEM>[젤로피]<INFO>909</INFO></ITEM> 10개를 가져다 주자."
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 젤로피를 먹고 싶어 하는 것 같다. <ITEM>[젤로피]<INFO>909</INFO></ITEM> 10개를 가져다 주자."
 		},
 		Summary = "젤로피 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -12752,7 +12752,7 @@ QuestInfoList = {
 		Title = "아침이의 메뉴 선택",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>는 오늘 늙은나무의 뿌리를 먹고 싶어 하는 것 같다. <ITEM>[늙은나무의 뿌리]<INFO>902</INFO></ITEM> 10개를 가져다 주자."
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 늙은나무의 뿌리를 먹고 싶어 하는 것 같다. <ITEM>[늙은나무의 뿌리]<INFO>902</INFO></ITEM> 10개를 가져다 주자."
 		},
 		Summary = "늙은나무의 뿌리 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -12770,7 +12770,7 @@ QuestInfoList = {
 		Title = "아침이의 메뉴 선택",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>는 오늘 메뚜기의 뒷다리를 먹고 싶어 하는 것 같다. <ITEM>[메뚜기의 뒷다리]<INFO>940</INFO></ITEM> 10개를 가져다 주자."
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 메뚜기의 뒷다리를 먹고 싶어 하는 것 같다. <ITEM>[메뚜기의 뒷다리]<INFO>940</INFO></ITEM> 10개를 가져다 주자."
 		},
 		Summary = "메뚜기의 뒷다리 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -12788,7 +12788,7 @@ QuestInfoList = {
 		Title = "아침이의 메뉴 선택",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>는 오늘 클로버를 먹고 싶어 하는 것 같다. <ITEM>[클로버]<INFO>705</INFO></ITEM> 10개를 가져다 주자."
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 클로버를 먹고 싶어 하는 것 같다. <ITEM>[클로버]<INFO>705</INFO></ITEM> 10개를 가져다 주자."
 		},
 		Summary = "클로버 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -12806,7 +12806,7 @@ QuestInfoList = {
 		Title = "아침이의 메뉴 선택",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>는 오늘 새의 깃털를 먹고 싶어 하는 것 같다. <ITEM>[새의 깃털]<INFO>916</INFO></ITEM> 10개를 가져다 주자."
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 새의 깃털를 먹고 싶어 하는 것 같다. <ITEM>[새의 깃털]<INFO>916</INFO></ITEM> 10개를 가져다 주자."
 		},
 		Summary = "새의 깃털 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -12824,7 +12824,7 @@ QuestInfoList = {
 		Title = "아침이의 메뉴 선택",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>는 오늘 쥐의 꼬리를 먹고 싶어 하는 것 같다. <ITEM>[쥐의 꼬리]<INFO>1016</INFO></ITEM> 10개를 가져다 주자."
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 쥐의 꼬리를 먹고 싶어 하는 것 같다. <ITEM>[쥐의 꼬리]<INFO>1016</INFO></ITEM> 10개를 가져다 주자."
 		},
 		Summary = "쥐의 꼬리 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -12842,7 +12842,7 @@ QuestInfoList = {
 		Title = "아침이의 메뉴 선택",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>는 오늘 독 송곳니를 먹고 싶어 하는 것 같다. <ITEM>[독 송곳니]<INFO>937</INFO></ITEM> 10개를 가져다 주자."
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 독 송곳니를 먹고 싶어 하는 것 같다. <ITEM>[독 송곳니]<INFO>937</INFO></ITEM> 10개를 가져다 주자."
 		},
 		Summary = "독 송곳니 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -12860,7 +12860,7 @@ QuestInfoList = {
 		Title = "아침이의 메뉴 선택",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>는 오늘 원숭이의 꼬리를 먹고 싶어 하는 것 같다. <ITEM>[원숭이의 꼬리]<INFO>942</INFO></ITEM> 10개를 가져다 주자."
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 원숭이의 꼬리를 먹고 싶어 하는 것 같다. <ITEM>[원숭이의 꼬리]<INFO>942</INFO></ITEM> 10개를 가져다 주자."
 		},
 		Summary = "원숭이의 꼬리 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -12878,7 +12878,7 @@ QuestInfoList = {
 		Title = "아침이의 메뉴 선택",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>는 오늘 박쥐의 이빨를 먹고 싶어 하는 것 같다. <ITEM>[박쥐의 이빨]<INFO>913</INFO></ITEM> 10개를 가져다 주자."
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 박쥐의 이빨를 먹고 싶어 하는 것 같다. <ITEM>[박쥐의 이빨]<INFO>913</INFO></ITEM> 10개를 가져다 주자."
 		},
 		Summary = "박쥐의 이빨 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -12896,7 +12896,7 @@ QuestInfoList = {
 		Title = "아침이의 메뉴 선택",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[아침이]<INFO>sp_rudus,130,200,000,0</INFO></NAVI>는 오늘 곰의 발바닥를 먹고 싶어 하는 것 같다. <ITEM>[곰의 발바닥]<INFO>948</INFO></ITEM> 10개를 가져다 주자."
+			"<NAVI>[아침이]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>는 오늘 곰의 발바닥를 먹고 싶어 하는 것 같다. <ITEM>[곰의 발바닥]<INFO>948</INFO></ITEM> 10개를 가져다 주자."
 		},
 		Summary = "곰의 발바닥 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -21486,6 +21486,174 @@ QuestInfoList = {
 			"오늘은 이미 미세먼지 요원에게 고급 산소마스크를 대여했다. 내일 다시 빌릴 수 있다."
 		},
 		Summary = "04시 초기화"
+	},
+	[8541] = {
+		Title = "내용물이 없는 것",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 오염된 레이드릭 20마리와 오염된 레이드릭 아쳐 20마리를 사냥하고 그 내용물을 확인해 달라고 한다."
+		},
+		Summary = "오염된 레이드릭, 오염된 레이드릭 아쳐 처치"
+	},
+	[8542] = {
+		Title = "내용물이 없는 것-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8543] = {
+		Title = "내용물이 아마도 없는 것",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 오염된 레이드릭 20마리와 오염된 레이드릭 아쳐 20마리를 사냥하고 그 내용물을 확인해 달라고 한다."
+		},
+		Summary = "오염된 레이드릭, 오염된 레이드릭 아쳐 처치"
+	},
+	[8544] = {
+		Title = "어는점이 높은 것",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 냉동 가고일 5마리와 프리즌 브레이커 5마리를 처치하고 변화를 보게 해 달라고 한다."
+		},
+		Summary = "냉동 가고일, 프리즌 브레이커 처치"
+	},
+	[8545] = {
+		Title = "어는점이 높은 것-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8546] = {
+		Title = "어는점이 매우 높은 것",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 냉동 가고일 5마리와 프리즌 브레이커 5마리를 처치하고 변화를 보게 해 달라고 한다."
+		},
+		Summary = "냉동 가고일, 프리즌 브레이커 처치"
+	},
+	[8547] = {
+		Title = "거울과도 같은 것",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 아이스 고스트 10마리와 플레임 고스트 10마리를 처치하고 변화를 보게 해 달라고 한다."
+		},
+		Summary = "아이스 고스트, 플레임 고스트 처치"
+	},
+	[8548] = {
+		Title = "거울과도 같은 것-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8549] = {
+		Title = "마치 거울과도 같은 것",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[닐렘]<INFO>glast_01,191,273,0,101,0</INFO></NAVI>은 아이스 고스트 10마리와 플레임 고스트 10마리를 처치하고 변화를 보게 해 달라고 한다."
+		},
+		Summary = "아이스 고스트, 플레임 고스트 처치"
+	},
+	[8550] = {
+		Title = "이상진화를 일으킨 딜리터",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 공중 딜리터 15마리, 굳은 지상 딜리터 15마리와 싸워 보고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 공중 딜리터, 굳은 지상 딜리터 처치"
+	},
+	[8551] = {
+		Title = "이상진화를 일으킨 딜리터-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8552] = {
+		Title = "이상진화를 일으킨 딜리터의 재조사",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 공중 딜리터 15마리, 굳은 지상 딜리터 15마리와 싸워 보고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 공중 딜리터, 굳은 지상 딜리터 처치"
+	},
+	[8553] = {
+		Title = "실체가 된 악몽 퇴치",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 나이트메어 테러 10마리와 싸워 보고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 나이트메어 테러 처치"
+	},
+	[8554] = {
+		Title = "실체가 된 악몽 퇴치-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8555] = {
+		Title = "실체가 된 무서운 악몽 퇴치",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 나이트메어 테러 10마리와 싸워 보고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 나이트메어 테러 처치"
+	},
+	[8556] = {
+		Title = "밀도 확인",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 라바골렘을 10마리 처치하고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 라바골렘 처치"
+	},
+	[8557] = {
+		Title = "밀도 확인-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8558] = {
+		Title = "다시 한 번 밀도 확인",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 라바골렘을 10마리 처치하고, 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 라바골렘 처치"
+	},
+	[8559] = {
+		Title = "바스라지는 작은 것들",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 익스플로젼 10마리, 굳은 블레이저 10마리를 처치하고 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 익스플로젼, 굳은 블레이저 처치"
+	},
+	[8560] = {
+		Title = "바스라지는 작은 것들-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료시 <NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>에게 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8561] = {
+		Title = "바스라지는 무척 작은 것들",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 익스플로젼 10마리, 굳은 블레이저 10마리를 처치하고 종족 차이를 보고해 달라고 한다."
+		},
+		Summary = "굳은 익스플로젼, 굳은 블레이저 처치"
 	},
 	[9000] = {
 		Title = "Job Change to Knight",
@@ -31398,6 +31566,13 @@ QuestInfoList = {
 			"오스로 통하는 관문은 일시 봉쇄중이다. 봉쇄가 풀릴때까지 대기하자."
 		},
 		Summary = "작전대기"
+	},
+	[12456] = {
+		Title = "세계를 구한 후유증을 없앤 후유증",
+		Description = {
+			"세계를 구하고 발생한 후유증을 초월적인 힘으로 없앤 후유증이 남아있습니다."
+		},
+		Summary = "세계를 구한 후유증을 없앤 후유증"
 	},
 	[13000] = {
 		Title = "RWC 2011Card Gathering",
