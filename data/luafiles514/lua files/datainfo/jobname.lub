@@ -3936,5 +3936,8 @@ JobNameTable = {
 	[jobtbl.JT_MUSPELLSKOLL_H] = "muspellskoll_mj",
 	[jobtbl.JT_WANDER_MAN_H] = "wander_man_mj",
 	[jobtbl.JT_BRINARANEA_H] = "brinaranea_mj",
-	[jobtbl.JT_DARK_LORD_H] = "dark_lord_mj"
+	[jobtbl.JT_DARK_LORD_H] = "dark_lord_mj",
+	[jobtbl.JT_BACSOJIN2] = "bacsojin",
+	[jobtbl.JT_MOONLIGHT2] = "moonlight",
+	[jobtbl.JT_PHREEONI2] = "phreeoni"
 }
