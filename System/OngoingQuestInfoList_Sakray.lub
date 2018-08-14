@@ -40004,6 +40004,14 @@ QuestInfoList = {
 		},
 		Summary = ""
 	},
+	[16377] = {
+		Title = "EL1_A17T 제압-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"골치아픈 일을 해결했다. 잠시 쉬도록 하자."
+		},
+		Summary = ""
+	},
 	[17000] = {
 		Title = "대화 거부",
 		IconName = "ico_ep.bmp",
