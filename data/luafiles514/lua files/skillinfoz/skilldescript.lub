@@ -7424,21 +7424,13 @@ SKILL_DESCRIPT = {
 		"^CC3399Requirement: Ancilla 1,",
 		"Highness Heal 1^000000",
 		"Skill Form: ^339900Summon^000000",
-		"Description: ^777777Summon the Tree of Life that",
-		"revives any dead characters within 5x5",
-		"cell range of the tree, while increasing",
-		"MaxHP and recovering HP and SP.",
+		"Description: ^777777Summon the Tree of Life that revives any dead characters, Increases MHP and recovers HP and SP every 3 sec.",
 		"Consumes 1 ^008800Ancilla^777777 and 1 ^008800Holy Water^777777.^000000",
-		"[Lv 1]: ^777777MaxHP +5%, Recover 3% HP and",
-		"2% SP every 3 sec^000000",
-		"[Lv 2]: ^777777MaxHP +10%, Recover 3% HP and",
-		"2% SP every 3 sec^000000",
-		"[Lv 3]: ^777777MaxHP +15%, Recover 4% HP and",
-		"3% SP every 3 sec^000000",
-		"[Lv 4]: ^777777MaxHP +20%, Recover 4% HP and",
-		"3% SP every 3 sec^000000",
-		"[Lv 5]: ^777777MaxHP +25%, Recover 5% HP and",
-		"4% SP every 3 sec^000000"
+		"[Level 1] : ^777777MHP + 5%, Every 3 sec recover HP 3 % / SP 2 %^000000",
+		"[Level 2] : ^777777MHP + 10%, Every 3 sec recover HP 3 % / SP 2 %^000000",
+		"[Level 3] : ^777777MHP + 15%, Every 3 sec recover HP 4 % / SP 3 %^000000",
+		"[Level 4] : ^777777MHP + 20%, Every 3 sec recover HP 4 % / SP 3 %^000000",
+		"[Level 5] : ^777777MHP + 25%, Every 3 sec recover HP 5 % / SP 4 %^000000"
 	},
 	[SKID.AB_PRAEFATIO] = {
 		"Praefatio",
@@ -12565,7 +12557,8 @@ SKILL_DESCRIPT = {
 		"Type : ^777777보조 스킬^000000",
 		"Description : ^777777자신과 동일한 맵에 있는 파티원을 자신의 위치로 불러온다. ",
 		"텔레포테이션 불가능 지역이나 시즈 모드, PVP 가능 지역에서는 사용이 불가능하다. ",
-		"해당 스킬은 파티장일 경우에만 사용 가능하며, 파티가 없을 경우 사용 불가능하다. ^000000"
+		"해당 스킬은 파티장일 경우에만 사용 가능하며, 파티가 없을 경우 사용 불가능하며.",
+		"랜드 프로텍터, 세이프티 월과 같은 일부 지면 마법 위에서 사용이 불가능하다. ^000000"
 	},
 	[SKID.HLIF_HEAL] = {
 		"Touch of Heal",

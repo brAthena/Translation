@@ -60,7 +60,7 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
 		resourceFileName = "efst_blossom_fluttering\\sakura.str",
 		hatEffectPos = -4,
-		hatEffectPosX = 1
+		hatEffectPosX = 0
 	},
 	[HatEFID.HAT_EF_MERMAID_LONGING] = {
 		resourceFileName = "efst_mermaid_loging\\bubblebubble.str",
@@ -97,7 +97,8 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_Blessing_Of_Angels] = {
 		resourceFileName = "efst_blessing_of_angels\\tensi3.str",
 		hatEffectPos = -7,
-		hatEffectPosX = 0
+		hatEffectPosX = 0,
+		isIgnoreRiding = true
 	},
 	[HatEFID.HAT_EF_Electric] = {hatEffectID = 254},
 	[HatEFID.HAT_EF_Green_Floor] = {hatEffectID = 680},
