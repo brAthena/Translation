@@ -768,5 +768,7 @@ ShadowFactorTable = {
 	[jobtbl.JT_MM_GB_MOROCC_1] = 1.5,
 	[jobtbl.JT_MM_GB_MOROCC_4] = 1.5,
 	[jobtbl.JT_GOLD_ANOPHELES] = 0.3,
-	[jobtbl.JT_MYSTCASE_GIANT] = 5
+	[jobtbl.JT_MYSTCASE_GIANT] = 5,
+	[jobtbl.JT_MD_GH_WHITEKNIGHT] = 2,
+	[jobtbl.JT_MD_GH_WHITEKNIGHT_H] = 2
 }

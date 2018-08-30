@@ -11079,7 +11079,7 @@ SKILL_DESCRIPT = {
 		"^777777Can be used in WoE and PVP mode only.^000000",
 		"^777777Borrows the power of another dimension to increases the efficiency of the universe power for a certain period of time.^000000",
 		"^777777If you use a Nova Explosion or Star Emperor Advent in the skill duration, the following effects will be applied.^000000",
-		"^777777Nova Explosion: Skill cooldown and aftercast penalty are removed.^000000",
+		"^777777Nova Explosion: 5 seconds of skill cooldown and aftercast penalty are removed.^000000",
 		"^777777Star Emperor Advent: Creates two defensive spheres with a durability equal to caster's MaxSP for 30 seconds.^000000",
 		"[Level 1] : ^777777duration : 60 seconds / Cooldown : 150 seconds^000000",
 		"[Level 2] : ^777777duration : 60 seconds / Cooldown : 120 seconds^000000",
