@@ -970,6 +970,7 @@ EFST_IDs = {
 	EFST_HUNTING_EVENT = 1083,
 	EFST_ANCILLA = 1095,
 	EFST_WEAPONBLOCK_ON = 1107,
+	EFST_OVERLAPEXPUP2 = 1123,
 	__newindex = function()
 		error("unknown state")
 	end

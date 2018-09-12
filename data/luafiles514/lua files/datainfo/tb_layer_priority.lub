@@ -3,6 +3,238 @@ TB_Layer_Priority = {
 	Default_Top = 200,
 	Default_Bottom = 300,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_Harvest_Festa_Hat] = {
+			Default = 52,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_White_Cat] = {
+			Default = 304,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Cowlick_YL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Cowlick_GN] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Cowlick_PP] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Cowlick_RD] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Cowlick_OM] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Cowlick_BU] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Cowlick_WH] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Cowlick_BL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Straight_Pony_YL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Straight_Pony_GN] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Straight_Pony_PP] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Straight_Pony_RD] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Straight_Pony_OM] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Straight_Pony_BU] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Straight_Pony_WH] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Straight_Pony_BL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_YL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_GN] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_PP] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_RD] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_OM] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_BU] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_WH] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Loose_Wave_Twin_BL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Hair_Bun_BU] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Hair_Bun_RD] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Hair_Bun_YL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Hair_Bun_GN] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Hair_Bun_BL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Hair_Bun_WH] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Hair_Bun_OM] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Hair_Bun_PP] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Roll_Twin_BU] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Roll_Twin_RD] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Roll_Twin_YL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Roll_Twin_GN] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Roll_Twin_BL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Roll_Twin_WH] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Roll_Twin_OM] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Roll_Twin_PP] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Long_Pony_BU] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Long_Pony_RD] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Long_Pony_YL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Long_Pony_GN] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Long_Pony_BL] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Long_Pony_WH] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Long_Pony_OM] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Long_Pony_PP] = {
+			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_STRIPES_BAND] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_BLUE_BAND] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_FLOWER_HAIRPIN] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_DAEILBAND] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_REDTAIL_RIBBON] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_MYSTICROSE] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_NECKTIE] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Combat_Vestige] = {
+			Default = 152,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_C_Pope_Ribbon] = {
 			Default = 201,
 			Direction = {}
@@ -11,7 +243,7 @@ TB_Layer_Priority = {
 			Default = 201,
 			Direction = {}
 		},
-		[ACCESSORY_IDs.ACCESSORY_TINKER_BELL] = {
+		[ACCESSORY_IDs.ACCESSORY_BUTTERFLYWINGS_EAR] = {
 			Default = 201,
 			Direction = {}
 		},

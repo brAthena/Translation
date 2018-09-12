@@ -5151,3 +5151,14 @@ StateIconList[EFST_IDs.EFST_WEAPONBLOCK_ON] = {
 		{ "사용 가능" }
 	}
 }
+StateIconList[EFST_IDs.EFST_OVERLAPEXPUP2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "말랑도 고양이 캔2", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "몬스터 사냥 시" },
+		{ "경험치, JOB 경험치 증가" },
+		{ "아이템 드롭률 증가" }
+	}
+}

@@ -54,7 +54,39 @@ HatEFID = {
 	HAT_EF_C_FlutterButterfly_BL = 53,
 	HAT_EF_Qscaraba = 54,
 	HAT_EF_FSTONE = 55,
-	HAT_EF_Magiccircle = 56
+	HAT_EF_Magiccircle = 56,
+	HAT_EF_Brysinggamen = 57,
+	HAT_EF_Magingiorde = 58,
+	HAT_EF_LEVEL99_RED = 59,
+	HAT_EF_LEVEL99_ULTRAMARINE = 60,
+	HAT_EF_LEVEL99_CYAN = 61,
+	HAT_EF_LEVEL99_LIME = 62,
+	HAT_EF_LEVEL99_VIOLET = 63,
+	HAT_EF_LEVEL99_LILAC = 64,
+	HAT_EF_LEVEL99_SUN_ORANGE = 65,
+	HAT_EF_LEVEL99_DEEP_PINK = 66,
+	HAT_EF_LEVEL99_BLACK = 67,
+	HAT_EF_LEVEL99_WHITE = 68,
+	HAT_EF_LEVEL160_RED = 69,
+	HAT_EF_LEVEL160_ULTRAMARINE = 70,
+	HAT_EF_LEVEL160_CYAN = 71,
+	HAT_EF_LEVEL160_LIME = 72,
+	HAT_EF_LEVEL160_VIOLET = 73,
+	HAT_EF_LEVEL160_LILAC = 74,
+	HAT_EF_LEVEL160_SUN_ORANGE = 75,
+	HAT_EF_LEVEL160_DEEP_PINK = 76,
+	HAT_EF_LEVEL160_BLACK = 77,
+	HAT_EF_LEVEL160_WHITE = 78,
+	HAT_EF_Full_BloomCherry_Tree = 79,
+	HAT_EF_C_Blessings_Of_Soul = 80,
+	HAT_EF_ManyStars = 81,
+	HAT_EF_SUBJECT_AURA_GOLD = 82,
+	HAT_EF_SUBJECT_AURA_WHITE = 83,
+	HAT_EF_SUBJECT_AURA_RED = 84,
+	HAT_EF_C_Shining_Angel_Wing = 85,
+	HAT_EF_Magic_Star_TW = 86,
+	HAT_Digital_Space = 87,
+	HAT_EF_Sleipnir = 88
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -204,7 +236,60 @@ hatEffectTable = {
 		hatEffectPosX = 0,
 		isRenderBeforeCharacter = true,
 		isIgnoreRiding = true
-	}
+	},
+	[HatEFID.HAT_EF_Brysinggamen] = {hatEffectID = 1193},
+	[HatEFID.HAT_EF_Magingiorde] = {hatEffectID = 1194},
+	[HatEFID.HAT_EF_LEVEL99_RED] = {hatEffectID = 1164},
+	[HatEFID.HAT_EF_LEVEL99_ULTRAMARINE] = {hatEffectID = 1165},
+	[HatEFID.HAT_EF_LEVEL99_CYAN] = {hatEffectID = 1166},
+	[HatEFID.HAT_EF_LEVEL99_LIME] = {hatEffectID = 1167},
+	[HatEFID.HAT_EF_LEVEL99_VIOLET] = {hatEffectID = 1168},
+	[HatEFID.HAT_EF_LEVEL99_LILAC] = {hatEffectID = 1169},
+	[HatEFID.HAT_EF_LEVEL99_SUN_ORANGE] = {hatEffectID = 1170},
+	[HatEFID.HAT_EF_LEVEL99_DEEP_PINK] = {hatEffectID = 1171},
+	[HatEFID.HAT_EF_LEVEL99_BLACK] = {hatEffectID = 1172},
+	[HatEFID.HAT_EF_LEVEL99_WHITE] = {hatEffectID = 1173},
+	[HatEFID.HAT_EF_LEVEL160_RED] = {hatEffectID = 1174},
+	[HatEFID.HAT_EF_LEVEL160_ULTRAMARINE] = {hatEffectID = 1175},
+	[HatEFID.HAT_EF_LEVEL160_CYAN] = {hatEffectID = 1176},
+	[HatEFID.HAT_EF_LEVEL160_LIME] = {hatEffectID = 1177},
+	[HatEFID.HAT_EF_LEVEL160_VIOLET] = {hatEffectID = 1178},
+	[HatEFID.HAT_EF_LEVEL160_LILAC] = {hatEffectID = 1179},
+	[HatEFID.HAT_EF_LEVEL160_SUN_ORANGE] = {hatEffectID = 1180},
+	[HatEFID.HAT_EF_LEVEL160_DEEP_PINK] = {hatEffectID = 1181},
+	[HatEFID.HAT_EF_LEVEL160_BLACK] = {hatEffectID = 1182},
+	[HatEFID.HAT_EF_LEVEL160_WHITE] = {hatEffectID = 1183},
+	[HatEFID.HAT_EF_Full_BloomCherry_Tree] = {hatEffectID = 1184},
+	[HatEFID.HAT_EF_Full_BloomCherry_Tree] = {
+		resourceFileName = "efst_Full_BloomCherry_Tree\\Full_BloomCherry_Tree.str",
+		hatEffectPos = 0,
+		hatEffectPosX = 0
+	},
+	[HatEFID.HAT_EF_C_Blessings_Of_Soul] = {
+		resourceFileName = "efst_C_Blessings_Of_Soul\\ blessingsofsoul.str",
+		hatEffectPos = 0,
+		hatEffectPosX = 0
+	},
+	[HatEFID.HAT_EF_ManyStars] = {
+		resourceFileName = "efst_ManyStars\\hikariga.str",
+		hatEffectPos = 0,
+		hatEffectPosX = 0
+	},
+	[HatEFID.HAT_EF_SUBJECT_AURA_GOLD] = {hatEffectID = 1211},
+	[HatEFID.HAT_EF_SUBJECT_AURA_WHITE] = {hatEffectID = 1212},
+	[HatEFID.HAT_EF_SUBJECT_AURA_RED] = {hatEffectID = 1213},
+	[HatEFID.HAT_EF_C_Shining_Angel_Wing] = {
+		resourceFileName = "efst_C_Shining_Angel_Wing\\C_Shining_Angel_Wing.str",
+		hatEffectPos = 0,
+		hatEffectPosX = 0
+	},
+	[HatEFID.HAT_EF_Magic_Star_TW] = {
+		resourceFileName = "efst_Mstone\\stoneofint2.str",
+		hatEffectPos = -6,
+		hatEffectPosX = 0
+	},
+	[HatEFID.HAT_Digital_Space] = {hatEffectID = 1240},
+	[HatEFID.HAT_EF_Sleipnir] = {hatEffectID = 1241}
 }
 effectHatItemTable = {
 	20285,
@@ -231,7 +316,9 @@ effectHatItemTable = {
 	18719,
 	20600,
 	20515,
-	31391
+	31391,
+	20535,
+	31316
 }
 function GetHatEfResName(index)
 	if hatEffectTable == nil then
