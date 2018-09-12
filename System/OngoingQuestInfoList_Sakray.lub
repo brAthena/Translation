@@ -18709,6 +18709,13 @@ QuestInfoList = {
 		},
 		Summary = "04시 초기화"
 	},
+	[7997] = {
+		Title = "고양이캔의 참맛",
+		Description = {
+			"고양이 캔의 효과를 보았다. 초기화 후 고양이 캔을 다시 맛볼 수 있을지도.."
+		},
+		Summary = "04시 초기화"
+	},
 	[7998] = {
 		Title = "그대에게 마지막 평온을",
 		Description = {
@@ -37498,6 +37505,200 @@ QuestInfoList = {
 		},
 		Summary = "상인 보라매 확인"
 	},
+	[14976] = {
+		Title = "불놓기 행사",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"불놓기에 참여하시려면 불에 잘 타는 몇 가지 물건들이 필요합니다. 질 좋은 나뭇가지 5개와 늙은나무의 뿌리 10개, 불화살 1개를 가지고",
+			"<NAVI>[저에게]<INFO>alberta,138,169,0,101,0</INFO></NAVI> 오십시오."
+		},
+		Summary = "큰 불의 재료"
+	},
+	[14977] = {
+		Title = "마법사 루나",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"이번 불놓기 행사를 위해 게펜 타워에서 파견된 <NAVI>[마법사 루나]<INFO>alberta,134,162,0,101,0</INFO></NAVI>씨를 만나 이야기를 나눠보시겠어요?"
+		},
+		Summary = "루나씨에게"
+	},
+	[14978] = {
+		Title = "배고픈 멧돼지",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"농작물을 망치는 멧돼지를 포획하는데 일손이 많이 필요하다는군요.",
+			"<NAVI>[세레나]<INFO>alberta,152,198,0,101,0</INFO></NAVI>씨를 찾아가 보세요."
+		},
+		Summary = "세레나씨에게"
+	},
+	[14979] = {
+		Title = "추수제 준비",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"축제에 음식은 빠질 수 없죠. 추수제 음식을 준비하시는 <NAVI>[송화]<INFO>alberta,119,193,0,101,0</INFO></NAVI>님께 가보세요. 맛있는 음식이 많이 있거든요."
+		},
+		Summary = "송화님에게"
+	},
+	[14980] = {
+		Title = "추수제의 의미",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"추수절에는 늘 과일 도시락을 만들어 축제에 참여할 수 없는 사람들에게 나눠주고 있습니다. <NAVI>[과일 도시락]<INFO>alberta,140,217,0,101,0,</INFO></NAVI>을 만드는 곳에 찾아가 보시는 것도 좋겠습니다."
+		},
+		Summary = "도시락 행사장으로"
+	},
+	[14981] = {
+		Title = "부활한 나뭇가지",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"부활한 나뭇가지 10마리를 처치해주시고 질 좋은 나뭇가지도 10개 정도 구해주셨으면 좋겠어요. 제 명예와 목숨이 달린 일이에요! <NAVI>[마법사 루나]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"
+		},
+		Summary = "질 좋은 나뭇가지 10개"
+	},
+	[14982] = {
+		Title = "대기: 부활한 나뭇가지",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"지금은 라나님이 지켜보고 계세요. 새벽 시간이 지난 뒤에 다시 찾아와 주시겠어요? <NAVI>[마법사 루나]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[14983] = {
+		Title = "배고픈 멧돼지",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"이미 마을로 내려온 멧돼지들을 안전하게 포획해서 집으로 돌려 보내야 해요. <NAVI>[제]<INFO>alberta,152,198,0,101,0</INFO></NAVI>가 드린 멧돼지 트랩으로 배고픈 멧돼지 10마리를 포획해오세요."
+		},
+		Summary = "포획된 멧돼지 10마리"
+	},
+	[14984] = {
+		Title = "대기: 배고픈 멧돼지",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"지금은 멧돼지 트랩을 손질해야 해요. 새벽 시간이 지난 후에 <NAVI>[저]<INFO>alberta,152,198,0,101,0</INFO></NAVI>에게 다시 찾아 오시ㅤㄱㅖㅆ어요?"
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[14985] = {
+		Title = "추수제 준비",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"송편의 재료가 똑 떨어졌다는구만. 송편 재료 좀 구해 올라우? 곡식 1개, 꿀 3개, 초록허브 10개면 된다우. <NAVI>[송화]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+		},
+		Summary = "송편의 재료"
+	},
+	[14986] = {
+		Title = "추수제 준비",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"월병의 재료가 똑 떨어졌다는구만. 달과자 재료 좀 구해 올라우? 노란 향신료 1개, 나무조각 3개면 된다우. <NAVI>[송화]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+		},
+		Summary = "월병의 재료"
+	},
+	[14987] = {
+		Title = "추수제 준비",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"칠면조 구이의 재료가 똘 떨어졌다는구만. 칠면조 구이의 재료 좀 구해 올라우? 담백한 소스 1개, 레몬 3개, 당근 10개면 된다우. <NAVI>[송화]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+		},
+		Summary = "칠면조 구이의 재료"
+	},
+	[14988] = {
+		Title = "대기: 추수제 준비",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"지금 음식 준비가 한창이라 줄 수 있는게 없는데. 새벽 시간이 지난 후에 <NAVI>[나]<INFO>alberta,119,193,0,101,0</INFO></NAVI>를 찾아 오면 꼭 줄 테니까."
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[14989] = {
+		Title = "추수제의 의미",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"두 집을 화해시킬 방법이 있어요. 추수절이 아니면 못하니까 서둘러 <NAVI>[밭]<INFO>pay_fild03,211,174,0,101,0,</INFO></NAVI>에 가요!"
+		},
+		Summary = "농작물이 있는 곳으로"
+	},
+	[14990] = {
+		Title = "추수제의 의미",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"사과 2개만 가져다 주세요. 딱! 2개만이에요! 코코네 <NAVI>[사과나무]<INFO>pay_fild03,211,179,0,101,0,</INFO></NAVI>에서도 2개 정도는 딸 수 있을 거예요."
+		},
+		Summary = "사과 2개"
+	},
+	[14991] = {
+		Title = "추수제의 의미",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"이 과일 도시락을 <NAVI>[징코네 집]<INFO>alberta,47,118,0,101,0,</INFO></NAVI>에 가져다 주세요. 곧 따라갈게요."
+		},
+		Summary = "징코네 집으로"
+	},
+	[14992] = {
+		Title = "추수제의 의미",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"멧돼지가 나타나 <NAVI>[고구마 밭]<INFO>pay_fild03,211,174,0,101,0,</INFO></NAVI>을 엉망으로 만들고 있어요! 어서 가요!"
+		},
+		Summary = "고구마 밭으로"
+	},
+	[14993] = {
+		Title = "추수제의 의미",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"멧돼지에게 먹일 사과와 고구마 5개씩을 가져다 주세요! - <NAVI>[이아이]<INFO>pay_fild03,211,174,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "멧돼지 먹이 확보"
+	},
+	[14994] = {
+		Title = "과일 도시락 배달",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"사과, 고구마, 맛있는 옥수수 3개씩 가져다 주세요. 맛있는 과일 도시락을 만들 거예요! - <NAVI>[이아이]<INFO>alberta,140,217,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "과일 도시락 구성품"
+	},
+	[14995] = {
+		Title = "과일 도시락 배달",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"이 과일 도시락을 <NAVI>[뱃사람]<INFO>alberta,231,117,0,101,0,</INFO></NAVI>에게 가져다 주세요."
+		},
+		Summary = "뱃사람에게"
+	},
+	[14996] = {
+		Title = "과일 도시락 배달",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"이 과일 도시락을 <NAVI>[어르신]<INFO>alberta,108,236,0,101,0,</INFO></NAVI>께 가져다 주세요."
+		},
+		Summary = "노인에게"
+	},
+	[14997] = {
+		Title = "과일 도시락 배달",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"이 과일 도시락을 <NAVI>[타지인]<INFO>alberta,208,50,0,101,0,</INFO></NAVI>에게 배달해 주세요."
+		},
+		Summary = "타지인에게"
+	},
+	[14998] = {
+		Title = "과일 도시락 배달",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"과일 도시락을 모두 전달했으니 <NAVI>[이아이]<INFO>alberta,140,217,0,101,0,</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = "이아이에게"
+	},
+	[14999] = {
+		Title = "대기: 과일 도시락 배달",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"오늘은 피곤하실 테니 새벽이 지난 후에 다시 오세요! - <NAVI>[이아이]<INFO>alberta,140,217,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "초기화 시간 04시"
+	},
 	[15000] = {
 		Title = "Experiencing abnormal statuses",
 		Description = {
@@ -40382,6 +40583,14 @@ QuestInfoList = {
 			"새벽이 지난 후에 다시 뵙겠습니다. 정말로 고생 많으셨습니다. - <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
 		Summary = "초기화 시간 04시"
+	},
+	[17036] = {
+		Title = "추수제의 의미",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"사과를 땄다"
+		},
+		Summary = "사과 따기"
 	},
 	[17037] = {
 		Title = "대기: 속성 교체",

@@ -22,6 +22,45 @@ RecommendedQuestInfoList = {
 			"^ff0000※ This page is an update introduction, not a quest. Please note that completing quests will not remove them.^000000"
 		}
 	},
+	[2] = {
+		Title = "풍요로운 가을, 큰 불과 함께 하는 추수제",
+		IconName = "ico_ev.bmp",
+		Summary = "알베르타에서 추수제를 즐기세요!",
+		BgName = "reco_02.bmp",
+		QuestInfo1 = {
+			"해마다 추수제가 돌아오면 항구도시 알베르타에서는 큰 불을 피워 나쁜 것은 모두 태워버리고 더 풍요로운 내년을 소망합니다.",
+			"추수제의 큰 불에 장작을 넣으려면 지금! 바로! <NAVI>[알베르타]<INFO>alberta,138,169,0,101,0,</INFO></NAVI>로 떠나셔야 합니다."
+		},
+		QuestInfo2 = {
+			"큰 불과 함께하는",
+			"맛있는 추수제!!!"
+		},
+		QuestInfo3 = {
+			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
+		}
+	},
+	[3] = {
+		Title = "EDDA 글래스트 헤임의 몰락",
+		IconName = "ico_sc.bmp",
+		Summary = "역사의 진실을 목격하세요",
+		NpcSpr = "4_ED_OSCAR",
+		NpcNavi = "glast_01",
+		NpcPosX = 243,
+		NpcPosY = 290,
+		BgName = "reco_03.bmp",
+		QuestInfo1 = {
+			"옛 글래스트 헤임 메모리얼의 뒷 이야기.",
+			"역사 속에서 도망자/폭군으로 알려진 슈미츠의 등장.",
+			"여러 차원의 시간을 주시하고 기록하는 시공용 오스카는 글래스트 헤임 몰락의 순간을 목격하고 누군가에게 그 진실을 알리고자 마음 먹는데..."
+		},
+		QuestInfo2 = {
+			"공략 조건",
+			"레벨 130 이상의 모험가"
+		},
+		QuestInfo3 = {
+			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
+		}
+	},
 	[4] = {
 		Title = "에피소드 17.1 일루시온",
 		IconName = "ico_ep.bmp",
