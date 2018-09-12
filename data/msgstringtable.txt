@@ -3536,3 +3536,7 @@ Emblem 테두리를 그려주지 않습니다#
 E X P : %.1f%% ( basic 100.0%% %s %.1f%%)#
 DROP  : %.1f%% ( basic 100.0%% %s %.1f%%)#
 DEATH : %.1f%% ( basic 100.0%% %s %.1f%%)#
+영문이나 러시아어 단독으로만 사용이 가능합니다.#
+you must have an AccessTicket to login#
+창고를 불러오는 중입니다.#
+NOW LOADING..#
