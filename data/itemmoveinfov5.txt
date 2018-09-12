@@ -4724,4 +4724,12 @@
 28759	1	1	1	1	0	1	1	1	//Evt_Magic_Sword
 26156	1	1	1	1	0	1	1	1	//Evt_Shadow_Staff_K
 1864	1	1	1	1	0	1	1	1	//Evt_Iron_Nail_K
-28632	1	1	1	1	0	1	1	1	//Evt_D_H_Bible_K
+23921	1	1	1	1	1	1	1	1	//Season_Evt_Reward
+23962	1	1	0	1	1	1	1	1	//Malang_Cat_Can2
+25394	1	1	1	1	1	1	1	1	//Fruit_Lunch
+25390	1	1	1	1	1	1	1	1	//Captured_Savage
+25391	1	1	1	1	0	1	1	1	//Goodly_Bough
+25392	1	1	1	1	0	1	1	1	//Free_Pass_Ticket
+25393	1	1	1	1	0	1	1	1	//Delicious_Corn
+25395	1	1	1	1	1	1	1	1	//Small_Embers
+23446	1	1	1	1	1	1	1	1	//Savage_Trap
