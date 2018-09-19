@@ -2085,7 +2085,7 @@ StateIconList[EFST_IDs.EFST_LIGHTNINGWALK] = {
 		{ "Lightning Walk", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Adds chance to avoid long range" },
-		{ "physical attack and magical attack" },
+		{ "physical attack" },
 		{ "and move right before the enemy" }
 	}
 }
