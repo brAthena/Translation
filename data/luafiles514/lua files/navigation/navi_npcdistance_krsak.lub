@@ -154745,7 +154745,7 @@ Navi_NpcDistance = {
 			{
 				"pay_arche",
 				11210,
-				237
+				239
 			},
 			{
 				"pay_fild01",
@@ -154755,12 +154755,12 @@ Navi_NpcDistance = {
 			{
 				"pay_fild08",
 				10440,
-				111
+				113
 			},
 			{
 				"pay_gld",
 				21968,
-				162
+				163
 			},
 			{
 				"payon_in01",
@@ -154775,27 +154775,27 @@ Navi_NpcDistance = {
 			{
 				"payon_in01",
 				11262,
-				14
+				12
 			},
 			{
 				"payon_in01",
 				11267,
-				110
+				112
 			},
 			{
 				"payon_in01",
 				11268,
-				29
+				30
 			},
 			{
 				"payon_in01",
 				11269,
-				204
+				206
 			},
 			{
 				"payon_in01",
 				11272,
-				64
+				66
 			},
 			{
 				"payon_in03",

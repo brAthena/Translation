@@ -818,11 +818,12 @@ SKILL_DESCRIPT = {
 		"Max Level: 5",
 		"^CC3399Requirement: Riding 1^000000",
 		"Skill Form: ^6666ccPassive^000000",
-		"Description: ^777777Increase Attack Speed while",
-		"mounted on a Peco Peco. Mastering this",
-		"skill raises attack speed so that attack",
-		"speed reduction while mounted on a Peco",
-		"Peco is fully nullified.^000000"
+		"Description: ^777777Increase the speed of movement after boarding Peco Peco, allowing you to attack while on board, but the attack speed is slower, and when you master the skill, the attack speed is the same as usual.^000000",
+		"[Lv 1] : ^777777Attack Speed : 60%^000000",
+		"[Lv 2] : ^777777Attack Speed : 70%^000000",
+		"[Lv 3] : ^777777Attack Speed : 80%^000000",
+		"[Lv 4] : ^777777Attack Speed : 90%^000000",
+		"[Lv 5] : ^777777Attack Speed :100%^000000"
 	},
 	[SKID.PR_MACEMASTERY] = {
 		"Mace Mastery",
