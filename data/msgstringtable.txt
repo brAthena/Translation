@@ -3540,3 +3540,11 @@ DEATH : %.1f%% ( basic 100.0%% %s %.1f%%)#
 you must have an AccessTicket to login#
 창고를 불러오는 중입니다.#
 NOW LOADING..#
+삭제#
+답장#
+전송#
+이름확인#
+공지#
+일반#
+반송#
+검색#
