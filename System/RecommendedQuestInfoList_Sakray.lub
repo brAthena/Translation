@@ -22,23 +22,6 @@ RecommendedQuestInfoList = {
 			"^ff0000※ This page is an update introduction, not a quest. Please note that completing quests will not remove them.^000000"
 		}
 	},
-	[2] = {
-		Title = "풍요로운 가을, 큰 불과 함께 하는 추수제",
-		IconName = "ico_ev.bmp",
-		Summary = "알베르타에서 추수제를 즐기세요!",
-		BgName = "reco_02.bmp",
-		QuestInfo1 = {
-			"해마다 추수제가 돌아오면 항구도시 알베르타에서는 큰 불을 피워 나쁜 것은 모두 태워버리고 더 풍요로운 내년을 소망합니다.",
-			"추수제의 큰 불에 장작을 넣으려면 지금! 바로! <NAVI>[알베르타]<INFO>alberta,138,169,0,101,0,</INFO></NAVI>로 떠나셔야 합니다."
-		},
-		QuestInfo2 = {
-			"큰 불과 함께하는",
-			"맛있는 추수제!!!"
-		},
-		QuestInfo3 = {
-			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
-		}
-	},
 	[3] = {
 		Title = "EDDA 글래스트 헤임의 몰락",
 		IconName = "ico_sc.bmp",
