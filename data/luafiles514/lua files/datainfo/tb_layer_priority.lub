@@ -3,6 +3,42 @@ TB_Layer_Priority = {
 	Default_Top = 200,
 	Default_Bottom = 300,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_APRO_WIG] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_AMAZING_WIG] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Nydhog_Wig] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Straight_Long_YL] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Straight_Long_WH] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Alice_Wig] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Volume_Low_Twin] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Alice_Wig_PK] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Lolita_Two_Side_Up] = {
+			Default = 152,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_Harvest_Festa_Hat] = {
 			Default = 52,
 			Direction = {}
