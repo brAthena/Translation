@@ -1,4 +1,10 @@
-//-- 최종갱신 사크라이 2018-08-27
+//-- 최종갱신 사크라이 2018-10-04
+
+// 2018 할로윈
+1@halo.gnd#1@halo.gnd#
+1@halo.gat#1@halo.gat#
+1@halo.rsw#1@halo.rsw#
+유저인터페이스\map\1@halo.bmp#유저인터페이스\map\1@halo.bmp#
 
 // EDDA 글래스트 헤임의 몰락
 1@gl_prq.gnd#1@gl_prq.gnd#
