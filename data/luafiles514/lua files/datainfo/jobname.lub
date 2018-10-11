@@ -3957,4 +3957,6 @@ JobNameTable = {
 	[jobtbl.JT_MOONLIGHT2] = "moonlight",
 	[jobtbl.JT_PHREEONI2] = "phreeoni",
 	[jobtbl.JT_MD_MANHOLE3] = "INVISIBLE",
+	[jobtbl.JT_E_MD_LUDE] = "LUDE",
+	[jobtbl.JT_E_MD_JACK_GAINT] = "JAKK"
 }
