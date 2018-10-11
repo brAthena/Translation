@@ -22,6 +22,25 @@ RecommendedQuestInfoList = {
 			"^ff0000※ This page is an update introduction, not a quest. Please note that completing quests will not remove them.^000000"
 		}
 	},
+	[2] = {
+		Title = "잭과 잭의 할로윈 이벤트",
+		IconName = "ico_ev.bmp",
+		Summary = "잭과 함께라면 잭한 잭도 잭하지 않아.",
+		BgName = "reco_02.bmp",
+		QuestInfo1 = {
+			"니플헤임에서는 할로윈 준비가 한창이야!",
+			"할로윈 축제에는 잭이 많이 필요하니까 꼭 놀러와줘~",
+			"^ff0000참가조건 :  레벨 30 이상^000000"
+		},
+		QuestInfo2 = {
+			"^ff9632☜☞TRICK☜☞^000000",
+			"   ★OR★",
+			"^ff9632☜☞TREAT☜☞^000000"
+		},
+		QuestInfo3 = {
+			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
+		}
+	},
 	[3] = {
 		Title = "EDDA 글래스트 헤임의 몰락",
 		IconName = "ico_sc.bmp",
