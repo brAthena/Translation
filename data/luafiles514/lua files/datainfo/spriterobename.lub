@@ -38,7 +38,12 @@ RobeNameTable = {
 	[SPRITE_ROBE_IDs.ROBE_C_Wings_of_Gabriel] = "C_Wings_of_Gabriel",
 	[SPRITE_ROBE_IDs.ROBE_C_Wings_of_Gabriel] = "C_Wings_of_Gabriel",
 	[SPRITE_ROBE_IDs.ROBE_C_PinkButterfly_Wing_T] = "C_PinkButterfly_Wing",
-	[SPRITE_ROBE_IDs.ROBE_Violet_Halo] = "Violet_Halo"
+	[SPRITE_ROBE_IDs.ROBE_Violet_Halo] = "Violet_Halo",
+	[SPRITE_ROBE_IDs.ROBE_CherryFesRibbon] = "CherryFesRibbon",
+	[SPRITE_ROBE_IDs.ROBE_SnackParty] = "SnackParty",
+	[SPRITE_ROBE_IDs.ROBE_AngelRibbonWing] = "AngelRibbonWing",
+	[SPRITE_ROBE_IDs.ROBE_BlackBearBackpack] = "BlackBearBackpack",
+	[SPRITE_ROBE_IDs.ROBE_Halloween_Poring_Bag] = "Halloween_Poring_Bag"
 }
 RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = "ANGEL_WINGS",
@@ -79,5 +84,10 @@ RobeNameTable_Eng = {
 	[SPRITE_ROBE_IDs.ROBE_C_GoldButterfly_Wing] = "C_GoldButterfly_Wing",
 	[SPRITE_ROBE_IDs.ROBE_C_Wings_of_Gabriel] = "C_Wings_of_Gabriel",
 	[SPRITE_ROBE_IDs.ROBE_C_PinkButterfly_Wing_T] = "C_PinkButterfly_Wing",
-	[SPRITE_ROBE_IDs.ROBE_Violet_Halo] = "Violet_Halo"
+	[SPRITE_ROBE_IDs.ROBE_Violet_Halo] = "Violet_Halo",
+	[SPRITE_ROBE_IDs.ROBE_CherryFesRibbon] = "CherryFesRibbon",
+	[SPRITE_ROBE_IDs.ROBE_SnackParty] = "SnackParty",
+	[SPRITE_ROBE_IDs.ROBE_AngelRibbonWing] = "AngelRibbonWing",
+	[SPRITE_ROBE_IDs.ROBE_BlackBearBackpack] = "BlackBearBackpack",
+	[SPRITE_ROBE_IDs.ROBE_Halloween_Poring_Bag] = "Halloween_Poring_Bag"
 }
