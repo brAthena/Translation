@@ -964,3 +964,15 @@
 27322#Ahat_Card#
 27323#Shnaim_Card#
 27324#Brinaranea_Card#
+
+//일루전오브라비린스 카드
+27338#sorry#
+27339#sorry#
+27340#sorry#
+27334#sorry#
+27341#sorry#
+27335#sorry#
+27342#sorry#
+27336#sorry#
+27343#sorry#
+27337#sorry#

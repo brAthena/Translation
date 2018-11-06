@@ -33,6 +33,9 @@ hu_in01.rsw#bgm\\93.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
 
+// 일루전 오브 라비린스
+prt_mz03_i.rsw#bgm\\16.mp3#
+
 // 2018 할로윈
 1@halo.rsw#bgm\\84.mp3#
 
