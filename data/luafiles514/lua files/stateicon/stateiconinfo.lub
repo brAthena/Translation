@@ -110,6 +110,7 @@ StateIconList[EFST_IDs.EFST_BLESSING] = {
 		{ "Blessing", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Increases DEX, INT, STR" },
+		{ "Increases Accuracy" },
 		{ "Recover from Curse and Stone Curse status" }
 	}
 }
@@ -157,7 +158,7 @@ StateIconList[EFST_IDs.EFST_IMPOSITIO] = {
 	descript = {
 		{ "Impositio Manus", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increases ATK of the weapon" }
+		{ "Increase ATK/MATK" }
 	}
 }
 StateIconList[EFST_IDs.EFST_SUFFRAGIUM] = {
@@ -248,8 +249,7 @@ StateIconList[EFST_IDs.EFST_OVERTHRUST] = {
 	descript = {
 		{ "Power Thrust", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increases weapon damage" },
-		{ "Adds chance of breaking equipped weapon" }
+		{ "Increases weapon damage" }
 	}
 }
 StateIconList[EFST_IDs.EFST_MAXIMIZE] = {
@@ -510,6 +510,153 @@ StateIconList[EFST_IDs.EFST_SPEARQUICKEN] = {
 		{ "Increases Flee" }
 	}
 }
+StateIconList[EFST_IDs.EFST_WHISTLE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "휘파람", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "파티원의 FLEE 증가." },
+		{ "완전회피 증가." }
+	}
+}
+StateIconList[EFST_IDs.EFST_ASSASSINCROSS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "석양의 어쌔신 크로스", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "파티원의 공격 속도 증가." },
+		{ "(공격 후 딜레이 감소.)" }
+	}
+}
+StateIconList[EFST_IDs.EFST_POEMBRAGI] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "브라기의 시", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "파티원의 변동 캐스팅 감소." },
+		{ "스킬 후 딜레이 감소." }
+	}
+}
+StateIconList[EFST_IDs.EFST_APPLEIDUN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "이둔의 사과", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "파티원의 최대 HP 증가." },
+		{ "받는 회복량 증가." }
+	}
+}
+StateIconList[EFST_IDs.EFST_HUMMING] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "흥얼거림", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "파티원의 HIT 증가." }
+	}
+}
+StateIconList[EFST_IDs.EFST_DONTFORGETME] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "나를 잊지 말아요", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "이동, 공격 속도 감소." },
+		{ "이동, 공격 속도 증가 효과 제거." }
+	}
+}
+StateIconList[EFST_IDs.EFST_FORTUNEKISS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "행운의 키스", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "파티원의 CRI 증가." },
+		{ "크리티컬 데미지 증가." }
+	}
+}
+StateIconList[EFST_IDs.EFST_SERVICEFORYOU] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "당신을 위한 서비스", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "파티원의 최대 SP 증가." },
+		{ "소비 SP 감소." }
+	}
+}
+StateIconList[EFST_IDs.EFST_RICHMANKIM] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "김서방 돈 벌었네", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "몬스터 사냥 시" },
+		{ "획득하는 경험치 증가." }
+	}
+}
+StateIconList[EFST_IDs.EFST_ETERNALCHAOS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "영원의 혼돈", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "방어력 0으로 고정." }
+	}
+}
+StateIconList[EFST_IDs.EFST_DRUMBATTLEFIELD] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "전장의 북소리", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "파티원의 ATK , DEF 증가." }
+	}
+}
+StateIconList[EFST_IDs.EFST_RINGNIBELUNGEN] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "니벨룽겐의 반지", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "파티원에게 다양한" },
+		{ "이로운 효과 부여." }
+	}
+}
+StateIconList[EFST_IDs.EFST_ROKISWEIL] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "울부 짖는 로키", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "스킬 사용 불가." },
+		{ "일정 확률로 혼란 상태." }
+	}
+}
+StateIconList[EFST_IDs.EFST_INTOABYSS] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "심연 속으로", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "파티원의 젬스톤 소모 제거." },
+		{ "(일부 스킬 예외)." }
+	}
+}
+StateIconList[EFST_IDs.EFST_SIEGFRIED] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "불사신 지크프리드", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "파티원의 수/풍/지/화 내성." },
+		{ "일부 상태이상 내성 증가." }
+	}
+}
 StateIconList[EFST_IDs.EFST_STEELBODY] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -589,6 +736,17 @@ StateIconList[EFST_IDs.EFST_TENSIONRELAX] = {
 		{ "Tension Relax", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Increases HP regeneration speed" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SACRIFICE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "세크리 파이스", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "일반 근접 물리 공격" },
+		{ "데미지 증가" },
+		{ "1회 공격당 HP 소모" }
 	}
 }
 StateIconList[EFST_IDs.EFST_ASSUMPTIO] = {
@@ -921,8 +1079,7 @@ StateIconList[EFST_IDs.EFST_OVERTHRUSTMAX] = {
 	descript = {
 		{ "Maximum Power Thrust", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increases weapon damage" },
-		{ "Adds chance of breaking equipped weapon" }
+		{ "Increases weapon damage" }
 	}
 }
 StateIconList[EFST_IDs.EFST_TAROTCARD] = {
@@ -5131,6 +5288,27 @@ StateIconList[EFST_IDs.EFST_HUNTING_EVENT] = {
 		{ "고기 회복량 증가" }
 	}
 }
+StateIconList[EFST_IDs.EFST_ENSEMBLEFATIGUE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "합주 피로 상태", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "합주로 인한 피로 상태." },
+		{ "스킬 사용 불가." },
+		{ "이동, 공격속도 30% 감소." }
+	}
+}
+StateIconList[EFST_IDs.EFST_ADAPTATION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "임기 응변", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "연주, 춤, 합주 스킬" },
+		{ "SP 소모 감소." }
+	}
+}
 StateIconList[EFST_IDs.EFST_ANCILLA] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -5149,6 +5327,27 @@ StateIconList[EFST_IDs.EFST_WEAPONBLOCK_ON] = {
 		{ "%s", COLOR_TIME },
 		{ "카운터 슬래쉬" },
 		{ "사용 가능" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ASSUMPTIO_BUFF] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "아숨프티오", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "물리 방어력 증가" },
+		{ "받는 힐량 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_BASILICA_BUFF] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "바실리카", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "성속성 마법 데미지 증가" },
+		{ "암/불사속성 적에게 주는" },
+		{ "물리 데미지 증가" }
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERLAPEXPUP2] = {

@@ -1,5 +1,28 @@
 tblLapineDdukddakBox = {
 	sources = {
+		IDTest_Special = {
+			ItemID = 100000,
+			NeedCount = 3,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"Á©·ÎÇÇ",
+					1,
+					909
+				},
+				{
+					"¼ØÅÐ",
+					1,
+					914
+				},
+				{
+					"´Ü´ÜÇÑ²®Áú",
+					1,
+					935
+				}
+			},
+			NeedSource_String = "Á©·ÎÇÇ,¼ØÅÐ,´Ü´ÜÇÑ²®Áú"
+		},
 		EnchantStone_Recipe_9m = {
 			ItemID = 23967,
 			NeedCount = 1,
