@@ -4237,6 +4237,12 @@ tbl = {
 		MonsterEff = {
 			EFFECT.EF_NONE
 		}
+	},
+	[20520] = {
+		MonsterSize = 1.5,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
 	}
 }
 function main()
