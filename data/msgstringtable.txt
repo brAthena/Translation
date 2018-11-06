@@ -2810,7 +2810,7 @@ Send Mail#
 E X P : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
 DROP  : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
 DEATH : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
-Name with this tag cannot be used.#
+The content cannot be used as a name.#
 Style Shop#
 No serial number, Please visit the store to buy.#
 Please turn on Serial item number window box.#
