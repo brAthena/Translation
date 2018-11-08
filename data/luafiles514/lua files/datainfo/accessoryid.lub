@@ -1815,5 +1815,8 @@ ACCESSORY_IDs = {
 	ACCESSORY_ResonateTaego = 1823,
 	ACCESSORY_HeartAngel = 1824,
 	ACCESSORY_PoringBeret = 1825,
-	ACCESSORY_FluffyWing = 1826
+	ACCESSORY_FluffyWing = 1826,
+	ACCESSORY_Drooping_Schmidt = 1859,
+	ACCESSORY_Drooping_Oscar = 1860,
+	ACCESSORY_Drooping_Heinrich = 1861
 }
