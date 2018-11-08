@@ -851,6 +851,10 @@
 27201#Agnes_Card#
 27202#Jurgen_Card#
 27203#Spica_Card#
+27330#Kronecker_Card#
+27331#S_Kronecker_Card#
+27332#Skia_Card#
+27333#S_Skia_Card#
 
 //2018³â 1¿ù ¿µ¿õÀÇÈçÀûp2,3Ä«µå
 27181#AirShip_Raid_Card#
