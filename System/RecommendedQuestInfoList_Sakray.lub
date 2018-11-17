@@ -22,6 +22,24 @@ RecommendedQuestInfoList = {
 			"^ff0000※ This page is an update introduction, not a quest. Please note that completing quests will not remove them.^000000"
 		}
 	},
+	[2] = {
+		Title = "왕실 사냥대회에 참가하세요!",
+		IconName = "ico_ev.bmp",
+		Summary = "",
+		BgName = "reco_02.bmp",
+		QuestInfo1 = {
+			"올해도 룬 미드가츠 왕실이 주최하는 사냥대회가 시작되었습니다.",
+			"<NAVI>[사냥대회 본영]<INFO>prt_fild01.gat,98,171,0,101,0</INFO></NAVI>에 방문하여 영광스러운 임무를 수행하고 뜻깊은 보상을 얻으세요."
+		},
+		QuestInfo2 = {
+			"사냥대회에 참가하세요!",
+			"룬 미드가츠 국민들을 돕고",
+			"왕실의 축복을 받으세요!"
+		},
+		QuestInfo3 = {
+			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
+		}
+	},
 	[3] = {
 		Title = "EDDA 글래스트 헤임의 몰락",
 		IconName = "ico_sc.bmp",
