@@ -5330,6 +5330,66 @@ tblLapineDdukddakBox = {
 					"GuillcrossStone_Robe",
 					1,
 					25717
+				},
+				{
+					"SuraStone_Robe2",
+					1,
+					25797
+				},
+				{
+					"SuraStone_Bottom2",
+					1,
+					25798
+				},
+				{
+					"SuraStone_Middle2",
+					1,
+					25799
+				},
+				{
+					"SuraStone_Top2",
+					1,
+					25800
+				},
+				{
+					"SorcererStone_Robe2",
+					1,
+					25801
+				},
+				{
+					"SorcererStone_Bottom2",
+					1,
+					25802
+				},
+				{
+					"SorcererStone_Middle2",
+					1,
+					25803
+				},
+				{
+					"SorcererStone_Top2",
+					1,
+					25804
+				},
+				{
+					"ShadowchaserStone_Robe2",
+					1,
+					25805
+				},
+				{
+					"ShadowchasStone_Bottom2",
+					1,
+					25806
+				},
+				{
+					"ShadowchasStone_Middle2",
+					1,
+					25807
+				},
+				{
+					"ShadowchaserStone_Top2",
+					1,
+					25808
 				}
 			},
 			NeedSource_String = "의상인챈트스톤"
@@ -7704,6 +7764,26 @@ tblLapineDdukddakBox = {
 					"C검은마녀의모자",
 					1,
 					20395
+				},
+				{
+					"C디아볼릭헤드폰",
+					1,
+					20175
+				},
+				{
+					"C_Princess_Ribbon_Crown",
+					1,
+					31565
+				},
+				{
+					"C_Poporing_Muffler",
+					1,
+					31586
+				},
+				{
+					"C_Protect_Cloth",
+					1,
+					31625
 				}
 			},
 			NeedSource_String = "냥다래 의상"
