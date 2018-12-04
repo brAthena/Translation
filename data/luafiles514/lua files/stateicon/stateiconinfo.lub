@@ -282,7 +282,8 @@ StateIconList[EFST_IDs.EFST_SHOUT] = {
 	descript = {
 		{ "Crazy Uproar", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increases STR" }
+		{ "Increases STR" },
+		{ "Increases ATK" },
 	}
 }
 StateIconList[EFST_IDs.EFST_ENERGYCOAT] = {
