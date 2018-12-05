@@ -33,6 +33,10 @@ hu_in01.rsw#bgm\\93.mp3#
 //evt_xmas.rsw#bgm\\58.mp3#
 //evt_mobroom.rsw#bgm\\18.mp3#
 
+// EDDA 생체연구소 - 원정의 여로
+1@gol1.rsw#bgm\\124.mp3#
+1@gol2.rsw#bgm\\124.mp3#
+
 // 일루전 오브 라비린스
 prt_mz03_i.rsw#bgm\\16.mp3#
 
