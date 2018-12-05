@@ -4548,6 +4548,16 @@ tblLapineDdukddakBox = {
 					"S_Soul_Reaper_Shoes",
 					1,
 					24415
+				},
+				{
+					"S_Tempest_Weapon",
+					1,
+					24423
+				},
+				{
+					"S_Tempest_Armor",
+					1,
+					24424
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"

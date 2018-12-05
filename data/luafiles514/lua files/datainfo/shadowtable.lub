@@ -772,5 +772,6 @@ ShadowFactorTable = {
 	[jobtbl.JT_MD_GH_WHITEKNIGHT] = 2,
 	[jobtbl.JT_MD_GH_WHITEKNIGHT_H] = 2,
 	[jobtbl.JT_ILL_BAPHOMET] = 2,
-	[jobtbl.JT_ILL_HUNTER_FLY] = 0.8
+	[jobtbl.JT_ILL_HUNTER_FLY] = 0.8,
+	[jobtbl.JT_HIDDEN_MOB8] = 0
 }

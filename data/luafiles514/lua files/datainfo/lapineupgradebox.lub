@@ -1,5 +1,26 @@
 tblLapineUpgradeBox = {
 	targets = {
+		Magma_Essence = {
+			ItemID = 23815,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 2,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Lava_Leather_Armor",
+					15378
+				},
+				{
+					"Lava_Leather_Suits",
+					15379
+				},
+				{
+					"Lava_Leather_Robe",
+					15380
+				}
+			},
+			NeedSource_String = "∂ÛπŸ ∑π¥ı ∞©ø  ¿Â∫Ò"
+		},
 		EP17_1_SPC05 = {
 			ItemID = 23776,
 			NeedRefineMin = 0,
