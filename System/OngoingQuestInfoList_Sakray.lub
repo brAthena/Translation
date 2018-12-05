@@ -12506,7 +12506,7 @@ QuestInfoList = {
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
 		NpcPosY = 255,
-		RewardEXP = 1120000,
+		RewardEXP = "1120000",
 		RewardJEXP = 650000
 	},
 	[5848] = {
@@ -12520,8 +12520,8 @@ QuestInfoList = {
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
 		NpcPosY = 255,
-		RewardEXP = 4300000,
-		RewardJEXP = 2800000,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
 		RewardItemList = {
 			{ ItemID = 25271, ItemNum = 1 }
 		}
@@ -12549,8 +12549,8 @@ QuestInfoList = {
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
 		NpcPosY = 255,
-		RewardEXP = 4300000,
-		RewardJEXP = 2800000,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
 		RewardItemList = {
 			{ ItemID = 25271, ItemNum = 1 }
 		}
@@ -12578,8 +12578,8 @@ QuestInfoList = {
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
 		NpcPosY = 255,
-		RewardEXP = 4300000,
-		RewardJEXP = 2800000,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
 		RewardItemList = {
 			{ ItemID = 25271, ItemNum = 1 }
 		}
@@ -12607,8 +12607,8 @@ QuestInfoList = {
 		NpcNavi = "com_d02_i",
 		NpcPosX = 241,
 		NpcPosY = 255,
-		RewardEXP = 4300000,
-		RewardJEXP = 2800000,
+		RewardEXP = "4300000",
+		RewardJEXP = "2800000",
 		RewardItemList = {
 			{ ItemID = 25271, ItemNum = 1 }
 		}
@@ -12655,7 +12655,7 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardJEXP = 800000,
+		RewardJEXP = "800000",
 		RewardItemList = {
 			{ ItemID = 25723, ItemNum = 3 }
 		}
@@ -12675,7 +12675,7 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardJEXP = 800000,
+		RewardJEXP = "800000",
 		RewardItemList = {
 			{ ItemID = 25723, ItemNum = 3 }
 		}
@@ -12694,7 +12694,7 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardJEXP = 800000,
+		RewardJEXP = "800000",
 		RewardItemList = {
 			{ ItemID = 25723, ItemNum = 3 }
 		}
@@ -12713,7 +12713,7 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardJEXP = 800000,
+		RewardJEXP = "800000",
 		RewardItemList = {
 			{ ItemID = 25723, ItemNum = 6 }
 		}
@@ -12741,8 +12741,8 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardEXP = 300000,
-		RewardJEXP = 300000,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
 		RewardItemList = {
 			{ ItemID = 25669, ItemNum = 5 },
 			{ ItemID = 25723, ItemNum = 1 }
@@ -12759,8 +12759,8 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardEXP = 300000,
-		RewardJEXP = 300000,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
 		RewardItemList = {
 			{ ItemID = 25669, ItemNum = 5 },
 			{ ItemID = 25723, ItemNum = 1 }
@@ -12777,8 +12777,8 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardEXP = 300000,
-		RewardJEXP = 300000,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
 		RewardItemList = {
 			{ ItemID = 25669, ItemNum = 5 },
 			{ ItemID = 25723, ItemNum = 1 }
@@ -12795,8 +12795,8 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardEXP = 300000,
-		RewardJEXP = 300000,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
 		RewardItemList = {
 			{ ItemID = 25669, ItemNum = 5 },
 			{ ItemID = 25723, ItemNum = 1 }
@@ -12813,8 +12813,8 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardEXP = 300000,
-		RewardJEXP = 300000,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
 		RewardItemList = {
 			{ ItemID = 25669, ItemNum = 5 },
 			{ ItemID = 25723, ItemNum = 1 }
@@ -12831,8 +12831,8 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardEXP = 300000,
-		RewardJEXP = 300000,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
 		RewardItemList = {
 			{ ItemID = 25669, ItemNum = 5 },
 			{ ItemID = 25723, ItemNum = 1 }
@@ -12849,8 +12849,8 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardEXP = 300000,
-		RewardJEXP = 300000,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
 		RewardItemList = {
 			{ ItemID = 25669, ItemNum = 5 },
 			{ ItemID = 25723, ItemNum = 1 }
@@ -12867,8 +12867,8 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardEXP = 300000,
-		RewardJEXP = 300000,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
 		RewardItemList = {
 			{ ItemID = 25669, ItemNum = 5 },
 			{ ItemID = 25723, ItemNum = 1 }
@@ -12885,8 +12885,8 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardEXP = 300000,
-		RewardJEXP = 300000,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
 		RewardItemList = {
 			{ ItemID = 25669, ItemNum = 5 },
 			{ ItemID = 25723, ItemNum = 1 }
@@ -12903,8 +12903,8 @@ QuestInfoList = {
 		NpcNavi = "sp_rudus",
 		NpcPosX = 130,
 		NpcPosY = 200,
-		RewardEXP = 300000,
-		RewardJEXP = 300000,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
 		RewardItemList = {
 			{ ItemID = 25669, ItemNum = 5 },
 			{ ItemID = 25723, ItemNum = 1 }
@@ -18613,8 +18613,8 @@ QuestInfoList = {
 			"리벨리온 대원 일부는 격벽 너머에서 들려오는 소리의 정체를 밝히기 위해 이미 움직였다. 루키는 소리의 근원이 괴물이라면 멋지게 해치워 달라고 했다."
 		},
 		Summary = "괴물 사냥",
-		RewardEXP = 800000,
-		RewardJEXP = 800000,
+		RewardEXP = "800000",
+		RewardJEXP = "800000",
 		RewardItemList = {
 			{ ItemID = 25723, ItemNum = 15 }
 		}
@@ -18658,7 +18658,7 @@ QuestInfoList = {
 			"연구소의 경호 1팀과 관련된 자료입니다."
 		},
 		Summary = "테스에게 보고",
-		RewardEXP = 200000,
+		RewardEXP = "200000",
 		RewardJEXP = 200000
 	},
 	[7864] = {
@@ -18684,8 +18684,8 @@ QuestInfoList = {
 			"총알 탄 야옹이'로 돌아가 <NAVI>[테스]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>에게 연구소의 전말을 보고해야 한다."
 		},
 		Summary = "테스와 대화",
-		RewardEXP = 1000000,
-		RewardJEXP = 800000,
+		RewardEXP = "1000000",
+		RewardJEXP = "800000",
 		RewardItemList = {
 			{ ItemID = 25669, ItemNum = 25 }
 		}
@@ -18697,7 +18697,7 @@ QuestInfoList = {
 			"특수경계지역 코르의 <NAVI>[유슬란]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>은 오스 내부에서 등장하는 하트헌터 벨라레와 사나레의 처치를 부탁했다."
 		},
 		Summary = "하트헌터 처치",
-		RewardEXP = 200000,
+		RewardEXP = "200000",
 		RewardJEXP = 200000
 	},
 	[7868] = {
@@ -28665,7 +28665,7 @@ QuestInfoList = {
 			"특별한 것은 보이지 않는다. 리벨리온 대원에게 돌아가자."
 		},
 		Summary = "리벨리온 대원과 대화",
-		RewardEXP = 100000,
+		RewardEXP = "100000",
 		RewardJEXP = 100000
 	},
 	[11600] = {
@@ -28675,7 +28675,7 @@ QuestInfoList = {
 			"길이 막혀 있다는 폐광 안쪽을 살펴보자."
 		},
 		Summary = "안으로",
-		RewardEXP = 600000,
+		RewardEXP = "600000",
 		RewardJEXP = 600000
 	},
 	[11601] = {
@@ -28701,7 +28701,7 @@ QuestInfoList = {
 			"디엔의 부적을 찾았다. 다시 디엔에게 돌아가자."
 		},
 		Summary = "다시 디엔에게",
-		RewardEXP = 200000,
+		RewardEXP = "200000",
 		RewardJEXP = 100000
 	},
 	[11604] = {
@@ -40655,6 +40655,117 @@ QuestInfoList = {
 		},
 		Summary = "왕실 사냥대회 참가시험"
 	},
+	[16388] = {
+		Title = "최초의 여로",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"버추얼 레코드 해석에 처음 참가하였다."
+		},
+		Summary = "첫 해석 참가"
+	},
+	[16389] = {
+		Title = "최초의 여로-탐사 거절",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"버추얼 레코드 해석에 참가하기를 거절했다."
+		},
+		Summary = "해석 참가 거절"
+	},
+	[16390] = {
+		Title = "원정의 여로-대기",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 후 다시 받아 수행할 수 있습니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[16391] = {
+		Title = "???",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"?????"
+		},
+		Summary = "???"
+	},
+	[16392] = {
+		Title = "원정의 여로-보상",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"해석 참가 보상을 획득하였다."
+		},
+		Summary = "보상 획득"
+	},
+	[16393] = {
+		Title = "원정의 여로-검사 실험실",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"검사 실험실 탐사에 참가하였다."
+		},
+		Summary = "검사 실험실 탐사"
+	},
+	[16394] = {
+		Title = "원정의 여로-복사 실험실",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"복사 실험실 탐사에 참가하였다."
+		},
+		Summary = "복사 실험실 탐사"
+	},
+	[16395] = {
+		Title = "원정의 여로-도둑 실험실",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"도둑 실험실 탐사에 참가하였다."
+		},
+		Summary = "도둑 실험실 탐사"
+	},
+	[16396] = {
+		Title = "원정의 여로-마술사 실험실",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"마술사 실험실 탐사에 참가하였다."
+		},
+		Summary = "마술사 실험실 탐사"
+	},
+	[16397] = {
+		Title = "원정의 여로-상인 실험실",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"상인 실험실 탐사에 참가하였다."
+		},
+		Summary = "상인 실험실 탐사"
+	},
+	[16398] = {
+		Title = "원정의 여로-궁수 실험실",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"궁수 실험실 탐사에 참가하였다."
+		},
+		Summary = "궁수 실험실 탐사"
+	},
+	[16399] = {
+		Title = "탐사의 여로",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"탐사 모드로 버추얼 레코드 해석에 참가하였다."
+		},
+		Summary = "탐사 모드 진행",
+		RewardItemList = {
+			{ ItemID = 25787, ItemNum = 2 }
+		}
+	},
+	[16400] = {
+		Title = "전투의 여로",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"전투 모드로 버추얼 레코드 해석에 참가하였다."
+		},
+		Summary = "전투 모드 진행",
+		RewardItemList = {
+			{ ItemID = 25787, ItemNum = 5 },
+			{ ItemID = 25786, ItemNum = 3 }
+		}
+	},
 	[17000] = {
 		Title = "대화 거부",
 		IconName = "ico_ep.bmp",
@@ -40678,7 +40789,7 @@ QuestInfoList = {
 			"카야 토스씨는 잠시 생각할 시간이 필요한 것 같다. <NAVI>[레이지]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>씨에게 돌아가 이에 대해 의논해 보자."
 		},
 		Summary = "레이지씨와 대화",
-		RewardEXP = 300000,
+		RewardEXP = "300000",
 		RewardJEXP = 300000
 	},
 	[17003] = {
@@ -40704,7 +40815,7 @@ QuestInfoList = {
 			"이 여정은 <NAVI>[팩씨의 집]<INFO>lighthalzen,336,266,0,101,0</INFO></NAVI>이 있는 빈민가에서부터 시작합니다."
 		},
 		Summary = "팩씨의 집으로",
-		RewardEXP = 300000,
+		RewardEXP = "300000",
 		RewardJEXP = 300000
 	},
 	[17006] = {
@@ -40770,8 +40881,8 @@ QuestInfoList = {
 			"패트릭씨가 갔다던 <NAVI>[신설 연구소]<INFO>ein_fild01,95,146,0,101,0</INFO></NAVI>의 위치는... 아인브로크 산맥의 01구역 95-146번지이네요."
 		},
 		Summary = "아인브로크 외곽으로",
-		RewardEXP = 600000,
-		RewardJEXP = 600000,
+		RewardEXP = "600000",
+		RewardJEXP = "600000",
 		RewardItemList = {
 			{ ItemID = 25723, ItemNum = 20 }
 		}
@@ -40817,7 +40928,7 @@ QuestInfoList = {
 			"<NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>씨는 카야 토스씨에게 긴히 보고할 일이 있다고 한다."
 		},
 		Summary = "아스씨에게",
-		RewardEXP = 300000,
+		RewardEXP = "300000",
 		RewardJEXP = 300000
 	},
 	[17019] = {
@@ -40852,7 +40963,7 @@ QuestInfoList = {
 			"사람을 찾는다면 세탁물을 관리하던 <NAVI>[사람]<INFO>sp_cor,151,180,0,101,0</INFO></NAVI>한테 가 봐요. 오래 있었으니까. 발이 무척 넓거든요."
 		},
 		Summary = "세탁물 담당자에게",
-		RewardEXP = 300000,
+		RewardEXP = "300000",
 		RewardJEXP = 300000
 	},
 	[17023] = {
@@ -40878,7 +40989,7 @@ QuestInfoList = {
 			"<NAVI>[어디선가]<INFO>sp_rudus,15,280,0,101,0</INFO></NAVI> 말소리가 들린다. 찾아가 보자."
 		},
 		Summary = "소리를 따라",
-		RewardEXP = 300000,
+		RewardEXP = "300000",
 		RewardJEXP = 300000
 	},
 	[17026] = {
@@ -40936,8 +41047,8 @@ QuestInfoList = {
 			"쓰레기 더미에 파묻혀 있던 팔찌 하나를 파냈다. 이것을 가지고 <NAVI>[카야]<INFO>sp_cor,136,146,0,101,0</INFO></NAVI>씨에게로 돌아 가자."
 		},
 		Summary = "카야 토스씨에게",
-		RewardEXP = 600000,
-		RewardJEXP = 600000,
+		RewardEXP = "600000",
+		RewardJEXP = "600000",
 		RewardItemList = {
 			{ ItemID = 25723, ItemNum = 20 }
 		}
@@ -40957,8 +41068,8 @@ QuestInfoList = {
 			"그럼 돌로르라 불리는 실험체 20분들께 안식을 드리고, 실험체용 식별 팔찌 10개를 부탁드립니다. - <NAVI>[아스]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>"
 		},
 		Summary = "실험체용 식별 팔찌 20",
-		RewardEXP = 300000,
-		RewardJEXP = 300000,
+		RewardEXP = "300000",
+		RewardJEXP = "300000",
 		RewardItemList = {
 			{ ItemID = 25723, ItemNum = 1 },
 			{ ItemID = 25669, ItemNum = 5 }
@@ -40987,6 +41098,182 @@ QuestInfoList = {
 			"하루에 한 번 무료로 시간의 수호자 로브에 부여 된 속성 교체를 할 수 있어요. <NAVI>[속성 부여 담당자]<INFO>prontera,154,279,0,101,0,</INFO></NAVI>"
 		},
 		Summary = "04시 초기화"
+	},
+	[17137] = {
+		Title = "눈꽃다발 만들기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"눈꽃다발을 만들고 싶으시다고요? 그럼 눈동자가 주는 <ITEM>[마력의 눈꽃]<INFO>25425</INFO></ITEM> 10개를 가지고 다시 <NAVI>[이곳]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>으로 오세요."
+		},
+		Summary = "마력의 눈꽃 10개"
+	},
+	[17138] = {
+		Title = "눈꽃다발 만들기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"눈꽃다발 만들기 이벤트는 앞으로 <NAVI>[환상의 눈꽃술사]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>가 담당하게 될 겁니다. 관심이 있으면 찾아가 보세요."
+		},
+		Summary = "환상의 눈꽃술사에게"
+	},
+	[17139] = {
+		Title = "따뜻한 겨울나기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"눈이 내리지 않는 지역에는 흰 눈을, 추운 지역에는 따뜻한 솜옷을! 따뜻한 겨울나기를 돕고 싶으시다면 <NAVI>[코티]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>와 울시를 찾아가 보세요."
+		},
+		Summary = "코티에게"
+	},
+	[17140] = {
+		Title = "축제 카드 교환",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"당신의 선물상자에서 특별한 카드를 찾으셨다고요? 그럼 <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>과 블링에게 가지고 가세요. 특별한 선물을 받으실 수 있을 겁니다."
+		},
+		Summary = "트윙클에게"
+	},
+	[17141] = {
+		Title = "행사 준비자들",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"축제를 준비하신 분들을 만나 행사의 뒷이야기를 들어보시는 것은 어떨까요? 눈 동자 사육사 <NAVI>[유진]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>님이 마침 와계세요."
+		},
+		Summary = "유진에게"
+	},
+	[17142] = {
+		Title = "눈꽃다발 만들기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"눈꽃다발을 만들기 위해서는 <ITEM>[마력의 눈꽃]<INFO>25425</INFO></ITEM> 10개가 필요해요. 눈사람들이 코에 장식할 당근도 원하고 있으니 <ITEM>[당근]<INFO>515</INFO></ITEM> 1개도 잊지 마시고요. - <NAVI>[마린]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
+		},
+		Summary = "눈꽃 10개, 당근 1개"
+	},
+	[17143] = {
+		Title = "대기: 냉기가 남아있다",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"아직 마력의 눈꽃 효력이 남아 있어요. 새벽이 지난 후에 다시 찾아 주세요. - <NAVI>[마린]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[17144] = {
+		Title = "따뜻한 겨울나기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"눈이 오지 않는 어린이들에겐 눈을! 추운 지역의 어린이들에겐 따뜻한 솜옷을! <NAVI>[저희]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>에게 <ITEM>[따뜻한 솜]<INFO>25426</INFO></ITEM> 10개를 기부해 주세요!"
+		},
+		Summary = "따뜻한 솜 10개"
+	},
+	[17145] = {
+		Title = "대기: 솜은 포장 중",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"솜은 지금 포장 중이에요. 새벽무렵에는 포장이 끝날 것 같은데 새벽이 지난 후에 다시 찾아 주세요! - <NAVI>[코티]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[17146] = {
+		Title = "축제 카드 교환",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"모험가님의 행운의 단어는 ALDEBARAN!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 A.L.D.E.B.A.R.A.N 낱말 카드를 모아 오시면 돼요. 총 9장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+		},
+		Summary = "ALDEBARAN 카드 모으기"
+	},
+	[17147] = {
+		Title = "축제 카드 교환",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"모험가님의 행운의 단어는 SNOW!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 S.N.O.W 낱말 카드를 모아 오시면 돼요. 총 4장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+		},
+		Summary = "SNOW 카드 모으기"
+	},
+	[17148] = {
+		Title = "축제 카드 교환",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"모험가님의 행운의 단어는 FESTIVAL!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 F.E.S.T.I.V.A.L 낱말 카드를 모아 오시면 돼요. 총 8장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+		},
+		Summary = "FESTIVAL 카드 모으기"
+	},
+	[17149] = {
+		Title = "축제 카드 교환",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"모험가님의 행운의 단어는 SPARKLE!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 S.P.A.R.K.L.E 낱말 카드를 모아 오시면 돼요. 총 7장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+		},
+		Summary = "SPARKLE 카드 모으기"
+	},
+	[17150] = {
+		Title = "대기: 카드 교환은 1일 1회",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"낱말 카드 교환은 1일 1회예요. 아셨죠? 그러니까 새벽이 지난 후에 다시 오세요! - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+		},
+		Summary = "초기화 시간 04시"
+	},
+	[17151] = {
+		Title = "모두가 좋아하진 않아",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[유진]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>과 리겔은 계획이 있다며 좀 더 가까이 모이라고 했다."
+		},
+		Summary = "유진과 대화"
+	},
+	[17152] = {
+		Title = "모두가 좋아하진 않아",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<ITEM>[꽃]<INFO>712</INFO></ITEM> 10송이를 가져다주세요. 게펜에서 <NAVI>[꽃상인]<INFO>geffen,161,83,0,101,0</INFO></NAVI>을 보았으니 그리로 가시면 되겠네요."
+		},
+		Summary = "게펜의 꽃상인"
+	},
+	[17153] = {
+		Title = "모두가 좋아하진 않아",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"리겔씨는 루티에의 <NAVI>[장난감 공장]<INFO>xmas_dun01,128,154,0,101,0</INFO></NAVI>에서 일을 했다고 했다. 그리로 가면 뭔가 찾을 수 있을지도 모른다."
+		},
+		Summary = "루티에 장난감 공장"
+	},
+	[17154] = {
+		Title = "모두가 좋아하진 않아",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"유진씨는 <NAVI>[기차]<INFO>xmas,204,223,0,101,0</INFO></NAVI>를 타고 루티에로 왔다고 했다. 그리로 가면 뭔가 찾을 수 있겠지."
+		},
+		Summary = "루티에 선로"
+	},
+	[17155] = {
+		Title = "모두가 좋아하진 않아",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"꽃 10송이를 가지고 눈꽃 축제장의 <NAVI>[유진]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>씨와 리겔씨에게로 돌아가 설득해보자."
+		},
+		Summary = "유진에게로"
+	},
+	[17156] = {
+		Title = "모두가 좋아하진 않아",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[리겔]<INFO>aldebaran,107,164,0,101,0</INFO></NAVI>씨는 끝까지 계획을 실행할 모양이다. 말릴 방법은 없을까?"
+		},
+		Summary = "리겔과 대화"
+	},
+	[17157] = {
+		Title = "눈 동자 키우기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"마력의 눈꽃을 눈 동자로 길러내려면 깨끗한 물이 필요해요. 성수 5개만 가져다주세요. - <NAVI>[유진]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>"
+		},
+		Summary = "성수 5개"
+	},
+	[17158] = {
+		Title = "대기: 눈 동자 키우기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"가져다 주신 성수로 마력의 눈꽃을 키울 수 있어요. 새벽이 지난 후에 다시 찾아주세요. - <NAVI>[유진]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>"
+		},
+		Summary = "초기화 시간 04시"
 	},
 	[21001] = {
 		Title = "Escape the Wreck",
