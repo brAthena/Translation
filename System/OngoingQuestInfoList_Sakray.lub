@@ -10123,471 +10123,471 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[5402] = {
-		Title = "리하르트 왕가",
+		Title = "The Royal Richard",
 		Description = {
-			"리하르트 왕가의 가주 포와 접견시간을 잡았다. 방 안쪽의 <NAVI>[리하르트 가문의 가주 포]<INFO>prt_cas_q,93,74,0,101,0</INFO></NAVI>에게 가자."
+			"You have made an appointment to meet Po, the head of the Richard family. Go to see Po, the <NAVI>[head of the Richard family]<INFO>prt_cas_q,93,74,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5403] = {
-		Title = "리하르트 왕가",
+		Title = "The Royal Richard",
 		Description = {
-			"이유는 모르겠지만 리하르트 가문의 수련 법을 해달라는 제의를 받았다. 적당한 보수도 지급한다니 한번 해보도록 할까?"
+			"For some reason he has asked you to proceed with the training program of the Richard family. You will be rewarded for it. Why don't you try?"
 		},
 		Summary = ""
 	},
 	[5404] = {
-		Title = "(반복)무사수행-인간형",
+		Title = "(Repeat)Warrior Discipline-Human",
 		Description = {
-			"리하르트 왕가의 무사수행 프로그램 인간형 몬스터 50마리를 잡아서 수행을 하자."
+			"Hunt the 50 human monsters as part of the Warrior Discipline program of the Richard family."
 		},
 		Summary = ""
 	},
 	[5405] = {
-		Title = "(반복)무사수행-동물형",
+		Title = "(Repeat)Warrior Discipline-Animal",
 		Description = {
-			"리하르트 왕가의 무사수행 프로그램 동물형 몬스터 50마리를 잡아서 수행을 하자."
+			"Hunt the 50 animal monsters as part of the Warrior Discipline program of the Richard family."
 		},
 		Summary = ""
 	},
 	[5406] = {
-		Title = "(반복)무사수행-곤충형",
+		Title = "(Repeat)Warrior Discipline-Insect",
 		Description = {
-			"리하르트 왕가의 무사수행 프로그램 곤충형 몬스터 50마리를 잡아서 수행을 하자."
+			"Hunt the 50 insect monsters as part of the Warrior Discipline program of the Richard family."
 		},
 		Summary = ""
 	},
 	[5407] = {
-		Title = "(반복)무사수행-어패형",
+		Title = "(Repeat)Warrior Discipline-Fish",
 		Description = {
-			"리하르트 왕가의 무사수행 프로그램 어패형 몬스터 50마리를 잡아서 수행을 하자."
+			"Hunt the 50 fish monsters as part of the Warrior Discipline program of the Richard family."
 		},
 		Summary = ""
 	},
 	[5408] = {
-		Title = "(반복)무사수행-식물형",
+		Title = "(Repeat)Warrior Discipline-Plant",
 		Description = {
-			"리하르트 왕가의 무사수행 프로그램 식물형 몬스터 50마리를 잡아서 수행을 하자."
+			"Hunt the 50 plant monsters as part of the Warrior Discipline program of the Richard family."
 		},
 		Summary = ""
 	},
 	[5409] = {
-		Title = "(반복)무사수행-악마형",
+		Title = "(Repeat)Warrior Discipline-Devil",
 		Description = {
-			"리하르트 왕가의 무사수행 프로그램 악마형 몬스터 50마리를 잡아서 수행을 하자."
+			"Hunt the 50 demon monsters as part of the Warrior Discipline program of the Richard family."
 		},
 		Summary = ""
 	},
 	[5410] = {
-		Title = "(반복)무사수행-천사형",
+		Title = "(Repeat)Warrior Discipline-Angel",
 		Description = {
-			"리하르트 왕가의 무사수행 프로그램 천사형 몬스터 50마리를 잡아서 수행을 하자."
+			"Hunt the 50 angel monsters as part of the Warrior Discipline program of the Richard family."
 		},
 		Summary = ""
 	},
 	[5411] = {
-		Title = "(반복)무사수행-불사형",
+		Title = "(Repeat)Warrior Discipline-Immortal",
 		Description = {
-			"리하르트 왕가의 무사수행 프로그램 불사형 몬스터 50마리를 잡아서 수행을 하자."
+			"Hunt the 50 undead monsters as part of the Warrior Discipline program of the Richard family."
 		},
 		Summary = ""
 	},
 	[5412] = {
-		Title = "(반복)무사수행-무형",
+		Title = "(Repeat)Warrior Discipline-Intangible",
 		Description = {
-			"리하르트 왕가의 무사수행 프로그램 무형 몬스터 50마리를 잡아서 수행을 하자."
+			"Hunt the 50 nothing monsters as part of the Warrior Discipline program of the Richard family."
 		},
 		Summary = ""
 	},
 	[5413] = {
-		Title = "(반복)무사수행-용족",
+		Title = "(Repeat)Warrior Discipline-Dragon",
 		Description = {
-			"리하르트 왕가의 무사수행 프로그램 용족 몬스터 50마리를 잡아서 수행을 하자."
+			"Hunt the 50 dragon monsters as part of the Warrior Discipline program of the Richard family."
 		},
 		Summary = ""
 	},
 	[5414] = {
-		Title = "(대기)무사수행",
+		Title = "(Stand by)Warrior Discipline",
 		Description = {
-			"리하르트 왕가의 전투훈련은 다음날 아침부터 다시 시작할 수 있다."
+			"You can participate in the training of the Richard family again in tomorrow morning."
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Reset Time 4:00 am"
 	},
 	[5415] = {
-		Title = "출입금지구역",
+		Title = "Restricted Sector",
 		Description = {
-			"왕실 크루세이더 <NAVI>[엘론드 로렌스]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>에게 출입금지구역에 대한 설명을 듣기로 하였다."
+			"You decided to hear about the Restricted Area from Royal Crusader <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5416] = {
-		Title = "출입금지 A구역",
+		Title = "Restricted Sector A",
 		Description = {
-			"A구역의 탐색을 마쳤다. 현재 상황을 <NAVI>[엘론드 로렌스]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>에게 전달하자."
+			"You have finished exploring Sector A. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5417] = {
-		Title = "출입금지 B구역",
+		Title = "Restricted Sector B",
 		Description = {
-			"B구역의 탐색을 마쳤다. 현재 상황을 <NAVI>[엘론드 로렌스]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>에게 전달하자."
+			"You have finished exploring Sector B. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5418] = {
-		Title = "출입금지 C구역",
+		Title = "Restricted Sector C",
 		Description = {
-			"C구역의 탐색을 마쳤다. 현재 상황을 <NAVI>[엘론드 로렌스]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>에게 전달하자."
+			"You have finished exploring Sector C. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5419] = {
-		Title = "출입금지 D구역",
+		Title = "Restricted Sector D",
 		Description = {
-			"D구역의 탐색을 마쳤다. 현재 상황을 <NAVI>[엘론드 로렌스]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>에게 전달하자."
+			"You have finished exploring Sector D. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5420] = {
-		Title = "출입금지 E구역",
+		Title = "Restricted Sector E",
 		Description = {
-			"E구역의 탐색을 마쳤다. 현재 상황을 <NAVI>[엘론드 로렌스]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>에게 전달하자."
+			"You have finished exploring Sector E. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5421] = {
-		Title = "출입금지 F구역",
+		Title = "Restricted Sector F",
 		Description = {
-			"F구역의 탐색을 마쳤다. 현재 상황을 <NAVI>[엘론드 로렌스]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>에게 전달하자."
+			"You have finished exploring Sector F. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5422] = {
-		Title = "출입금지 G구역",
+		Title = "Restricted Sector G",
 		Description = {
-			"G구역의 탐색을 마쳤다. 현재 상황을 <NAVI>[엘론드 로렌스]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>에게 전달하자."
+			"You have finished exploring Sector G. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5423] = {
-		Title = "출입금지 H구역",
+		Title = "Restricted Sector H",
 		Description = {
-			"H구역의 탐색을 마쳤다. 현재 상황을 <NAVI>[엘론드 로렌스]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>에게 전달하자."
+			"You have finished exploring Sector H. Report the current situation to <NAVI>[Ellond Lawrence]<INFO>prt_pri00,51,116,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5424] = {
-		Title = "(완료)출입금지구역",
+		Title = "(Complete)Restricted Sector",
 		Description = {
-			"출입금지구역의 탐색을 마쳤다."
+			"You have finished exploring the Restricted Sector."
 		},
 		Summary = ""
 	},
 	[5425] = {
-		Title = "소중한 동료에게",
+		Title = "To My Beloved Fellow",
 		Description = {
-			"어두운 감옥에서 익숙한 목소리가 들린다면? 무섭기도 하지만 그립기도 할 것이다. 목소리의 출처를 찾아보자."
+			"What if you hear a familiar voice in a dark prison? It may scare you a little, but you would feel somewhat nostalgic. Let's find the source of the voice."
 		},
 		Summary = ""
 	},
 	[5426] = {
-		Title = "(대기)소중한 동료에게",
+		Title = "(Stand by)To My Beloved Fellow",
 		Description = {
-			"옛 동료의 소식을 전했다. 추억에 잠길 수 있는 시간을 주도록 할까?"
+			"You have sent the news of the old friend. Why don't you allow him some time to be lost in old memories?"
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Reset Time 4:00 am"
 	},
 	[5427] = {
-		Title = "(반복)소중한 동료에게",
+		Title = "(Repeat)To My Beloved Fellow",
 		Description = {
-			"주기적인 편지교환은 죄수들의 정신건강에 이롭다. 지하감옥 어딘가에 있을 죄수의 동료에게 편지를 받아다 주자."
+			"Regular exchange of letters is good for the mental health of the prisoners. Get the letter from the friend somewhere in the underground prison."
 		},
 		Summary = ""
 	},
 	[5428] = {
-		Title = "보는 눈이 없군",
+		Title = "Lowly Standards",
 		Description = {
-			"예쁜 눈을 수집하는 듯한 죄수는 건방지게 박쥐날개를 달고 다니는 몬스터의 붉은 눈을 20개 가져다 달라는 부탁을 해왔다. 자존심 싸움이라도 하는 걸까?"
+			"The prisoner who seems to collect pretty eyes has asked you to bring 20 red eyes of the monster boasting batwings. Is it a self-esteem issue?"
 		},
 		Summary = ""
 	},
 	[5429] = {
-		Title = "(대기)보는 눈이 없군",
+		Title = "(Stand by)Lowly Standards",
 		Description = {
-			"죄수는 가져다 준 붉은 눈을 살피느라 정신이 없어 보인다. 이 정도로 얌전해지다니 다음에 또 가져다 주도록 할까?"
+			"The prisoner is infatuated with the red eyes. Why don't you bring more later to calm down the prisoner again?"
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Reset Time 4:00 am"
 	},
 	[5430] = {
-		Title = "(반복)보는 눈이 없군",
+		Title = "(Repeat)Lowly Standards",
 		Description = {
-			"마음에 드는 것이 없다고 다시 구해달라고 한다. 붉은 눈만 주면 얌전해 지니 붉은 눈 20개를 구해다 주자."
+			"The prisoner asked you to go get some more. Let's bring 20 red eyes to calm down the prisoner."
 		},
 		Summary = ""
 	},
 	[5431] = {
-		Title = "청결한 생활",
+		Title = "Clean Life",
 		Description = {
-			"지저분한 지하감옥을 청소하라는 것 같다. 즐거운 마음으로 청소를 하자."
+			"You need to clean the dirty underground prison. Clean with your heart full of joy."
 		},
 		Summary = ""
 	},
 	[5432] = {
-		Title = "청소완료",
+		Title = "Cleaning is complete.",
 		Description = {
-			"지하감옥 청소를 마쳤다. 돌아가 검사를 받도록 할까?"
+			"You have finished cleaning the underground prison. Why don't you go back for a check?"
 		},
 		Summary = ""
 	},
 	[5433] = {
-		Title = "(대기)청결한 생활",
+		Title = "(Stand by)Clean Life",
 		Description = {
-			"아시나요? 지금은 치우는 기쁨 이후 어지럽힘의 재미를 위해 기다리는 시간입니다."
+			"Do you know? It is the time to wait for the fun of making a mess after the joy of cleaning."
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Reset Time 4:00 am"
 	},
 	[5434] = {
-		Title = "(반복)청결한 생활",
+		Title = "(Repeat)Clean Life",
 		Description = {
-			"청소를 하는 즐거움을 느낄 시간입니다. 즐거운 마음으로 지하감옥을 청소합시다."
+			"It is the time to feel the joy of cleaning. Let's clean the underground prison with your heart full of joy."
 		},
 		Summary = ""
 	},
 	[5435] = {
-		Title = "(반복)청소완료",
+		Title = "(Repeat)Cleaning is complete.",
 		Description = {
-			"지하감옥 청소를 마쳤다. 돌아가 검사를 받도록 할까?"
+			"You have finished cleaning the underground prison. Why don't you go back for a check?"
 		},
 		Summary = ""
 	},
 	[5436] = {
-		Title = "어둡다 인간",
+		Title = "Finding Lights",
 		Description = {
-			"이 죄수는 어두운걸 병적으로 싫어하는 모양이다. 감옥의 커다란 횃불에서 밝을 불빛을 구해다 주자."
+			"This prisoner seems to hate darkness. Let's bring a bright light from the huge torch in this prison."
 		},
 		Summary = ""
 	},
 	[5437] = {
-		Title = "(대기)어둡다 인간",
+		Title = "(Stand by)Finding Lights",
 		Description = {
-			"당장은 밝은 불빛에 만족하는 모양이다. 불빛이 사그라질 때쯤 다시 구해주도록 할까?"
+			"He seems to be satisfied with the bright light. Let's bring him once more when the light is about to subside."
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Reset Time 4:00 am"
 	},
 	[5438] = {
-		Title = "(반복)어둡다 인간",
+		Title = "(Repeat)Finding Lights",
 		Description = {
-			"이번에도 감옥의 커다란 횃불에서 밝을 불빛을 구해다 주자."
+			"Let's bring a bright light again from the huge torch in this prison."
 		},
 		Summary = ""
 	},
 	[5439] = {
-		Title = "상쾌한 감옥생활",
+		Title = "Refreshing Prison Life",
 		Description = {
-			"죄수는 눅눅한 감옥공기에 불쾌감을 드러내고 있다. 죄수의 쾌적한 감옥생활을 위해 제습기 20개를 구해다 주자."
+			"The prisoner seems uncomfortable in the humid prison. Bring 20 Dehumidifier for the pleasant jail life of the prisoner."
 		},
 		Summary = ""
 	},
 	[5440] = {
-		Title = "(대기)상쾌한 감옥생활",
+		Title = "(Stand by)Refreshing Prison Life",
 		Description = {
-			"습기가 뿜어져 나오는 감옥의 특성상 가져다 준 제습기가 언제 명을 다할 지 모른다. 제습기가 소모될 때쯤 다시 구해다 주도록 하자."
+			"Since the prison is a humid place, the Dehumidifiers would run out sooner or later. Bring more when they run out."
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Reset Time 4:00 am"
 	},
 	[5441] = {
-		Title = "(반복)상쾌한 감옥생활",
+		Title = "(Repeat)Refreshing Prison Life",
 		Description = {
-			"생각했던 대로 제습기가 오래 버티지 못한다. 다시 제습기를 20개 구해주자."
+			"As expected, the Dehumidifiers didn't last long. Bring 20 Dehumidifiers again."
 		},
 		Summary = ""
 	},
 	[5442] = {
-		Title = "어둠을 억누르는",
+		Title = "Suppressing Darkness",
 		Description = {
-			"꽃은 어둠뿐만 아니라 마음까지도 진정시키는 효과가 있는 모양이다. 꽃 한 송이를 가져다 주자."
+			"A flower not only brighten up the darkness but also brings peace to a mind. Bring a flower."
 		},
 		Summary = ""
 	},
 	[5443] = {
-		Title = "(대기)어둠을 억누르는",
+		Title = "(Stand by)Suppressing Darkness",
 		Description = {
-			"당장은 잠잠해진 어둠이자만 언제 다시 날뛸지 모른다. 때가 되면 다시 도와줘야 할 것 같다."
+			"The darkness has been calmed down, but it may become unruly again. When the time comes, I may have to bring another flower."
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Reset Time 4:00 am"
 	},
 	[5444] = {
-		Title = "(반복)어둠을 억누르는",
+		Title = "(Repeat)Suppressing Darkness",
 		Description = {
-			"다시 날뛰는 어둠에 괴로워하고 있다. 꽃 한 송이를 가져다 주자. 이번엔 어떤 꽃이 좋을까?"
+			"Darkness is raging again. Bring a flower. Which flower should I bring this time?"
 		},
 		Summary = ""
 	},
 	[5445] = {
-		Title = "작은데 신경 쓰여",
+		Title = "Bothersome Little Thing",
 		Description = {
-			"뿔에 튀어나온 것이라니 뿔이 없어서 잘은 모르겠지만 무척 신경 쓰이는 모양이다. 태피를 잡아 샌드페이퍼 20개를 구해주자."
+			"Little bump on the horn... I can't understand since don't have a horn, but I guess it is supposed to be a bothersome thing. Let's bring 20 pieces of Sandpaper by hunting the Taffies."
 		},
 		Summary = ""
 	},
 	[5446] = {
-		Title = "(대기)작은데 신경 쓰여",
+		Title = "(Stand by)Bothersome Little Thing",
 		Description = {
-			"날 감옥호텔의 직원쯤으로 생각하는 이 죄수는 주기적으로 날 부를 것 같은 기분이 든다."
+			"This prisoner who really seems to think of me as a concierge of this prison hotel may call me regularly."
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Reset Time 4:00 am"
 	},
 	[5447] = {
-		Title = "(반복)작은데 신경 쓰여",
+		Title = "(Repeat)Bothersome Little Thing",
 		Description = {
-			"샌드페이퍼가 계속해서 필요한 이유가 뭘까? 일단 구해달라고 하니 태피를 잡아 샌드페이퍼 20개를 구해주자."
+			"Why does he need more pieces of Sandpaper? Since he asks, hunt Taffies and bring 20 pieces of Sandpaper."
 		},
 		Summary = ""
 	},
 	[5448] = {
-		Title = "경비대장의 부탁",
+		Title = "Request from Chief Guard",
 		Description = {
-			"프론테라 경비대장 슈피겔이 지도에 표시해 준 곳에서 곤란을 겪고 있는 <NAVI>[마을주민]<INFO>prt_q,221,193,0,101,0</INFO></NAVI>을 만나면 도와달라는 부탁을 받았다."
+			"Prontera Chief Guard Spiegel asked you to help the <NAVI>[villagers]<INFO>prt_q,221,193,0,101,0</INFO></NAVI> in distress in the places marked on the map."
 		},
 		Summary = ""
 	},
 	[5449] = {
-		Title = "경비대장의 부탁",
+		Title = "Request from Chief Guard",
 		Description = {
-			"프론테라 경비대장 슈피겔이 지도에 표시해 준 곳에서 곤란을 겪고 있는 <NAVI>[마을주민]<INFO>prt_q,276,242,0,101,0</INFO></NAVI>을 만나면 도와달라는 부탁을 받았다."
+			"Prontera Chief Guard Spiegel asked you to help the <NAVI>[villagers]<INFO>prt_q,276,242,0,101,0</INFO></NAVI> in distress in the places marked on the map."
 		},
 		Summary = ""
 	},
 	[5450] = {
-		Title = "경비대장의 부탁",
+		Title = "Request from Chief Guard",
 		Description = {
-			"프론테라 경비대장 슈피겔이 지도에 표시해 준 곳에서 곤란을 겪고 있는 <NAVI>[마을주민]<INFO>prt_q,140,304,0,101,0</INFO></NAVI>을 만나면 도와달라는 부탁을 받았다."
+			"Prontera Chief Guard Spiegel asked you to help the <NAVI>[villagers]<INFO>prt_q,140,304,0,101,0</INFO></NAVI> in distress in the places marked on the map."
 		},
 		Summary = ""
 	},
 	[5451] = {
-		Title = "경비대장의 부탁",
+		Title = "Request from Chief Guard",
 		Description = {
-			"프론테라 경비대장 슈피겔이 지도에 표시해 준 곳에서 곤란을 겪고 있는 <NAVI>[마을주민]<INFO>prt_q,38,261,0,101,0</INFO></NAVI>을 만나면 도와달라는 부탁을 받았다."
+			"Prontera Chief Guard Spiegel asked you to help the <NAVI>[villagers]<INFO>prt_q,38,261,0,101,0</INFO></NAVI> in distress in the places marked on the map."
 		},
 		Summary = ""
 	},
 	[5452] = {
-		Title = "(대기) 경비대장의 부탁",
+		Title = "[Stand by]Request from Chief Guard",
 		Description = {
-			"프론테라 주민을 도왔다. 당분간은 마을을 돌며 언데드 처치에 힘써야 할 것 같다."
+			"You helped the villager of Prontera. For a while, you need to walk around the town working on defeating the undead."
 		},
 		Summary = ""
 	},
 	[5453] = {
-		Title = "구해줬더니 보따리를(1)",
+		Title = "Ungrateful(1)",
 		Description = {
-			"두려움의 떨고 있는 마을청년을 만났다. 우선 마을청년을 인근 대피건물인 <NAVI>[동사무소]<INFO>prt_q,79,96,0,101,0</INFO></NAVI>로 데려다 주자."
+			"You met a village lad trembling from fear. First of all, take the village lad to the <NAVI>[village office]<INFO>prt_q,79,96,0,101,0</INFO></NAVI> which is the nearest shelter."
 		},
 		Summary = ""
 	},
 	[5454] = {
-		Title = "구해줬더니 보따리를(2)",
+		Title = "Ungrateful(2)",
 		Description = {
-			"마을청년을 인근 대피건물까지 데려다 주자 <NAVI>[제련소]<INFO>prt_q,178,185,0,101,0</INFO></NAVI> 부근에서 잃어버린 자신의 도구가방을 찾아달라고 한다."
+			"When you took the village lad to the nearby shelter, he asked you to find a Tool Bag which he lost near the <NAVI>[Smelter]<INFO>prt_q,178,185,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5455] = {
-		Title = "구해줬더니 보따리를(3)",
+		Title = "Ungrateful(3)",
 		Description = {
-			"프론테라 제련소 앞에서 <NAVI>[마을청년]<INFO>prt_q,77,98,0,101,0</INFO></NAVI>이 잃어버린 도구가방을 찾았다."
+			"You found the lost Tool Bag of the <NAVI>[village lad]<INFO>prt_q,77,98,0,101,0</INFO></NAVI> in front of the Prontera Smelter."
 		},
 		Summary = ""
 	},
 	[5456] = {
-		Title = "구해줬더니 보따리를(4)",
+		Title = "Ungrateful(4)",
 		Description = {
-			"마을청년의 도구가방을 무사히 전달했다. 찜찜하지만 좋은 일을 했으니 넘어가도록 할까?"
+			"You delivered the Tool Bag of the village lad safely. You don't feel so good about it, but let's move on since you have done a good thing."
 		},
 		Summary = ""
 	},
 	[5457] = {
-		Title = "언니를 찾아주세요(1)",
+		Title = "Find My Sister(1)",
 		Description = {
-			"언니를 잃어버리고 울고 있는 소녀를 인근 대피건물인 <NAVI>[성당]<INFO>prt_q,232,318,0,101,0</INFO></NAVI>으로 데려다 주자."
+			"Take the girl who was crying after losing her sister to the <NAVI>[cathedral]<INFO>prt_q,232,318,0,101,0</INFO></NAVI> which is the nearest shelter."
 		},
 		Summary = ""
 	},
 	[5458] = {
-		Title = "언니를 찾아주세요(2)",
+		Title = "Find My Sister(2)",
 		Description = {
-			"소녀를 언니와 만나게 해주기 위해 다른 대피건물인 <NAVI>[기사단]<INFO>prt_q,52,340,0,101,0</INFO></NAVI> 건물로 데려다 주자."
+			"Take the girl to her sister in the <NAVI>[Knight's building]<INFO>prt_q,52,340,0,101,0</INFO></NAVI> which is another shelter."
 		},
 		Summary = ""
 	},
 	[5459] = {
-		Title = "언니를 찾아주세요(3)",
+		Title = "Find My Sister(3)",
 		Description = {
-			"언니와 떨어져 울고 있던 소녀를 언니와 만나게 해줬다."
+			"You helped the girl who was crying after being separated from her sister meet her sister."
 		},
 		Summary = ""
 	},
 	[5460] = {
-		Title = "대책 없는 허풍(1)",
+		Title = "Blatant Bluff(1)",
 		Description = {
-			"군인을 인근 대피건물인 <NAVI>[기사단]<INFO>prt_q,52,340,0,101,0</INFO></NAVI>까지 데려다 주자."
+			"Take the solder to the <NAVI>[Knight's building]<INFO>prt_q,52,340,0,101,0</INFO></NAVI> which is the nearest shelter."
 		},
 		Summary = ""
 	},
 	[5461] = {
-		Title = "대책 없는 허풍(2)",
+		Title = "Blatant Bluff(2)",
 		Description = {
-			"기사단건물에 있어도 될 것 같지만 굳이 다른 곳을 지원 가겠다고 한다. 원하는 대로 <NAVI>[동사무소]<INFO>prt_q,79,96,0,101,0</INFO></NAVI>까지 함께 가자."
+			"He could have stayed in the Knight's building, but he insisted to go to another place to back up. Let's take him to the <NAVI>[village office]<INFO>prt_q,79,96,0,101,0</INFO></NAVI> as he wishes."
 		},
 		Summary = ""
 	},
 	[5462] = {
-		Title = "대책 없는 허풍(3)",
+		Title = "Blatant Bluff(3)",
 		Description = {
-			"게펜에서 온 듯한 허풍이 심한 군인은 왜 프론테라에 와있던 것일까? 일단 도움을 줬다는데 의의를 두도록 할까?"
+			"Why is this bluffer solder from Geffen in Prontera? Let's regard it as meaningful to have helped him."
 		},
 		Summary = ""
 	},
 	[5463] = {
-		Title = "아내사랑(1)",
+		Title = "Mad Love for Wife(1)",
 		Description = {
-			"에류스의 아내를 찾아주기로 약속했다. 우선은 안전한 <NAVI>[성당]<INFO>prt_q,232,318,0,101,0</INFO></NAVI>으로 에류스를 데려다 주자."
+			"You promised to find the wife of Eryus. Let's take Eryus to the safe <NAVI>[cathedral]<INFO>prt_q,232,318,0,101,0</INFO></NAVI>."
 		},
 		Summary = ""
 	},
 	[5464] = {
-		Title = "아내사랑(2)",
+		Title = "Mad Love for Wife(2)",
 		Description = {
-			"에류스는 프론테라 <NAVI>[직업소개소]<INFO>prt_q,108,164,0,101,0</INFO></NAVI> 부근에서 아내와 헤어졌다고 한다. 직업소개소 부근을 먼저 살펴보도록 하자."
+			"Eryus told you that he had lost his wife near the <NAVI>[Prontera employment agency]<INFO>prt_q,108,164,0,101,0</INFO></NAVI>. Let's go find her near the employment agency."
 		},
 		Summary = ""
 	},
 	[5465] = {
-		Title = "아내사랑(3)",
+		Title = "Mad Love for Wife(3)",
 		Description = {
-			"에류스의 아내인 엘리를 만났다. 몸이 약하다고 하니 안전한 <NAVI>[성당]<INFO>prt_q,232,318,0,101,0</INFO></NAVI>으로 빨리 데려가자."
+			"You met Ellie. the wife of Eryus. Since she is a fragile woman, let's take her to the safe <NAVI>[cathedral]<INFO>prt_q,232,318,0,101,0</INFO></NAVI> fast."
 		},
 		Summary = ""
 	},
 	[5466] = {
-		Title = "아내사랑(4)",
+		Title = "Mad Love for WifeQuest(4)",
 		Description = {
-			"엘리는 긴장이 풀어진 듯 병세가 갑자기 심각해 진 것 같다. 엘리를 <NAVI>[만났던 곳]<INFO>prt_q,108,164,0,101,0</INFO></NAVI>으로 가서 잃어버린 약을 찾아보자."
+			"Ellie's illness seems to have worsened as she loosen up a little. Go to the place <NAVI>[where you have met]<INFO>prt_q,108,164,0,101,0</INFO></NAVI> Ellie and look for her lost medicine."
 		},
 		Summary = ""
 	},
 	[5467] = {
-		Title = "아내사랑(5)",
+		Title = "Mad Love for WifeQuest(5)",
 		Description = {
-			"약을 찾았다. <NAVI>[엘리]<INFO>prt_q,232,318,0,101,0</INFO></NAVI>의 병세가 더 악화되기 전에 빨리 가져다 주자."
+			"You found the medicine. Take it to <NAVI>[Ellie]<INFO>prt_q,232,318,0,101,0</INFO></NAVI> before her illness takes a serious turn."
 		},
 		Summary = ""
 	},
 	[5468] = {
-		Title = "아내사랑(6)",
+		Title = "Mad Love for Wife(6)",
 		Description = {
-			"아내를 끔찍이도 챙기는 에류스 부부를 도왔다. 오랜만에 다정한 부부를 본 것 같아 기분이 좋아졌다."
+			"You have helped the couple, Ellie and Eryus, who seem to be deeply in love. You are happy to see the true lovebirds in a long while."
 		},
 		Summary = ""
 	},
@@ -17542,186 +17542,186 @@ QuestInfoList = {
 		Summary = "아침에 초기화 됩니다."
 	},
 	[7681] = {
-		Title = "왕궁연회 초청장",
+		Title = "Invitation to Royal Banquet",
 		Description = {
-			"극악무도한 모로크를 퇴치하기 위해 이계 -애쉬-바쿰- 원정에 떠났던 모든 이의 희생과 수고를 기리고 치하하기 위해 프론테라 궁에서 연회를 여니 모두 참석해 주시기 바랍니다."
+			"A banquet is held at the Prontera Palace to honor the sacrifice made by those who went on with the expedition mission in Ash-Bakum to eliminate atrocious Morocc and praise their dedication. All of you are invited to this banquet."
 		},
-		Summary = "프론테라 궁 방문"
+		Summary = "Visit Prontera Palace"
 	},
 	[7682] = {
-		Title = "사교의 시작은 눈도장부터",
+		Title = "Socializing Starts from an Eye Contact",
 		Description = {
-			"연회에 앞 서 일곱 왕가를 방문해 인사를 나누자. 서쪽 별궁은 <NAVI>[하이네]<INFO>prt_cas_q,19,85,0,101,0</INFO></NAVI>, <NAVI>[네리우스]<INFO>prt_cas_q,20,139,0,101,0</INFO></NAVI>, <NAVI>[발터]<INFO>prt_cas_q,14,184,0,101,0</INFO></NAVI> 오른쪽 별궁은 <NAVI>[포 리하르트]<INFO>prt_cas_q,93,74,0,101,0</INFO></NAVI>, <NAVI>[위그너]<INFO>prt_cas_q,82,21,0,101,0</INFO></NAVI>, <NAVI>[뢰겐부르그]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI>, <NAVI>[게오보르그]<INFO>prt_cas_q,93,129,0,101,0</INFO></NAVI>가가 있다고 한다."
+			"Visit the seven royal families to exchange greetings. There are the <NAVI>[Heine]<INFO>prt_cas_q,19,85,0,101,0</INFO></NAVI>, <NAVI>[Nerius]<INFO>prt_cas_q,20,139,0,101,0</INFO></NAVI> and <NAVI>[Walther]<INFO>prt_cas_q,14,184,0,101,0</INFO></NAVI> families in the West Villa, and there are the <NAVI>[Richard]<INFO>prt_cas_q,93,74,0,101,0</INFO></NAVI>, <NAVI>[Wigner]<INFO>prt_cas_q,82,21,0,101,0</INFO></NAVI>, <NAVI>[Roegenburg]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI> and <NAVI>[Geoborg]<INFO>prt_cas_q,93,129,0,101,0</INFO></NAVI> families in the East Villa."
 		},
-		Summary = "각 왕가 방문"
+		Summary = "Visit each family"
 	},
 	[7683] = {
-		Title = "하이네가 방문",
+		Title = "Visit the Heines",
 		Description = {
-			"하이네가를 방문하여 인사를 나누었다."
+			"You visited the Heines to exchange greetings."
 		},
 		Summary = ""
 	},
 	[7684] = {
-		Title = "네리우스가 방문",
+		Title = "Visit the Nerius",
 		Description = {
-			"네리우스가를 방문하여 인사를 나누었다."
+			"You visited the Nerius to exchange greetings."
 		},
 		Summary = ""
 	},
 	[7685] = {
-		Title = "다음 일정은 뭐지?",
+		Title = "What Is the Next Thing on the Schedule ?",
 		Description = {
-			"일곱 왕가와 모든 일정을 마쳤다. 다음 일정에 대해 거처로 돌아가 <NAVI>[시종 벨]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>에게 물어보자."
+			"You have completed everything on the schedule. Ask <NAVI>[Chamberlain Bell]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI> in your room about the next thing on the schedule."
 		},
-		Summary = "벨과 대화"
+		Summary = "Talk with Belle"
 	},
 	[7686] = {
-		Title = "니힐과 스키아",
+		Title = "Nyhill and Skia",
 		Description = {
-			"복도에서 니힐, 스키아가 대화를 나누는 장면 목격."
+			"You witnessed the conversation between Nyhill and Skia in the hallway."
 		},
 		Summary = ""
 	},
 	[7687] = {
-		Title = "연회 참석",
+		Title = "Participating in the Banquet",
 		Description = {
-			"여유시간이 있으니 연회에 참석 해 보라는 벨. 연회장에서 네리우스가의 아가씨, <NAVI>[스피카]<INFO>prt_cas,106,240,0,101,0</INFO></NAVI>가 만나주길 청했다고 한다."
+			"Belle asked you to participate in the banquet since you had some time to spare. You were told that <NAVI>[Spica]<INFO>prt_cas,106,240,0,101,0</INFO></NAVI> the lady of the Nerius family wanted to meet you."
 		},
-		Summary = "스피카와 대화"
+		Summary = "Talk with Spica"
 	},
 	[7688] = {
-		Title = "수상한 움직임",
+		Title = "Suspicious Movement",
 		Description = {
-			"연회 참석을 위해 이동하던 중, 객실 쪽에서 낯선 이들의 대화를 들었다."
+			"While moving to take part in the banquet, you heard about the conversation between the strangers in the guest room."
 		},
 		Summary = ""
 	},
 	[7689] = {
-		Title = "니힐을 찾아라",
+		Title = "Find Nyhill",
 		Description = {
-			"아무래도 니힐의 상태가 이상하게 여긴 스키아는 연회 중 먼저 돌아간 니힐을 따라가 달라고 부탁했다."
+			"Skia felt that Nyhill wasn't walking straight. Skia asked you to follow Nyhill who left the banquet early."
 		},
-		Summary = "니힐 추적"
+		Summary = "Follow Nyhill"
 	},
 	[7690] = {
-		Title = "니힐은 어디에?",
+		Title = "Where Is Nyhill?",
 		Description = {
-			"니힐을 찾기 위해 밖으로 나왔다가 수상한 무리의 이야기를 들었다. 니힐은 어디에 있지?"
+			"When you were looking for Nyhill, you eavesdropped on a suspicious conversation. Where is Nyhill?"
 		},
-		Summary = "니힐과 대화"
+		Summary = "Talk with Nyhill"
 	},
 	[7691] = {
-		Title = "의식을 기다리며",
+		Title = "Waiting for the Ritual",
 		Description = {
-			"숙소로 돌아가 <NAVI>[벨]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>과 대화를 하자. 의식을 위해 마법사를 보내준다고 한 것 같은데.."
+			"Go back to the room to talk to <NAVI>[Belle]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>. A magician was supposed to come for the ritual..."
 		},
-		Summary = "벨과 대화"
+		Summary = "Talk with Belle"
 	},
 	[7692] = {
-		Title = "의식 참관",
+		Title = "Attend the Ritual",
 		Description = {
-			"마법사의 안내를 따라 이동 후 의식에 참여"
+			"Participate in the ritual following the lead of the magician."
 		},
-		Summary = "의식 참관"
+		Summary = "Attend the Ritual"
 	},
 	[7693] = {
-		Title = "습격",
+		Title = "Surprise Attack",
 		Description = {
-			"의식이 진행되던 도중 습격을 받았다!"
+			"A surprise attack was casted during the ritual!"
 		},
 		Summary = ""
 	},
 	[7694] = {
-		Title = "나도 볼래 그거",
+		Title = "I'd Like to See that Too",
 		Description = {
-			"다들 나간 뒤, 크로네커가 확인했던 왕가의 문서를 살펴보자."
+			"After everyone leaves, let's take a look at the royal document which Kronecker was looking at"
 		},
-		Summary = "사서와 대화"
+		Summary = "Talk with the Librarian"
 	},
 	[7695] = {
-		Title = "왕가의 기억 탈출",
+		Title = "Escape from the Past Memories of the Royal Family",
 		Description = {
-			"외부로 작동하지 않는 게이트를 대신 해, 비상통로를 이용해 나가야 한다. 앞을 지키고 있는 <NAVI>[수호기사]<INFO>prt_lib,56,61,0,101,0</INFO></NAVI>에게 안내 받으면 될것 같다."
+			"You need to get out of the place through the emergency exit instead of the gate which doesn't work. The <NAVI>[knight guarding]<INFO>prt_lib,56,61,0,101,0</INFO></NAVI> in front of the door may guide you."
 		},
-		Summary = "수호기사와 대화"
+		Summary = "Talk with the Guardian Knight"
 	},
 	[7696] = {
-		Title = "다음은 뭐야?!",
+		Title = "What's Next?",
 		Description = {
-			"이젠 뭘 해야 할지 모르겠다. <NAVI>[벨]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>에게 모든걸 물어보자."
+			"I don't know what to do now. Let's ask <NAVI>[Belle]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>."
 		},
-		Summary = "벨과 대화"
+		Summary = "Talk with Belle"
 	},
 	[7697] = {
-		Title = "네리우스가의 초대",
+		Title = "Invitation from the Nerius",
 		Description = {
-			"<NAVI>[네리우스]<INFO>prt_cas_q,20,139,0,101,0</INFO></NAVI>가로 방문 해 달라는 초대가 와 있었다. <NAVI>[네리우스]<INFO>prt_cas_q,20,139,0,101,0</INFO></NAVI>가를 방문 해 볼까?"
+			"You have been invited to the <NAVI>[Nerius]<INFO>prt_cas_q,20,139,0,101,0</INFO></NAVI> family. Let's go visit the <NAVI>[Nerius]<INFO>prt_cas_q,20,139,0,101,0</INFO></NAVI>."
 		},
-		Summary = "네리우스가 방문"
+		Summary = "Visit the Nerius"
 	},
 	[7698] = {
-		Title = "이젠 하이네",
+		Title = "Heine Now",
 		Description = {
-			"네리우스가에서 이야기를 하던 도중 <NAVI>[하이네]<INFO>prt_cas_q,19,85,0,101,0</INFO></NAVI>가로 와달라는 요청이 왔다."
+			"While talking to the Nerius, the request to visit the <NAVI>[Heines]<INFO>prt_cas_q,19,85,0,101,0</INFO></NAVI> has arrived."
 		},
-		Summary = "하이네가 방문"
+		Summary = "Visit the Heines"
 	},
 	[7699] = {
-		Title = "과거로",
+		Title = "To the Past",
 		Description = {
-			"방에서 닐렘과 함께 왕가의 기억에 차원의 틈새를 연결하여 다녀와 달라는 부탁을 받았다. 닐렘은 어디 있지?"
+			"You have been asked to visit the Past Memories of the Royal Family with Nillem by connecting the gaps in the dimension. Where is Nillem?"
 		},
-		Summary = "닐렘과 대화"
+		Summary = "Talk with Nillem"
 	},
 	[7700] = {
-		Title = "한번 더!",
+		Title = "Once More!",
 		Description = {
-			"닐렘이 억지로 비튼 공간의 틈을 통해 다시한 번 이동한다. 과거 의식의 방에서 무슨 일이 있는가..!"
+			"Move once more through the gap in the dimension which Nillem has twisted by force. What happened in the Room of Consciousness in the past?"
 		},
-		Summary = "의식의 방으로"
+		Summary = "To the Room of Consciousness"
 	},
 	[7701] = {
-		Title = "이미르의 심장 소실",
+		Title = "Lost Imir Heart",
 		Description = {
-			"의식의 방에 있던 진짜 이미르의 심장 조각이 어떻게 소실되었는지 확인하다."
+			"Check what had happened to the actual Imir Heart in the Room of Consciousness."
 		},
 		Summary = ""
 	},
 	[7702] = {
-		Title = "그 시각 프론테라",
+		Title = "Prontera at the Time",
 		Description = {
-			"<NAVI>[과거 프론테라]<INFO>prt_q,156,324,0,101,0</INFO></NAVI>에 언데드 침공이 일어나는 중이라고 한다. 닐렘의 끈질긴 설득 아래 나가보기로 결정했다."
+			"<NAVI>[Prontera]<INFO>prt_q,156,324,0,101,0</INFO></NAVI> has been attacked by the Undead before, and it is taking place right now. You have decided to go out there after a persistent persuasion by Nillem."
 		},
-		Summary = "밖으로"
+		Summary = "To the Outside"
 	},
 	[7703] = {
-		Title = "진실을 아는자",
+		Title = "Who Knows the Truth",
 		Description = {
-			"현실로 돌아가, 문서의 봉인을 해제하고 진실을 알아야 할 시간이 되었다. 모든 것은 왕가의 기억에서."
+			"It is the time to go back to the present time, unseal the document and find out about the truth. Everything lies in the Past Memories of the Royal Family."
 		},
-		Summary = "크로네커와 대화"
+		Summary = "Talk with Kronecker"
 	},
 	[7704] = {
-		Title = "바꿀 수 없는 과거",
+		Title = "Unchangeable Past",
 		Description = {
-			"발키리에게 유린당하는 이미르의 심장조각을 오늘도 지키지 못했다."
+			"I couldn't save the Imir Heart infringed by Valkyrie today either."
 		},
 		Summary = ""
 	},
 	[7705] = {
-		Title = "놓을 수 없는 희망",
+		Title = "Hope You Cannot Let Go",
 		Description = {
-			"될지 안될지 모르지만, 작은 희망을 놓을 수 없다는 바람아래, 과거의 의식의 방으로 다시금 도전해 달라는 부탁을 받았다. 비쥬를 처치하고 이미르의 심장조각을 지켜야 한다."
+			"You are not sure whether it would work or not, but you are asked to challenge again in the Room of Consciousness. Defeat Bijou and defend the piece of Imir Heart."
 		},
-		Summary = "과거 의식의 방"
+		Summary = "Room of Consciousness in the Past"
 	},
 	[7706] = {
-		Title = "닐렘은 만능이 아니야",
+		Title = "Nillem Is Not Almighty",
 		Description = {
-			"다중연결은 닐렘에게도 힘든 일이다. 그가 의식의 방까지 연결 가능한 건 한계가 있는것 같다. 닐렘의 회복을 기다리자."
+			"Multiple connection is a difficult thing even for Nillem. I think there is a certain limit to connect to the Room of Consciousness. Let's wait for Nillem's recovery."
 		},
-		Summary = "04시 초기화"
+		Summary = "Reset at 4 o'clock"
 	},
 	[7711] = {
 		Title = "Beginning",
@@ -18130,95 +18130,95 @@ QuestInfoList = {
 		Summary = "우리 안의 포이즌 스포아 100마리"
 	},
 	[7776] = {
-		Title = "수상한 징조",
+		Title = "Suspicious Sign",
 		Description = {
-			"페이욘의 원로들은 어떤 의식을 치르던 중 사라진 견습 소울링커 '무연'을 걱정하고 있다. 페이욘 동굴 입구에서 '청년 학사'를 만나 무연에 대해 물어보자."
+			"The Elders of Payon are worried about the apprentice Soul Linker, Muyeon, who disappeared during a ritual. I should talk to the young scholar at the entrance to the Payon Cave."
 		},
-		Summary = "청년 학사와 대화"
+		Summary = "Talk to Young Scholar"
 	},
 	[7777] = {
-		Title = "무슨일이 있었나?",
+		Title = "What Happened?",
 		Description = {
-			"무연은 '별궁'으로 돌아가 버렸다. 청년 학사는 별궁으로 돌아간 무연에게서 자세한 이야기를 듣고 싶어 한다."
+			"Muyeon left for the detached palace. The young scholar wants to ask her what happened."
 		},
-		Summary = "무연과 대화"
+		Summary = "Talk to Muyeon"
 	},
 	[7778] = {
-		Title = "무연이 본 것",
+		Title = "What Muyeon Saw",
 		Description = {
-			"무연은 정화 의식 도중 겪은 일로 괴로워 한다. 설명보다 일단 직접 보라는데…"
+			"Muyeon is agitated by something she saw during the purging ritual. She said I should see it for myself."
 		},
-		Summary = "무연과 대화"
+		Summary = "Talk to Muyeon"
 	},
 	[7779] = {
-		Title = "내키지 않는 의식",
+		Title = "Distressing Ritual",
 		Description = {
-			"무연은 문제가 되는 '정화 의식'에 대해 알고 싶다면 직접 체험시켜 줄 수 있다고 한다. 준비가 되면 무연에게 말을 걸자."
+			"Muyeon says she could let me have a first-hand experience of the purging ritual. I'd better brace myself and talk to her."
 		},
-		Summary = "무연과 대화"
+		Summary = "Talk to Muyeon"
 	},
 	[7780] = {
-		Title = "폐가촌에 서린 악몽",
+		Title = "Nightmare in the Ruined Village",
 		Description = {
-			"정화의식 중에 정신을 잃고 떨어진 '페이욘 동굴 폐가촌'에는 '일렁이는 공간'이 존재했다. 이것이 무연이 말한 구체화 된 악몽일까?"
+			"I blacked out during the ritual and arrived at the ruined village inside Payon Cave. Is this shimmering portal in front of me connected to the nightmare that Muyeon told me about?"
 		},
-		Summary = "일렁이는 공간 조사"
+		Summary = "Investigate the shimmering portal"
 	},
 	[7781] = {
-		Title = "폐가촌에 서린 악몽",
+		Title = "Nightmare in the Ruined Village",
 		Description = {
-			"페이요 동굴 폐가촌'에 발생한 '일렁이는 공간' 너머로 청년 학사가 사라져 버렸다…!"
+			"The young scholar was sucked into the shimmering portal in the ruined village inside the Payon Cave."
 		},
-		Summary = "공간 너머의 충해와 대화"
+		Summary = "Talk to Chunghae on the other side of the portal"
 	},
 	[7782] = {
-		Title = "대마법사를 저지하라!",
+		Title = "Stop the Wizard!",
 		Description = {
-			"월야화의 악몽' 던전에서 학사 대충해는 사건의 원흉으로 ^4d4dff진리의 위자드^000000를 지목하며, 처치해 달라고 의뢰했다."
+			"Scholar Chunghae in the Nightmare of the Moonlight Flower dungeon thinks the ^4d4dffWizard of the Truth^000000 is responsible for this incident. He asked me to take care of him."
 		},
-		Summary = "진리의 위자드 1 처치"
+		Summary = "Eliminate 1 Wizard of the Truth"
 	},
 	[7783] = {
-		Title = "대마법사를 저지하라!-대기",
+		Title = "Stop the Wizard! - Pending",
 		Description = {
-			"해당 퀘스트는 일일 퀘스트로, 대기시간이 종료 된 뒤 '월야화의 악몽' 던전에서 '학사 대충해'를 통해 다시 받으실 수 있습니다."
+			"You can re-receive this Daily quest from Scholar Chunghae in the Nightmare of the Moonlight Flower dungeon after it cools down."
 		},
-		Summary = "04시 초기화"
+		Summary = "Reset at 4:00 a.m"
 	},
 	[7784] = {
-		Title = "환영에겐 자비가 없다.",
+		Title = "No Mercy for Illusions",
 		Description = {
-			"월야화의 악몽' 던전에서 병사 신중희는 주변정리를 위해 ^4d4dff분노한 구미호^000000를 처치해 달라고 의뢰했다."
+			"Soldier Junghee in the Nightmare of the Moonlight Flower dungeon asked me to clear the area around him of ^4d4dffAngry Nine Tails^000000."
 		},
-		Summary = "분노한 구미호 처치"
+		Summary = "Eliminate Angry Nine Tails"
 	},
 	[7785] = {
-		Title = "환영에겐 자비가 없다.-대기",
+		Title = "No Mercy for Illusions - Pending",
 		Description = {
-			"해당 퀘스트는 일일 퀘스트로, 대기시간이 종료 된 뒤 '월야화의 악몽' 던전에서 '병사 신중희'를 통해 다시 받으실 수 있습니다."
+			"You can re-receive this Daily quest from Soldier Junghee in the Nightmare of the Moonlight Flower dungeon after it cools down."
 		},
-		Summary = "04시 초기화"
+		Summary = "Reset at 4:00 a.m"
 	},
 	[7786] = {
-		Title = "선조의 넋을 기리며",
+		Title = "Remembering My Ancestors",
 		Description = {
-			"월야화의 악몽' 던전에서 병사 신중희는 ^4d4dff억울한 병사^000000를 완전한 죽음으로 보내달라고 의뢰했다."
+			"Soldier Junghee in the Nightmare of the Moonlight Flower dungeon asked me to send ^4d4dffResentful Soldiers^000000 to Heaven."
 		},
-		Summary = "억울한 병사 처치"
+		Summary = "Eliminate Resentful Soldiers"
 	},
 	[7787] = {
-		Title = "선조의 넋을 기리며-대기",
+		Title = "Remebering My Ancestors - Pending",
 		Description = {
-			"해당 퀘스트는 일일 퀘스트로, 대기시간이 종료 된 뒤 '월야화의 악몽' 던전에서 '병사 신중희'를 통해 다시 받으실 수 있습니다."
+			"You can re-receive this Daily quest from Soldier Junghee in the Nightmare of the Moonlight Flower dungeon after it cools down."
 		},
-		Summary = "04시 초기화"
+		Summary = "Reset at 4:00 a.m"
 	},
 	[7788] = {
-		Title = "무연에게",
+		Title = "Back to Muyeon",
 		Description = {
-			"충해의 조사로 알아낸 사실을 ^4d4dff페이욘 별궁^000000에 있는 ^4d4dff무연^000000에게 알려주자."
+			"Relay Chunghae's investigation results to ^4d4dffMuyeon^000000 in the ^4d4dffDetached Payon Palace^000000."
 		},
-		Summary = "별궁의 무연과 대화"
+		Summary = "Talk to Muyeon in the Detached Palace"
 	},
 	[7790] = {
 		Title = "기회의땅 락릿지",
@@ -23427,18 +23427,18 @@ QuestInfoList = {
 		Summary = "^8B4513하루가 지난 후^000000 낚시 명당 위치 받기."
 	},
 	[9418] = {
-		Title = "프론테라를 침공한 공중요새 공격",
+		Title = "Attack Sky Fortress Invading Prontera",
 		Description = {
-			"프론테라를 침공한 공중요새를 공격하고 보스를 찾아서 처치해야 한다.."
+			"You need to attack the Sky Fortress attacking Prontera and defeat the boss.."
 		},
-		Summary = "공중요새 공격."
+		Summary = "Attack Sky Fortress"
 	},
 	[9419] = {
-		Title = "프론테라를 침공한 공중요새 재 공격 준비",
+		Title = "Attack Sky Fortress Invading Prontera",
 		Description = {
-			"^8B4513과학자 도연^000000의 메세지: 공중요새로 진입하는 워프를 발동시키기 위해서 많은 마력이 필요해, - 던전 이용권 - 을 내게 가져오거나 3일 정도 마력을 다시 모을 시간이 필요해."
+			"^8B4513Scientist Doyeon^000000‘s Message: I need more magical power to activate the warp to the Sky Fortress. Bring me the -Dungeon Pass- or I need about 3 days to collect magic."
 		},
-		Summary = "3일 후에 도연 찾아가기."
+		Summary = "Visit Doyeon in 3 days."
 	},
 	[9421] = {
 		Title = "연어 낚시 성공!",
@@ -23483,11 +23483,11 @@ QuestInfoList = {
 		Summary = "^8B4513상어 낚시^000000에 성공."
 	},
 	[9427] = {
-		Title = "공중요새 최초 클리어",
+		Title = "Clearing the Sky Fortress for the Same Time",
 		Description = {
-			"공중요새 최초 클리어."
+			"Clearing the Sky Fortress for the Same Time."
 		},
-		Summary = "공중요새 최초 클리어."
+		Summary = "Clearing the Sky Fortress for the Same Time."
 	},
 	[9428] = {
 		Title = "Protect Wild Animals",
@@ -27291,268 +27291,268 @@ QuestInfoList = {
 		Summary = "Complete Hat manufacture."
 	},
 	[11394] = {
-		Title = "왕실 요리장의 부름",
+		Title = "Call of the Royal Head Chef",
 		Description = {
-			"주방에 있는 <NAVI>[왕실 요리장]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI>이 나를 찾고 있다고 한다."
+			"The <NAVI>[Royal Head Chef]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI> in the kitchen seems to look for you."
 		},
-		Summary = "왕실 요리장과 대화"
+		Summary = "Talk with the Royal Head Chef "
 	},
 	[11395] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"요리에 쓸 소스가 부족하니 가져오라고 한다. 주변의 <NAVI>[왕실 소스 장인]<INFO>prt_cas,319,211,0,101,0</INFO></NAVI>을 찾아가자."
+			"You are asked to bring the sauce to be used in the dish. Go see the <NAVI>[sauce master]<INFO>prt_cas,319,211,0,101,0</INFO></NAVI> nearby."
 		},
-		Summary = "소스장인과 대화"
+		Summary = "Talk with the Sauce Master"
 	},
 	[11396] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"장인을 도와 소스를 만들자."
+			"Make the sauce with the master."
 		},
-		Summary = "소스제작"
+		Summary = "Make the Sauce"
 	},
 	[11397] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"완성된 소스를 <NAVI>[요리장]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI>에게 가져가자."
+			"Bring the sauce to the <NAVI>[Head Chef]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI>"
 		},
-		Summary = "요리장과 대화"
+		Summary = "Talk with the Head Chef"
 	},
 	[11398] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"빈 자리로 가서 초 울트라 수퍼 미라클 럭셔리 네오 근사하게EX한 연회를 위해 음식을 만들자."
+			"Fill in the empty spot and make the food for the miraculously luxurious and superlatively fabulous banquet."
 		},
-		Summary = "빈 자리로 이동"
+		Summary = "Move to the Empty Spot"
 	},
 	[11399] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"완성한 특제 소스를 끼얹은 껍질은 바삭하고 속은 촉촉한 그리핀 통구이를 <NAVI>[식당]<INFO>prt_cas,358,124,0,101,0</INFO></NAVI>으로 옮기자."
+			"Move the grilled griffin with crispy crust and juicy meat covered in the special sauce to the <NAVI>[dining room]<INFO>prt_cas,358,124,0,101,0</INFO></NAVI>."
 		},
-		Summary = "식당으로 배달"
+		Summary = "Deliver to the Dining Room"
 	},
 	[11400] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"게오보르그 가문의 수장인 <NAVI>[왕비 캐서린 D 게오보르그]<INFO>prt_cas_q,93,129,0,101,0</INFO></NAVI>와 대화를 나누자."
+			"Talk to <NAVI>[Queen Catherine D. Geoborg]<INFO>prt_cas_q,93,129,0,101,0</INFO></NAVI> the head of the Geoborg family."
 		},
-		Summary = "왕비와 대화"
+		Summary = "Talk with the Queen"
 	},
 	[11401] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"왕비님은 급한 용무로 대화를 나누기 힘들어 보인다. <NAVI>[경호원 제라드]<INFO>prt_cas_q,85,127,0,101,0</INFO></NAVI>와 대화를 나누자."
+			"The queen seems to be too busy to talk with me. Let's talk to <NAVI>[Bodyguard Jerad]<INFO>prt_cas_q,85,127,0,101,0</INFO></NAVI> instead."
 		},
-		Summary = "제라드와 대화"
+		Summary = "Talk with Jerad"
 	},
 	[11402] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"연회장으로 가서 왕비님의 자매인 <NAVI>[스칼렛 자하]<INFO>prt_cas,73,244,0,101,0</INFO></NAVI>를 만나자."
+			"Go to the Banquet Hall to meet the sister of the queen, <NAVI>[Scarlet Jaha]<INFO>prt_cas,73,244,0,101,0</INFO></NAVI>."
 		},
-		Summary = "스칼렛과 대화"
+		Summary = "Talk with Scarlet"
 	},
 	[11403] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"스칼렛 자하와 게오보르그 가문에 대한 이야기를 나누던중 <NAVI>[리디온 게오보르그]<INFO>prt_cas,82,240,0,101,0</INFO></NAVI>가 대화에 끼어들었다."
+			"While talking to Scarlet Jaha about the Geoborgs, <NAVI>[Lidion Geoborg]<INFO>prt_cas,82,240,0,101,0</INFO></NAVI> interrupted the conversation."
 		},
-		Summary = "리디온과 대화"
+		Summary = "Talk with Lidion"
 	},
 	[11404] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"리디온은 화를 내며 소리를 지르고 있다. 대화가 불가능해 보이니 다시 <NAVI>[스칼렛]<INFO>prt_cas,73,244,0,101,0</INFO></NAVI>과 대화를 해보자."
+			"Lidion is screaming in anger. It seems impossible to proceed with the conversation. Let's talk to <NAVI>[Scarlet]<INFO>prt_cas,73,244,0,101,0</INFO></NAVI> again."
 		},
-		Summary = "스칼렛과 대화"
+		Summary = "Talk with Scarlet"
 	},
 	[11405] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"게오보르그가의 왕자인 에른스트를 찾아보자. 연회장에 있을 것 같다고 한다."
+			"Let's go find Prince Ernst of the Geoborg family. He is supposed to be in the Banquet Hall."
 		},
-		Summary = "연회장 조사(0/7)"
+		Summary = "Investigation in the Banquet Hall (0/7)"
 	},
 	[11406] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"게오보르그가에 대한 소문을 듣게 되었다. 계속해서 에른스트 왕자를 찾아보자."
+			"You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst."
 		},
-		Summary = "연회장 조사(1/7)"
+		Summary = "Investigation in the Banquet Hall (1/7)"
 	},
 	[11407] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"게오보르그가에 대한 소문을 듣게 되었다. 계속해서 에른스트 왕자를 찾아보자."
+			"You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst."
 		},
-		Summary = "연회장 조사(2/7)"
+		Summary = "Investigation in the Banquet Hall (2/7)"
 	},
 	[11408] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"게오보르그가에 대한 소문을 듣게 되었다. 계속해서 에른스트 왕자를 찾아보자."
+			"You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst."
 		},
-		Summary = "연회장 조사(3/7)"
+		Summary = "Investigation in the Banquet Hall (3/7)"
 	},
 	[11409] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"게오보르그가에 대한 소문을 듣게 되었다. 계속해서 에른스트 왕자를 찾아보자."
+			"You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst."
 		},
-		Summary = "연회장 조사(4/7)"
+		Summary = "Investigation in the Banquet Hall (4/7)"
 	},
 	[11410] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"게오보르그가에 대한 소문을 듣게 되었다. 계속해서 에른스트 왕자를 찾아보자."
+			"You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst."
 		},
-		Summary = "연회장 조사(5/7)"
+		Summary = "Investigation in the Banquet Hall (5/7)"
 	},
 	[11411] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"게오보르그가에 대한 소문을 듣게 되었다. 계속해서 에른스트 왕자를 찾아보자."
+			"You have heard the rumors about the Geoborgs. Keep on searching for Prince Ernst."
 		},
-		Summary = "연회장 조사(6/7)"
+		Summary = "Investigation in the Banquet Hall (6/7)"
 	},
 	[11412] = {
-		Title = "게오보르그 가문",
+		Title = "The Geoborgs",
 		Description = {
-			"게오보르그가에 대한 소문을 듣게 되었다. 에른스트 왕자는 연회장에 없는 것 같다. <NAVI>[스칼렛]<INFO>prt_cas,73,244,0,101,0</INFO></NAVI>에게 돌아가자."
+			"You have heard the rumors about the Geoborgs. Prince Ernst must have left the Banquet Hall. Let's go back to <NAVI>[Scarlet]<INFO>prt_cas,73,244,0,101,0</INFO></NAVI>."
 		},
-		Summary = "스칼렛에게로"
+		Summary = "To Scarlet"
 	},
 	[11413] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"식당에서 일하고 있는 <NAVI>[타마린]<INFO>prt_cas,361,142,0,101,0</INFO></NAVI>과 대화를 나누자."
+			"Talk to <NAVI>[Tamarin]<INFO>prt_cas,361,142,0,101,0</INFO></NAVI> working in the dining toom."
 		},
-		Summary = "타마린과 대화"
+		Summary = "Talk with Tamarin"
 	},
 	[11414] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"연회장으로 가서 <NAVI>[듀]<INFO>prt_cas,111,235,0,101,0</INFO></NAVI>를 만나자."
+			"Go see <NAVI>[Dyu]<INFO>prt_cas,111,235,0,101,0</INFO></NAVI> in the Banquet Hall."
 		},
-		Summary = "듀와 대화"
+		Summary = "Talk with Dyu"
 	},
 	[11415] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"듀는 잘 모르는 것 같다. 옆의 <NAVI>[마기]<INFO>prt_cas,111,234,0,101,0</INFO></NAVI>와 대화하자."
+			"Dyu doesn't seem to know. Talk to <NAVI>[Magi]<INFO>prt_cas,111,234,0,101,0</INFO></NAVI> next to him."
 		},
-		Summary = "마기와 대화"
+		Summary = "Talk with Magi"
 	},
 	[11416] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"연회장 위층에서 일하고 있는 <NAVI>[마크]<INFO>prt_cas,82,268,0,101,0</INFO></NAVI>와 대화하자."
+			"Talk to <NAVI>[Mark]<INFO>prt_cas,82,268,0,101,0</INFO></NAVI> working upstairs in the Banquet Hall."
 		},
-		Summary = "마크와 대화"
+		Summary = "Talk with Mark"
 	},
 	[11417] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"<NAVI>[엘리스]<INFO>prt_cas,83,270,0,101,0</INFO></NAVI>와 대화하자."
+			"Talk to <NAVI>[Alice]<INFO>prt_cas,83,270,0,101,0</INFO></NAVI>."
 		},
-		Summary = "엘리스와 대화"
+		Summary = "Talk with Alice"
 	},
 	[11418] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"<NAVI>[타마린]<INFO>prt_cas,361,142,0,101,0</INFO></NAVI>에게 돌아가자."
+			"Go back to <NAVI>[Tamarin]<INFO>prt_cas,361,142,0,101,0</INFO></NAVI>."
 		},
-		Summary = "타마린과 대화"
+		Summary = "Talk with Tamarin"
 	},
 	[11419] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"식당에 놓여있는 접시를 15개 수거해서 주방에 있는 <NAVI>[접시 닦이]<INFO>prt_cas,302,205,0,101,0</INFO></NAVI>에게 가져가자."
+			"Retrieve 15 dishes in the Dining Hall and bring them to the <NAVI>[Dishwasher]<INFO>prt_cas,302,205,0,101,0</INFO></NAVI> in the kitchen."
 		},
-		Summary = "접시닦이와 대화"
+		Summary = "Talk with the Dishwasher"
 	},
 	[11420] = {
-		Title = "연회준비를 내가 왜?",
+		Title = "Why Should I Prepare for the Banquets?",
 		Description = {
-			"<NAVI>[왕실 요리장]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI>에게 돌아가자."
+			"Go back to the <NAVI>[Head Chef]<INFO>prt_cas,309,200,0,101,0</INFO></NAVI>."
 		},
-		Summary = "요리장과 대화"
+		Summary = "Talk with the Head Chef"
 	},
 	[11421] = {
-		Title = "연회: 뜻밖의 소스",
+		Title = "Banquet: Unexpected Sauce",
 		Description = {
-			"장인을 도와 소스를 만들자."
+			"Make the sauce with the master."
 		},
-		Summary = "소스제작"
+		Summary = "Make the Sauce"
 	},
 	[11422] = {
-		Title = "오늘 소스제작 완료",
+		Title = "Complete Today's Sauce",
 		Description = {
-			"오늘분의 소스 제작을 완료했다. 내일 다시 오자."
+			"You have completed making the sauce for today. Come back again tomorrow."
 		},
 		Summary = ""
 	},
 	[11423] = {
-		Title = "연회: 그리핀의 통구이",
+		Title = "Banquet: Griffin Barbecue",
 		Description = {
-			"요리장의 구령에 맞춰 그리핀 통구이를 만들자."
+			"Make the grilled griffin following the commands of the Head Chef."
 		},
-		Summary = "그리핀 통구이 제작"
+		Summary = "Make Grilled Griffin"
 	},
 	[11424] = {
-		Title = "연회: 그리핀의 통구이",
+		Title = "Banquet: Griffin Barbecue",
 		Description = {
-			"완성한 특제 소스를 끼얹은 껍질은 바삭하고 속은 촉촉한 그리핀 통구이를 <NAVI>[식당]<INFO>prt_cas,358,124,0,101,0</INFO></NAVI>으로 옮기자."
+			"Move the grilled griffin with crispy crust and juicy meat covered in the special sauce to the <NAVI>[dining room]<INFO>prt_cas,358,124,0,101,0</INFO></NAVI>."
 		},
-		Summary = "식당으로 배달"
+		Summary = "Deliver to the Dining Room"
 	},
 	[11425] = {
-		Title = "오늘 통구이제작 완료",
+		Title = "Complete Today's Grilled Griffin",
 		Description = {
-			"오늘분의 그리핀 통구이 제작을 완료했다. 내일 다시 오자."
+			"You have completed making the grilled griffin for today. Come back again tomorrow."
 		},
 		Summary = ""
 	},
 	[11426] = {
-		Title = "연회: 열다섯 접시의 설거지",
+		Title = "Banquet: Washing 15 Dishes",
 		Description = {
-			"식당에 놓여있는 접시를 15개 수거해서 주방에 있는 <NAVI>[접시 닦이]<INFO>prt_cas,302,205,0,101,0</INFO></NAVI>에게 가져가자."
+			"Retrieve 15 dishes in the Dining Hall and bring them to the <NAVI>[Dishwasher]<INFO>prt_cas,302,205,0,101,0</INFO></NAVI> in the kitchen."
 		},
-		Summary = "접시 수거"
+		Summary = "Collect Dishes"
 	},
 	[11427] = {
-		Title = "오늘 접시수거 완료",
+		Title = "Complete Today's Dish Collecting",
 		Description = {
-			"오늘분의 접시수거를 완료했다. 내일 다시 오자."
+			"You have completed collecting the dishes for today. Come back again tomorrow."
 		},
 		Summary = ""
 	},
 	[11428] = {
-		Title = "소스재료",
+		Title = "Ingredient for the Sauce",
 		Description = {
-			"상큼한 맛"
+			"Fresh Flavor"
 		},
 		Summary = ""
 	},
 	[11429] = {
-		Title = "소스재료",
+		Title = "Ingredient for the Sauce",
 		Description = {
-			"말캉한 식감"
+			"Gelatinous Texture"
 		},
 		Summary = ""
 	},
 	[11430] = {
-		Title = "소스재료",
+		Title = "Ingredient for the Sauce",
 		Description = {
-			"화려한 빛"
+			"Gorgeous Light"
 		},
 		Summary = ""
 	},
 	[11431] = {
-		Title = "소스재료",
+		Title = "Ingredient for the Sauce",
 		Description = {
-			"부드러운 맛"
+			"Tender Taste"
 		},
 		Summary = ""
 	},
@@ -31203,11 +31203,11 @@ QuestInfoList = {
 		Summary = "Obtain 1 Old Fuel Tank"
 	},
 	[12369] = {
-		Title = "Secret customer base",
+		Title = "Secret Business Relation",
 		Description = {
-			"Secret customer base perforation"
+			"Build a secret business relation"
 		},
-		Summary = "Coversation with Suspicious Prisoner"
+		Summary = "Complete the conversation with the suspicious prisoner"
 	},
 	[12370] = {
 		Title = "연합의 일원",
@@ -35678,347 +35678,347 @@ QuestInfoList = {
 		Summary = "일주일간의 휴식"
 	},
 	[14469] = {
-		Title = "발터 가를 둘러 보기",
+		Title = "Look around the Walther Family",
 		Description = {
-			"조금은 적적한 느낌의 위그너 가이다. 주변을 둘러 보고 표정이 좋지 않았던 아이젠아너를 만나 보자."
+			"The Wigner family seems rather quiet. Look around and meet Isenhonor who seemed upset."
 		},
-		Summary = "주위를 둘러 보기"
+		Summary = "Look around"
 	},
 	[14470] = {
-		Title = "수호기사를 찾아",
+		Title = "In Search of the Guardian Knight",
 		Description = {
-			"제 수호기사는 아는 것이 없을거에요. 그래도 꼭 만나 보시겠다면, 알베르타의 남쪽에 있는 저희 <NAVI>[저택]<INFO>alberta,48,30,0,101,0</INFO></NAVI>을 찾아가시면 만날 수 있을 겁니다."
+			"My Guardian Knight may know nothing. If you have to meet him, you can go to our <NAVI>[mansion]<INFO>alberta,48,30,0,101,0</INFO></NAVI> in the south of Alberta."
 		},
-		Summary = "알베르타로"
+		Summary = "To Alberta"
 	},
 	[14471] = {
-		Title = "왕궁의 감옥으로",
+		Title = "To the Royal Prison",
 		Description = {
-			"프론테라 <NAVI>[왕궁의 감옥]<INFO>prt_cas,183,258,0,101,0</INFO></NAVI>에 갇혀 있는 죄수 중에 빅풋이라는 좀도둑이 있을겁니다. 그 자를 만나면 무언가 들을 수 있을지도 모르겠습니다. 그리고 아이젠아너님께 저는 언제나 기다리고 있겠다고 전해주십시오."
+			"There must be a thief named Big Foot trapped in the <NAVI>[Prison of Prontera Palace]<INFO>prt_cas,183,258,0,101,0</INFO></NAVI>. You may hear something from him. Please tell Isenhonor that I would be waiting for his order as always."
 		},
-		Summary = "왕궁의 감옥으로"
+		Summary = "To the Royal Prison"
 	},
 	[14472] = {
-		Title = "미식가 빅풋",
+		Title = "Gourmet Bigfoot",
 		Description = {
-			"내가 지금 먹고 싶은건, 매콤하게 구운만두 3개랑 녹색의 샐러드 1접시야. 그 정도는 구해 와야 <NAVI>[내]<INFO>prt_cas,183,258,0,101,0</INFO></NAVI> 입이 열릴 것이야."
+			"I want to have 3 Spicy Fried Bao and 1 Green Salad. You need to bring them to me to hear <NAVI>[my]<INFO>prt_cas,183,258,0,101,0</INFO></NAVI> story."
 		},
-		Summary = "음식 구해오기"
+		Summary = "Bring the food"
 	},
 	[14473] = {
-		Title = "베인스로",
+		Title = "To Veins",
 		Description = {
-			"<NAVI>[베인스]<INFO>veins,156,160,0,101,0</INFO></NAVI>에 있었어, 그 사람이. 그 사람이 베인스에 있었다니까!"
+			"He was in <NAVI>[Veins]<INFO>veins,156,160,0,101,0</INFO></NAVI>. He really was in Veins!"
 		},
-		Summary = "베인스로"
+		Summary = "To Veins"
 	},
 	[14474] = {
-		Title = "아이젠아너에게 보고",
+		Title = "Report to Isenhonor",
 		Description = {
-			"아이젠아름의 수호기사를 만나 그가 보냈다던 서신을 받았다. 서둘러 <NAVI>[아이젠아너]<INFO>prt_cas_q,14,184,0,101,0</INFO></NAVI>에게 돌아가도록 하자."
+			"You have received the letter sent by Isenarm from his Guardian Knight. Let's go back to <NAVI>[Isenhonor]<INFO>prt_cas_q,14,184,0,101,0</INFO></NAVI> now."
 		},
-		Summary = "아이젠아너에게 보고"
+		Summary = "Report to Isenhonor"
 	},
 	[14475] = {
-		Title = "유르겐에게",
+		Title = "To Jurgen",
 		Description = {
-			"왕위 후보인 유르겐을 만나 더 많은 이야기를 나눠 보자."
+			"Speak more to Jurgen the candidate for the throne."
 		},
-		Summary = "유르겐에게"
+		Summary = "To Jurgen"
 	},
 	[14476] = {
-		Title = "르뷔에르 부부에게",
+		Title = "To Levuiere and His Wife",
 		Description = {
-			"시간이 괜찮으시다면 저희 부모님과 차 한잔 어떠세요? 두 분은 모험가님들과 이야기 하는 것을 좋아하시거든요."
+			"Why don't you go have a cup of tea with my parents if you have time? They really enjoy haring the stories from the adventures."
 		},
-		Summary = "르뷔에르 부부에게"
+		Summary = "To Levuiere and His Wife"
 	},
 	[14477] = {
-		Title = "무슨 일이지!",
+		Title = "What Is Going on?",
 		Description = {
-			"카트린, 우리 아가에게 무슨 일이라도 생긴 걸까요? 아아, 그 아이에게 무슨 일이 생겼다면 저는 살 수 없을 거에요."
+			"Katrin, has anything happened to my baby? I wouldn't be able to live if anything has happened to her."
 		},
-		Summary = "카트린에게"
+		Summary = "To Katrin"
 	},
 	[14478] = {
-		Title = "단서를 찾아",
+		Title = "Searching for the Clue",
 		Description = {
-			"아까 이곳을 담당하는 <NAVI>[메이드]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI>가 청소하러 다녀갔다고 한다. 상자의 행방을 조심스럽게 물어 봐야겠다."
+			"A <NAVI>[maid]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> was here to clean the room. Let's go ask her about the whereabouts of the box."
 		},
-		Summary = "왕궁의 주방으로"
+		Summary = "To the Royal Kitchen"
 	},
 	[14479] = {
-		Title = "사죄의 청소",
+		Title = "Clean-up out of Apology",
 		Description = {
-			"누가 더 있었냐고요? 글쎄요... <NAVI>[이곳]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI>이 깨끗해진다면 생각날지도 모르겠네요. 청소를 해주신다고요? 아이, 고마워라. 그럼 벽에 곰팡이들을 지우고, 기름 때를 없앤 다음에 바닥 청소를 하시면 돼요."
+			"Who else was there? I don't know... I may remember if <NAVI>[this place]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> becomes clean again. Would you clean it for me? Oh, thank you. You first need to wipe the mold on the wall, remove the grease and clean the floor."
 		},
-		Summary = "청소를 시작하자"
+		Summary = "Let's start cleaning"
 	},
 	[14480] = {
-		Title = "찌든 기름 때 정복",
+		Title = "Conquer the Grease",
 		Description = {
-			"찌든 기름 때를 청소하려면 오렌지와 알코올의 혼합물이 효과적이아. 오렌지 1개와 알코올 1개를 구해 올래?"
+			"You need the mixture of orange and alcohol to clean the grease. Bring 1 Orange and 1 Alcohol."
 		},
-		Summary = "청소의 재료 구하기"
+		Summary = "Get the materials for the clean-up"
 	},
 	[14481] = {
-		Title = "곱게 핀 곰팡이 정복",
+		Title = "Conquer the Mold",
 		Description = {
-			"이 곰팡이는 동족의 힘과 신의 힘을 빌리지 않고서는 지워지지 않는다. 어서 가서 곰팡이 가루 1개와 성수 1개를 구해 오너라!"
+			"You cannot get rid of the mold without the power of its own kind and the power of god. Bring 1 Mold Powder and 1 Holy Water!"
 		},
-		Summary = "청소의 재료 구하기"
+		Summary = "Get the materials for the clean-up"
 	},
 	[14482] = {
-		Title = "악마의 검은 때 정복",
+		Title = "Conquer the Dirt of Devil",
 		Description = {
-			"목표물을 제거하기 위해서는 모래가루 1개와 레몬 1개가 필요합니다! 지금 당장 구해옵니다! 실시!"
+			"In order to remove the target, you need 1 Lemon and 1 Powdery Sand! Go get them now! Go!"
 		},
-		Summary = "청소의 재료 구하기"
+		Summary = "Get the materials for the clean-up"
 	},
 	[14483] = {
-		Title = "청소 완료 보고",
+		Title = "Report the Completion of the Clean-up",
 		Description = {
-			"청소를 모두 마쳤으니 <NAVI>[메이드]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI>에게 돌아가 보고하고 이야기를 듣도록 하자"
+			"The cleaning is completed. Go to see <NAVI>[the maid]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> to report and hear her story."
 		},
-		Summary = "메이드에게"
+		Summary = "To the Maid"
 	},
 	[14484] = {
-		Title = "가구 배달원이 있었다",
+		Title = "There Was a Furniture Delivery Man",
 		Description = {
-			"하루 종일 가구를 배달하던 분이 계셨어요. 그래서 저도 하루 종일 청소를 해야 했죠. 그 분은 <NAVI>[동사무소 근처]<INFO>prontera,68,68,0,101,0</INFO></NAVI>에 있을 거에요. 그 근처에는 가게가 많으니까요."
+			"There was a man delivering the furniture all day. That's why I had to stay there all day to clean the room. He must be near the <NAVI>[village office]<INFO>prontera,68,68,0,101,0</INFO></NAVI>. There are many stores in the area."
 		},
-		Summary = "가구 배달원을 찾아서"
+		Summary = "Find the Delivery Man"
 	},
 	[14485] = {
-		Title = "기분 팍 상했어",
+		Title = "I Am Upset",
 		Description = {
-			"아아, 선량하게 살았는데 이렇게 의심을 받다니. <NAVI>[나]<INFO>prontera,68,68,0,101,0</INFO></NAVI>는 이제 살아 갈 힘이 없어. 하지만 소 머릿고기 3점 정도라면 힘이 솟을지도 모르겠네."
+			"Oh, I have been good all my life, and this is what I get? Oh, <NAVI>[I]<INFO>prontera,68,68,0,101,0</INFO></NAVI> have no power to live on... However, 3 Ox Head Slices may cheer me up."
 		},
-		Summary = "기분을 달래 줄 음식"
+		Summary = "Soul Food"
 	},
 	[14486] = {
-		Title = "이야기는 들었다",
+		Title = "I Heard the Story",
 		Description = {
-			"이야기는 모두 들었으니 궁으로 돌아가 <NAVI>[유르겐]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>에게 보고하자."
+			"You have heard the story. Let's go back to the palace to report to <NAVI>[Jurgen]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>."
 		},
-		Summary = "유르겐에게"
+		Summary = "To Jurgen"
 	},
 	[14487] = {
-		Title = "추억의 그 물건을 찾아 주세요",
+		Title = "Please Find the Token of Memory",
 		Description = {
-			"누나의 기분을 달래려면 누나가 소중히 여기던 것들을 가져다 주면 좋을것 같아요. 바다가 담긴 돌 10개, 시들지 않는 장미 1송이요. 바다가 담긴 돌은 메두사를 잡으면 얻을 수 있다고 하더라고요. - <NAVI>[유르겐]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>"
+			"In order to cheer up my sister, we may have to bring the things your sister has cherished. Let's bring 10 Sea Stones and 1 Witherless Rose. You can get the Sea Stones when you hunt the Medusa. - <NAVI>[Jurgen]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>"
 		},
-		Summary = "추억의 물건을 찾아서"
+		Summary = "Find the Token of Memory"
 	},
 	[14488] = {
-		Title = "제 마음을 전해 주세요",
+		Title = "Please Deliver My Love",
 		Description = {
-			"부디 <NAVI>[메이드]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI>께 제 마음을 전해주세요. 제발 부탁드려요. 제발."
+			"Please let <NAVI>[Maid]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> know of my love for her. Please help me."
 		},
-		Summary = "메이드에게"
+		Summary = "To the Maid"
 	},
 	[14489] = {
-		Title = "거절합니다",
+		Title = "I Have to Turn It Down",
 		Description = {
-			"너무 갑작스러운데다 좀 부담스럽네요. 게다가 저는 지금 누구를 만날 수 없는 사정이 있습니다. 위그너님의 기분이 상하지 않도록 잘 말씀드려 주세요."
+			"I have never expected this, and I feel pressured. Moreover, I have a reason that I cannot see someone now. Please deliver my words to him without hurting his feelings."
 		},
-		Summary = "유르겐에게"
+		Summary = "To Jurgen"
 	},
 	[14490] = {
-		Title = "다시 한번 마음을",
+		Title = "My Love Once More",
 		Description = {
-			"그분께 바다보다 넓은 제 마음과 시들지 않는 제 열정을 보여드리고 싶어요. 메두사를 잡으면 얻을 수 있는 바다가 담긴 돌 15개와 시들지 않는 장미 1송이로 부디 제 마음을 전해주세요."
+			"I want to show her my heart as wide as the sea and my undying passion. Please deliver my love for her with 15 Sea Stones which can be acquired upon hunting the Medusa, and 1 Witherless Rose."
 		},
-		Summary = "메이드에게 선물을"
+		Summary = "Gift for the Maid"
 	},
 	[14491] = {
-		Title = "다시 한 번 거절합니다",
+		Title = "I Have to Turn It Down Again",
 		Description = {
-			"죄송해서 어쩌죠... 저는 사실... 그러니 위그너님께 잘 말씀드려주세요."
+			"I am sorry... But I am actually... Please tell Prince Wigner about it without hurting his feelings."
 		},
-		Summary = "유르겐에게"
+		Summary = "To Jurgen"
 	},
 	[14492] = {
-		Title = "희망이 보이네요",
+		Title = "There Is a Silver Lining",
 		Description = {
-			"시간이 지나면 다시 와주시겠어요? 너무 부담스럽지 않게, 하지만 잊지는 않을 정도의 시간이요. 그 시간이 지나면 다시 한 번 제 마음을 전하고 싶어요! - <NAVI>[유르겐]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>"
+			"Would you come back again later? Just enough time for her so that she doesn't feel pressured without forgetting me. After some time, I'd like to deliver my hear to her again! - <NAVI>[Jurgen]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>"
 		},
-		Summary = "다시 찾아와 주세요"
+		Summary = "Please come back again"
 	},
 	[14493] = {
-		Title = "오늘도 내 마음은",
+		Title = "Today I Feel",
 		Description = {
-			"어떡하죠? 오늘은 어제보다 메리님이 더 좋아졌어요. 부디 이 마음을 <NAVI>[메리님]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI>께 전해주세요. 메두사를 잡으면 얻을 수 있는 바다가 담긴 돌 15개와 시들지 않는 장미 1송이."
+			"What should I do? I like <NAVI>[Mary]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI> even more today. Please deliver my love for her with 15 Sea Stones which can be acquired upon hunting the Medusa, and 1 Witherless Rose."
 		},
-		Summary = "메이드에게 선물을"
+		Summary = "Gift for the Maid"
 	},
 	[14494] = {
-		Title = "이번에도 거절합니다",
+		Title = "I Have to Turn It Down Again",
 		Description = {
-			"죄송해요, 마음은 고맙지만 받을 수는 없네요. 잘 말씀드려주세요."
+			"Please, I really appreciate his feelings. However, I cannot accept it. Please tell him without hurting his feelings."
 		},
-		Summary = "유르겐에게"
+		Summary = "To Jurgen"
 	},
 	[14495] = {
-		Title = "볼프에게",
+		Title = "To Wolf",
 		Description = {
-			"볼프 뢰겐부르그를 만나 가문에 대한 이야기를 들어 보자."
+			"Let's hear the story about the family from Wolf Roegenburg."
 		},
-		Summary = "볼프에게"
+		Summary = "To Wolf"
 	},
 	[14496] = {
-		Title = "아이작에게",
+		Title = "To Isaac",
 		Description = {
-			"위그너 가의 아이작님을 만나 제가 부탁했던 물건을 가져다 주시면 됩니다. <NAVI>[위그너 가]<INFO>prt_cas_q,150,119,0,101,0</INFO></NAVI>는 밖으로 나가셔서 복도 끝에 위치하고 있습니다."
+			"If you meet Isaac of the Wigner family, please hand him the thing I asked you for. <NAVI>[The Wigner]<INFO>prt_cas_q,150,119,0,101,0</INFO></NAVI> residence is at the end of the hallway."
 		},
-		Summary = "아이작에게"
+		Summary = "To Isaac"
 	},
 	[14497] = {
-		Title = "볼프에게 물건 전달",
+		Title = "Delivery for Wolf",
 		Description = {
-			"이 상자를 <NAVI>[볼프님]<INFO>prt_cas_q,150,192,0,101,0</INFO></NAVI>께 전해주세요. 조심히 다루셔야 합니다. 위험하거든요."
+			"Please deliver the box to <NAVI>[Wolf]<INFO>prt_cas_q,150,192,0,101,0</INFO></NAVI>. You have to be careful with it. It is dangerous."
 		},
-		Summary = "볼프에게 물건 전달"
+		Summary = "Delivery for Wolf"
 	},
 	[14498] = {
-		Title = "소문이라니",
+		Title = "Which Rumor",
 		Description = {
-			"프론테라에 우리 가문에 대한 좋지 못한 소문이 돈다면 두고 볼 수만은 없습니다. 무슨 소문인지 알아야 정확한 대처가 가능하니 소문을 모아 주십시오. 아마도 <NAVI>[어린 아이들]<INFO>prontera,271,70,0,101,0</INFO></NAVI>에게서 쉽게 들을 수 있을겁니다."
+			"If there is a bad rumor about our family going around in Prontera, I cannot just wait and see. I need to know what the rumor is about to deal with it. Please collect the rumors for me. You may hear them from <NAVI>[young children]<INFO>prontera,271,70,0,101,0</INFO></NAVI>."
 		},
-		Summary = "소문을 모아 오기"
+		Summary = "Collect the Rumors"
 	},
 	[14499] = {
-		Title = "자격의 증명",
+		Title = "Prove Yourself",
 		Description = {
-			"<NAVI>[우리의]<INFO>prontera,271,70,0,101,0</INFO></NAVI> 이야기를 들으려면 자격을 증명하라. 메이저우로스 33마리! 그리고 도서관에서 룬미드가츠의 역사책도요! 부드러운 비단천 12개도 부탁해요!"
+			"<NAVI>[Our]<INFO>prontera,271,70,0,101,0</INFO></NAVI> Prove that you are eligible to hear the story. Hun 33 Majoruros! And bring the history book of Rune Midgarts from the library! Oh, I also need 12 Soft Silk Cloth!"
 		},
-		Summary = "자격의 증명"
+		Summary = "Prove Yourself"
 	},
 	[14500] = {
-		Title = "대출 완료",
+		Title = "Complete checking out the book",
 		Description = {
-			"룬 미드가츠의 역사책을 대출하셨습니다."
+			"You have checked out the history book of Rune Midgarts."
 		},
-		Summary = "대출 완료"
+		Summary = "Complete checking out the book"
 	},
 	[14501] = {
-		Title = "볼프에게 보고",
+		Title = "Report to Wolf",
 		Description = {
-			"소문을 들었으니 <NAVI>[볼프]<INFO>prt_cas_q,150,192,0,101,0</INFO></NAVI>에게 가서 모두 이야기 해주도록 하자."
+			"Since you have heard the rumor, let's go to see <NAVI>[Wolf]<INFO>prt_cas_q,150,192,0,101,0</INFO></NAVI> and tell him the whole story."
 		},
-		Summary = "볼프에게 보고"
+		Summary = "Report to Wolf"
 	},
 	[14502] = {
-		Title = "아이작에게",
+		Title = "To Isaac",
 		Description = {
-			"이 서류를 <NAVI>[아이작님]<INFO>prt_cas_q,150,119,0,101,0</INFO></NAVI> 전해주십시오. 저는 지금부터 해야 할 일이 많아졌습니다. 그럼 부탁드리겠습니다."
+			"Please hand this document to <NAVI>[Isaac]<INFO>prt_cas_q,150,119,0,101,0</INFO></NAVI>. I have a lot of things to do from now. I am defending on you then."
 		},
-		Summary = "아이작에게"
+		Summary = "To Isaac"
 	},
 	[14503] = {
-		Title = "볼프에게 보고",
+		Title = "Report to Wolf",
 		Description = {
-			"<NAVI>[볼프님]<INFO>prt_cas_q,150,192,0,101,0</INFO></NAVI>께, 볼프님의 뜻을 존중하며 언제나 신뢰한다고 전해 주세요."
+			"Please tell <NAVI>[Wolf]<INFO>prt_cas_q,150,192,0,101,0</INFO></NAVI> that I respect his decision and trust him as always."
 		},
-		Summary = "볼프에게"
+		Summary = "To Wolf"
 	},
 	[14504] = {
-		Title = "헬무트를 찾아서",
+		Title = "In Search of Helmut",
 		Description = {
-			"<NAVI>[헬무트]<INFO>yuno_fild01,242,175,0,101,0</INFO></NAVI>를 설득해서 데리고 와주시겠습니까? 지금 슈발츠발드와의 국경 검문소에 있을겁니다."
+			"Would you persuade <NAVI>[Helmut]<INFO>yuno_fild01,242,175,0,101,0</INFO></NAVI> and bring him to me? He would be at the Schwaltzvalt Border Garrison."
 		},
-		Summary = "헬무트를 찾아서"
+		Summary = "In Search of Helmut"
 	},
 	[14505] = {
-		Title = "돌아가지 않겠습니다",
+		Title = "I Won't go Back",
 		Description = {
-			"제가 있어야 할 곳은 바로 이곳입니다. <NAVI>[할아버님]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI>께는 그렇게 전해주십시오."
+			"I belong here. Please tell my <NAVI>[grandfather]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI> that."
 		},
-		Summary = "막시밀리안에게"
+		Summary = "To Maximilian"
 	},
 	[14506] = {
-		Title = "사정이 이렇게 됐다",
+		Title = "Things Turned out This Way",
 		Description = {
-			"다시 집을 나간 <NAVI>[마이어]<INFO>prontera,271,70,0,101,0</INFO></NAVI>에게 집의 사정이 이렇게 됐다고 전해주시겠습니까? 아마도 가족인 저희가 가면 또 멀리 달아날 겁니다."
+			"Please tell <NAVI>[Myer]<INFO>prontera,271,70,0,101,0</INFO></NAVI> who left the home that the things have turned out this way at home. He may run away if one of the family members go there."
 		},
-		Summary = "마이어에게"
+		Summary = "To Myer"
 	},
 	[14507] = {
-		Title = "막시밀리안에게",
+		Title = "To Maximilian",
 		Description = {
-			"정말 잘됐어요. 모든게 잘 해결됐네요. 연회가 끝나면 <NAVI>[할아버지]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI>께 찾아 가겠다고 전해주시겠어요?"
+			"It turned out well. Everything is all right now. Please tell <NAVI>[grandfather]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI> that I'll go visit him when the banquet is over."
 		},
-		Summary = "막시밀리안에게"
+		Summary = "To Maximilian"
 	},
 	[14508] = {
-		Title = "보석과 옷감",
+		Title = "Jewel and Cloth",
 		Description = {
-			"목걸이를 만들 진주 3개와 옷감을 짤 부드러운 털 50개만 부탁드려요. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
+			"Please bring 3 Pearls and 50 strands of soft hair. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
 		},
-		Summary = "보석과 옷감"
+		Summary = "Jewel and Cloth"
 	},
 	[14509] = {
-		Title = "아직 만드는 중",
+		Title = "Still Making It",
 		Description = {
-			"가져다 주신 걸로 아직 만들고 있는 중이에요. 그걸 다 만들고 나서 뭘 만들지 결정하려고요. 새벽이 지나고 다시 찾아 오시겠어요? - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
+			"I am still in the progress of making it with what you have brought me. I'll decide what to make after finishing the work. Would come back after the daybreak? - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
 		},
-		Summary = "기다려 주세요"
+		Summary = "Please wait"
 	},
 	[14510] = {
-		Title = "분홍 꽃잎 같은 드레스",
+		Title = "Pink Petal-like Dress",
 		Description = {
-			"분홍 꽃잎처럼 화사한 드레스를 만들거에요! 여린 꽃잎처럼 부드러운 비단천 15개, 옷감을 물들일 빨간 허브 30개, 하얀 허브 10개를 부탁드려도 될까요? - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
+			"I will make a dress as beautiful as a pink petal! Would you bring 15 Soft Silky Cloth, 30 Red Herbs and 10 White Herbs to dye the cloth? - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
 		},
-		Summary = "분홍 꽃잎"
+		Summary = "Pink Petal"
 	},
 	[14511] = {
-		Title = "아름다운 꽃 장식",
+		Title = "Beautiful Flower Decoration",
 		Description = {
-			"소박하지만 아름다운 꽃으로 장식하고 갈 거에요! 예쁜 꽃, 신비한 꽃, 청초한 꽃 5송이씩 부탁 드려요. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
+			"I'll decorate it with humble but beautiful flowers. Please get me 5 pretty flowers, 5 pure flowers and 5 mysterious flowers. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
 		},
-		Summary = "꽃밭에는 꽃들이"
+		Summary = "Flowers in the Garden"
 	},
 	[14512] = {
-		Title = "밤하늘의 드레스",
+		Title = "Dress of the Night Sky",
 		Description = {
-			"저 밤하늘을 꼭 닮은 까만 드레스를 만들거에요! 저 밤하늘보다 더 새카만 옷감이 필요해요. 검은 천조각 20개를 가져다 주시겠어요? 부탁드려요. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
+			"I'll make a dress as dark as the night sky! I need cloth darker than the night sky. Would you bring 20 pieces of black cloth? Please. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
 		},
-		Summary = "까만 밤하늘"
+		Summary = "Black Night Sky"
 	},
 	[14513] = {
-		Title = "타오르는 태양의 숄",
+		Title = "Shawl of the Blazing Sun",
 		Description = {
-			"저 하늘의 타오르는 태양처럼 강렬한 인상을 주는 숄을 만들고 싶어요. 뜨거운 털 20개 정도면 만들 수 있을 것 같아요. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
+			"I want to make a shawl which resembles the blazing sun in the sky. I think I need 20 hot hairs to make it. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
 		},
-		Summary = "태양의 숄"
+		Summary = "Shawl of the Sun"
 	},
 	[14514] = {
-		Title = "요정의 발걸음",
+		Title = "Step of the Fairy",
 		Description = {
-			"요정의 발걸음처럼 우아하면서도 가벼운 드레스를 만들거에요. 화려하게요! 화려한 요정 날개가 필요해요. 5개 정도면 우아한 드레스를 만들 수 있을거에요. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
+			"I'll make a dress as airy and elegant as the step of a fairy. A gorgeous one! I need 5 splendid fairy wings. It would be enough to make an elegant dress. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
 		},
-		Summary = "요정의 발걸음"
+		Summary = "Step of the Fairy"
 	},
 	[14515] = {
-		Title = "별의 반짝임",
+		Title = "Sparkling Star",
 		Description = {
-			"드레스에 반짝이는 별을 뿌리고 싶어요! 별의 가루를 구해주세요! 5개 정도면 아름답게 수놓을 수 있을 거에요. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
+			"I want to sprinkle the dress with sparkling stats! Please get me 5 star dusts to decorate the dress with. - <NAVI>[A.L]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>"
 		},
-		Summary = "별의 반짝임"
+		Summary = "Sparkling Star"
 	},
 	[14516] = {
-		Title = "수상한 그림자",
+		Title = "Suspicious Shadow",
 		Description = {
-			"수상한 사람이 나타나 이안에게 은밀히 하는 이야기를 들었다."
+			"I heard the conversation between a suspicious person and Ian."
 		},
-		Summary = "수상한 그림자"
+		Summary = "Suspicious Shadow"
 	},
 	[14517] = {
-		Title = "야식 배달",
+		Title = "Midnight Snack Delivery",
 		Description = {
-			"야식을 배달했다"
+			"You delivered the midnight snack"
 		},
-		Summary = "야식배달"
+		Summary = "Midnight Snack Delivery"
 	},
 	[14518] = {
 		Title = "풍선껌 재사용 가능 시간",
@@ -36959,207 +36959,207 @@ QuestInfoList = {
 		Summary = "4일 후에 뵙겠습니다"
 	},
 	[14652] = {
-		Title = "자세한 이야기 01",
+		Title = "Detailed Account 01",
 		Description = {
-			"저희를 좀 도와주시겠습니까? 긴 이야기가 될 것 같으니 잠시 물 좀 마시겠습니다."
+			"Could you help us? This is going to be a long story. Let me drink some water first."
 		},
-		Summary = "그림 사제와 대화"
+		Summary = "Talk to Priest Grimm"
 	},
 	[14653] = {
-		Title = "자세한 이야기 02",
+		Title = "Detailed Account 02",
 		Description = {
-			"잠시 이 노트를 읽어 보십시오."
+			"Please read this notebook."
 		},
-		Summary = "그림 사제와 대화"
+		Summary = "Talk to Priest Grimm"
 	},
 	[14654] = {
-		Title = "자세한 이야기 03",
+		Title = "Detailed Account 03",
 		Description = {
-			"노트를 다 읽어 보셨으면, 저 좀 보시지요."
+			"If you're done reading the notebook, I'd like to talk to you."
 		},
-		Summary = "그림 사제와 대화"
+		Summary = "Talk to Priest Grimm"
 	},
 	[14655] = {
-		Title = "준비는 되었다",
+		Title = "I'm Ready",
 		Description = {
-			"준비가 되었다면, 저에게 말씀해 주십시오."
+			"Let me know when you're ready."
 		},
-		Summary = "그림 사제와 대화"
+		Summary = "Talk to Priest Grimm"
 	},
 	[14656] = {
-		Title = "그림 사제의 일행을 찾아",
+		Title = "Finding Father Grimm's Colleagues",
 		Description = {
-			"이 노트를 통해 저쪽으로 건너가서 젬 수녀님 및 제 일행을 찾아 무사한지 확인해 주십시오. 부탁드리겠습니다."
+			"Please go to the place beyond this notebook and see if Nun Gem and the others in my group are safe."
 		},
-		Summary = "젬 수녀를 찾자"
+		Summary = "Find Nun Gem"
 	},
 	[14657] = {
-		Title = "마법사의 이름은 조조",
+		Title = "Jojo Is the Mage's Name",
 		Description = {
-			"돌아오지 않고 있는 마법사의 이름은 조조입니다. 평범하고도 전형적인 마법사이니까 금방 찾으실 수 있을겁니다."
+			"The mage who hasn't returned is called Jojo. He's a typical mage, so I'm pretty sure you won't miss him."
 		},
-		Summary = "마법사를 찾자"
+		Summary = "Find the mage"
 	},
 	[14658] = {
-		Title = "사제의 이름은 쥬빌레",
+		Title = "Jubilee Is the Priest's Name",
 		Description = {
-			"돌아오지 않고 있는 사제의 이름은 쥬빌레입니다. 평범하고도 전형적인 사제니까 금방 찾으실 수 있을겁니다."
+			"The priest who hasn't returned is called Jubilee. He's a typical priest, so I'm pretty sure you won't miss him."
 		},
-		Summary = "사제를 찾자"
+		Summary = "Find the priest"
 	},
 	[14659] = {
-		Title = "길고 복잡한 생각",
+		Title = "Lost in Thought",
 		Description = {
-			"보미씨는 잠시 생각에 잠긴듯 하다. 잠시 후 다시 대화를 시도해 보자."
+			"Bomi is lost in thought. I should talk to her again later."
 		},
-		Summary = "보미와 대화"
+		Summary = "Talk to Bomi"
 	},
 	[14660] = {
-		Title = "가짜 피의 재료",
+		Title = "Ingredients for Fake Blood",
 		Description = {
-			"가짜 피를 만들기 위해서는 약간의 재료가 필요해요. 매트 드레인리어의 끈적한 피, 반디 버섯의 버섯 수액이요. 각각 10개 정도만 있으면 될 것 같아요."
+			"I need some things to create fake blood: the sticky blood of Matte Drainliars and the sap of Neon Mushrooms. I only need 10 of each."
 		},
-		Summary = "끈적한 피, 버섯 수액 수집"
+		Summary = "Collect Sticky Bloods and Mushroom Saps"
 	},
 	[14661] = {
-		Title = "마법사의 이름은 조조 02",
+		Title = "Jojo Is the Mage's Name 02",
 		Description = {
-			"이곳에는 저희만 있는 것이 아니에요. 일행을 찾는 중이라면 서둘러야 할 거에요."
+			"We aren't the only ones in here. If you're looking for your friends, then you'd better hurry."
 		},
-		Summary = "마법사를 찾자"
+		Summary = "Find the mage"
 	},
 	[14662] = {
-		Title = "불안하게 왜 그래",
+		Title = "You're Scaring Me",
 		Description = {
-			"다들 그대로 멈춰 봐! 뭔가 냄새가 나..."
+			"Everyone, stop what you're doing! I smell something..."
 		},
-		Summary = "킹과 대화"
+		Summary = "Talk to King"
 	},
 	[14663] = {
-		Title = "피를 부르는 싸움",
+		Title = "Bloody Fight",
 		Description = {
-			"이건 피 냄새다!! 어디선가 싸움이 일어났어! 피!!!"
+			"I smell blood. A fight's broken out near here!"
 		},
-		Summary = "다툼이 일어난 곳으로"
+		Summary = "Locate the fighting scene"
 	},
 	[14664] = {
-		Title = "깊은 오해",
+		Title = "Deep Misunderstanding",
 		Description = {
-			"보미는 쓰러진 드라큘라를 보자 생각이 많아졌다. 생각을 정리할 시간을 주자."
+			"Bomi is having mixed feelings, looking at the wounded Dracula. I should give her some time to collect herself."
 		},
-		Summary = "보미와 대화"
+		Summary = "Talk to Bomi"
 	},
 	[14665] = {
-		Title = "싸움 종결?",
+		Title = "Is the Fight Over?",
 		Description = {
-			"나는 잠시 시간이 필요해요. 모험가님은 일행분을 찾아가 보세요."
+			"I need some time to myself. You should go back to your friends."
 		},
-		Summary = "젬 수녀에게"
+		Summary = "Back to Nun Gem"
 	},
 	[14666] = {
-		Title = "감시자의 역할",
+		Title = "Warden's Role",
 		Description = {
-			"우리는 이곳에서 저들이 얌전하게 지내는지 감시를 하려고 합니다. 그림 사제에게 돌아가서 그렇게 전해 주십시오."
+			"We're going to stay here and keep an eye on those vampires. Please let Father Grimm know."
 		},
-		Summary = "그림 사제에게"
+		Summary = "Back to Father Grimm"
 	},
 	[14667] = {
-		Title = "모든 죽은 것들은 땅으로",
+		Title = "Send the Dead Back to Earth",
 		Description = {
-			"안식이 필요한 자들입니다. 모든 죽은 것들은 땅으로 돌려 보내주십시오. 3종 모두 10마리씩 처치를 부탁드립니다."
+			"These poor souls need rest. Please send all the dead back to the earth. Eliminate all 3 kinds, 10 per kind."
 		},
-		Summary = "안식을 빼앗긴 자들"
+		Summary = "Restless Dead"
 	},
 	[14668] = {
-		Title = "충분한 휴식",
+		Title = "Get Some Rest",
 		Description = {
-			"수고 많으셨습니다. 모험가님께도 휴식은 필요합니다. 새벽이 지나면 다시 찾아 와 주십시오. - 젬 수녀"
+			"Thank you for your hard work. You should get some rest. Please come back after dawn. - Nun Gem"
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m"
 	},
 	[14669] = {
-		Title = "달콤한 꿈",
+		Title = "Sweet Dreams",
 		Description = {
-			"어쩌면 스위트 나이트메어의 갈기털이 악몽의 원천 아닐까요? 한 번 연구해 보고 싶습니다. 일렁이는 갈기털 20개 정도가 필요하고요, 꿈의 변화를 관찰하기 위해서 스위트 나이트메어도 10마리 정도 처치 부탁드립니다."
+			"Maybe Sweet Nightmares' mane is the source of nightmares. I want to study it. Please bring me 20 Wavy Manes, and also hunt 10 Sweet Nightmares, so I can examine possible changes in dreaming patterns."
 		},
-		Summary = "일렁이는 갈기털 20개"
+		Summary = "20 Wavy Manes"
 	},
 	[14670] = {
-		Title = "꿈 꾸는 시간",
+		Title = "Time for Dreaming",
 		Description = {
-			"모험가님도 한 숨 자는 것이 어떨까요? 새벽이 지나면 다시 찾아와 주세요. - 앙투안"
+			"Adventurer, why don't you go catch some Zs? You can come back after dawn. - Antoine"
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m"
 	},
 	[14671] = {
-		Title = "불안한 가짜 피",
+		Title = "Unreliable Fake Blood",
 		Description = {
-			"가짜 피를 만들기 위해서는 약간의 재료가 필요해요. 매트 드레인리어의 끈적한 피, 반디 버섯의 버섯 수액이요. 각각 10개 정도만 있으면 될 것 같아요. 매트 드레인리어와 반디 버섯을 5마리 이상 잡으면 얻을 수 있어요."
+			"I need some things to create fake blood: the sticky blood of Matte Drainliars and the sap of Neon Mushrooms. I only need 10 of each. You can get them if you hunt at least 5 Matte Drainliars and 5 Neon Mushrooms."
 		},
-		Summary = "끈적한 피, 버섯 수액 수집"
+		Summary = "Collect Sticky Bloods and Mushroom Saps"
 	},
 	[14672] = {
-		Title = "불꽃 축제 준비",
+		Title = "Preparing for the Firework Festival",
 		Description = {
-			"가스터를 잡으면, 맹독 가루랑 폭발 가루를 주거든? 맹독 가루 10개랑 폭발 가루 1개만 가져다 줘. 참! 가스터를 잡아서 수를 줄이는 것도 잊으면 안돼! 15마리 정도면 돼."
+			"Gasters drop deadly poisonous powder and explosive powder. Bring me 10 Deadly Poisonous Powders and 1 Explosive Powder. Oh, and don't forget to cull Gasters by hunting 15 of them."
 		},
-		Summary = "맹독 가루 10개, 폭발 가루 1개"
+		Summary = "10 Deadly Poisonous Powders and 1 Explosive Powder"
 	},
 	[14673] = {
-		Title = "폭탄을 만드는 시간",
+		Title = "Time to Make Bombs",
 		Description = {
-			"가져다 준 걸로 밤새 만들 거야. 애송이는 푹 쉬었다가 새벽이 지나면 다시 찾아 와. 움직이기엔 그 때가 좋거든. - 데몬"
+			"You've brought me enough ingredients to make bombs all night. Come back early in the morning tomorrow. That's the best time to do things. - Demon"
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m"
 	},
 	[14674] = {
-		Title = "소화가 되는 시간",
+		Title = "Time to Digest",
 		Description = {
-			"아직, 배가 고프지 않아요. 새벽이 지나면 전 또 허기가 지겠죠. 그때 다시 찾아와 주세요. - 보미"
+			"I'm not hungry yet, but I will be by the next morning. Please come back after dawn. - Bomi"
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m"
 	},
 	[14675] = {
-		Title = "기분상의 문제",
+		Title = "Noisy Neighbors",
 		Description = {
-			"저 시끄러운 매트 드레인리어 때문에 짜증이 나. 이 주변에 있는 10마리 정도만 잡아. 아, 그리고 여기 이 녀석이 박쥐의 짧은털이 필요하대. 그것도 한 20개 정도?"
+			"These loud Matte Drainliars are getting on my nerves. Hunt 10 of them around me, will you? Oh, and this guy needs about 20 Short Bat Hairs."
 		},
-		Summary = "매트 드레인리어, 짧은 박쥐털"
+		Summary = "Matte Drainliars and Short Bat Hairs"
 	},
 	[14676] = {
-		Title = "각자의 휴식시간",
+		Title = "Break Time",
 		Description = {
-			"네가 매트 드레인리어를 잡아준 덕에 지금은 조용해졌어. 하지만 시간이 지나면 또 몰려 오겠지. 그때 또 와서 잡아줘. - 킹"
+			"Thanks to you, it's quiet now, but those Matte Drainliars can't keep themselves quiet for too long. Come back later and hunt a few more for me, will you? - King"
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m"
 	},
 	[14677] = {
-		Title = "형설지공",
+		Title = "Studying in Dim Light",
 		Description = {
-			"스위트 나이트메어의 악몽 덩어리에 반디 버섯의 빛나는 포자를 섞어서 벽에다 붙이면 책의 글씨를 읽을 수 있을 정도로 환하대요. 각각 10개씩 부탁드릴게요."
+			"I've heard Clusters of Nightmares from Sweet Nightmares, when mixed with shining spores from Neon Mushrooms and pasted on a surface, make a decent reading light. Could you bring me 10 clusters and 10 spores?"
 		},
-		Summary = "빛나는 포자, 악몽 덩어리"
+		Summary = "Shining Spores and Clusters of Nightmares"
 	},
 	[14678] = {
-		Title = "공부의 시간",
+		Title = "Time to Study",
 		Description = {
-			"빛나는 포자의 빛이 사라지면, 그때 다시 찾아와 주세요. 저는 그동안 열심히 공부 하겠습니다. - 조조"
+			"These shining spores won't be glowing forever. Please come back later and help me replace them. In the meantime, I'll focus on my studies. - Jojo"
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m"
 	},
 	[14679] = {
-		Title = "호기심은 본능",
+		Title = "Curious by Nature",
 		Description = {
-			"살펴 보고 실험을 할 수 있게 마른 이그드라실 잎 10개와 수상한 마법진 10개를 부탁드릴게요. 참, 그리고 그림 사제님을 위해 죽은 자들도 5마리씩 처치해주세요."
+			"Please bring me 10 Dried Yggdrasil Leaves and 10 Suspicious Pentacles. I want to study and test them. Oh, and it'll be great if you can hunt 5 of each Restless Dead type for Father Grimm."
 		},
-		Summary = "마른 이그드라실 잎, 수상한 마법진"
+		Summary = "Dried Yggdrasil Leaves and Suspicious Pentacles"
 	},
 	[14680] = {
-		Title = "연구의 시간",
+		Title = "Time to Research",
 		Description = {
-			"지금은 이걸 살펴 봐야 하느라 얘기 할 시간도 없어요. 집중할 수 있게 시간을 주세요. - 모조"
+			"I'm sorry, but I need to focus on my research. Please come back later. - Mojo"
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m"
 	},
 	[14681] = {
 		Title = "하루에 한 번 속성 교체 무료",
@@ -37176,39 +37176,39 @@ QuestInfoList = {
 		Summary = "장비 지급 완료"
 	},
 	[14683] = {
-		Title = "의문의 장치",
+		Title = "Mysterious Device",
 		Description = {
-			"도착한 곳에서 주변을 살펴 보면 거대한 크리스탈 모양의 장치가 보일 거야. 그 근처에 가면 사용할 수 있으니까 적절히 잘 사용 해."
+			"You can see the device of great crystal shape if you look around where you arrive. Close in with it so that you could use the device."
 		},
-		Summary = "의문의 장치"
+		Summary = "Mysterious Device"
 	},
 	[14684] = {
-		Title = "의문의 장치",
+		Title = "Mysterious Device",
 		Description = {
-			"비상 프로토... 가동.. 사용..에게 RT..017을 실행... 재.. 대기 ... 1시간..."
+			"Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour..."
 		},
-		Summary = "재사용 대기 시간"
+		Summary = "The Cool Down"
 	},
 	[14685] = {
-		Title = "의문의 장치",
+		Title = "Mysterious Device",
 		Description = {
-			"비상 프로토... 가동.. 사용..에게 RT..017을 실행... 재.. 대기 ... 1시간..."
+			"Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour..."
 		},
-		Summary = "재사용 대기 시간"
+		Summary = "The Cool Down"
 	},
 	[14686] = {
-		Title = "의문의 장치",
+		Title = "Mysterious Device",
 		Description = {
-			"비상 프로토... 가동.. 사용..에게 RT..017을 실행... 재.. 대기 ... 1시간..."
+			"Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour..."
 		},
-		Summary = "재사용 대기 시간"
+		Summary = "The Cool Down"
 	},
 	[14687] = {
-		Title = "의문의 장치",
+		Title = "Mysterious Device",
 		Description = {
-			"비상 프로토... 가동.. 사용..에게 RT..017을 실행... 재.. 대기 ... 1시간..."
+			"Emergency Proto... starts.. running... Operate... RT..017 to.. user... The.. Cool... Down... 1Hour..."
 		},
-		Summary = "재사용 대기 시간"
+		Summary = "The Cool Down"
 	},
 	[14688] = {
 		Title = "내 이름은 쇼티",
