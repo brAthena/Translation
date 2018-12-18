@@ -4184,6 +4184,30 @@ tbl = {
 			EFFECT.EF_GREEN99_6
 		}
 	},
+	[20421] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[20422] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[20419] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
 	[20426] = {
 		MonsterSize = 1,
 		MonsterEff = {
