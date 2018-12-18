@@ -2080,6 +2080,14 @@ tblLapineUpgradeBox = {
 				{
 					"S_Soul_Reaper_Shoes",
 					24415
+				},
+				{
+					"S_Tempest_Weapon",
+					24423
+				},
+				{
+					"S_Tempest_Armor",
+					24424
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
@@ -3588,6 +3596,14 @@ tblLapineUpgradeBox = {
 				{
 					"S_Soul_Reaper_Shoes",
 					24415
+				},
+				{
+					"S_Tempest_Weapon",
+					24423
+				},
+				{
+					"S_Tempest_Armor",
+					24424
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
@@ -4882,6 +4898,14 @@ tblLapineUpgradeBox = {
 				{
 					"S_CriticalHit_Armor",
 					15280
+				},
+				{
+					"S_Tempest_Weapon",
+					24423
+				},
+				{
+					"S_Tempest_Armor",
+					24424
 				}
 			},
 			NeedSource_String = "+7 쉐도우 아이템"
