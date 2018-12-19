@@ -7794,6 +7794,16 @@ tblLapineDdukddakBox = {
 					"C_Protect_Cloth",
 					1,
 					31625
+				},
+				{
+					"C_Backside_Ribbon_Bell",
+					1,
+					20546
+				},
+				{
+					"C타락천사의날개",
+					1,
+					20764
 				}
 			},
 			NeedSource_String = "냥다래 의상"
