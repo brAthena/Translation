@@ -288,7 +288,7 @@ tbl = {
 		Image = "유저인터페이스\\tipbox\\tip00017",
 		Imgcoord = {Position = 5, Size = 100},
 		Page = {
-			"바닥에 떨어진 아이템은 마우스를 아이템에 가져간 후 ^3b488c왼쪽 클릭^000000을 하면 주울 수 있습니다.\\n주운 아이템은 아이템 창에 들어가게 됩니다.\n\t\t<TIPBOX>▶아이템: 돋보기<INFO>18</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+			"바닥에 떨어진 아이템은 마우스를 아이템에 가져간 후 ^3b488c왼쪽 클릭^000000을 하면 주울 수 있습니다.\\n주운 아이템은 ^3b488c인벤토리-소지아이템^000000에 들어가게 됩니다.\n\t\t<TIPBOX>▶인벤토리: 소지아이템<INFO>64</INFO></TIPBOX>\n\t\t<TIPBOX>▶아이템: 돋보기<INFO>18</INFO></TIPBOX>\n\t\t<TIPBOX>▶아이템: 확성기<INFO>7000</INFO></TIPBOX>\n\t\t<TIPBOX>▶아이템 제조 안내<INFO>7036</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
 		},
 		PageEX = {
 			{
@@ -572,6 +572,35 @@ tbl = {
 				StartY = 158,
 				DistX = 120,
 				DistY = 158,
+				MoveTime = 0
+			}
+		}
+	},
+	[64] = {
+		Title = "인벤토리: 소지아이템#가방",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00064",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"획득한 아이템을 소지아이템에 보관할 수 있습니다. 소지아이템 내역은 ALT+E를 눌러 확인할 수 있습니다.\n\t\t\t소지아이템은 한번에 100개, Weight(무게) 만큼 가질 수 있습니다.\n\t\t\t<TIPBOX>▶아이템<INFO>17</INFO></TIPBOX>\n\t\t\t<TIPBOX>▶캐릭터: Weight(무게)<INFO>13</INFO></TIPBOX>\n\t\t\t<TIPBOX>▶인벤토리: 확장<INFO>65</INFO></TIPBOX>\n\t\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[65] = {
+		Title = "인벤토리: 확장",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip00065",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"인벤토리 확장은 캐릭터가 소지할 수 있는 아이템의 최대 종류수를 확장하는 기능입니다.\n\t\t인벤토리 확장 쿠폰 아이템을 소지한 상태에서 소지 아이템 창 좌측하단 가방 아이콘을 클릭하면 소지 아이템의 최대 종류수를 확장할 수 있습니다.\n\t\t1회당 10개씩 확장되며, 총 10회 확장할 수 있습니다.\n\t\t<TIPBOX>▶인벤토리: 소지아이템<INFO>64</INFO></TIPBOX>\n\t\t\\n<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		},
+		PageEX = {
+			{
+				EffectNum = 3,
+				Twinkle = 1,
+				StartX = 30,
+				StartY = 200,
+				DistX = 0,
+				DistY = 0,
 				MoveTime = 0
 			}
 		}
