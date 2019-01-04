@@ -3807,6 +3807,7 @@ JobNameTable = {
 	[jobtbl.JT_4_F_MD_KATRINN_D] = "4_f_md_katrinn_d",
 	[jobtbl.JT_4_F_MD_YGNIZEM] = "4_f_md_ygnizem",
 	[jobtbl.JT_4_F_ERENE] = "4_f_erene",
+	[jobtbl.JT_4_PIGOCTO] = "4_pigocto",
 	[jobtbl.JT_EVT_BAPHOMET] = "BAPHOMET_I",
 	[jobtbl.JT_EVT_BAPHO_JR] = "BAPHOMET_",
 	[jobtbl.JT_EVT_V_WOLF] = "VAGABOND_WOLF",
@@ -4009,5 +4010,6 @@ JobNameTable = {
 	[jobtbl.JT_MD_ED_LGTHIGHGUARD] = "md_ed_lgthighguard",
 	[jobtbl.JT_MD_ED_LGTGUARD] = "md_ed_lgtguard",
 	[jobtbl.JT_MD_ED_M_SCIENCE] = "md_ed_m_science",
-	[jobtbl.JT_HIDDEN_MOB8] = "invisible"
+	[jobtbl.JT_HIDDEN_MOB8] = "invisible",
+	[jobtbl.JT_MISSING_OCTOPIG] = "SAVAGE_BABE"
 }

@@ -1843,5 +1843,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Drooping_Schmidt] = "_Drooping_Schmidt",
 	[ACCESSORY_IDs.ACCESSORY_Drooping_Oscar] = "_Drooping_Oscar",
 	[ACCESSORY_IDs.ACCESSORY_Drooping_Heinrich] = "_Drooping_Heinrich",
-	[ACCESSORY_IDs.ACCESSORY_C_Rudolf_Hairband] = "_C_Rudolf_Hairband"
+	[ACCESSORY_IDs.ACCESSORY_C_Rudolf_Hairband] = "_C_Rudolf_Hairband",
+	[ACCESSORY_IDs.ACCESSORY_Eat_Coin] = "_Eat_Coin"
 }

@@ -1,5 +1,71 @@
 tblLapineUpgradeBox = {
 	targets = {
+		Gemstone_Of_Time = {
+			ItemID = 9550,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Overwhelm_Str_Armor",
+					15278
+				},
+				{
+					"Overwhelm_Int_Armor",
+					15279
+				},
+				{
+					"Overwhelm_Vit_Armor",
+					15347
+				},
+				{
+					"Overwhelm_Dex_Armor",
+					15354
+				},
+				{
+					"Overwhelm_Agi_Armor",
+					15353
+				},
+				{
+					"Overwhelm_Luk_Armor",
+					15346
+				}
+			},
+			NeedSource_String = "Ω√∞£¿« ∞©ø  6¡æ"
+		},
+		Time_Unseal_Key = {
+			ItemID = 9551,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Temporal_M_Str",
+					20963
+				},
+				{
+					"Temporal_M_Agi",
+					20964
+				},
+				{
+					"Temporal_M_Vit",
+					20965
+				},
+				{
+					"Temporal_M_Int",
+					20966
+				},
+				{
+					"Temporal_M_Dex",
+					20967
+				},
+				{
+					"Temporal_M_Luk",
+					20968
+				}
+			},
+			NeedSource_String = "Ω√∞£¿« ∏¡≈‰ 6¡æ"
+		},
 		Magma_Essence = {
 			ItemID = 23815,
 			NeedRefineMin = 0,
