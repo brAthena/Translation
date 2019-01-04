@@ -12507,7 +12507,7 @@ QuestInfoList = {
 		NpcPosX = 241,
 		NpcPosY = 255,
 		RewardEXP = "1120000",
-		RewardJEXP = 650000
+		RewardJEXP = "650000"
 	},
 	[5848] = {
 		Title = "거석족 퇴치의 증거",
@@ -18659,7 +18659,7 @@ QuestInfoList = {
 		},
 		Summary = "테스에게 보고",
 		RewardEXP = "200000",
-		RewardJEXP = 200000
+		RewardJEXP = "200000"
 	},
 	[7864] = {
 		Title = "환기",
@@ -18698,7 +18698,7 @@ QuestInfoList = {
 		},
 		Summary = "하트헌터 처치",
 		RewardEXP = "200000",
-		RewardJEXP = 200000
+		RewardJEXP = "200000"
 	},
 	[7868] = {
 		Title = "용병vs용병-대기",
@@ -28191,7 +28191,11 @@ QuestInfoList = {
 		Description = {
 			"스승캣레톤마저 모험을 떠나버리겠다고 한다. 잭에게 이야기 해주자."
 		},
-		Summary = "잭과 대화"
+		Summary = "잭과 대화",
+		RewardItemList = {
+			{ ItemID = 31387, ItemNum = 1 },
+			{ ItemID = 6658, ItemNum = 1 }
+		}
 	},
 	[11527] = {
 		Title = "검은 언덕에서 불어오는 바람",
@@ -28666,7 +28670,7 @@ QuestInfoList = {
 		},
 		Summary = "리벨리온 대원과 대화",
 		RewardEXP = "100000",
-		RewardJEXP = 100000
+		RewardJEXP = "100000"
 	},
 	[11600] = {
 		Title = "오래된 추억",
@@ -28676,7 +28680,7 @@ QuestInfoList = {
 		},
 		Summary = "안으로",
 		RewardEXP = "600000",
-		RewardJEXP = 600000
+		RewardJEXP = "600000"
 	},
 	[11601] = {
 		Title = "오래된 추억",
@@ -28702,7 +28706,7 @@ QuestInfoList = {
 		},
 		Summary = "다시 디엔에게",
 		RewardEXP = "200000",
-		RewardJEXP = 100000
+		RewardJEXP = "100000"
 	},
 	[11604] = {
 		Title = "잭 더 자이언트 펌프킨",
@@ -40790,7 +40794,7 @@ QuestInfoList = {
 		},
 		Summary = "레이지씨와 대화",
 		RewardEXP = "300000",
-		RewardJEXP = 300000
+		RewardJEXP = "300000"
 	},
 	[17003] = {
 		Title = "동행 성사",
@@ -40816,7 +40820,7 @@ QuestInfoList = {
 		},
 		Summary = "팩씨의 집으로",
 		RewardEXP = "300000",
-		RewardJEXP = 300000
+		RewardJEXP = "300000"
 	},
 	[17006] = {
 		Title = "본격적인 조사 시작",
@@ -40929,7 +40933,7 @@ QuestInfoList = {
 		},
 		Summary = "아스씨에게",
 		RewardEXP = "300000",
-		RewardJEXP = 300000
+		RewardJEXP = "300000"
 	},
 	[17019] = {
 		Title = "긴박한 상황",
@@ -40964,7 +40968,7 @@ QuestInfoList = {
 		},
 		Summary = "세탁물 담당자에게",
 		RewardEXP = "300000",
-		RewardJEXP = 300000
+		RewardJEXP = "300000"
 	},
 	[17023] = {
 		Title = "팩씨를 찾아서",
@@ -40990,7 +40994,7 @@ QuestInfoList = {
 		},
 		Summary = "소리를 따라",
 		RewardEXP = "300000",
-		RewardJEXP = 300000
+		RewardJEXP = "300000"
 	},
 	[17026] = {
 		Title = "팩씨를 찾아서",
