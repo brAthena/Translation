@@ -28290,6 +28290,7 @@ QuestInfoList = {
 	},
 	[11539] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"페이욘 주막에서 휼이 혼자 흥얼거리는 것을 들었다. 휼에게 말을 걸어보자"
 		},
@@ -28297,6 +28298,7 @@ QuestInfoList = {
 	},
 	[11540] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"휼이 갓 끓인 문어 떡국을 만들 재료를 구해달라고 한다. 페이욘 주막의 가마솥을 확인해 갓 끓인 문어 떡국을 만들고 휼에게 가져오자."
 		},
@@ -28304,6 +28306,7 @@ QuestInfoList = {
 	},
 	[11541] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"휼이 알베르타 남쪽에 계신 어르신을 찾아뵙겠다고 한다."
 		},
@@ -28311,6 +28314,7 @@ QuestInfoList = {
 	},
 	[11542] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"무사히 알베르타 어르신께 인사를 드렸다. 다시 페이욘으로 돌아가 휼과 대화하자."
 		},
@@ -28318,6 +28322,7 @@ QuestInfoList = {
 	},
 	[11543] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"휼이 갓 끓인 문어 떡국을 만들 재료를 구해달라고 한다. 페이욘 주막의 가마솥을 확인해 갓 끓인 문어 떡국을 만들고 휼에게 가져오자."
 		},
@@ -28325,6 +28330,7 @@ QuestInfoList = {
 	},
 	[11544] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"휼이 프론테라 북쪽에 계신 어르신을 찾아뵙겠다고 한다."
 		},
@@ -28332,6 +28338,7 @@ QuestInfoList = {
 	},
 	[11545] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"무사히 프론테라 어르신께 인사를 드렸다. 다시 페이욘으로 돌아가 휼과 대화하자."
 		},
@@ -28339,6 +28346,7 @@ QuestInfoList = {
 	},
 	[11546] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"휼이 갓 끓인 문어 떡국을 만들 재료를 구해달라고 한다. 페이욘 주막의 가마솥을 확인해 갓 끓인 문어 떡국을 만들고 휼에게 가져오자."
 		},
@@ -28346,6 +28354,7 @@ QuestInfoList = {
 	},
 	[11547] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"휼이 게펜 북쪽에 계신 어르신을 찾아뵙겠다고 한다."
 		},
@@ -28353,6 +28362,7 @@ QuestInfoList = {
 	},
 	[11548] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"무사히 게펜 어르신께 인사를 드렸다. 다시 페이욘으로 돌아가 휼과 대화하자."
 		},
@@ -28360,6 +28370,7 @@ QuestInfoList = {
 	},
 	[11549] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"휼이 갓 끓인 문어 떡국을 만들 재료를 구해달라고 한다. 페이욘 주막의 가마솥을 확인해 갓 끓인 문어 떡국을 만들고 휼에게 가져오자."
 		},
@@ -28367,6 +28378,7 @@ QuestInfoList = {
 	},
 	[11550] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"휼이 알데바란 서쪽에 계신 어르신을 찾아뵙겠다고 한다."
 		},
@@ -28374,6 +28386,7 @@ QuestInfoList = {
 	},
 	[11551] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"무사히 알데바란 어르신께 인사를 드렸다. 다시 페이욘으로 돌아가 휼과 대화하자."
 		},
@@ -28381,6 +28394,7 @@ QuestInfoList = {
 	},
 	[11552] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"휼이 갓 끓인 문어 떡국을 만들 재료를 구해달라고 한다. 페이욘 주막의 가마솥을 확인해 갓 끓인 문어 떡국을 만들고 휼에게 가져오자."
 		},
@@ -28388,6 +28402,7 @@ QuestInfoList = {
 	},
 	[11553] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"휼이 페이욘 동쪽에 있는 본가에 가겠다고 한다."
 		},
@@ -28395,6 +28410,7 @@ QuestInfoList = {
 	},
 	[11554] = {
 		Title = "고향의 맛을 찾아서",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"갓 끓인 문어 떡국 재료 : 나들이 문어의 다리 5, 페코페코의 알 2 처치, 싱싱한 문어다리 5개, 쫄깃한 가래떡 2개(나들이 문어의 다리, 나들이 문어, 나쁜 오이캣을 잡으면 얻을 수 있다.)"
 		},
@@ -28402,6 +28418,7 @@ QuestInfoList = {
 	},
 	[11555] = {
 		Title = "고향의 맛을 찾아서 - 대기",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"솥이 너무 뜨거워서 [갓 끓인 문어 떡국]을 만들 수 없다. 내일 다시 만들자."
 		},
@@ -28734,6 +28751,46 @@ QuestInfoList = {
 			"할로윈 축제장으로 가려면 04시 이후 다시 방문하자."
 		},
 		Summary = "04시 초기화"
+	},
+	[11607] = {
+		IconName = "ico_ev.bmp",
+		Summary = ""
+	},
+	[11608] = {
+		IconName = "ico_ev.bmp",
+		Summary = ""
+	},
+	[11609] = {
+		IconName = "ico_ev.bmp",
+		Summary = ""
+	},
+	[11610] = {
+		IconName = "ico_ev.bmp",
+		Summary = ""
+	},
+	[11611] = {
+		IconName = "ico_ev.bmp",
+		Summary = ""
+	},
+	[11612] = {
+		IconName = "ico_ev.bmp",
+		Summary = "",
+		RewardItemList = {
+			{ ItemID = 23921, ItemNum = 1 },
+			{ ItemID = 7804, ItemNum = 1 }
+		}
+	},
+	[11613] = {
+		IconName = "ico_ev.bmp",
+		Summary = "",
+		RewardItemList = {
+			{ ItemID = 23921, ItemNum = 1 },
+			{ ItemID = 7804, ItemNum = 1 }
+		}
+	},
+	[11614] = {
+		IconName = "ico_ev.bmp",
+		Summary = ""
 	},
 	[12000] = {
 		Title = "An old friend",
