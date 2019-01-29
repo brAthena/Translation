@@ -1163,13 +1163,15 @@ SKILL_TREEVIEW_FOR_JOB = {
 		[32] = SKID.SP_SOULEXPLOSION
 	}
 }
-JobSkillTab.ChangeSkillTabName(JOBID.JT_NOVICE, "Novice-1st", "2nd", "3rd")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_NINJA, "Novice-1st Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_GUNSLINGER, "Novice-1st Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_SUPERNOVICE, "Novice-1st Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_TAEKWON, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_STAR, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_LINKER, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_STAR2, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_DO_SUMMONER, "Summoner")
-JobSkillTab.ChangeSkillTabName(JOBID.JT_DO_SUMMONER_B, "Summoner")
+if nil ~= JobSkillTab and nil ~= JobSkillTab.ChangeSkillTabName then
+	JobSkillTab.ChangeSkillTabName(JOBID.JT_NOVICE, "Novice-1st", "2nd", "3rd")
+	JobSkillTab.ChangeSkillTabName(JOBID.JT_NINJA, "Novice-1st Expanded", "Top Expanded")
+	JobSkillTab.ChangeSkillTabName(JOBID.JT_GUNSLINGER, "Novice-1st Expanded", "Top Expanded")
+	JobSkillTab.ChangeSkillTabName(JOBID.JT_SUPERNOVICE, "Novice-1st Expanded", "Top Expanded")
+	JobSkillTab.ChangeSkillTabName(JOBID.JT_TAEKWON, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
+	JobSkillTab.ChangeSkillTabName(JOBID.JT_STAR, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
+	JobSkillTab.ChangeSkillTabName(JOBID.JT_LINKER, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
+	JobSkillTab.ChangeSkillTabName(JOBID.JT_STAR2, "Novice-1st Expanded", "2nd Expanded", "Top Expanded")
+	JobSkillTab.ChangeSkillTabName(JOBID.JT_DO_SUMMONER, "Summoner")
+	JobSkillTab.ChangeSkillTabName(JOBID.JT_DO_SUMMONER_B, "Summoner")
+end
