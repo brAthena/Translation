@@ -466,6 +466,11 @@ HOTKEY_2 = {
 		EXE = MsgStrID.MSI_HK_TWITTERWND,
 		KEY1 = 83,
 		KEY2 = 17
+	},
+	[54] = {
+		EXE = MsgStrID.MSI_HK_TIPBOXWND_ONOFF,
+		KEY1 = 68,
+		KEY2 = 18
 	}
 }
 HOTKEY_3 = {
@@ -600,7 +605,8 @@ BEHAVIOR_TO_WINDOWID = {
 	[11] = 47,
 	[270] = 49,
 	[263] = 51,
-	[282] = 53
+	[282] = 53,
+	[315] = 54
 }
 function GetKeyDes(key1, key2)
 	local keyName1 = KEYNAME[key1]
