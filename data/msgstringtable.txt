@@ -3571,3 +3571,7 @@ PvP#
 성제#
 소울리퍼#
 설정한 내용은 정상 종료 시 서버에 저장됩니다.#
+Capture Monster#
+message#
+TITLE#
+데미지 표기 확장#
