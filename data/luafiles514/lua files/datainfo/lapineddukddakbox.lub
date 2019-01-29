@@ -7804,6 +7804,26 @@ tblLapineDdukddakBox = {
 					"C타락천사의날개",
 					1,
 					20764
+				},
+				{
+					"C눈토끼니트모자",
+					1,
+					19990
+				},
+				{
+					"C_Snow_Bear_Food",
+					1,
+					31440
+				},
+				{
+					"C_LunaticMuffler",
+					1,
+					31693
+				},
+				{
+					"C_Sleep_Sheep_TW",
+					1,
+					31616
 				}
 			},
 			NeedSource_String = "냥다래 의상"

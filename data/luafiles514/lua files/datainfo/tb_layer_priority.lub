@@ -3,6 +3,14 @@ TB_Layer_Priority = {
 	Default_Top = 200,
 	Default_Bottom = 300,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_Eleanor_Wig_YL] = {
+			Default = 152,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Piamette_Roll_Hair] = {
+			Default = 153,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_APRO_WIG] = {
 			Default = 152,
 			Direction = {}
@@ -43,10 +51,7 @@ TB_Layer_Priority = {
 			Default = 52,
 			Direction = {}
 		},
-		[ACCESSORY_IDs.ACCESSORY_White_Cat] = {
-			Default = 304,
-			Direction = {}
-		},
+		[ACCESSORY_IDs.ACCESSORY_White_Cat] = {Default = 304, isIgnoreRiding = true},
 		[ACCESSORY_IDs.ACCESSORY_Cowlick_YL] = {
 			Default = 153,
 			Direction = {}
@@ -299,18 +304,9 @@ TB_Layer_Priority = {
 			Default = 304,
 			Direction = {}
 		},
-		[ACCESSORY_IDs.ACCESSORY_C_Black_Cat] = {
-			Default = 304,
-			Direction = {}
-		},
-		[ACCESSORY_IDs.ACCESSORY_C_Shiba_Inu] = {
-			Default = 304,
-			Direction = {}
-		},
-		[ACCESSORY_IDs.ACCESSORY_White_Rabbit] = {
-			Default = 304,
-			Direction = {}
-		},
+		[ACCESSORY_IDs.ACCESSORY_C_Black_Cat] = {Default = 304, isIgnoreRiding = true},
+		[ACCESSORY_IDs.ACCESSORY_C_Shiba_Inu] = {Default = 304, isIgnoreRiding = true},
+		[ACCESSORY_IDs.ACCESSORY_White_Rabbit] = {Default = 304, isIgnoreRiding = true},
 		[ACCESSORY_IDs.ACCESSORY_RABBIT_HEAD_DRESS] = {
 			Default = 302,
 			Direction = {}
@@ -495,7 +491,17 @@ TB_Layer_Priority = {
 			Default = 303,
 			Direction = {}
 		}
-	}
+	},
+	IsIgnoredRidingState = function(acc_id)
+		local Items_List = TB_Layer_Priority.Items_List
+		if nil ~= Items_List then
+			local Item_Tb = Items_List[acc_id]
+			if nil ~= Item_Tb and nil ~= Item_Tb.isIgnoreRiding then
+				return Item_Tb.isIgnoreRiding
+			end
+		end
+		return false
+	end
 }
 function GetLayerPriority(direction, layer, acc_id)
 	local Items_List = TB_Layer_Priority.Items_List

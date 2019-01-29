@@ -12803,5 +12803,29 @@ SKILL_INFO_LIST = {
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.GD_CHARGESHOUT_FLAG] = {
+		"GD_CHARGESHOUT_FLAG",
+		SkillName = "Charge Shout Flag",
+		MaxLv = 1,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.GD_CHARGESHOUT_BEATING] = {
+		"GD_CHARGESHOUT_BEATING",
+		SkillName = "Charge Shout Beating",
+		MaxLv = 1,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+	[SKID.GD_EMERGENCY_MOVE] = {
+		"GD_EMERGENCY_MOVE",
+		SkillName = "Emergency Move",
+		MaxLv = 1,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
 	}
 }
