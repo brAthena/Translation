@@ -4776,3 +4776,4 @@
 17999	1	1	0	1	1	1	1	1	//Inventory_Ex_Box
 200001	1	1	0	1	1	1	1	1	//Inventory_Ex_10Box
 7804	1	1	1	1	0	1	1	1	//Octopig_Tentacle
+25840	1	1	0	1	1	1	1	1	//PayPromotion_Coupon
