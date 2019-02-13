@@ -5362,3 +5362,40 @@ StateIconList[EFST_IDs.EFST_OVERLAPEXPUP2] = {
 		{ "아이템 드롭률 증가" }
 	}
 }
+StateIconList[EFST_IDs.EFST_SOULCURSE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "사령의 저주", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "암속성 공격에 대한 내성 감소." }
+	}
+}
+StateIconList[EFST_IDs.EFST_HELPANGEL] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "천사의 가호", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "초당 HP 1000 회복" },
+		{ "초당 SP 350 회복" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "스위트 마카롱 케이크", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "ATK + 7%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "스위트 딸기 파르페", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "MATK + 7%" }
+	}
+}

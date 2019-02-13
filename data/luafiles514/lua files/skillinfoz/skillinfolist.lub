@@ -11668,6 +11668,30 @@ SKILL_INFO_LIST = {
 			{ SKID.AB_ORATIO, 5 }
 		}
 	},
+	[SKID.NV_BREAKTHROUGH] = {
+		"NV_BREAKTHROUGH",
+		SkillName = "Break Through",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 },
+	},
+	[SKID.NV_HELPANGEL] = {
+		"NV_HELPANGEL",
+		SkillName = "Help Angel!",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 1 }
+	},
+	[SKID.NV_TRANSCENDENCE] = {
+		"NV_TRANSCENDENCE",
+		SkillName = "Transcendence",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
 	[SKID.HLIF_HEAL] = {
 		"HLIF_HEAL",
 		SkillName = "Touch of Heal",
