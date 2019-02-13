@@ -1646,88 +1646,88 @@ QuestInfoList = {
 		Summary = "Collect 10 Sprig of Holly"
 	},
 	[1321] = {
-		Title = "바둑이가 물고 간 반지",
+		Title = "Spotty and Her Ring",
 		Description = {
-			"바둑이가 물고 가버린 미즈 맥피의 금반지를 소적단이 무서운 미스터 맥피를 대신해 찾아다 주자."
+			"Spotty took Mrs. McPhy's ring with him, and Mr. McPhy is too scared of the Buffalo Bandits to go search for it. I should help them."
 		},
-		Summary = "바둑이가 물고 간 반지 찾기"
+		Summary = "Find the ring that Spotty took."
 	},
 	[1322] = {
-		Title = "I found something",
+		Title = "Found Something",
 		Description = {
-			"I found a shiny plate in the pit. It's not a gold ring, Let's return to Miss McPhee."
+			"I've found something shiny inside one of the holes Spotty dug, but it's not a gold ring. I've searched along the barbed wire fence enough. I should return to Mrs. McPhy."
 		},
-		Summary = "Return to Miss McPhee"
+		Summary = "Return to Mrs. McPhy."
 	},
 	[1323] = {
-		Title = "바둑아 그럼 못써",
+		Title = "Spotty, No!",
 		Description = {
-			"바둑이가 살림살이를 물고 또 황야로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 미즈 맥피를 위해 없어진 물건을 찾아다 주자."
+			"Spotty took more stuff from the house to the wasteland, to Mrs. McPhy's dismay. I should look for the missing items."
 		},
-		Summary = "바둑이가 물고 간 살림살이 찾기"
+		Summary = "Look for household items that Spotty took."
 	},
 	[1324] = {
-		Title = "바둑아 그럼 못써",
+		Title = "Spotty, No!",
 		Description = {
-			"바둑이가 살림살이를 물고 또 황야로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 미즈 맥피를 위해 없어진 물건을 찾아다 주자."
+			"Spotty took more stuff from the house to the wasteland, to Mrs. McPhy's dismay. I should look for the missing items."
 		},
-		Summary = "바둑이가 물고 간 살림살이 찾기"
+		Summary = "Look for household items that Spotty took."
 	},
 	[1325] = {
-		Title = "바둑아 그럼 못써",
+		Title = "Spotty, No!",
 		Description = {
-			"바둑이가 살림살이를 물고 또 황야로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 미즈 맥피를 위해 없어진 물건을 찾아다 주자."
+			"Spotty took more stuff from the house to the wasteland, to Mrs. McPhy's dismay. I should look for the missing items."
 		},
-		Summary = "바둑이가 물고 간 살림살이 찾기"
+		Summary = "Look for household items that Spotty took."
 	},
 	[1326] = {
-		Title = "바둑아 그럼 못써",
+		Title = "Spotty, No!",
 		Description = {
-			"바둑이가 살림살이를 물고 또 황야로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 미즈 맥피를 위해 없어진 물건을 찾아다 주자."
+			"Spotty took more stuff from the house to the wasteland, to Mrs. McPhy's dismay. I should look for the missing items."
 		},
-		Summary = "바둑이가 물고 간 살림살이 찾기"
+		Summary = "Look for household items that Spotty took."
 	},
 	[1327] = {
-		Title = "바둑아 그럼 못써",
+		Title = "Spotty, No!",
 		Description = {
-			"바둑이가 살림살이를 물고 또 황야로 뛰쳐나갔다고 한다. 바둑이가 매일같이 물건을 물고 나가는 통에 곤란해 하는 미즈 맥피를 위해 없어진 물건을 찾아다 주자."
+			"Spotty took more stuff from the house to the wasteland, to Mrs. McPhy's dismay. I should look for the missing items."
 		},
-		Summary = "바둑이가 물고 간 살림살이 찾기"
+		Summary = "Look for household items that Spotty took."
 	},
 	[1328] = {
-		Title = "물어간 걸 찾았다",
+		Title = "Found Missing Items",
 		Description = {
-			"바둑이가 판 구덩이 속에서 미즈 맥피가 찾아달라고 했던 것을 발견했다. 미즈 맥피에게 돌아가자."
+			"I've found what Mrs. McPhy is looking for inside one of the holes Spotty dug. I should go back to Mrs. Mrs. McPhy."
 		},
-		Summary = "미즈 맥피에게 돌아가기"
+		Summary = "Return to Mrs. McPhy."
 	},
 	[1329] = {
-		Title = "꿈나라로 간 바둑이",
+		Title = "Spotty in the Dreamland",
 		Description = {
-			"바둑이는 실컷 뛰어놀아 오늘은 더 나갈 생각이 없는 듯 하다. 오전 4시가 지난 후에 혹시 또 도움이 필요하지 않을지 미즈 맥피를 찾아가 보자."
+			"Spotty looks like he's done for the day; he's sound asleep. I should come back after 4:00 a.m. tomorrow and ask Mrs. McPhy if she needs help."
 		},
-		Summary = "오전 4시 이후 미즈 맥피 재방문"
+		Summary = "Revisit Mrs. McPhy after 4:00 a.m. the next day."
 	},
 	[1330] = {
-		Title = "바둑이가 판 구덩이는 어디에",
+		Title = "Spotty's Holes",
 		Description = {
-			"미스터 맥피가 바둑이가 어디에 구덩이를 팠을지 짐작가는 곳을 알려주려는 모양이다. 마을 밖으로 나가 미스터 맥피를 찾아 보자."
+			"Mr. McPhy will tell me where he thinks Spotty's holes are. I should go outside the village and look for him."
 		},
-		Summary = "마을 밖의 미스터 맥피 찾기"
+		Summary = "Look for Mr. McPhy outside the village."
 	},
 	[1331] = {
-		Title = "바둑이를 위한 복수",
+		Title = "Avenging Spotty",
 		Description = {
-			"미스터 맥피는 바둑이를 괴롭힌 범인이 소적단이라고 생각하고 대신 손봐줄 것을 부탁했다. 머리가 노란 소적단 셋, 머리가 까만 소적단 셋, 머리가 흰 소적단 셋을 혼내 주자."
+			"Mr. McPhy, convinced that the Buffalo Bandits wronged Spotty, asked me to take care of them. I should eliminate 3 yellow-haired, 3 black-haired, and 3 white-haired Buffalo Bandits."
 		},
-		Summary = "소적단 처치"
+		Summary = "Eliminate Buffalo Bandits."
 	},
 	[1332] = {
-		Title = "피로 피를 씻는다",
+		Title = "Blood for Blood",
 		Description = {
-			"미스터 맥피는 소적단을 더 혼내 주고 싶은 모양이다. 오전 4시가 지난 후에 다시 마을에 있는 미스터 맥피를 찾아가 보자."
+			"Mr. McPhy is not done avenging Spotty. I should come back to Mr. McPhy in town after 4:00 a.m. the next day."
 		},
-		Summary = "오전 4시 이후 미스터 맥피 재방문"
+		Summary = "Revisit Mr. McPhy after 4:00 a.m. the next day."
 	},
 	[1333] = {
 		Title = "달콤한 유혹",
@@ -18221,142 +18221,142 @@ QuestInfoList = {
 		Summary = "Talk to Muyeon in the Detached Palace"
 	},
 	[7790] = {
-		Title = "기회의땅 락릿지",
+		Title = "Rock Ridge, Land of Opportunities",
 		Description = {
-			"카람 푸치가 서비스로 락 릿지 행 배를 무료로 태워줬습니다."
+			"Karam Pucci has waived the ship fare to Rock Ridge as a complimentary service."
 		},
 		Summary = ""
 	},
 	[7791] = {
-		Title = "락릿지의 문제",
+		Title = "Problems in Rock Ridge",
 		Description = {
-			"카람 푸치는 락 릿지에 곤란한 일이 생겨 도와줄 사람이 필요하다고 한다. 락 릿지에 도착해 항구 근처에서 시장 코스텔을 만나보자."
+			"Karam Pucci said Rock Ridge needs help. I should go to Rock Ridge and talk to Mayor Costello by the dock."
 		},
-		Summary = "코스텔과 대화"
+		Summary = "Talk to Costello."
 	},
 	[7792] = {
-		Title = "락릿지의 문제2",
+		Title = "Problems in Rock Ridge 2",
 		Description = {
-			"시장 코스텔은 소적단때문에 락 릿지가 곤란을 겪고 있다며, 마을의 보안관과 협력 해 달라고 한다. ^4d4dff보안관 사무실로 찾아가 아이어트 워프^000000를 만나자."
+			"Mayor Costello said Rock Ridge is in trouble because of the Buffalo Bandits, and that he wants me to solve the problem in concert with the sheriff. ^4d4dffI should go to the sheriff's office and meet Wyatt Warp^000000."
 		},
-		Summary = "아이어트 워프와 대화"
+		Summary = "Talk to Wyatt Warp."
 	},
 	[7793] = {
-		Title = "좋은 소식",
+		Title = "Good News",
 		Description = {
-			"소적단 두목인 '죠니 제임스'는 협상 대상자로 '시장 코스텔'을 지목했다. ^4d4dff항구의 코스텔^000000에게 이 기쁜(?) 소식을 알려주자."
+			"Johnny James, the leader of the Buffalo Bandits, only wants to negotiate with Mayor Costello. I should deliver this exciting news to ^4d4dffCostello at the dock^000000."
 		},
-		Summary = "코스텔과 대화"
+		Summary = "Talk to Costello."
 	},
 	[7794] = {
-		Title = "예상대로의 반응",
+		Title = "Expected Response",
 		Description = {
-			"코스텔은 협상하러 가는 것이 탐탁지않은 모양이다. 겁에 질린 그를 대신해 나가기로 했다. 협상안을 대신 듣고 와달라는 코스텔의 의견을 아이어트에게 전하자."
+			"Costello, too afraid of the bandits to go negotiate with them, asked me to go on his behalf. I should go tell Sheriff Warp."
 		},
-		Summary = "아이어트 워프와 대화"
+		Summary = "Talk to Wyatt Warp."
 	},
 	[7795] = {
-		Title = "철길 위의 협상",
+		Title = "Negotiation on the Railroad",
 		Description = {
-			"협상 장소는 ^4d4dff운행을 멈춘 화물열차^000000가 있는 곳이다. 마을 동쪽으로 나가 철로를 따라 가면 쉽게 찾을 수 있을 것이다."
+			"The negotiation meeting will take place by the ^4d4dffunmoving freight train^000000. I can find it if I exit the village through the eastern gate and follow the railroad."
 		},
-		Summary = "운행을 멈춘 화물열차 찾기"
+		Summary = "Find Unmoving Freight Train."
 	},
 	[7796] = {
-		Title = "뜻밖의 연행",
+		Title = "Unexpected Arrest",
 		Description = {
-			"캑터족 자경단의 협력으로 소적단의 두목인 '죠니 제임스'를 생포했다. ^4d4dff보안관 사무실로 돌아가 앞으로의 일을 상의^000000하자."
+			"Cactus vigilantes have helped us capture the leader of the Buffalo Bandits, Johnny James. I should return to the ^4d4dffsheriff's office and talk to the sheriffs about our next move^000000."
 		},
-		Summary = "아이어트, 이보카와 대화"
+		Summary = "Talk to Wyatt and Ivoka."
 	},
 	[7797] = {
-		Title = "일단 들어봐 1",
+		Title = "Hear Me Out 1",
 		Description = {
-			"이보카의 의견대로, 죠니 제임스를 만나 알버트 포드에 대한 의구심을 부추겨주자."
+			"Like Ivoka suggested, I should talk to Johnny James and plant a seed of doubt in his mind about Albert Ford."
 		},
-		Summary = "죠니 제임스와 대화"
+		Summary = "Talk to Johnny James."
 	},
 	[7798] = {
-		Title = "준비 작업은 끝났다.",
+		Title = "Perfectly Primed",
 		Description = {
-			"죠니 제임스는 알버트 포드가 자신을 배신했다고 믿는 모양이다. 배신자 알버트 포드를 처단하고 갈기털을 가져와 달라고 요구했다. 우선 보안관에게 알리자."
+			"Johnny James is convinced that Albert Ford betrayed him. He asked me to get rid of Albert and bring his mane as proof. I should report to the Sheriff for now."
 		},
-		Summary = "아이어트 워프와 대화"
+		Summary = "Talk to Wyatt Warp."
 	},
 	[7799] = {
-		Title = "숀 맥커디의 무기 1",
+		Title = "Shawn McCurdy's Weapon 1",
 		Description = {
-			"아이어트 워프는 ^4d4dff작업반장 숀 맥커디^000000가 협상에 사용할 아주 좋은 무기에 대한 이야기를 했다며 만나 보라고 한다. 숀 맥커디는 광장에 있다."
+			"Sheriff Warp said ^4d4dffForeman McCurdy^000000 has a good bargaining chip. He's in the plaza."
 		},
-		Summary = "숀 맥커디와 대화"
+		Summary = "Talk to Shawn McCurdy."
 	},
 	[7800] = {
-		Title = "숀 맥커디의 무기 2",
+		Title = "Shawn McCurdy's Weapon 2",
 		Description = {
-			"소적단의 횡포로 더 이상 채굴 할 수 없던 '보라색 광석'을 구할수 있다고 한다. ^4d4dff광산 입구 아래쪽^000000에서 숀 맥커디를 찾자."
+			"I could get some purple ores, which I thought could no longer be mined because of the Buffalo Bandits. I should find Shawn McCurdy ^4d4dffsouth from the entrance to the mine^000000."
 		},
-		Summary = "숀 맥커디와 대화"
+		Summary = "Talk to Shawn McCurdy."
 	},
 	[7801] = {
-		Title = "숀 맥커디의 무기 3",
+		Title = "Shawn McCurdy's Weapon 3",
 		Description = {
-			"놀랍게도 광산 2층으로 진입했다. 근처에서 ^4d4dff보라색 광석을 1개^000000 채굴 한 뒤 숀 맥커디와 대화하자."
+			"We were able to sneak into the second floor of the mine. I should get ^4d4dff1 Purple Ore^000000, and then talk to Shawn."
 		},
-		Summary = "보라색 광석 1"
+		Summary = "1 Purple Ore"
 	},
 	[7802] = {
-		Title = "일단 들어봐 2",
+		Title = "Hear Me Out 2",
 		Description = {
-			"광산 앞 ^4d4dff신호용 바위를 세 번 두드린 후^000000 알버트 포드와 앞날에 대한 좋은 이야기를 나누자."
+			"I should ^4d4dffknock on the signaling rock 3 times^000000, and then talk to Albert Ford about his gang's future."
 		},
-		Summary = "알버트 포드와 대화"
+		Summary = "Talk to Albert Ford."
 	},
 	[7803] = {
-		Title = "깨진 신뢰에 기뻐 웃다.",
+		Title = "Happy for Broken Trust",
 		Description = {
-			"알버트 포드는 '죠니 제임스'가 배신했다고 믿고 협상에 응했다. 증거로 받은 '알버트의 갈기털'을 '죠니 제임스'에게 전하자."
+			"Albert Ford, convinced Johnny James betrayed his gang, has agreed to make a deal. I should deliver Albert's Mane to Johnny James as proof."
 		},
-		Summary = "죠니 제임스와 대화"
+		Summary = "Talk to Johnny James."
 	},
 	[7804] = {
-		Title = "광석의 행방",
+		Title = "Location of the Ores",
 		Description = {
-			"죠니로부터 광석의 위치를 알아냈다. 광석은 ^4d4dff광산 지하 2층 승강기 아래^000000에 있다고 한다. 보안관 아이어트에게 정보를 전하자."
+			"Johnny told me where he hid the ores: ^4d4dffunder the elevator on the second floor of the mine^000000. I should report to Sheriff Warp with this information."
 		},
-		Summary = "아이어트 워프와 대화"
+		Summary = "Talk to Wyatt Warp."
 	},
 	[7805] = {
-		Title = "광석의 행방 2",
+		Title = "Location of the Ores 2",
 		Description = {
-			"^4d4dff광산 2층의 임시 출입구^000000에 있는 ^4d4dff숀 맥커디^000000에게 광석의 위치를 알려주고, 현장으로 가는 길을 도움받자."
+			"^4d4dffShawn McCurdy^000000 is at the ^4d4dfftemporary entrance to the second floor of the mine^000000. I should tell him where the ores are and follow him to the inside of the mine."
 		},
-		Summary = "숀 맥커디와 대화"
+		Summary = "Talk to Shawn McCurdy."
 	},
 	[7806] = {
-		Title = "광석의 행방 3",
+		Title = "Location of the Ores 3",
 		Description = {
-			"광산 중앙 위쪽에 망가진 승강기가 있다고 한다. 승강기 아래에서 ^4d4dff광석상자^000000를 찾아서 숀 맥커디에게 돌아오자."
+			"The broken elevator is to the north from the center of the second floor. I should find an ^4d4dffOre Box^000000 underneath the elevator, and bring it to Shawn McCurdy."
 		},
-		Summary = "광석상자 1개"
+		Summary = "1 Ore Box"
 	},
 	[7807] = {
-		Title = "마지막 한 수",
+		Title = "Ace up Our Sleeve",
 		Description = {
-			"소적단 일부를 해치우고 ^4d4dff갈색 머플러 5개와 도적단 스카프 5개^000000를 구해서 알버트 포드에게 보여주자. 아주 좋아할 것이다."
+			"I should get rid of some Buffalo Bandits and collect ^4d4dff5 Brown Mufflers and 5 Bandit Scarves^000000 to show Albert Ford. He'll hit the roof."
 		},
-		Summary = "갈색머플러5,도적단 스카프5"
+		Summary = "5 Brown Mufflers and 5 Bandit Scarves"
 	},
 	[7808] = {
-		Title = "사건 해결",
+		Title = "Case Solved",
 		Description = {
-			"알버트 포드에게 엄청난 원한을 산 것 같지만, 더 이상 그들과 우호적인 관계를 유지할 이유가 없으니 아무래도 좋은 것 같다. 아이어트에게 보고하자."
+			"I might have burned my bridges with Albert Ford, but I don't care. I don't have to see him anymore. I should report to Sheriff Warp."
 		},
-		Summary = "아이어트 워프와 대화"
+		Summary = "Talk to Wyatt Warp."
 	},
 	[7809] = {
-		Title = "광석 회수",
+		Title = "Collecting Ores",
 		Description = {
-			"광석을 회수했습니다."
+			"Collected the ores."
 		},
 		Summary = ""
 	},
@@ -23553,170 +23553,170 @@ QuestInfoList = {
 		Summary = "정착 지원 담당자 찾아가기"
 	},
 	[9438] = {
-		Title = "신대륙으로!",
+		Title = "To the New Land!",
 		Description = {
-			"알베르타에 있는 카람 푸치를 만나 신대륙으로 가자"
+			"Talk to Karam Pucci in Alberta and go to the new land."
 		},
-		Summary = "알베르타의 카람 푸치 만나기"
+		Summary = "Talk to Karam Pucci in Alberta."
 	},
 	[9439] = {
-		Title = "골치 아픈 문제",
+		Title = "Serious Problem",
 		Description = {
-			"마을에 생긴 문제 때문에 락 릿지에 있는 코스텔이 꼭 와달라고 한다."
+			"Costello in Rock Ridge needs help for some problem that his village is having."
 		},
-		Summary = "락 릿지에 있는 코스텔 만나기"
+		Summary = "Meet Costello in Rock Ridge."
 	},
 	[9440] = {
-		Title = "문제 해결을 위해",
+		Title = "To Address the Problem",
 		Description = {
-			"마을 보안관 아이어트 워프를 만나 자세한 얘기를 들어보자."
+			"Ask the village sheriff, Wyatt Warp, for more details about the problem."
 		},
-		Summary = "락 릿지 마을 보안관 사무실에 있는 아이어트 워프 만나기"
+		Summary = "Talk to Wyatt Warp in the sheriff's office in Rock Ridge."
 	},
 	[9441] = {
-		Title = "쉽고 간단한 해결책",
+		Title = "The Quickest Solution",
 		Description = {
-			"문제 해결을 위해 코스텔의 의견을 들어본다."
+			"Ask Costello for his opinion on how to solve the problem."
 		},
-		Summary = "코스텔 만나기"
+		Summary = "Talk to Costello."
 	},
 	[9442] = {
-		Title = "이간질",
+		Title = "Playing Enemies",
 		Description = {
-			"문제 해결을 위해 이보카 스쿠디의 의견을 들어본다."
+			"Ask Ivoka Skudi for his opinion on how to solve the problem."
 		},
-		Summary = "보안관 사무실에 있는 이보카 스쿠디 만나기"
+		Summary = "Talk to Ivoka Skudi in the sheriff's office."
 	},
 	[9443] = {
-		Title = "시간은 우리편",
+		Title = "Taking Our Time",
 		Description = {
-			"문제 해결을 위해 숀 맥커디의 의견을 들어본다."
+			"Ask Shawn McCurdy for his opinion on how to solve the problem."
 		},
-		Summary = "락 릿지 마을에 있는 숀 맥커디 만나기"
+		Summary = "Talk to Shawn McCurdy in Rock Ridge."
 	},
 	[9444] = {
-		Title = "이것이 최선일까?",
+		Title = "Making My Decision",
 		Description = {
-			"세가지 해결책 중 하나를 선택한다."
+			"Select one of the three propositions."
 		},
-		Summary = "아이어트 워프와 대화하기"
+		Summary = "Talk to Wyatt Warp."
 	},
 	[9445] = {
-		Title = "얼마야? 얼마면 돼?",
+		Title = "How Much?",
 		Description = {
-			"코스텔을 만나 협상액 100만 제니를 준다."
+			"Give Costello 1 million Zeny for the negotiation."
 		},
-		Summary = "100만제니를 소지한 채 코스텔 만나기"
+		Summary = "Talk to Costello while carrying 1 million Zeny."
 	},
 	[9446] = {
-		Title = "이간질",
+		Title = "Playing Enemies",
 		Description = {
-			"보안관 사무실에서 이보카 스쿠디를 만나 대화한 뒤, 지하감옥에 있는 죠니 제임스와 만나 대화한다."
+			"Talk to Ivoka Skudi in the sheriff's office, and then talk to Johnny James in the underground jail cell."
 		},
-		Summary = "이보카 스쿠디, 죠니 제임스를 차례로 만나기"
+		Summary = "Talk to Ivoka Skudi and Johnny James."
 	},
 	[9447] = {
-		Title = "이간질",
+		Title = "Playing Enemies",
 		Description = {
-			"죠니 제임스를 속였으니 알버트 포드를 속여넘길 차례다."
+			"Now that I convinced Johnny James, it's time to convince Albert Ford."
 		},
-		Summary = "광산 입구에 있는 알버트 포드를 만나기"
+		Summary = "Talk to Albert Ford by the entrance to the mine."
 	},
 	[9448] = {
-		Title = "이간질",
+		Title = "Playing Enemies",
 		Description = {
-			"알버트 포드의 갈기털을 이용하여 죠니 제임스를 다시 속이자."
+			"Use Albert Ford's mane to reassure Johnny James."
 		},
-		Summary = "갈기털을 가지고 죠니 제임스 만나기"
+		Summary = "Bring the mane to Johnny James."
 	},
 	[9449] = {
-		Title = "이간질",
+		Title = "Playing Enemies",
 		Description = {
-			"광석을 숨긴곳을 알아냈으니 이보카 스쿠디와 아이어트 워프에게 보고하자."
+			"Now I know where the ores are. I should report to Ivoka Skudi and Wyatt Warp."
 		},
-		Summary = "이보카 스쿠디, 아이어트 워프와 차례로 만나기"
+		Summary = "Talk to Ivoka Skudi and Wyatt Warp."
 	},
 	[9450] = {
-		Title = "이간질",
+		Title = "Playing Enemies",
 		Description = {
-			"숀 맥커디를 만나 광산으로 숨어들어가는 통로 얘기를 들어보자."
+			"Talk to Shawn McCurdy and learn about the secret passage into the mine."
 		},
-		Summary = "락 릿지 마을에 있는 숀 맥커디를 만나기"
+		Summary = "Talk to Shawn McCurdy in Rock Ridge."
 	},
 	[9451] = {
-		Title = "이간질",
+		Title = "Playing Enemies",
 		Description = {
-			"광산 비밀 통로 출입구 근처에 있는 숀 맥커디를 만나 광산으로 들어가자."
+			"Talk to Shawn McCurdy by the secret entrance to the mine and enter the mine."
 		},
-		Summary = "락 릿지 필드에 있는 숀 맥커디를 만나기"
+		Summary = "Talk to Shawn McCurdy in the Rock Ridge field."
 	},
 	[9452] = {
-		Title = "땀은 배신하지 않는 법",
+		Title = "Sweat for Blood",
 		Description = {
-			"숀 맥커디를 만나 광석 채광작업에 대해 얘기하자"
+			"I should talk to Shawn McCurdy about mining."
 		},
-		Summary = "락 릿지 마을에 있는 숀 맥커디를 만나기"
+		Summary = "Talk to Shawn McCurdy in Rock Ridge."
 	},
 	[9453] = {
-		Title = "땀은 배신하지 않는 법",
+		Title = "Sweat for Blood",
 		Description = {
-			"광산 비밀 통로 출입구 근처에 있는 숀 맥커디를 만나 광산으로 들어가자."
+			"Talk to Shawn McCurdy by the secret entrance to the mine and enter the mine."
 		},
-		Summary = "락 릿지 필드에 있는 숀 맥커디를 만나기"
+		Summary = "Talk to Shawn McCurdy in the Rock Ridge field."
 	},
 	[9454] = {
-		Title = "땀은 배신하지 않는 법",
+		Title = "Sweat for Blood",
 		Description = {
-			"광산에서 보라색 광석들을 채광하자. 보라색 광석을 20개 이상 모아 코스텔에게 가져가면 성공"
+			"Collect Purple Ores in the mine, and bring at least 20 Purple Ores to Costello."
 		},
-		Summary = "보라색 광석 20개 이상 획득한 뒤 코스텔과 만나기"
+		Summary = "Collect 20 Purple Ores and bring them to Costello."
 	},
 	[9455] = {
-		Title = "땀은 배신하지 않는 법",
+		Title = "Sweat for Blood",
 		Description = {
-			"광석을 가지고 광산 입구에 있는 알버트 포드와 만나 새로운 협상을 한다."
+			"Bring the ores to Albert Ford by the entrance to the mine, and renegotiate with him."
 		},
-		Summary = "보라색 광석 20개 이상 획득한 뒤 알버트 포드와 만나기"
+		Summary = "Collect 20 Purple Ores and bring them to Albert Ford."
 	},
 	[9456] = {
-		Title = "땀은 배신하지 않는 법",
+		Title = "Sweat for Blood",
 		Description = {
-			"알버트 포드와 새로운 협상안을 확인한 뒤 코스텔에게 전달한다."
+			"Go over the new negotiation details with Albert Ford, and then report to Costello."
 		},
-		Summary = "코스텔과 만나기"
+		Summary = "Talk to Costello."
 	},
 	[9457] = {
-		Title = "어쨌든 해결",
+		Title = "Solved Anyway",
 		Description = {
-			"락 릿지 마을의 문제를 해결한다."
+			"Solve the problem of the Rock Ridge village."
 		},
-		Summary = "아이어트 워프와 만나기"
+		Summary = "Talk to Wyatt Warp."
 	},
 	[9458] = {
-		Title = "파이프 청소",
+		Title = "Pipe Cleaning",
 		Description = {
-			"락 릿지 마을 지하수로 파이프에 달라붙어 있는 말미잘을 제거하자"
+			"Eliminate sea anemones that keep sticking to the water pipes in the basement of Rock Ridge."
 		},
-		Summary = "말미잘 20마리 제거"
+		Summary = "Eliminate 20 Sea Anemones."
 	},
 	[9459] = {
-		Title = "파이프 청소는 아직",
+		Title = "Too Early for Pipe Cleaning",
 		Description = {
-			"아직은 말미잘이 많이 생기지 않았다고 한다."
+			"There are not yet many sea anemones to get rid of."
 		},
 		Summary = ""
 	},
 	[9460] = {
-		Title = "광석 조각 모으기",
+		Title = "Collecting Ore Fragments",
 		Description = {
-			"락 릿지 필드와 광산에서 사냥을 하여 광석 조각을 모으자"
+			"Hunt monsters in the Rock Ridge fields and mine, and collect ore fragments."
 		},
-		Summary = "광석 조각 10개를 모아 웅크린 말에게 주기"
+		Summary = "Collect 10 Ore Fragments and deliver them to Crouched Horse."
 	},
 	[9461] = {
-		Title = "풍족한 광석",
+		Title = "Enough Ores",
 		Description = {
-			"웅크린 말이 아직은 광석이 필요치 않다고 한다."
+			"Crouched Horse doesn't need more ores at this moment."
 		},
 		Summary = ""
 	},
@@ -31341,215 +31341,216 @@ QuestInfoList = {
 		Summary = "약품상의 신규회원"
 	},
 	[12381] = {
-		Title = "신대륙의 식품공급자",
+		Title = "New Continent's Food Supplier",
 		Description = {
-			"이제 신대륙의 식품 공급자로서 전력을 다해야 할 것 입니다."
+			"Supply food ingredients to the new continent to the best of your ability."
 		},
-		Summary = "신대륙 식품 공급자"
+		Summary = "New continent's food supplier"
 	},
 	[12382] = {
-		Title = "이제 배식을 할 수 있어!",
+		Title = "Distributing Food",
 		Description = {
-			"모아온 재료가 급식담당자의 고뇌를 떨쳐버린 것 같습니다. 한동안 사람들에게 제공될 식사에는 차질이 없겠군요"
+			"Thanks to you, now the food distributer has enough ingredients to cook for everyone who has been waiting for their food."
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m."
 	},
 	[12383] = {
-		Title = "고구마의 조달",
+		Title = "Sweet Potato Delivery",
 		Description = {
-			"본토에서 <ITEM>고구마<INFO>516</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."
+			"Get 160 <ITEM>Sweet Potatoes<INFO>516</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from 	merchants in big cities."
 		},
-		Summary = "고구마 160개"
+		Summary = "160 Sweet Potatoes"
 	},
 	[12384] = {
-		Title = "고기의 조달",
+		Title = "Meat Delivery",
 		Description = {
-			"본토에서 <ITEM>고기<INFO>517</INFO></ITEM> 50개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."
+			"Get 50 <ITEM>Meats<INFO>517</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in 	big cities."
 		},
-		Summary = "고기 50개"
+		Summary = "50 Meats"
 	},
 	[12385] = {
-		Title = "당근의 조달",
+		Title = "Carrot Delivery",
 		Description = {
-			"본토에서 <ITEM>당근<INFO>515</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."
+			"Get 160 <ITEM>Carrots<INFO>515</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants 	in big cities."
 		},
-		Summary = "당근 160개"
+		Summary = "160 Carrots"
 	},
 	[12386] = {
-		Title = "바나나의 조달",
+		Title = "Banana Delivery",
 		Description = {
-			"본토에서 <ITEM>바나나<INFO>513</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."
+			"Get 160 <ITEM>Bananas<INFO>513</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants 	in big cities."
 		},
-		Summary = "바나나 160개"
+		Summary = "160 Bananas"
 	},
 	[12387] = {
-		Title = "호박의 조달",
+		Title = "Pumpkin Delivery",
 		Description = {
-			"본토에서 <ITEM>호박<INFO>535</INFO></ITEM> 160개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 상인들에게서 구할 수 있을 것입니다."
+			"Get 160 <ITEM>Pumpkins<INFO>535</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants 	in big cities."
 		},
-		Summary = "호박 160개"
+		Summary = "160 Pumpkins"
 	},
 	[12388] = {
-		Title = "식용버섯의 조달",
+		Title = "Mushroom Delivery",
 		Description = {
-			"본토에서 <ITEM>식용버섯<INFO>581</INFO></ITEM> 60개를 구해서 락릿지의 급식 담당자에게 서둘러 배송합시다. 대도시의 요리재료상인들에게서 구할 수 있을 것입니다."
+			"Get 60 <ITEM>Mushrooms<INFO>581</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants 	in big cities."
 		},
-		Summary = "식용버섯 60개"
+		Summary = "60 Mushrooms"
 	},
 	[12389] = {
-		Title = "락릿지의 수호자",
+		Title = "Guardian of Rock Ridge",
 		Description = {
-			"신대륙 개척지의 자경단의 일원으로서 활동하게 되었습니다."
+			"You have joined the vigilante group of the pioneer village in the new continent."
 		},
-		Summary = "신대륙 자경단"
+		Summary = "Vigilantes in the new continent"
 	},
 	[12390] = {
-		Title = "이제 한동안 걱정을 덜었군",
+		Title = "Relieved for Now",
 		Description = {
-			"개척지 주변의 몬스터들도 이만하면 위축되었을 것입니다. 한동안은 습격이 벌어지진 않겠죠"
+			"This should keep the pioneer village safe from monsters for now."
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m."
 	},
 	[12391] = {
-		Title = "장총을 든 소",
+		Title = "Buffaloes with Rifles",
 		Description = {
-			"^ff0000장총을 든 소적단^000000 15마리를 처치해야합니다."
+			"Eliminate 15 ^ff0000rifle Buffalo Bandits^000000. "
 		},
-		Summary = "소적단 15마리 처치"
+		Summary = "Eliminate 15 Buffalo Bandits."
 	},
 	[12392] = {
-		Title = "붉은 복면의 처단",
+		Title = "Punishing the Red Masks",
 		Description = {
-			"^ff0000붉은 복면을 착용한 소적단^000000 15마리를 처치해야합니다."
+			"Eliminate 15 ^ff0000red mask Buffalo Bandits^000000. "
 		},
-		Summary = "소적단 15마리 처치"
+		Summary = "Eliminate 15 Buffalo Bandits."
 	},
 	[12393] = {
-		Title = "안대를 쓴 무법자",
+		Title = "Eye Patch Desperadoes",
 		Description = {
-			"^ff0000안대를 착용한 소적단^000000 15마리를 처치해야합니다."
+			"Eliminate 15 ^ff0000eye patch Buffalo Bandits^000000. "
 		},
-		Summary = "소적단 15마리 처치"
+		Summary = "Eliminate 15 Buffalo Bandits."
 	},
 	[12394] = {
-		Title = "회색 네발짐승 박멸",
+		Title = "Exterminate Gray Four-legged Beasts",
 		Description = {
-			"^ff0000코요테^000000 20마리를 처치해야합니다. 코요테는 락릿지 서쪽의 사막지대의 좁은 협곡사이에 많이 서식하고 있습니다."
+			"Eliminate 20 ^ff0000Coyotes^000000. They are mainly found in the narrow valley in the west of Rock Ridge."
 		},
-		Summary = "코요테 20마리 처치"
+		Summary = "Eliminate 20 Coyotes."
 	},
 	[12395] = {
-		Title = "습지 아크라우스 박멸",
+		Title = "Exterminate Swamp Arclouzes",
 		Description = {
-			"^ff0000습지 아크라우스^000000 10마리를 처치해야합니다.\t습지 아크라우스는 락릿지의 지하마을에 서식하고 있습니다."
+			"Eliminate 10 ^ff0000Swamp Arclouzes^000000. You can find them in the basement of Rock Ridge."
 		},
-		Summary = "습지 아크라우스 10마리 처치"
+		Summary = "Eliminate 10 Swamp Arclouzes."
 	},
 	[12396] = {
-		Title = "시궁쥐 박멸",
+		Title = "Exterminate Brown Rats",
 		Description = {
-			"^ff0000시궁쥐^000000 10마리를 처치해야합니다.\t시궁쥐는 락릿지의 지하마을에 서식하고 있습니다."
+			"Eliminate 10 ^ff0000Brown Rats^000000. You can find them in the basement of Rock Ridge."
 		},
-		Summary = "시궁쥐 10마리 처치"
+		Summary = "Eliminate 10 Brown Rats."
 	},
 	[12398] = {
-		Title = "솜씨가 좋군.",
+		Title = "You're Good",
 		Description = {
-			"꽤 어려운 의뢰를 무사히 처리했습니다. 한동안은 푹 쉬어도 좋겠군요."
+			"Good job accomplishing a tricky mission. Go ahead and rest for a while."
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m."
 	},
 	[12399] = {
-		Title = "흉악 현상범 토벌",
+		Title = "Hunt Heinous Criminals",
 		Description = {
-			"^ff0000푸르게 빛나는 눈의 장총을 든 소적단^000000 10마리를 처치해야합니다."
+			"Eliminate 10 ^ff0000rifle Buffalo Bandits with glowing blue eyes^000000. "
 		},
-		Summary = "소적단 10마리 처치"
+		Summary = "Eliminate 10 Buffalo Bandits."
 	},
 	[12400] = {
-		Title = "흉악 현상범 토벌",
+		Title = "Hunt Heinous Criminals",
 		Description = {
-			"^ff0000녹색 복면을 한 소적단^000000 10마리를 처치해야합니다."
+			"Eliminate 10 ^ff0000Buffalo Bandits wearing green masks^000000. "
 		},
-		Summary = "소적단 10마리 처치"
+		Summary = "Eliminate 10 Buffalo Bandits."
 	},
 	[12401] = {
-		Title = "흉악 현상범 토벌",
+		Title = "Hunt Heinous Criminals",
 		Description = {
-			"^ff0000옅은 초록색의 조끼를 입고 안대를 낀 소적단^000000 10마리를 처치해야합니다."
+			"Eliminate 10 ^ff0000Buffalo Bandits wearing an eye patch and a pale green vest^000000. "
 		},
-		Summary = "소적단 10마리 처치"
+		Summary = "Eliminate 10 Buffalo Bandits."
 	},
 	[12402] = {
-		Title = "위험 가스 제거",
+		Title = "Eliminate Dangerous Gas",
 		Description = {
-			"^ff0000가스터^000000 10마리를 처치해야합니다."
+			"Eliminate 10 ^ff0000Gasters^000000. "
 		},
-		Summary = "가스터 10마리 처치"
+		Summary = "Eliminate 10 Gasters."
 	},
 	[12403] = {
-		Title = "락릿지의 노동자",
+		Title = "Laborers of Rock Ridge",
 		Description = {
-			"신대륙 개척지의 물의 공급자가 되어야 합니다."
+			"Be the supplier of water for the pioneer village in the new continent."
 		},
-		Summary = "신대륙의 물을 지켜"
+		Summary = "Protect the water in the new continent."
 	},
 	[12404] = {
-		Title = "안 힘드세요?",
+		Title = "Are You Not Tired?",
 		Description = {
-			"락릿지 지하의 배관을 모두 정비했습니다. 당분간 담수 처리 시설에 별다른 문제는 없을 것입니다."
+			"You have maintained all the pipes in the basement of Rock Ridge. The desalination system should be fine for a while."
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m."
 	},
 	[12405] = {
-		Title = "붉은 배관 정비",
+		Title = "Maintain the Red Pipe",
 		Description = {
-			"붉은 배관에서 발생하는 누수현상을 정비해야합니다. 락릿지 지하에서 붉은색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"
+			"Repair the leaky red pipe. Find a glowing red spot in the basement of Rock Ridge, and then click it to repair the pipe."
 		},
-		Summary = "락릿지 지하에서 붉은색으로 빛나는 장소를 찾으십시오."
+		Summary = "Find a glowing red spot in the basement of Rock Ridge."
 	},
 	[12406] = {
-		Title = "푸른 배관 정비",
+		Title = "Maintain the Blue Pipe",
 		Description = {
-			"푸른 배관에서 발생하는 누수현상을 정비해야합니다. 락릿지 지하에서 푸른색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"
+			"Repair the leaky blue pipe. Find a glowing blue spot in the basement of Rock Ridge, and then click it to repair the pipe."
 		},
-		Summary = "락릿지 지하에서 푸른색으로 빛나는 장소를 찾으십시오."
+		Summary = "Find a glowing blue spot in the basement of Rock Ridge."
 	},
 	[12407] = {
-		Title = "노란 배관 정비",
+		Title = "Maintain the Yellow Pipe",
 		Description = {
-			"노란 배관에서 발생하는 누수현상을 정비해야합니다. 락릿지 지하에서 노란색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"
+			"Repair the leaky yellow pipe. Find a glowing yellow spot in the basement of Rock Ridge, and then click it to repair the pipe."
 		},
-		Summary = "락릿지 지하에서 노란색으로 빛나는 장소를 찾으십시오."
+		Summary = "Find a glowing yellow spot in the basement of Rock Ridge."
 	},
 	[12408] = {
-		Title = "하얀 배관 정비",
+		Title = "Maintain the White Pipe",
 		Description = {
-			"하얀 배관에서 발생하는 누수현상을 정비해야합니다. 락릿지 지하에서 하얀색으로 빛나는 곳을 찾아 클릭하여 정비하십시오"
+			"Repair the leaky white pipe. Find a glowing white spot in the basement of Rock Ridge, and then click it to repair the pipe."
 		},
-		Summary = "락릿지 지하에서 하얀색으로 빛나는 장소를 찾으십시오."
+		Summary = "Find a glowing white spot in the basement of Rock Ridge."
 	},
 	[12409] = {
-		Title = "배관정비 완료",
+		Title = "Pipes Maintained",
 		Description = {
-			"배관정비를 모두 완료했습니다. 지상으로 돌아가 담수시설 관리소장과 이야기를 나누십시오"
+			"You have maintained all the pipes. Now return to the ground level and talk to Desalination Facility Manager."
 		},
-		Summary = "지상으로 복귀"
+		Summary = "Return to the ground level."
 	},
 	[12410] = {
-		Title = "거상과의 계약",
+		Title = "Contract with the Wealthy Merchant",
 		Description = {
-			"거상과의 계약완료"
+			"Entered a contract with the wealthy merchant."
 		},
-		Summary = "거상과의 계약완료"
+		Summary = "Entered a contract with the wealthy merchant."
 	},
 	[12411] = {
-		Title = "내일 다시 거래합시다",
+		Title = "Come Back Tomorrow",
 		Description = {
-			"오늘은 더 이상 거래를 받아주지 않을 것 같습니다. 내일 다시 만나보죠."
+			"He's done doing business with you for the day. Please come back tomorrow."
 		},
-		Summary = "초기화 시간 04시"
+		Summary = "Quest resets at 4:00 a.m."
 	},
+
 	[12412] = {
 		Title = "초심자 모드",
 		Description = {
@@ -37650,95 +37651,95 @@ QuestInfoList = {
 		Summary = "송편 100개"
 	},
 	[14849] = {
-		Title = "눈꽃다발 만들기",
+		Title = "Make snow flower bouquet",
 		Description = {
-			"눈꽃다발을 만들고 싶으시다고요? 그럼 <ITEM>마력의 눈꽃<INFO>25425</INFO></ITEM> 10개를 가지고 다시 <NAVI>[이곳]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>으로 오세요."
+			"You wanna a make snow flower bouquet? Then, collect 10 <ITEM>magical snow flowers<INFO>25425</INFO></ITEM> and come back here."
 		},
-		Summary = "마력의 눈꽃 10개"
+		Summary = "10 magical snow flower"
 	},
 	[14850] = {
-		Title = "눈꽃다발 만들기",
+		Title = "Make snow flower bouquet",
 		Description = {
-			"눈꽃다발 만들기 이벤트는 앞으로 <NAVI>[환상의 눈꽃술사]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>가 담당하게 될 겁니다. 관심이 있으면 찾아가 보세요."
+			"Find the <NAVI>[Snow flower illusionist]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>. If you are interested find the place."
 		},
-		Summary = "환상의 눈꽃술사에게"
+		Summary = "To snow flower illusionist"
 	},
 	[14851] = {
-		Title = "따뜻한 겨울나기",
+		Title = "To get through hot winter",
 		Description = {
-			"눈이 내리지 않는 지역에는 흰 눈을, 추운 지역에는 따뜻한 솜옷을! 따뜻한 겨울나기를 돕고 싶으시다면 <NAVI>[코티]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>와 울시를 찾아가 보세요."
+			"Snow for the region where it does not fall, Cotton clothes for cold region! If you wish to get through the winter find <NAVI>[Coti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> and Ulsi."
 		},
-		Summary = "코티에게"
+		Summary = "To Coti"
 	},
 	[14852] = {
-		Title = "축제 카드 교환",
+		Title = "Exchange festival card",
 		Description = {
-			"당신의 선물상자에서 특별한 카드를 찾으셨다고요? 그럼 <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>과 블링에게 가지고 가세요. 특별한 선물을 받으실 수 있을 겁니다."
+			"Did you find a special card from your gift box? Then bring it to <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>. You will receive a special gift."
 		},
-		Summary = "트윙클에게"
+		Summary = "To Twinkle"
 	},
 	[14853] = {
-		Title = "눈꽃다발 만들기",
+		Title = "Make snow flower bouquet",
 		Description = {
-			"눈꽃다발을 만들기 위해서는 <ITEM>마력의 눈꽃<INFO>25425</INFO></ITEM> 10개가 필요해요. 눈사람들이 코에 장식할 당근도 원하고 있으니 <ITEM>당근<INFO>515</INFO></ITEM> 1개도 잊지 마시고요. - <NAVI>[마린]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
+			"You need 10 <ITEM>magical snow flowers<INFO>25425</INFO></ITEM> to make a snow flower bouquet. Please don't forget 1 <ITEM>carrot<INFO>515</INFO></ITEM> for decorating the snowman. - <NAVI>[Marine]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
 		},
-		Summary = "눈꽃 10개, 당근 1개"
+		Summary = "10 Snow flower, 1 carrot"
 	},
 	[14854] = {
-		Title = "대기: 냉기가 남아 있다",
+		Title = "Chilly feeling is remained",
 		Description = {
-			"아직 마력의 눈꽃 효력이 남아 있어요. 새벽이 지난 후에 다시 찾아 주세요. - <NAVI>[마린]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
+			"The magical snow flower effect is still remains. Please comeback after the dawn. - <NAVI>[Marine]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
 		},
-		Summary = "대기 시간"
+		Summary = "Waiting time"
 	},
 	[14855] = {
-		Title = "따뜻한 겨울나기",
+		Title = "Getting through winter",
 		Description = {
-			"눈이 오지 않는 어린이들에겐 눈을! 추운 지역의 어린이들에겐 따뜻한 솜옷을! <NAVI>[저희]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>에게 따뜻한 솜 10개를 기부해 주세요!"
+			"Snow for children! Warm cotton clothes for children in cold region! Donate <NAVI>[us]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI> 10 warm cotton!"
 		},
-		Summary = "따뜻한 솜 10개"
+		Summary = "10 Warm cotton"
 	},
 	[14856] = {
-		Title = "솜은 포장 중",
+		Title = "Cotton is being wrapped",
 		Description = {
-			"솜은 지금 포장 중이에요. 새벽무렵에는 포장이 끝날 것 같은데 새벽이 지난 후에 다시 찾아 주세요! - <NAVI>[코티]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"
+			"Cotton is being wrapped. The wrapping seems be be finished by dawn so please come back after dawn! - <NAVI>[Coti]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"
 		},
-		Summary = "대기 시간"
+		Summary = "Waiting time"
 	},
 	[14857] = {
-		Title = "축제 카드 교환",
+		Title = "Exchange festival card",
 		Description = {
-			"모험가님의 행운의 단어는 WINTER!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 W. I. N. T. E. R. 낱말 카드를 모아 오시면 돼요. 총 6장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+			"The lucky word for you is WINTER!! Please open snow flower envelope from your gift box. In the envelope, you can find these letters W. I. N. T. E. R.. Total of 6 letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
-		Summary = "WINTER 카드 모으기"
+		Summary = "Collect WINTER card"
 	},
 	[14858] = {
-		Title = "축제 카드 교환",
+		Title = "Exchange festival card",
 		Description = {
-			"모험가님의 행운의 단어는 SNOW!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 S. N. O. W. 낱말 카드를 모아 오시면 돼요. 총 4장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+			"The lucky word for you is SNOW!! Please open snow flower envelope from your gift box. In the envelope, you can find these letters S. N. O. W. Total of 4 letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
-		Summary = "SNOW 카드 모으기"
+		Summary = "Collect SNOW card"
 	},
 	[14859] = {
-		Title = "축제 카드 교환",
+		Title = "Exchange festival card",
 		Description = {
-			"모험가님의 행운의 단어는 FESTIVAL!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 F. E. S. T. I. V. A. L. 낱말 카드를 모아 오시면 돼요. 총 8장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+			"The lucky word for you is FESTIVAL!! Please open snow flower envelope from your gift box. In the envelope, you can find these letters F. E. S. T. I. V. A. L. Total of 8 letters. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
-		Summary = "FESTIVAL 카드 모으기"
+		Summary = "Collect FESTIVAL card"
 	},
 	[14860] = {
-		Title = "축제 카드 교환",
+		Title = "Exchange festival card",
 		Description = {
-			"모험가님의 행운의 단어는 FLOWER!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 F. L. O. W. E. R. 낱말 카드를 모아 오시면 돼요. 총 6장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+			"The lucky word for you is FLOWER!! Please open snow flower envelope from your gift box. In the envelope, you can find these letters F. L. O. W. E. R. Total of 6 letter. - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
-		Summary = "FLOWER 카드 모으기"
+		Summary = "Collect FLOWER card"
 	},
 	[14861] = {
-		Title = "대기: 카드 교환은 1일 1회",
+		Title = "Card exchange is once a day",
 		Description = {
-			"낱말 카드 교환은 1일 1회예요. 아셨죠? 그러니까 새벽이 지난 후에 다시 오세요! - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+			"Alphabet card exchange is once a day. Okay? So please comeback after dawn! - <NAVI>[Twinkle]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
 		},
-		Summary = "대기 시간"
+		Summary = "Waiting time"
 	},
 	[14958] = {
 		Title = "냐일굴의 수문장",
@@ -41161,18 +41162,18 @@ QuestInfoList = {
 		Summary = "04시 초기화"
 	},
 	[17137] = {
-		Title = "눈꽃다발 만들기",
+		Title = "Make snow flower bouquet",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"눈꽃다발을 만들고 싶으시다고요? 그럼 눈동자가 주는 <ITEM>[마력의 눈꽃]<INFO>25425</INFO></ITEM> 10개를 가지고 다시 <NAVI>[이곳]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>으로 오세요."
 		},
-		Summary = "마력의 눈꽃 10개"
+		Summary = "10 magical snow flower"
 	},
 	[17138] = {
-		Title = "눈꽃다발 만들기",
+		Title = "Make snow flower bouquet",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"눈꽃다발 만들기 이벤트는 앞으로 <NAVI>[환상의 눈꽃술사]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>가 담당하게 될 겁니다. 관심이 있으면 찾아가 보세요."
+			"Make snow flower bouquet 이벤트는 앞으로 <NAVI>[환상의 눈꽃술사]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>가 담당하게 될 겁니다. 관심이 있으면 찾아가 보세요."
 		},
 		Summary = "환상의 눈꽃술사에게"
 	},
@@ -41201,7 +41202,7 @@ QuestInfoList = {
 		Summary = "유진에게"
 	},
 	[17142] = {
-		Title = "눈꽃다발 만들기",
+		Title = "Make snow flower bouquet",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"눈꽃다발을 만들기 위해서는 <ITEM>[마력의 눈꽃]<INFO>25425</INFO></ITEM> 10개가 필요해요. 눈사람들이 코에 장식할 당근도 원하고 있으니 <ITEM>[당근]<INFO>515</INFO></ITEM> 1개도 잊지 마시고요. - <NAVI>[마린]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
