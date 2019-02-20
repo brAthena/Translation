@@ -1,5 +1,101 @@
 tblLapineDdukddakBox = {
 	sources = {
+		PerfectSize_Mix = {
+			ItemID = 100010,
+			NeedCount = 3,
+			NeedRefineMin = 7,
+			SourceItems = {
+				{
+					"빅웨폰S",
+					1,
+					24075
+				},
+				{
+					"미디움웨폰S",
+					1,
+					24076
+				},
+				{
+					"스몰웨폰S",
+					1,
+					24077
+				},
+				{
+					"빅아머S",
+					1,
+					24072
+				},
+				{
+					"미디움아머S",
+					1,
+					24073
+				},
+				{
+					"스몰아머S",
+					1,
+					24074
+				}
+			},
+			NeedSource_String = "+7 사이즈 쉐도우"
+		},
+		MagicPiercing_Mix = {
+			ItemID = 100011,
+			NeedCount = 2,
+			NeedRefineMin = 7,
+			SourceItems = {
+				{
+					"매직액서큐서너웨폰S",
+					1,
+					24170
+				},
+				{
+					"매직엑소시스트웨폰S",
+					1,
+					24171
+				},
+				{
+					"매직헌팅웨폰S",
+					1,
+					24172
+				},
+				{
+					"매직인섹트넷웨폰S",
+					1,
+					24173
+				},
+				{
+					"매직피싱웨폰S",
+					1,
+					24174
+				},
+				{
+					"매직드래곤킬러웨폰S",
+					1,
+					24175
+				},
+				{
+					"매직커럽트웨폰S",
+					1,
+					24176
+				},
+				{
+					"매직바이브레이션웨폰S",
+					1,
+					24177
+				},
+				{
+					"매직홀리워터웨폰S",
+					1,
+					24178
+				},
+				{
+					"매직시저스웨폰S",
+					1,
+					24179
+				}
+			},
+			NeedSource_String = "+7 매직 피어싱 쉐도우"
+		},
 		IDTest_Special = {
 			ItemID = 100000,
 			NeedCount = 3,
@@ -4558,6 +4654,41 @@ tblLapineDdukddakBox = {
 					"S_Tempest_Armor",
 					1,
 					24424
+				},
+				{
+					"S_PerfectSize_Weapon",
+					1,
+					24425
+				},
+				{
+					"S_PerfectSize_Armor",
+					1,
+					24426
+				},
+				{
+					"S_M_Exo_Co_Weapon",
+					1,
+					24427
+				},
+				{
+					"S_M_Viv_Dr_Weapon",
+					1,
+					24428
+				},
+				{
+					"S_M_Sci_Hu_Weapon",
+					1,
+					24429
+				},
+				{
+					"S_M_Fis_In_Weapon",
+					1,
+					24430
+				},
+				{
+					"S_M_Exe_Ho_Weapon",
+					1,
+					24431
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
@@ -5400,6 +5531,111 @@ tblLapineDdukddakBox = {
 					"ShadowchaserStone_Top2",
 					1,
 					25808
+				},
+				{
+					"SoulreaperStone_Robe",
+					1,
+					25842
+				},
+				{
+					"SoullinkerStone_Top",
+					1,
+					25843
+				},
+				{
+					"SoullinkerStone_Middle",
+					1,
+					25844
+				},
+				{
+					"SoullinkerStone_Bottom",
+					1,
+					25845
+				},
+				{
+					"GladiatorStone_Top",
+					1,
+					25846
+				},
+				{
+					"GladiatorStone_Middle",
+					1,
+					25847
+				},
+				{
+					"GladiatorStone_Bottom",
+					1,
+					25848
+				},
+				{
+					"StaremperorStone_Robe",
+					1,
+					25849
+				},
+				{
+					"NinjaStone_Top",
+					1,
+					25850
+				},
+				{
+					"NinjaStone_Middle",
+					1,
+					25851
+				},
+				{
+					"NinjaStone_Bottom",
+					1,
+					25852
+				},
+				{
+					"KagerouStone_Robe",
+					1,
+					25853
+				},
+				{
+					"OboroStone_Robe",
+					1,
+					25854
+				},
+				{
+					"GunslingerStone_Top",
+					1,
+					25855
+				},
+				{
+					"GunslingerStone_Middle",
+					1,
+					25856
+				},
+				{
+					"GunslingerStone_Bottom",
+					1,
+					25857
+				},
+				{
+					"RebellionStone_Robe",
+					1,
+					25858
+				},
+				{
+					"DoramStone_Top",
+					1,
+					25859
+				},
+				{
+					"DoramStone_Middle",
+					1,
+					25860
+				},
+				{
+					"DoramStone_Bottom",
+					1,
+					25861
+				},
+				{
+					"DoramStone_Robe",
+					1,
+					25862
 				}
 			},
 			NeedSource_String = "의상인챈트스톤"
@@ -7824,6 +8060,26 @@ tblLapineDdukddakBox = {
 					"C_Sleep_Sheep_TW",
 					1,
 					31616
+				},
+				{
+					"C_HeartChocoBag",
+					1,
+					20570
+				},
+				{
+					"C_Cat_Ears_Punkish",
+					1,
+					31382
+				},
+				{
+					"C_CatCoffeeCup_TW",
+					1,
+					31481
+				},
+				{
+					"C_HeartOfCat_TW",
+					1,
+					31624
 				}
 			},
 			NeedSource_String = "냥다래 의상"
