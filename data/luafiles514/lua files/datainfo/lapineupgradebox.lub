@@ -1,5 +1,173 @@
 tblLapineUpgradeBox = {
 	targets = {
+		ILL_Piece_A = {
+			ItemID = 100003,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Bazerald_IL",
+					28762
+				},
+				{"Butcher_IL", 28254},
+				{
+					"Gold_Lux_IL",
+					32301
+				},
+				{
+					"등뒤를베는자_IL",
+					28022
+				},
+				{"워액스_IL", 1326},
+				{"무형검_IL", 13469},
+				{
+					"아이언드라이버_IL",
+					16065
+				},
+				{"폴액스_IL", 32005},
+				{"묵시록_IL", 28612},
+				{
+					"발리스타_IL",
+					18149
+				},
+				{
+					"풍마_편익_IL",
+					13338
+				},
+				{
+					"위자드리스태프_IL",
+					2039
+				},
+				{
+					"롱메이스_IL",
+					16063
+				},
+				{
+					"풍마_난설_IL",
+					13337
+				},
+				{
+					"연격의투갑_IL",
+					1846
+				},
+				{
+					"요괴의창_IL",
+					26007
+				},
+				{
+					"스태프오브오르도_IL",
+					26109
+				},
+				{"월광검_IL", 28725},
+				{
+					"Hunter_Bow_IL",
+					18174
+				},
+				{"Tablet_IL", 28626},
+				{
+					"Gate_KeeperDD_IL",
+					28244
+				},
+				{
+					"Counter_Dagger_IL",
+					28745
+				},
+				{
+					"Survival_Staff_IL",
+					2051
+				},
+				{
+					"Taegoolyeon_IL",
+					21050
+				}
+			},
+			NeedSource_String = "4레벨 일루전 무기"
+		},
+		ILL_Piece_B = {
+			ItemID = 100004,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Bazerald_IL",
+					28762
+				},
+				{"Butcher_IL", 28254},
+				{
+					"Gold_Lux_IL",
+					32301
+				},
+				{
+					"등뒤를베는자_IL",
+					28022
+				},
+				{"워액스_IL", 1326},
+				{"무형검_IL", 13469},
+				{
+					"아이언드라이버_IL",
+					16065
+				},
+				{"폴액스_IL", 32005},
+				{"묵시록_IL", 28612},
+				{
+					"발리스타_IL",
+					18149
+				},
+				{
+					"풍마_편익_IL",
+					13338
+				},
+				{
+					"위자드리스태프_IL",
+					2039
+				},
+				{
+					"롱메이스_IL",
+					16063
+				},
+				{
+					"풍마_난설_IL",
+					13337
+				},
+				{
+					"연격의투갑_IL",
+					1846
+				},
+				{
+					"요괴의창_IL",
+					26007
+				},
+				{
+					"스태프오브오르도_IL",
+					26109
+				},
+				{"월광검_IL", 28725},
+				{
+					"Hunter_Bow_IL",
+					18174
+				},
+				{"Tablet_IL", 28626},
+				{
+					"Gate_KeeperDD_IL",
+					28244
+				},
+				{
+					"Counter_Dagger_IL",
+					28745
+				},
+				{
+					"Survival_Staff_IL",
+					2051
+				},
+				{
+					"Taegoolyeon_IL",
+					21050
+				}
+			},
+			NeedSource_String = "4레벨 일루전 무기"
+		},
 		Gemstone_Of_Time = {
 			ItemID = 9550,
 			NeedRefineMin = 0,
@@ -2154,6 +2322,34 @@ tblLapineUpgradeBox = {
 				{
 					"S_Tempest_Armor",
 					24424
+				},
+				{
+					"S_PerfectSize_Weapon",
+					24425
+				},
+				{
+					"S_PerfectSize_Armor",
+					24426
+				},
+				{
+					"S_M_Exo_Co_Weapon",
+					24427
+				},
+				{
+					"S_M_Viv_Dr_Weapon",
+					24428
+				},
+				{
+					"S_M_Sci_Hu_Weapon",
+					24429
+				},
+				{
+					"S_M_Fis_In_Weapon",
+					24430
+				},
+				{
+					"S_M_Exe_Ho_Weapon",
+					24431
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
@@ -3670,6 +3866,34 @@ tblLapineUpgradeBox = {
 				{
 					"S_Tempest_Armor",
 					24424
+				},
+				{
+					"S_PerfectSize_Weapon",
+					24425
+				},
+				{
+					"S_PerfectSize_Armor",
+					24426
+				},
+				{
+					"S_M_Exo_Co_Weapon",
+					24427
+				},
+				{
+					"S_M_Viv_Dr_Weapon",
+					24428
+				},
+				{
+					"S_M_Sci_Hu_Weapon",
+					24429
+				},
+				{
+					"S_M_Fis_In_Weapon",
+					24430
+				},
+				{
+					"S_M_Exe_Ho_Weapon",
+					24431
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
@@ -4972,6 +5196,34 @@ tblLapineUpgradeBox = {
 				{
 					"S_Tempest_Armor",
 					24424
+				},
+				{
+					"S_PerfectSize_Weapon",
+					24425
+				},
+				{
+					"S_PerfectSize_Armor",
+					24426
+				},
+				{
+					"S_M_Exo_Co_Weapon",
+					24427
+				},
+				{
+					"S_M_Viv_Dr_Weapon",
+					24428
+				},
+				{
+					"S_M_Sci_Hu_Weapon",
+					24429
+				},
+				{
+					"S_M_Fis_In_Weapon",
+					24430
+				},
+				{
+					"S_M_Exe_Ho_Weapon",
+					24431
 				}
 			},
 			NeedSource_String = "+7 쉐도우 아이템"

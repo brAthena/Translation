@@ -405,7 +405,8 @@ hatEffectTable = {
 		resourceFileName = "efst_Waterfield2\\waterfield3.str",
 		hatEffectPos = -10,
 		hatEffectPosX = 0,
-		isRenderBeforeCharacter = true
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true
 	},
 	[HatEFID.HAT_EF_C_Valkyrie_Wing] = {hatEffectID = 1377}
 }
