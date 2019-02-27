@@ -22,6 +22,25 @@ RecommendedQuestInfoList = {
 			"^ff0000※ This page is an update introduction, not a quest. Please note that completing quests will not remove them.^000000"
 		}
 	},
+	[2] = {
+		Title = "확장 직업군 레벨 확장!",
+		IconName = "ico_sc.bmp",
+		Summary = "한!계!돌!파!",
+		BgName = "reco_02.bmp",
+		QuestInfo1 = {
+			"안녕~~☆",
+			"반가워! ^950a0a나는 멈춰버린 확장직업군 레벨의 시간을 다시 움직이게 하기 위해 마법의 나라에서 찾아온 귀엽고 깜찍한 마법소녀야!^000000",
+			"자☆ 이제부턴 다시 ☜레벨업☞의 시간이라궁~♧"
+		},
+		QuestInfo2 = {
+			"^eb1842프>.<리티~~ 레벨 업☆^000000",
+			"Base♡Lv: ^950a0a185^000000",
+			"Job♥Lv:  ^950a0a65^000000"
+		},
+		QuestInfo3 = {
+			"^3f3199리벨리온/카게로우/오보로/성제/소울리퍼/슈퍼 노비스/도람 친구들 화이팅이얌~★ ^000000"
+		}
+	},
 	[3] = {
 		Title = "EDDA 생체연구소 던전 - 원정의 여로",
 		Summary = "이름조차 알려지지 않은 원정대의 기나긴 원정의 여로",
