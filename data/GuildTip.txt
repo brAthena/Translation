@@ -13,7 +13,7 @@
 [ Guild Information Window ] 
 #
  1. Guild, Experience, Guild Level, Guild Emblem,
-  Master Name, Enemies, Points, Average Member
+  Master Name, Enemies, Average Member
   Level, Alliance, Hostile Guilds can be found.
 #
  
