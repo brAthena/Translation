@@ -3001,12 +3001,6 @@ tbl = {
 			EFFECT.EF_REDLIGHTBODY
 		}
 	},
-	[3207] = {
-		MonsterSize = 2,
-		MonsterEff = {
-			EFFECT.EF_REDLIGHTBODY
-		}
-	},
 	[3240] = {
 		MonsterSize = 1,
 		MonsterEff = {
