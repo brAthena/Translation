@@ -2281,6 +2281,16 @@ StateIconList[EFST_IDs.EFST_CURSEDCIRCLE_TARGET] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
+		{ "주박진", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "이동 및 공격 불가" },
+		{ "스킬 사용 불가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_CURSEDCIRCLE_TARGET] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
 		{ "Cursed Circle", COLOR_TITLE_DEBUFF },
 		{ "%s", COLOR_TIME },
 		{ "Disable action and movement within the range" },
