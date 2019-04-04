@@ -8080,6 +8080,26 @@ tblLapineDdukddakBox = {
 					"C_HeartOfCat_TW",
 					1,
 					31624
+				},
+				{
+					"C트윈마가레트",
+					1,
+					20486
+				},
+				{
+					"C블랙래빗보넷",
+					1,
+					20257
+				},
+				{
+					"C_Smiling_Eyes",
+					1,
+					31699
+				},
+				{
+					"C_WingOfHeart",
+					1,
+					20572
 				}
 			},
 			NeedSource_String = "냥다래 의상"
