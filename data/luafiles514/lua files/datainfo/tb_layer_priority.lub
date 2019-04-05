@@ -3,8 +3,32 @@ TB_Layer_Priority = {
 	Default_Top = 200,
 	Default_Bottom = 300,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_Kishu_Inu] = {Default = 304, isIgnoreRiding = true},
+		[ACCESSORY_IDs.ACCESSORY_C_Panda_Rabbit] = {Default = 304, isIgnoreRiding = true},
+		[ACCESSORY_IDs.ACCESSORY_C_Fox] = {Default = 304, isIgnoreRiding = true},
+		[ACCESSORY_IDs.ACCESSORY_C_Miyabi_Long_Hair] = {
+			Default = 153,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_C_Kururinpa_Hair] = {
 			Default = 153,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Snow_Bear_Hood] = {Default = 303},
+		[ACCESSORY_IDs.ACCESSORY_Mouton_Life] = {
+			Default = 171,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_CUBE_MASK] = {
+			Default = 171,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_SeraphimCoronet] = {
+			Default = 171,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_Blue_Ear_Accessary] = {
+			Default = 171,
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_BD] = {
@@ -63,7 +87,6 @@ TB_Layer_Priority = {
 			Default = 52,
 			Direction = {}
 		},
-		[ACCESSORY_IDs.ACCESSORY_White_Cat] = {Default = 304, isIgnoreRiding = true},
 		[ACCESSORY_IDs.ACCESSORY_Cowlick_YL] = {
 			Default = 153,
 			Direction = {}
@@ -288,20 +311,8 @@ TB_Layer_Priority = {
 			Default = 152,
 			Direction = {}
 		},
-		[ACCESSORY_IDs.ACCESSORY_C_Pope_Ribbon] = {
-			Default = 201,
-			Direction = {}
-		},
-		[ACCESSORY_IDs.ACCESSORY_BELOWEAR_RIBBON] = {
-			Default = 201,
-			Direction = {}
-		},
-		[ACCESSORY_IDs.ACCESSORY_BUTTERFLYWINGS_EAR] = {
-			Default = 201,
-			Direction = {}
-		},
-		[ACCESSORY_IDs.ACCESSORY_Valhalla_Idol] = {
-			Default = 201,
+		[ACCESSORY_IDs.ACCESSORY_White_Cat] = {
+			Default = 304,
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_C_Baby_Penguin] = {
@@ -316,27 +327,24 @@ TB_Layer_Priority = {
 			Default = 304,
 			Direction = {}
 		},
-		[ACCESSORY_IDs.ACCESSORY_C_Black_Cat] = {Default = 304, isIgnoreRiding = true},
-		[ACCESSORY_IDs.ACCESSORY_C_Shiba_Inu] = {Default = 304, isIgnoreRiding = true},
-		[ACCESSORY_IDs.ACCESSORY_White_Rabbit] = {Default = 304, isIgnoreRiding = true},
+		[ACCESSORY_IDs.ACCESSORY_C_Black_Cat] = {
+			Default = 304,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Shiba_Inu] = {
+			Default = 304,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_White_Rabbit] = {
+			Default = 304,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_RABBIT_HEAD_DRESS] = {
 			Default = 302,
 			Direction = {}
 		},
-		[ACCESSORY_IDs.ACCESSORY_Charcoal_Stove] = {
-			Default = 301,
-			Direction = {}
-		},
 		[ACCESSORY_IDs.ACCESSORY_Blinking_Eyes] = {
 			Default = 301,
-			Direction = {}
-		},
-		[ACCESSORY_IDs.ACCESSORY_Straight_Long_YL] = {
-			Default = 200,
-			Direction = {}
-		},
-		[ACCESSORY_IDs.ACCESSORY_Straight_Long_WH] = {
-			Default = 200,
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_Love_Cheek] = {

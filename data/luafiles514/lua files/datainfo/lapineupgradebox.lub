@@ -2528,6 +2528,38 @@ tblLapineUpgradeBox = {
 				{
 					"S_M_Exe_Ho_Weapon",
 					24431
+				},
+				{
+					"S_Penetration_Weapon",
+					24432
+				},
+				{
+					"S_Penetration_Armor",
+					24433
+				},
+				{
+					"S_Exe_Ho_Weapon",
+					24434
+				},
+				{
+					"S_Fis_In_Weapon",
+					24435
+				},
+				{
+					"S_Sci_Hu_Weapon",
+					24436
+				},
+				{
+					"S_Viv_Dr_Weapon",
+					24437
+				},
+				{
+					"S_Exo_Co_Weapon",
+					24438
+				},
+				{
+					"S_Hasty_Weapon",
+					24439
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
@@ -4072,6 +4104,38 @@ tblLapineUpgradeBox = {
 				{
 					"S_M_Exe_Ho_Weapon",
 					24431
+				},
+				{
+					"S_Penetration_Weapon",
+					24432
+				},
+				{
+					"S_Penetration_Armor",
+					24433
+				},
+				{
+					"S_Exe_Ho_Weapon",
+					24434
+				},
+				{
+					"S_Fis_In_Weapon",
+					24435
+				},
+				{
+					"S_Sci_Hu_Weapon",
+					24436
+				},
+				{
+					"S_Viv_Dr_Weapon",
+					24437
+				},
+				{
+					"S_Exo_Co_Weapon",
+					24438
+				},
+				{
+					"S_Hasty_Weapon",
+					24439
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
@@ -5402,9 +5466,179 @@ tblLapineUpgradeBox = {
 				{
 					"S_M_Exe_Ho_Weapon",
 					24431
+				},
+				{
+					"S_Penetration_Weapon",
+					24432
+				},
+				{
+					"S_Penetration_Armor",
+					24433
+				},
+				{
+					"S_Exe_Ho_Weapon",
+					24434
+				},
+				{
+					"S_Fis_In_Weapon",
+					24435
+				},
+				{
+					"S_Sci_Hu_Weapon",
+					24436
+				},
+				{
+					"S_Viv_Dr_Weapon",
+					24437
+				},
+				{
+					"S_Exo_Co_Weapon",
+					24438
+				},
+				{
+					"S_Hasty_Weapon",
+					24439
 				}
 			},
 			NeedSource_String = "+7 쉐도우 아이템"
+		},
+		Boost_Up_1 = {
+			ItemID = 100043,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Atker_Plate",
+					450001
+				},
+				{
+					"Atker_Manteau",
+					480000
+				},
+				{
+					"Atker_Greave",
+					470000
+				},
+				{"Ran_Suits", 450004},
+				{
+					"Ran_Manteau",
+					480003
+				},
+				{"Ran_Boots", 470003},
+				{"Ele_Robe", 450002},
+				{
+					"Ele_Muffler",
+					480001
+				},
+				{"Ele_Shoes", 470001},
+				{"Defn_Robe", 450003},
+				{
+					"Defn_Muffler",
+					480002
+				},
+				{"Defn_Shoes", 470002}
+			},
+			NeedSource_String = "부스터 방어구"
+		},
+		Boost_Up_2 = {
+			ItemID = 100044,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{
+					"Boost_TH_Sword",
+					600001
+				},
+				{
+					"Boost_Katar",
+					610000
+				},
+				{"Boost_Hall", 590000},
+				{
+					"Boost_Staff",
+					640000
+				},
+				{"Boost_Bow", 700001},
+				{
+					"Boost_Spear",
+					530000
+				},
+				{
+					"Boost_Sword",
+					500001
+				},
+				{
+					"Boost_Dagger",
+					510001
+				},
+				{
+					"Boost_Spl_Book",
+					540000
+				},
+				{
+					"Boost_Guitar",
+					570000
+				},
+				{
+					"Boost_Knuckle",
+					560000
+				},
+				{"Boost_Whip", 580000},
+				{
+					"Boost_Nindo",
+					510002
+				},
+				{
+					"Boost_Gatling",
+					830000
+				},
+				{"Boost_Axe", 520000},
+				{"Boost_Text", 540001},
+				{
+					"Boost_Soul_Rod",
+					550001
+				},
+				{
+					"Boost_Foxtail",
+					550002
+				}
+			},
+			NeedSource_String = "부스팅 무기"
+		},
+		Metal_Rifine_Ticket = {
+			ItemID = 9523,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = false,
+			TargetItems = {
+				{"메탈카타르", 1296},
+				{
+					"메탈투핸드액스",
+					1398
+				},
+				{"메탈랜스", 1493},
+				{"메탈북", 1588},
+				{"메탈스태프", 2018},
+				{"메탈대거", 13079},
+				{"메탈메이스", 16023},
+				{"메탈보우", 18116},
+				{
+					"메탈투핸드소드",
+					21005
+				},
+				{"메탈리볼버", 13125},
+				{
+					"메탈풍마수리검",
+					13322
+				},
+				{
+					"메탈강아지풀",
+					26111
+				}
+			},
+			NeedSource_String = "메탈 무기"
 		}
 	},
 	serverMain = function()

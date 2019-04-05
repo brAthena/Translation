@@ -1,5 +1,86 @@
 tblLapineDdukddakBox = {
 	sources = {
+		Piercing_Mix = {
+			ItemID = 100053,
+			NeedCount = 2,
+			NeedRefineMin = 7,
+			SourceItems = {
+				{
+					"액서큐서너웨폰S",
+					1,
+					24156
+				},
+				{
+					"엑소시스트웨폰S",
+					1,
+					24157
+				},
+				{
+					"헌팅웨폰S",
+					1,
+					24158
+				},
+				{
+					"인섹트넷웨폰S",
+					1,
+					24159
+				},
+				{
+					"피싱웨폰S",
+					1,
+					24160
+				},
+				{
+					"드래곤킬러웨폰S",
+					1,
+					24161
+				},
+				{
+					"커럽트웨폰S",
+					1,
+					24162
+				},
+				{
+					"바이브레이션웨폰S",
+					1,
+					24163
+				},
+				{
+					"홀리워터웨폰S",
+					1,
+					24164
+				},
+				{
+					"시저스웨폰S",
+					1,
+					24165
+				}
+			},
+			NeedSource_String = "+7 피어싱 쉐도우"
+		},
+		Hasty_Mix = {
+			ItemID = 100058,
+			NeedCount = 2,
+			NeedRefineMin = 7,
+			SourceItems = {
+				{
+					"헤이스티슈즈S2",
+					1,
+					24320
+				},
+				{
+					"헤이스티아머S",
+					1,
+					24197
+				},
+				{
+					"헤이스티슈즈S",
+					1,
+					24196
+				}
+			},
+			NeedSource_String = "+7 헤이스티 쉐도우"
+		},
 		PerfectSize_Mix = {
 			ItemID = 100010,
 			NeedCount = 3,
@@ -4689,6 +4770,46 @@ tblLapineDdukddakBox = {
 					"S_M_Exe_Ho_Weapon",
 					1,
 					24431
+				},
+				{
+					"S_Penetration_Weapon",
+					1,
+					24432
+				},
+				{
+					"S_Penetration_Armor",
+					1,
+					24433
+				},
+				{
+					"S_Exe_Ho_Weapon",
+					1,
+					24434
+				},
+				{
+					"S_Fis_In_Weapon",
+					1,
+					24435
+				},
+				{
+					"S_Sci_Hu_Weapon",
+					1,
+					24436
+				},
+				{
+					"S_Viv_Dr_Weapon",
+					1,
+					24437
+				},
+				{
+					"S_Exo_Co_Weapon",
+					1,
+					24438
+				},
+				{
+					"S_Hasty_Weapon",
+					1,
+					24439
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"

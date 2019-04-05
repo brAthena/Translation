@@ -2553,10 +2553,9 @@ StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "Unlimited Humming Voice", COLOR_TITLE_BUFF },
+		{ "언리미티드 허밍 보이스", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Skill and magic casting is uninterruptible" },
-		{ "Increases SP consumption when using skills" }
+		{ "속성 마법 데미지 증가." }
 	}
 }
 StateIconList[EFST_IDs.EFST_GN_CARTBOOST] = {
@@ -5381,6 +5380,15 @@ StateIconList[EFST_IDs.EFST_SOULCURSE] = {
 		{ "암속성 공격에 대한 내성 감소." }
 	}
 }
+StateIconList[EFST_IDs.EFST_SOUND_OF_DESTRUCTION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "사운드 오브 디스트럭션", COLOR_TITLE_DEBUFF },
+		{ "%s", COLOR_TIME },
+		{ "모든 데미지 2배 입는 상태." }
+	}
+}
 StateIconList[EFST_IDs.EFST_HELPANGEL] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
@@ -5407,5 +5415,35 @@ StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {
 		{ "스위트 딸기 파르페", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "MATK + 7%" }
+	}
+}
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "화려한 꽃가지", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "Flee 증가, 완전 회피 증가" },
+		{ "공격 속도 증가" },
+		{ "변동 캐스팅 감소" }
+	}
+}
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF3] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "아담한 꽃가지", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "MHP, MSP 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF4] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "벚꽃 찰떡", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "소형, 중형, 대형 적에게" },
+		{ "주는 데미지 증가" }
 	}
 }

@@ -1879,5 +1879,10 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Blinking_Eyes_RD = 1888,
 	ACCESSORY_C_Medium_Wave_BD = 1889,
 	ACCESSORY_Cons_Of_Fire = 1890,
-	ACCESSORY_C_VesperHeadGear = 1891
+	ACCESSORY_S_Circlet_Of_Time = 1891,
+	ACCESSORY_Circlet_Of_Time = 1892,
+	ACCESSORY_C_Miracle_Plant = 1893,
+	ACCESSORY_C_Volume_Low_Twin_CB = 1894,
+	ACCESSORY_Popcorn_hair = 1895,
+	ACCESSORY_C_SnackParty = 1896
 }

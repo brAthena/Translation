@@ -297,7 +297,7 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_Full_BloomCherry_Tree] = {hatEffectID = 1184},
 	[HatEFID.HAT_EF_Full_BloomCherry_Tree] = {
 		resourceFileName = "efst_Full_BloomCherry_Tree\\Full_BloomCherry_Tree.str",
-		hatEffectPos = 0,
+		hatEffectPos = -6,
 		hatEffectPosX = 0
 	},
 	[HatEFID.HAT_EF_C_Blessings_Of_Soul] = {
@@ -440,7 +440,8 @@ effectHatItemTable = {
 	19416,
 	19433,
 	20535,
-	31316
+	31316,
+	20519
 }
 function GetHatEfResName(index)
 	if hatEffectTable == nil then
