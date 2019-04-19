@@ -4858,3 +4858,5 @@
 20953	1	1	1	1	0	1	1	1	//H_AD_Hood
 22215	1	1	1	1	0	1	1	1	//H_AD_Sandle
 32252	1	1	1	1	0	1	1	1	//H_AD_Clip
+9581	1	1	0	1	1	1	1	1	//Wet_Sealed_Card
+100061	1	1	1	1	1	1	1	1	//E_Red_Booster
