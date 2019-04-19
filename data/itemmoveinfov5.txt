@@ -4854,3 +4854,7 @@
 200006	1	1	0	1	1	1	1	1	//LI_HD_CarniumBox2
 9582	1	1	0	1	0	1	1	1	//Fancy_Spray_Of_Flowers
 9585	1	1	0	1	0	1	1	1	//Small_Spray_Of_Flowers
+15410	1	1	1	1	0	1	1	1	//H_AD_Suits
+20953	1	1	1	1	0	1	1	1	//H_AD_Hood
+22215	1	1	1	1	0	1	1	1	//H_AD_Sandle
+32252	1	1	1	1	0	1	1	1	//H_AD_Clip
