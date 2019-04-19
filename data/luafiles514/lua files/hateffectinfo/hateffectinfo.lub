@@ -294,7 +294,6 @@ hatEffectTable = {
 	[HatEFID.HAT_EF_LEVEL160_DEEP_PINK] = {hatEffectID = 1181},
 	[HatEFID.HAT_EF_LEVEL160_BLACK] = {hatEffectID = 1182},
 	[HatEFID.HAT_EF_LEVEL160_WHITE] = {hatEffectID = 1183},
-	[HatEFID.HAT_EF_Full_BloomCherry_Tree] = {hatEffectID = 1184},
 	[HatEFID.HAT_EF_Full_BloomCherry_Tree] = {
 		resourceFileName = "efst_Full_BloomCherry_Tree\\Full_BloomCherry_Tree.str",
 		hatEffectPos = -6,

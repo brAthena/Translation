@@ -483,6 +483,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ultio_Spes_OS",
 					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
 				}
 			},
 			NeedSource_String = "OS公扁"
@@ -537,6 +541,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ultio_Spes_OS",
 					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
 				}
 			},
 			NeedSource_String = "OS公扁"
@@ -591,6 +599,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ultio_Spes_OS",
 					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
 				}
 			},
 			NeedSource_String = "OS公扁"
@@ -645,6 +657,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ultio_Spes_OS",
 					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
 				}
 			},
 			NeedSource_String = "OS公扁"
@@ -699,6 +715,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ultio_Spes_OS",
 					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
 				}
 			},
 			NeedSource_String = "OS公扁"
@@ -753,6 +773,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ultio_Spes_OS",
 					16089
+				},
+				{
+					"ElectricFox_OS",
+					26164
 				}
 			},
 			NeedSource_String = "OS公扁"

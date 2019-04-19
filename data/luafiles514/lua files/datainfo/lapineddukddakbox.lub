@@ -1,5 +1,118 @@
 tblLapineDdukddakBox = {
 	sources = {
+		EnchantStone_Recipe_4m = {
+			ItemID = 100060,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			SourceItems = {
+				{
+					"C흰토끼의귀",
+					1,
+					20171
+				},
+				{
+					"C_Autumn_Headband",
+					1,
+					20482
+				},
+				{
+					"C토끼뿅모자",
+					1,
+					20033
+				},
+				{
+					"C주황색할로윈모자",
+					1,
+					31139
+				},
+				{
+					"C뱀파이어헤어밴드",
+					1,
+					31606
+				},
+				{
+					"C검은마녀의모자",
+					1,
+					31249
+				},
+				{
+					"C디아볼릭헤드폰",
+					1,
+					20174
+				},
+				{
+					"C_Poporing_Muffler",
+					1,
+					20098
+				},
+				{
+					"C_Princess_Ribbon_Crown",
+					1,
+					20395
+				},
+				{
+					"C_LunaticMuffler",
+					1,
+					20175
+				},
+				{
+					"C눈토끼니트모자",
+					1,
+					31586
+				},
+				{
+					"C_Snow_Bear_Food",
+					1,
+					31565
+				},
+				{
+					"C_CatCoffeeCup_TW",
+					1,
+					31481
+				},
+				{
+					"C_Cat_Ears_Punkish",
+					1,
+					31382
+				},
+				{
+					"C_HeartOfCat_TW",
+					1,
+					31624
+				},
+				{
+					"C트윈마가레트",
+					1,
+					20486
+				},
+				{
+					"C블랙래빗보넷",
+					1,
+					20257
+				},
+				{
+					"C_Kishu_Inu",
+					1,
+					31600
+				},
+				{
+					"C_Panda_Rabbit",
+					1,
+					31512
+				},
+				{
+					"C_Fox",
+					1,
+					31614
+				},
+				{
+					"C_Full_BloomCherry_Tree",
+					1,
+					20519
+				}
+			},
+			NeedSource_String = "4월의 냥다래 의상"
+		},
 		Piercing_Mix = {
 			ItemID = 100053,
 			NeedCount = 2,
@@ -5757,6 +5870,66 @@ tblLapineDdukddakBox = {
 					"DoramStone_Robe",
 					1,
 					25862
+				},
+				{
+					"RangerStone_Top2",
+					1,
+					1000008
+				},
+				{
+					"RangerStone_Middle2",
+					1,
+					1000009
+				},
+				{
+					"RangerStone_Bottom2",
+					1,
+					1000010
+				},
+				{
+					"RangerStone_Robe2",
+					1,
+					1000011
+				},
+				{
+					"MechanicStone_Top2",
+					1,
+					1000012
+				},
+				{
+					"MechanicStone_Middle2",
+					1,
+					1000013
+				},
+				{
+					"MechanicStone_Bottom2",
+					1,
+					1000014
+				},
+				{
+					"MechanicStone_Robe2",
+					1,
+					1000015
+				},
+				{
+					"HighpriestStone_Top2",
+					1,
+					1000016
+				},
+				{
+					"HighpriestStone_Middle2",
+					1,
+					1000017
+				},
+				{
+					"HighpriestStone_Bottom2",
+					1,
+					1000018
+				},
+				{
+					"ArchbishopStone_Robe2",
+					1,
+					1000019
 				}
 			},
 			NeedSource_String = "의상인챈트스톤"
@@ -8221,6 +8394,26 @@ tblLapineDdukddakBox = {
 					"C_WingOfHeart",
 					1,
 					20572
+				},
+				{
+					"C_Kishu_Inu",
+					1,
+					31600
+				},
+				{
+					"C_Panda_Rabbit",
+					1,
+					31512
+				},
+				{
+					"C_Full_BloomCherry_Tree",
+					1,
+					20519
+				},
+				{
+					"C_Fox",
+					1,
+					31614
 				}
 			},
 			NeedSource_String = "냥다래 의상"

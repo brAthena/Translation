@@ -680,17 +680,17 @@ SKILL_INFO_LIST = {
 		"PR_IMPOSITIO",
 		SkillName = "Impositio Manus",
 		MaxLv = 5,
-		SpAmount = { 13, 16, 19, 22, 25 },
+		SpAmount = { 59, 62, 65, 68, 71 },
 		bSeperateLv = true,
-		AttackRange = { 9, 9, 9, 9, 9 }
+		AttackRange = { 1, 1, 1, 1, 1 }
 	},
 	[SKID.PR_SUFFRAGIUM] = {
 		"PR_SUFFRAGIUM",
 		SkillName = "Suffragium",
 		MaxLv = 3,
-		SpAmount = { 8, 8, 8 },
+		SpAmount = { 45, 57, 69 },
 		bSeperateLv = true,
-		AttackRange = { 9, 9, 9 },
+		AttackRange = { 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.PR_IMPOSITIO, 2 }
 		}
@@ -8847,7 +8847,7 @@ SKILL_INFO_LIST = {
 		"SR_RAMPAGEBLASTER",
 		SkillName = "Rampage Blaster",
 		MaxLv = 5,
-		SpAmount = { 150, 150, 150, 150, 150 },
+		SpAmount = { 100, 100, 100, 100, 100 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -8862,7 +8862,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
-			{ SKID.SR_SKYNETBLOW, 1 }
+			{ SKID.SR_WINDMILL, 1 }
 		}
 	},
 	[SKID.SR_CURSEDCIRCLE] = {
