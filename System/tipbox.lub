@@ -932,6 +932,45 @@ tbl = {
 		Page = {
 			"1단계 목표는 심장을 프로토 코어로 교체 후 경과 관찰, 목표 시간동안 생존 달성 후 곧바로 2단계로 돌입.\n\n\t\t2단계 실험 목표는 생명체의 전투 잠재력을 극대화하여 경과를 관찰, 유의미한 데이터를 확보하는 일.\n\n\t\t2단계 실험을 위해 실험체가 배틀코어의 힘을 끌어내 발산할 수 있는 자극적인 환경 제공, 한계치를 측정…\n\n\t\t지나친 자극으로 죽음에 이르지 않도록 각별한 주의가 필요하나, 현재 100%의 사망률, 대안으로 사념체의 의사를…"
 		}
+	},
+	[8105] = {
+		Title = "의상 디자인 공모전 투구 조합#모자Mm",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip08105",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"특별한 인물들의 특별한 아이디어로 찾아온 새로운 투구 조합, 다양한 장소에서 기다리고 있는 투구 장인들을 만나보세요.\n\n\t\t※ 이 페이지는 가이드 용도로, 재료를 획득할 수 있는 방법 중 일부만 안내하고 있습니다.\n\n\t\t^EE0000※ 주의 : 별도 표기가 없을 경우 슬롯이 없는 장비만 조합 재료로 사용됩니다.\n\t\t인벤토리 내에 중복된 아이템이 있을 경우 원치 않는 아이템이 조합에 사용될 수 있으므로 조합에 사용할 아이템만 소지하십시오.^000000\n\n\t\t^006699◈ 의상 디자인 공모전 투구 조합^000000\n\t\t<TIPBOX>M 의상 구미호 가발<INFO>8106</INFO></TIPBOX>\n\t\t<TIPBOX>M 의상 고스 스컬 리본<INFO>8107</INFO></TIPBOX>\n\t\t<TIPBOX>M 의상 골든 바이올렛<INFO>8108</INFO></TIPBOX>\n\n\t\t<TIPBOX><INFO></INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[8106] = {
+		Title = "M 의상 구미호 가발#투구모자조합Mm",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip08106",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"페이욘의 <NAVI>[로뎃]<INFO>payon,191,130,0,101,0</INFO></NAVI>과 대화\n\n\t\t^EE0000※ 주의 : 별도 표기가 없을 경우 슬롯이 없는 장비만 조합 재료로 사용됩니다.\n\t\t인벤토리 내에 중복된 아이템이 있을 경우 원치 않는 아이템이 조합에 사용될 수 있으므로 조합에 사용할 아이템만 소지하십시오.^000000\n\n\t\t^006699◈ <ITEM>[의상 구미호 가발]<INFO>31707</INFO></ITEM> 조합 재료^000000\n\t\t ▷<ITEM>[여우의 꼬리]<INFO>1022</INFO></ITEM> 777개,\n\t\t 　<NAVI>[구미호]<INFO>NINE_TAIL,0,0,3,-222,1</INFO></NAVI> 드롭\n\t\t ▷<ITEM>[긴 머리카락]<INFO>1020</INFO></ITEM> 300개,\n\t\t 　<NAVI>[소희]<INFO>SOHEE,0,0,3,-222,1</INFO></NAVI> 드롭\n\t\t ▷<ITEM>[빨간색 염료]<INFO>975</INFO></ITEM> 1개\n\t\t ▷<ITEM>[하얀색 염료]<INFO>982</INFO></ITEM> 3개\n\t\t 　모로크 <NAVI>[자바두리한]<INFO>morocc_in,146,99,0,101,0</INFO></NAVI> 제작\n\t\t ▷2,000,000 제니\n\n\t\t<TIPBOX>▶의상 디자인 공모전<INFO>8105</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>",
+			"발랄한 디자인과 아름답고 세련된 미감을 뽐내는 의상 구미호 가발을 제작하기 위해 페이욘의 로뎃에게 가 보자.\n\n\t\t<TIPBOX>▶의상 디자인 공모전<INFO>8105</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[8107] = {
+		Title = "M 의상 고스 스컬 리본#투구모자조합Mm",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip08107",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"게펜의 <NAVI>[해스]<INFO>geffen,161,81,0,101,0</INFO></NAVI>와 대화\n\n\t\t^EE0000※ 주의 : 별도 표기가 없을 경우 슬롯이 없는 장비만 조합 재료로 사용됩니다.\n\t\t인벤토리 내에 중복된 아이템이 있을 경우 원치 않는 아이템이 조합에 사용될 수 있으므로 조합에 사용할 아이템만 소지하십시오.^000000\n\n\t\t^006699◈ <ITEM>[의상 고스 스컬 리본]<INFO>31708</INFO></ITEM> 조합 재료^000000\n\t\t ▷<ITEM>[해골바가지]<INFO>7005</INFO></ITEM> 666개,\n\t\t 　<NAVI>[배회하는 자]<INFO>WANDER_MAN,0,0,3,-222,1</INFO></NAVI> 드롭\n\t\t ▷<ITEM>[투명한 천조각]<INFO>1059</INFO></ITEM> 300개,\n\t\t 　<NAVI>[위스퍼]<INFO>WHISPER,0,0,3,-222,1</INFO></NAVI> 드롭\n\t\t ▷<ITEM>[리본]<INFO>2208</INFO></ITEM> 1개,\n\t\t 　페이욘 <NAVI>[방어구 상인]<INFO>payon_in01,7,119,0,101,0</INFO></NAVI> 판매\n\t\t ▷<ITEM>[검은색 염료]<INFO>983</INFO></ITEM> 3개\n\t\t 　모로크 <NAVI>[자바두리한]<INFO>morocc_in,146,99,0,101,0</INFO></NAVI> 제작\n\t\t ▷2,000,000 제니\n\n\t\t<TIPBOX>▶의상 디자인 공모전<INFO>8105</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>",
+			"아름다온 해골을 엄선해 기품을 담아 만드는 의상 고스 스컬 리본을 제작하기 위해 게펜의 해스에게 가 보자.\n\n\t\t<TIPBOX>▶의상 디자인 공모전<INFO>8105</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
+	},
+	[8108] = {
+		Title = "M 의상 골든 바이올렛#투구모자조합Mm",
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip08108",
+		Imgcoord = {Position = 5, Size = 100},
+		Page = {
+			"알데바란의 <NAVI>[러글]<INFO>aldebaran,183,159,0,101,0</INFO></NAVI>과 대화\n\n\t\t^EE0000※ 주의 : 별도 표기가 없을 경우 슬롯이 없는 장비만 조합 재료로 사용됩니다.\n\t\t인벤토리 내에 중복된 아이템이 있을 경우 원치 않는 아이템이 조합에 사용될 수 있으므로 조합에 사용할 아이템만 소지하십시오.^000000\n\n\t\t^006699◈ <ITEM>[의상 골든 바이올렛]<INFO>31709</INFO></ITEM> 조합 재료^000000\n\t\t ▷<ITEM>[별의 가루]<INFO>1001</INFO></ITEM> 22개,\n\t\t 　<NAVI>[위스퍼]<INFO>WHISPER,0,0,3,-222,1</INFO></NAVI> 드롭\n\t\t ▷<ITEM>[매우 단단한 껍질]<INFO>943</INFO></ITEM> 50개,\n\t\t 　<NAVI>[바돈]<INFO>VADON,0,0,3,-222,1</INFO></NAVI> 드롭\n\t\t ▷<ITEM>[부드러운 털]<INFO>949</INFO></ITEM> 300개,\n\t\t 　<NAVI>[루나틱]<INFO>LUNATIC,0,0,3,-222,1</INFO></NAVI> 드롭\n\t\t ▷<ITEM>[보라색 염료]<INFO>981</INFO></ITEM> 3개\n\t\t 　모로크 <NAVI>[자바두리한]<INFO>morocc_in,146,99,0,101,0</INFO></NAVI> 제작\n\t\t ▷2,000,000 제니\n\n\t\t<TIPBOX>▶의상 디자인 공모전<INFO>8105</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>",
+			"모두의 시선을 모을 만큼 화려하고 아름다운 의상 골든 바이올렛을 제작하기 위해 알데바란의 러글에게 가 보자.\n\n\t\t<TIPBOX>▶의상 디자인 공모전<INFO>8105</INFO></TIPBOX>\n\t\t<TIPBOX>▶팁 리스트 보기<INFO>1000</INFO></TIPBOX>"
+		}
 	}
 }
 function main()
