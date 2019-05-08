@@ -1098,6 +1098,7 @@ EFFECT.EF_ACH_COMPLETE = 1094
 EFFECT.EF_TIME_ACCESSORY = 1095
 EFFECT.EF_SPRITEMABLE = 1096
 EFFECT.EF_TUNAPARTY = 1097
+EFFECT.EF_AMDARAIS_EFFECT = 1419
 tbl = {
 	[2603] = {
 		MonsterSize = 1.2,
@@ -4266,6 +4267,18 @@ tbl = {
 		MonsterSize = 0.6,
 		MonsterEff = {
 			EFFECT.EF_NONE
+		}
+	},
+	[20573] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_AMDARAIS_EFFECT
+		}
+	},
+	[20580] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_BLUELIGHTBODY
 		}
 	}
 }
