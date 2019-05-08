@@ -5067,6 +5067,27 @@ achievement_tbl = {
 		},
 		score = 50
 	},
+	[129021] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "글래스트 헤임 도전모드",
+		content = {
+			summary = "글래스트 헤임 도전모드 공략 완료",
+			details = "메모리얼 던전을 끝까지 진행"
+		},
+		resource = {
+			[1] = {
+				text = "도전 성공 횟수",
+				count = 100
+			}
+		},
+		reward = {
+			title = 1045
+		},
+		score = 10
+	},
 	[130000] = {
 		UI_Type = 0,
 		group = "CHATTING",
@@ -7167,7 +7188,7 @@ achievement_tbl = {
 				count = 1,
 			}
 		},
-		score = 15
+		score = 20
 	},
 	[230203] = {
 		UI_Type = 1,
@@ -7633,6 +7654,194 @@ achievement_tbl = {
 			item = 644
 		},
 		score = 10
+	},
+	[300000] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "데스 슬레이어",
+		content = {
+			summary = "목표의 대상들을 사냥한다",
+			details = "죽은자의 나라의 주민을 사냥하고 칭호를 얻자."
+		},
+		resource = {
+			[1] = {
+				text = "듀라한 250회 사냥",
+				count = 250
+			},
+			[2] = {
+				text = "하이로조이스트 250회 사냥",
+				count = 250
+			},
+			[3] = {
+				text = "블러디머더러 250회 사냥",
+				count = 250
+			},
+			[4] = {
+				text = "지벳트 250회 사냥",
+				count = 250
+			}
+		},
+		reward = {title = 1035, item = 25429},
+		score = 20
+	},
+	[300001] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "좀비 슬레이어",
+		content = {
+			summary = "목표의 대상들을 사냥한다",
+			details = "좀비를 사냥하고 칭호를 얻자."
+		},
+		resource = {
+			[1] = {
+				text = "좀비 500회 사냥",
+				count = 500
+			},
+			[2] = {
+				text = "스켈레톤 500회 사냥",
+				count = 500
+			}
+		},
+		reward = {title = 1036, item = 604},
+		score = 10
+	},
+	[300002] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "터틀 슬레이어",
+		content = {
+			summary = "목표의 대상들을 사냥한다",
+			details = "거북이들을 사냥하고 칭호를 얻자."
+		},
+		resource = {
+			[1] = {
+				text = "힛터 250회 사냥",
+				count = 250
+			},
+			[2] = {
+				text = "프리저 250회 사냥",
+				count = 250
+			},
+			[3] = {
+				text = "퍼머터 250회 사냥",
+				count = 250
+			},
+			[4] = {
+				text = "어절터 250회 사냥",
+				count = 250
+			}
+		},
+		reward = {title = 1037, item = 25429},
+		score = 20
+	},
+	[300003] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "드라이어드 슬레이어",
+		content = {
+			summary = "목표의 대상들을 사냥한다",
+			details = "드라이어드를 사냥하고 칭호를 얻자."
+		},
+		resource = {
+			[1] = {
+				text = "드라이어드 1,000회 사냥",
+				count = 1000
+			}
+		},
+		reward = {title = 1038, item = 25429},
+		score = 20
+	},
+	[300004] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "타임 슬레이어",
+		content = {
+			summary = "목표의 대상들을 사냥한다",
+			details = "클락과 알람을 사냥하고 칭호를 얻자."
+		},
+		resource = {
+			[1] = {
+				text = "클락 500회 사냥",
+				count = 500
+			},
+			[2] = {
+				text = "알람 500회 사냥",
+				count = 500
+			}
+		},
+		reward = {title = 1039, item = 25429},
+		score = 20
+	},
+	[300005] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "레이드릭 슬레이어",
+		content = {
+			summary = "목표의 대상들을 사냥한다",
+			details = "레이드릭을 사냥하고 칭호를 얻자."
+		},
+		resource = {
+			[1] = {
+				text = "레이드릭 500회 사냥",
+				count = 500
+			},
+			[2] = {
+				text = "레이드릭아쳐 500회 사냥",
+				count = 500
+			}
+		},
+		reward = {title = 1040, item = 25429},
+		score = 30
+	},
+	[300008] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "스트라우프 슬레이어",
+		content = {
+			summary = "목표의 대상들을 사냥한다",
+			details = "스트라우프를 사냥하고 칭호를 얻자."
+		},
+		resource = {
+			[1] = {
+				text = "스트라우프 1,000회 사냥",
+				count = 1000
+			}
+		},
+		reward = {title = 1043, item = 25429},
+		score = 20
+	},
+	[300009] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 3,
+		minor = 1,
+		title = "스팅 슬레이어",
+		content = {
+			summary = "목표의 대상들을 사냥한다",
+			details = "스팅을 사냥하고 칭호를 얻자."
+		},
+		resource = {
+			[1] = {
+				text = "스팅 1,000회 사냥",
+				count = 1000
+			}
+		},
+		reward = {title = 1044, item = 25429},
+		score = 30
 	},
 }
 
