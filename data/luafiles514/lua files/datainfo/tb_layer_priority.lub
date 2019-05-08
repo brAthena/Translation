@@ -3,15 +3,19 @@ TB_Layer_Priority = {
 	Default_Top = 200,
 	Default_Bottom = 300,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_Electro_Two_Side_Up] = {
+			Default = 143,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_C_Kishu_Inu] = {Default = 304},
 		[ACCESSORY_IDs.ACCESSORY_C_Panda_Rabbit] = {Default = 304},
 		[ACCESSORY_IDs.ACCESSORY_C_Fox] = {Default = 304},
 		[ACCESSORY_IDs.ACCESSORY_C_Miyabi_Long_Hair] = {
-			Default = 153,
+			Default = 143,
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_C_Kururinpa_Hair] = {
-			Default = 153,
+			Default = 143,
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_C_Snow_Bear_Hood] = {Default = 303},
@@ -32,11 +36,11 @@ TB_Layer_Priority = {
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_BD] = {
-			Default = 153,
+			Default = 143,
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_C_Fairy_Long_SV] = {
-			Default = 153,
+			Default = 143,
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_Eleanor_Wig_YL] = {
@@ -44,7 +48,7 @@ TB_Layer_Priority = {
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_C_Piamette_Roll_Hair] = {
-			Default = 153,
+			Default = 143,
 			Direction = {}
 		},
 		[ACCESSORY_IDs.ACCESSORY_APRO_WIG] = {
