@@ -21915,6 +21915,7 @@ QuestInfoList = {
 	},
 	[8584] = {
 		Title = "멜론 축제 기념 모자 (1)",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"라벤더의 사촌인 <NAVI>[난나비]<INFO>geffen,106,63,0,101,0</INFO></NAVI>는 멜론…아니, 달콤이 껍질을 모으고 있다. 라벤더가 이야기한 대로라면 특별한 모자를 만들 수 있다는 것 같다."
 		},
@@ -21922,6 +21923,7 @@ QuestInfoList = {
 	},
 	[8585] = {
 		Title = "멜론 축제 기념 모자 (2)",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"게펜의 <NAVI>[난나비]<INFO>geffen,106,63,0,101,0</INFO></NAVI>는 품질이 좋은 달콤이 껍질이 모자라 기념 모자를 만들지 못하고 있다고 한다. 달콤이 껍질 30개를 모아다 가져다 주자."
 		},
