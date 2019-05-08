@@ -21081,6 +21081,7 @@ QuestInfoList = {
 	},
 	[8311] = {
 		Title = "큰 멜론 컨테스트 개최중입니다",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"수상한 멜론의 크기를 재었다."
 		},
@@ -21088,6 +21089,7 @@ QuestInfoList = {
 	},
 	[8312] = {
 		Title = "큰 멜론 컨테스트 개최중입니다 - 대기",
+		IconName = "ico_ev.bmp",
 		Description = {
 			"수상한 멜론의 크기를 재었다. 크기 경쟁은 내일 또 해 보자."
 		},
@@ -21854,6 +21856,76 @@ QuestInfoList = {
 			"<NAVI>[릴리 블랑]<INFO>yuno_fild03,38,146,0,101,0</INFO></NAVI>은 굳은 익스플로젼 10마리, 굳은 블레이저 10마리를 처치하고 종족 차이를 보고해 달라고 한다."
 		},
 		Summary = "굳은 익스플로젼, 굳은 블레이저 처치"
+	},
+	[8577] = {
+		Title = "갈아드릴게요…멜론을.",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"휴양을 간 아버지 대신 멜론 축제 일을 하게 된 <NAVI>[라벤더]<INFO>geffen,88,35,0,101,0</INFO></NAVI>는 달콤한 멜론 10개를 가져다 주면 달콤한 멜론 주스를 만들어 준다고 한다. 달콤한 멜론은 달콤이에게서 얻을 수 있다."
+		},
+		Summary = "달콤한 멜론 10개 조달"
+	},
+	[8578] = {
+		Title = "부모님께 보내는 선물",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"라벤더는 휘겔로 휴양을 간 <NAVI>[부모님]<INFO>hugel,218,228,0,101,0</INFO></NAVI>께 보내고 싶은 물건이 있다며 배달을 부탁한다."
+		},
+		Summary = "릴리유에게 배달품 전달"
+	},
+	[8579] = {
+		Title = "막내딸에게 보내는 선물",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"휘겔에서 휴양중인 릴리유는 나서서 멜론 축제를 지휘하는 막내딸을 위해 휴양지에서도 새로운 메뉴를 개발하고 있었다. <NAVI>[라벤더]<INFO>geffen,88,35,0,101,0</INFO></NAVI>에게 전언을 가져다 주자."
+		},
+		Summary = "라벤더와 대화"
+	},
+	[8580] = {
+		Title = "새콤한 멜론이 맛있다",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"라벤더의 팔촌인 <NAVI>[딜포어]<INFO>geffen,90,35,0,101,0</INFO></NAVI>가 신품종 멜론의 수확을 도와달라고 했다. 새콤한 멜론은 새콤이에게서 얻을 수 있다."
+		},
+		Summary = "새콤한 멜론 10개 조달"
+	},
+	[8581] = {
+		Title = "새콤한 멜론이 맛있다 - 대기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[딜포어]<INFO>geffen,90,35,0,101,0</INFO></NAVI>는 괜찮다면 내일 다시 일을 도와달라고 했다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8582] = {
+		Title = "새콤이 성능 분석",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"게펜의 <NAVI>[딜포어]<INFO>geffen,90,35,0,101,0</INFO></NAVI>는 신품종 연구를 위해 새콤한 멜론 수확을 도와달라고 했다. 새콤한 멜론은 새콤이에게서 얻을 수 있다."
+		},
+		Summary = "새콤한 멜론 10개 조달"
+	},
+	[8583] = {
+		Title = "새콤이 성능 분석 - 대기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[딜포어]<INFO>geffen,90,35,0,101,0</INFO></NAVI>는 괜찮다면 내일 다시 일을 도와달라고 했다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8584] = {
+		Title = "멜론 축제 기념 모자 (1)",
+		Description = {
+			"라벤더의 사촌인 <NAVI>[난나비]<INFO>geffen,106,63,0,101,0</INFO></NAVI>는 멜론…아니, 달콤이 껍질을 모으고 있다. 라벤더가 이야기한 대로라면 특별한 모자를 만들 수 있다는 것 같다."
+		},
+		Summary = "난나비와 대화"
+	},
+	[8585] = {
+		Title = "멜론 축제 기념 모자 (2)",
+		Description = {
+			"게펜의 <NAVI>[난나비]<INFO>geffen,106,63,0,101,0</INFO></NAVI>는 품질이 좋은 달콤이 껍질이 모자라 기념 모자를 만들지 못하고 있다고 한다. 달콤이 껍질 30개를 모아다 가져다 주자."
+		},
+		Summary = "달콤이 껍질 30개 조달"
 	},
 	[9000] = {
 		Title = "Job Change to Knight",
