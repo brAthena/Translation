@@ -4019,5 +4019,6 @@ JobNameTable = {
 	[jobtbl.JT_MD_ED_M_SCIENCE] = "md_ed_m_science",
 	[jobtbl.JT_HIDDEN_MOB8] = "invisible",
 	[jobtbl.JT_MISSING_OCTOPIG] = "SAVAGE_BABE",
+	[jobtbl.JT_SAECOM] = "SAECOM",
 	[jobtbl.JT_ORK_HERO2] = "ORK_HERO2"
 }
