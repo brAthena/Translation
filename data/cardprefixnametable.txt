@@ -916,36 +916,36 @@
 27298#of Big Shield#
 
 //2018 에피 17.1 카드
-27304#헬스#
-27305#헬 인페르노#
-27306#파이어 댄스#
-27307#헤비 트립#
-27308#세크리드#
-27309#오브 홀리파워#
-27310#오브 임모탈#
-27311#헤비 너클#
-27312#이블 피어싱#
-27313#파워 피스트#
-27314#동물 사냥꾼#
-27315#동물 마법사냥꾼#
-27316#안티 포이즌#
-27317#내츄럴 피어싱#
-27318#오브 타이거파워#
-27319#포이즌 브레이크#
-27320#인핸스 파이어#
+27304#Health#
+27305#Hell Inferno#
+27306#Fire Dance#
+27307#Heavy Trip#
+27308#Sacred#
+27309#of Holy Power#
+27310#of Immortal#
+27311#Heavy Knuckle#
+27312#Evil Piercing#
+27313#Power Fist#
+27314#Animal Hunter#
+27315#Animal Magic Hunter#
+27316#Anti Poison#
+27317#Natural Piercing#
+27318#of Tiger Power#
+27319#Poison Break#
+27320#Enhance Fire#
 
 //에다 글래스트
-27329#오브 슈미츠#
+27329#of Schmidt#
 
 //에피소드14.3 모로크카드
-27325#무스펠헤임#
-27326#파멸의#
-27327#사신안쿠#
-27321#마신의#
-27328#타락한 생명의#
-27322#위압자의#
-27323#조율자의#
-27324#브리나라네아#
+27325#Muspelheim#
+27326#Destructive#
+27327#Grim Reaper Ankou#
+27321#Demon God's#
+27328#Corrupt Life#
+27322#Dominator's#
+27323#Coordinator's#
+27324#Brinaranea#
 
 //일루전오브라비린스 카드
 27338#오브 더블파워#
@@ -960,31 +960,31 @@
 27337#헌팅브리즈#
 
 //어비스 및 노그 3층
-27346#오브 하울링#
-27347#크랙#
-27348#노웨어#
-27349#오브 플레임배리어#
-27350#오브 드래곤스피릿#
-27351#오브 드래곤하트#
-27352#슬럼버#
-27353#오브 데모닉배리어#
-27354#오브 디프레이브#
-27355#디프레이브드#
-27356#오브 프로즌가드#
-27357#오브 더티글러브#
-27358#브레이킹#
-27359#콜드매직#
-27360#파이어매직#
-27361#헤비블레이드#
-27362#오브 퀸스파이더#
-27363#둠드#
+27346#of Howling#
+27347#Crack#
+27348#Nowhere#
+27349#of Flame Barrier#
+27350#of Dragon Spirit#
+27351#of Dragon Heart#
+27352#Slumber#
+27353#of Demonic Barrier#
+27354#of Deprave#
+27355#Depraved#
+27356#of Frozen Guard#
+27357#of Dirty Glove#
+27358#Breaking#
+27359#Cold Magic#
+27360#Fire Magic#
+27361#Heavy Blade#
+27362#of Queen Spider#
+27363#Doomed#
 
 //고성 도전모드
-27381#오브 펄른엔젤#
-27382#오브 크립#
-27383#오브 릴랙스#
-27384#마법 기사단의#
-27385#마법 기사단의#
-27386#퇴마사의#
-27387#불사퇴치자의#
-27388#강한 회복의#
+27381#of Fallen Angel#
+27382#of Creep#
+27383#of Relax#
+27384#Magical Knightage#
+27385#Magical Knightage#
+27386#Exorcist's#
+27387#Undead Slayer's#
+27388#Strong Recovery#
