@@ -18902,6 +18902,14 @@ QuestInfoList = {
 		},
 		Summary = "04시 초기화"
 	},
+	[7996] = {
+		Title = "파르페를 기부했어!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라 대성당 앞에서 밝히리가 어린이용 파르페를 기부받고 있다. 파르페 5개를 가지고 있다면 기부해 보자."
+		},
+		Summary = "04시 초기화"
+	},
 	[7997] = {
 		Title = "고양이캔의 참맛",
 		Description = {
@@ -31106,7 +31114,7 @@ QuestInfoList = {
 	[12307] = {
 		Title = "Way to the Merchant",
 		Description = {
-			"According to Salim Hamid, to change to a Merchant, you should go to the town of Alberta. Go to the refinery building in the 5 o'clock direction."
+			"According to Salim Hamid, to change to a Merchant, you should go to the town of Alberta. Go to the refinery building in the 7 o'clock direction."
 		},
 		Summary = "Travel Alberta"
 	},
@@ -43513,7 +43521,7 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[킬 하이르 학원]<INFO>yuno_fild08,179,200,0,101,0</INFO></NAVI>에서 고양이손 상인이 의뢰하는 것을 지켜보고 있던 여학생이, 학원 내부까지 그랜드 페코와 고우트가 들어오니 기왕이면 확실하게 퇴치까지 해달라며 추가 의뢰를 해왔다."
 		},
-		Summary = "고우트, 그랜트 페코 퇴치"
+		Summary = "고우트, 그랜드 페코 퇴치"
 	},
 	[21285] = {
 		Title = "확실한 마무리-대기",

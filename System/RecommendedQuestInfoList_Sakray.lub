@@ -22,6 +22,28 @@ RecommendedQuestInfoList = {
 			"^ff0000※ This page is an update introduction, not a quest. Please note that completing quests will not remove them.^000000"
 		}
 	},
+	[4] = {
+		Title = "글래스트 헤임 도전모드",
+		IconName = "ico_sc.bmp",
+		Summary = "차원의 오류를 확인하라",
+		NpcSpr = "4_ED_OSCAR",
+		NpcNavi = "glast_01",
+		NpcPosX = 143,
+		NpcPosY = 288,
+		BgName = "reco_04.bmp",
+		QuestInfo1 = {
+			"^003355존재해선 안되는 차원^000000",
+			"글래스트 헤임 붕괴의 날에 발생한 것으로 추정하여 폐쇄 시도.",
+			"차원 수호자의 간섭시 인과율의 거대한 오류가 일어날 것으로 판단하여 잠정 보류. 인간의 도움이 필요하다."
+		},
+		QuestInfo2 = {
+			"공략 조건",
+			"^990000레벨 170 이상^000000의 모험가"
+		},
+		QuestInfo3 = {
+			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
+		}
+	},
 	[5] = {
 		Title = "확장 직업군 레벨 확장!",
 		IconName = "ico_sc.bmp",
