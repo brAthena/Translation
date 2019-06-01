@@ -8594,6 +8594,26 @@ tblLapineDdukddakBox = {
 					"C_Fox",
 					1,
 					31614
+				},
+				{
+					"C_OpenAir_Headset",
+					1,
+					31569
+				},
+				{
+					"C_Mobile_Pursuit_System",
+					1,
+					31572
+				},
+				{
+					"C_Mecha_Cat_Ears",
+					1,
+					31573
+				},
+				{
+					"C_Cyber_Income",
+					1,
+					31574
 				}
 			},
 			NeedSource_String = "냥다래 의상"
