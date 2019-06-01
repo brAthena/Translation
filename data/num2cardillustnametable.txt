@@ -957,7 +957,8 @@
 27320#sorry#
 
 //2018년 에다글래스트
-27329#sorry#
+27329#Schmidt_Card#
+
 
 //모로크,EP14_3카드
 27325#Muspellskoll_Card#
