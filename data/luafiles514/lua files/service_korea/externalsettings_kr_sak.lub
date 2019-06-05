@@ -26,6 +26,10 @@ TwitterDataUrl = {
 	Auth = "http://112.175.128.140:3000/twitter/user-auth",
 	Upload = "http://112.175.128.140:3000/twitter/upload"
 }
+EmblemDataUrl = {
+	Upload = "http://112.175.128.140:3000/emblem/upload",
+	Download = "http://112.175.128.140:3000/emblem/download"
+}
 LEVELAURA = {}
 LEVELAURA.EF_NONE = -1
 LEVELAURA.EF_LEVEL99 = 200
