@@ -5403,7 +5403,7 @@ StateIconList[EFST_IDs.EFST_SWEETSFAIR_ATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "스위트 마카롱 케이크", COLOR_TITLE_BUFF },
+		{ "ATK 증가", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "ATK + 7%" }
 	}
@@ -5412,7 +5412,7 @@ StateIconList[EFST_IDs.EFST_SWEETSFAIR_MATK] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "스위트 딸기 파르페", COLOR_TITLE_BUFF },
+		{ "MATK 증가", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "MATK + 7%" }
 	}
@@ -5421,7 +5421,7 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "화려한 꽃가지", COLOR_TITLE_BUFF },
+		{ "회피, 공격속도 증가, 변동 캐스팅 감소", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "Flee 증가, 완전 회피 증가" },
 		{ "공격 속도 증가" },
