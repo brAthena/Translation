@@ -22,6 +22,24 @@ RecommendedQuestInfoList = {
 			"^ff0000※ This page is an update introduction, not a quest. Please note that completing quests will not remove them.^000000"
 		}
 	},
+	[2] = {
+		Title = "팝콘 페스타",
+		IconName = "ico_ev.bmp",
+		Summary = "해변도시 코모도에서 뜨거운 축제를 보내세요!",
+		BgName = "reco_02.bmp",
+		QuestInfo1 = {
+			"오직 이곳 코모도에서만 맛볼 수 있는 팝콘!",
+			"뿐만 아니라 여러가지 선물들도 준비되어 있어요.",
+			"<NAVI>[코모도]<INFO>comodo,200,145,0,101,0</INFO></NAVI>로 오시면 축제에 참여할 수 있습니다."
+		},
+		QuestInfo2 = {
+			"올 해는 더욱 뜨겁게",
+			"팝콘 페스타를 즐기도록 해요."
+		},
+		QuestInfo3 = {
+			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
+		}
+	},
 	[4] = {
 		Title = "글래스트 헤임 도전모드",
 		IconName = "ico_sc.bmp",

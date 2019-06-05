@@ -6262,6 +6262,124 @@ QuestInfoList = {
 		},
 		Summary = "아를르에게 재료 전달"
 	},
+	[3336] = {
+		Title = "유월의 황금 옥수수",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"황금 옥수수가 맛있게 영글 수 있도록, 필드와 던전에서 따끈 임프와 따끈 익스플로전을 각각 3마리 사냥하고 <NAVI>[콘 박사]<INFO>comodo,159,196,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = ""
+	},
+	[3337] = {
+		Title = "유월의 황금 옥수수",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"필드와 던전에서 따끈 임프와 따끈 익스플로전을 각각 3마리 사냥하고 <NAVI>[콘 박사]<INFO>comodo,159,196,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = ""
+	},
+	[3338] = {
+		Title = "유월의 황금 옥수수-대기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 코모도의 <NAVI>[콘 박사]<INFO>comodo,159,196,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 리셋"
+	},
+	[3339] = {
+		Title = "팝콘 페스타 등록",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[케를린]<INFO>comodo,262,126,0,101,0</INFO></NAVI>에게 ^4d4dff이글이글 구슬 30개^000000를 가져다 주어 팝콘 페스타에 등록하도록 하자."
+		},
+		Summary = "이글이글 구슬 30개 전달"
+	},
+	[3340] = {
+		Title = "유월의 화산섬 코로도",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"코로도 길잡이 <NAVI>[파키하]<INFO>comodo,264,123,0,101,0</INFO></NAVI>의 안내를 받아, 이미 코로도에 자리잡은 화속성 몬스터를 혼쭐내 주자."
+		},
+		Summary = "코로도 탐사"
+	},
+	[3341] = {
+		Title = "유월의 화산섬 코로도",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"코로도 길잡이 <NAVI>[파키하]<INFO>comodo,264,123,0,101,0</INFO></NAVI>의 안내를 받아, 이미 코로도에 자리잡은 화속성 몬스터를 혼쭐내 주자."
+		},
+		Summary = "코로도 탐사"
+	},
+	[3342] = {
+		Title = "유월의 화산섬 코로도-대기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 코모도의 <NAVI>[파키하]<INFO>comodo,264,123,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 리셋"
+	},
+	[3343] = {
+		Title = "유월의 건강한 허브",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[예르바]<INFO>comodo,227,190,0,101,0</INFO></NAVI>의 부탁을 받았다. 필드와 던전에서 마법의 허브를 3뿌리 캐서 예르네에게 돌아가자."
+		},
+		Summary = ""
+	},
+	[3344] = {
+		Title = "유월의 건강한 허브",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"필드와 던전에서 마법의 허브를 3뿌리 캐서 <NAVI>[예르바]<INFO>comodo,227,190,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = ""
+	},
+	[3345] = {
+		Title = "유월의 건강한 허브-대기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. 코모도의 <NAVI>[예르바]<INFO>comodo,227,190,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 리셋"
+	},
+	[3346] = {
+		Title = "유월의 맛있는 팝콘",
+		IconName = "ico_ev.bmp",
+		Description = { "팝콘 마스터의 팝콘은 미드가르드 제일이다." },
+		Summary = ""
+	},
+	[3347] = {
+		Title = "힘세고 강한 모닥불",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[힘세고 강한 모닥불]<INFO>comodo,289,176,0,101,0</INFO></NAVI>에 허브 이파리를 태우고 연기를 쐬자 90분동안 공격력이 강해진 듯하다! 90분이 지나면 허브 5잎을 태워 다시 연기를 쐴 수 있다."
+		},
+		Summary = "90분 후 리셋"
+	},
+	[3348] = {
+		Title = "지혜롭고 강한 모닥불",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[지혜롭고 강한 모닥불]<INFO>comodo,294,176,0,101,0</INFO></NAVI>에 허브 이파리를 태우고 연기를 쐬자 90분동안 마법 공격력이 강해진 듯하다! 90분이 지나면 허브 5잎을 태워 다시 연기를 쐴 수 있다."
+		},
+		Summary = "90분 후 리셋"
+	},
+	[3349] = {
+		Title = "날카롭고 강한 모닥불",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[날카롭고 강한 모닥불]<INFO>comodo,299,176,0,101,0</INFO></NAVI>에 허브 이파리를 태우고 연기를 쐬자 90분동안 공격 속도가 올라간 듯하다! 90분이 지나면 허브 5잎을 태워 다시 연기를 쐴 수 있다."
+		},
+		Summary = "90분 후 리셋"
+	},
+	[3350] = {
+		Title = "이글이글 팝콘 가발",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[케를린]<INFO>comodo,262,126,0,101,0</INFO></NAVI>에게 ^4d4dff이글이글 구슬 50개^000000를 가져다 주어 ^4d4dff의상 이글이글 팝콘 가발^000000을 얻도록 하자."
+		},
+		Summary = "이글이글 구슬 50개 전달"
+	},
 	[4000] = {
 		Title = "Sherin's Job Interview",
 		Description = {
