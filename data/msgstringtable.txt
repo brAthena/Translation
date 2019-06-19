@@ -3579,8 +3579,10 @@ TITLE#
 시스템 메세지 : 현재 노점보기 기능이 %s 상태입니다. (/노점보기)#
 수직 동기#
 자료#
-http://rodata.zhaouc.com/renwu.html_container#
+http://rodata.zhaouc.com/renwu.html#
 작위#
 프레임 제한#
 %d개를 초과할 경우 더 이상 설치 할 수 없습니다.#
 목적지#
+잠시 후 다시 시도해주세요.#
+등록할 수 없는 파일입니다.#
