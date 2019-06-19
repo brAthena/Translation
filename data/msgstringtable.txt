@@ -3582,3 +3582,5 @@ TITLE#
 http://rodata.zhaouc.com/renwu.html_container#
 작위#
 프레임 제한#
+%d개를 초과할 경우 더 이상 설치 할 수 없습니다.#
+목적지#
