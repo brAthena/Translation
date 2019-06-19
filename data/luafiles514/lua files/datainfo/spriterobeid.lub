@@ -48,5 +48,15 @@ SPRITE_ROBE_IDs = {
 	ROBE_HeartChocoBag = 47,
 	ROBE_C_Valkyrie_Wing = 48,
 	ROBE_Archangel_Wing = 49,
-	ROBE_WingOfHeart = 50
+	ROBE_WingOfHeart = 50,
+	ROBE_C_School_Bag_RD = 51,
+	ROBE_C_School_Bag_BL = 52,
+	ROBE_C_Cat_Fork = 53,
+	ROBE_Balloon_Wing = 54,
+	ROBE_Wings_Of_Lucifer = 55,
+	ROBE_Wings_Of_Raguel = 56,
+	ROBE_Wings_Of_Raphael = 57,
+	ROBE_C_Heart_Wing_Backpack = 58,
+	ROBE_C_Soldier_Backpack = 59,
+	ROBE_C_T_Bear_Bag = 60
 }
