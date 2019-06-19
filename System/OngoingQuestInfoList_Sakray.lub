@@ -23171,14 +23171,14 @@ QuestInfoList = {
 	[9308] = {
 		Title = "Magic Competition Win~!.",
 		Description = {
-			"Win at ^8B4513Magic Competition^^000000 and return to the scholar researching the dimensional gap near the entrance to the tournament."
+			"Win at ^8B4513Magic Competition^000000 and return to the scholar researching the dimensional gap near the entrance to the tournament."
 		},
 		Summary = ""
 	},
 	[9309] = {
-		Title = "Magic competitions^defeat",
+		Title = "Magic competitions defeat",
 		Description = {
-			"Defeated at the ^8B4513Magic competitions^^000000 Return to the scholar researching with what you found."
+			"Defeated at the ^8B4513Magic competitions^000000 Return to the scholar researching with what you found."
 		},
 		Summary = "Exploring old Geffen in the crack is completed"
 	},
