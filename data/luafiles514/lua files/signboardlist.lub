@@ -22,16 +22,6 @@ SignBoardList = {
 		"유저인터페이스\\information\\over_mkect.bmp"
 	},
 	{
-		"malangdo",
-		114,
-		160,
-		10,
-		IT_SIGNBOARD,
-		"item\\Volume_Low_Twin.bmp",
-		"  1월 의상 쿠폰 교환",
-		"#0x00FFFFFF"
-	},
-	{
 		"moc_para01",
 		110,
 		97,
