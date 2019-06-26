@@ -2810,7 +2810,7 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			subTitle = "룬-미드가츠 왕국 프론테라 위성도시",
-			mainTitle = "이드루드"
+			mainTitle = "이즈루드"
 		},
 		backgroundBmp = "village"
 	},
@@ -2819,7 +2819,7 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			subTitle = "룬-미드가츠 왕국 프론테라 위성도시",
-			mainTitle = "이드루드"
+			mainTitle = "이즈루드"
 		},
 		backgroundBmp = "village"
 	},
@@ -2828,7 +2828,7 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			subTitle = "룬-미드가츠 왕국 프론테라 위성도시",
-			mainTitle = "이드루드"
+			mainTitle = "이즈루드"
 		},
 		backgroundBmp = "village"
 	},
@@ -2837,7 +2837,7 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			subTitle = "룬-미드가츠 왕국 프론테라 위성도시",
-			mainTitle = "이드루드"
+			mainTitle = "이즈루드"
 		},
 		backgroundBmp = "village"
 	},
