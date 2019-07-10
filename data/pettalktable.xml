@@ -5556,4 +5556,65 @@
             <perfor_2>	휘리리리릭! 이것이 영웅의 손놀림!	</perfor_2>
         </so_full>
     </ORK_HERO2>
+    <gloomundernight2>
+        <hungry>
+            <feeding>   (맛있게 먹는중)   </feeding>
+            <dead>      하..찮...은 존재..     </dead>
+            <stand>     (무척 배고파 보인다)      </stand>
+            <levelup>   (힐끗 쳐다본다)   </levelup>
+            <perfor_1>  칠흑같은 밤하늘 아래 </perfor_1>
+            <perfor_1>  불타는 어둠의 존재  </perfor_1>
+            <perfor_2>  (한가로워 보인다)  </perfor_2>
+            <perfor_2>  그루우움......  </perfor_2>
+        </hungry>
+        <bit_hungry>
+            <feeding>   (맛있게 먹는중)   </feeding>
+            <dead>      하..찮...은 존재.      </dead>
+            <stand>     (배고파 보인다)   </stand>
+            <levelup>   (힐끗 쳐다본다)   </levelup>
+            <perfor_1>  칠흑같은 밤하늘 아래 </perfor_1>
+            <perfor_1>  불타는 어둠의 존재  </perfor_1>
+            <perfor_2>  (한가로워 보인다)  </perfor_2>
+            <perfor_2>  그루우움......  </perfor_2>
+        </bit_hungry>
+        <noting>
+            <feeding>   (맛있게 먹는중)   </feeding>
+            <dead>      하..찮...은 존재.      </dead>
+            <stand> 존재..라는건... 무엇인가....   </stand>
+            <stand>     경배....하라..찬양....하라...   </stand>
+            <stand>     (귀찮아 하고 있다) </stand>
+            <levelup>   (힐끗 쳐다본다)   </levelup>
+            <perfor_1>  칠흑같은 밤하늘 아래 </perfor_1>
+            <perfor_1>  불타는 어둠의 존재  </perfor_1>
+            <perfor_2>  (한가로워 보인다)  </perfor_2>
+            <perfor_2>  그루우움......  </perfor_2>
+        </noting>
+        <full>
+            <feeding>   (표정이 좋지 않다) </feeding>
+            <dead>      하..찮...은 존재.      </dead>
+            <stand>     존재..라는건... 무엇인가....     </stand>
+            <stand>     경배....하라..찬양....하라...   </stand>
+            <stand>     (귀찮아 하고 있다) </stand>
+            <stand>     그대의..존재..의미는..    </stand>
+            <levelup>   (힐끗 쳐다본다)   </levelup>
+            <perfor_1>  칠흑같은 밤하늘 아래 </perfor_1>
+            <perfor_1>  불타는 어둠의 존재  </perfor_1>
+            <perfor_2>  (한가로워 보인다)  </perfor_2>
+            <perfor_2>  그루우움......  </perfor_2>
+        </full>
+        <so_full>
+            <feeding>   (표정이 좋지 않다) </feeding>
+            <dead>      하..찮...은 존재.      </dead>
+            <stand>     존재..라는건... 무엇인가....     </stand>
+            <stand>     경배....하라..찬양....하라...   </stand>
+            <stand>     (귀찮아 하고 있다) </stand>
+            <stand>     그대의..존재..의미는..    </stand>
+            <stand>     Nothing..   </stand>
+            <levelup>   (힐끗 쳐다본다)   </levelup>
+            <perfor_1>  칠흑같은 밤하늘 아래 </perfor_1>
+            <perfor_1>  불타는 어둠의 존재  </perfor_1>
+            <perfor_2>  (한가로워 보인다)  </perfor_2>
+            <perfor_2>  그루우움......  </perfor_2>
+        </so_full>
+    </gloomundernight2>
 </monster_talk_table>
