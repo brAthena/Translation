@@ -5447,3 +5447,22 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF4] = {
 		{ "주는 데미지 증가" }
 	}
 }
+StateIconList[EFST_IDs.EFST_MISTY_FROST] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{"서리 상태", COLOR_TITLE_DEBUFF},
+		{"%s", COLOR_TIME}
+	}
+}
+StateIconList[EFST_IDs.EFST_MAGIC_POISON] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{"마력 중독", COLOR_TITLE_DEBUFF},
+		{"%s", COLOR_TIME},
+		{
+			"모든 속성 공격에 대한 내성 50% 감소"
+		}
+	}
+}

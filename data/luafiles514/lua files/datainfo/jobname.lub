@@ -4034,5 +4034,7 @@ JobNameTable = {
 	[jobtbl.JT_MD_MANHOLE4] = "invisible",
 	[jobtbl.JT_MD_C_WHITEKNIGHT_G] = "c_whiteknight",
 	[jobtbl.JT_MD_C_KHALITZBURG_G] = "c_khalitzburg",
-	[jobtbl.JT_MD_C_RAY_ARCHER_G] = "c_raydric_archer"
+	[jobtbl.JT_MD_C_RAY_ARCHER_G] = "c_raydric_archer",
+	[jobtbl.JT_SWING_TALE] = "MD_SEAWEED",
+	[jobtbl.JT_PAPARE] = "PAPARE"
 }
