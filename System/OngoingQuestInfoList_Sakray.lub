@@ -6345,7 +6345,9 @@ QuestInfoList = {
 	[3346] = {
 		Title = "유월의 맛있는 팝콘",
 		IconName = "ico_ev.bmp",
-		Description = { "팝콘 마스터의 팝콘은 미드가르드 제일이다." },
+		Description = {
+			"팝콘 마스터의 팝콘은 미드가르드 제일이다."
+		},
 		Summary = ""
 	},
 	[3347] = {
@@ -41750,6 +41752,214 @@ QuestInfoList = {
 			"가져다 주신 성수로 마력의 눈꽃을 키울 수 있어요. 새벽이 지난 후에 다시 찾아주세요. - <NAVI>[유진]<INFO>aldebaran,108,166,0,101,0</INFO></NAVI>"
 		},
 		Summary = "초기화 시간 04시"
+	},
+	[17307] = {
+		Title = "냐일굴의 수문장",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[축제 위원장님]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>을 찾아가셔서 냐일굴로 어서 떠나 보세요!"
+		},
+		Summary = "축제 위원장에게"
+	},
+	[17308] = {
+		Title = "축제의 시작",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"맛있는 국수를 만들기 위한 재료인 가늘고 긴 국수, 나비 국수, 매끈한 국수와 돼지 감자를 1개씩 가지고 오십시오. - <NAVI>[축제 위원장님]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "돼지 감자, 국수 재료"
+	},
+	[17309] = {
+		Title = "국수 말이",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"국수 축제에 오셨으면 국수를 맛보셔야지요. <NAVI>[국수 장인 오르초]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>를 찾아 가시면 최고의 국수를 맛보실 수 있습니다."
+		},
+		Summary = "국수 장인 오르초"
+	},
+	[17310] = {
+		Title = "수박 디저트",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"뜨거운 여름 시원하고 달콤한 디저트가 생각나시지요? <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>를 찾아가시면 수박 푸딩을 얻을 수 있는 이벤트를 안내해 줄겁니다."
+		},
+		Summary = "진행요원 라미"
+	},
+	[17311] = {
+		Title = "불량 국수 사냥",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"불량 국수에 대해 들어 보신적 있으십니까? <NAVI>[진행 요원 도미]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>를 찾아가서 불량 국수 사냥에 대해 안내 받으십시오."
+		},
+		Summary = "진행요원 도미"
+	},
+	[17312] = {
+		Title = "별미 국수",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"라자냐의 또 다른 국수에 관심이 있으시다면 <NAVI>[니케]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>씨를 추천드릴게요. 분명 실망하지 않으실 거예요."
+		},
+		Summary = "국수 전문가 니케"
+	},
+	[17313] = {
+		Title = "국수의 재료들",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"<NAVI>[저에게]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>에게 작은 소용돌이에서 가늘고 긴 국수 5개와 멋쟁이 별에서 나비 국수 5개, 흔들 꼬리에서 매끈한 국수 5개, 돼지 감자 3개를 가지고 오십시오."
+		},
+		Summary = "돼지 감자, 국수 재료"
+	},
+	[17314] = {
+		Title = "대기: 오늘의 국수",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"오늘의 이벤트는 준비중이에요. 새벽 시간이 지나고 저 <NAVI>[국수 장인 오르초]<INFO>lasagna,289,285,0,101,0,</INFO></NAVI>를 다시 찾아 오시면 됩니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[17315] = {
+		Title = "수박향 부채",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"수박밭에 묻어 놓은 잘 익은 수박을 깨고 홍보용 부채를 찾으세요! 10개를 모아서 저 <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>에게 가지고 오시면 됩니다."
+		},
+		Summary = "홍보용 부채 10개"
+	},
+	[17316] = {
+		Title = "대기: 수박향 부채",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"오늘의 이벤트는 끝이 났답니다. 새벽 시간이 지나고 <NAVI>[진행 요원 라미]<INFO>lasagna,101,120,0,101,0,</INFO></NAVI>를 찾아 오시면 다시 참여하실 수 있어요."
+		},
+		Summary = "04시 초기화"
+	},
+	[17317] = {
+		Title = "불량 국수 사냥",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"불량 국수를 10마리 잡고 질긴 국수 가죽 10개를 가지고 <NAVI>[저에게]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>오세요."
+		},
+		Summary = "질긴 국수 가죽 10개"
+	},
+	[17318] = {
+		Title = "대기: 불량 국수 사냥",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"힘이 센 불량 국수를 잡으시느라 힘을 많이 쓰셨을 텐데 오늘은 이만 쉬시고 새벽 시간이 지난 후 다시 축제를 즐겨 주십시오! - <NAVI>[진행 요원 도미]<INFO>lasagna,90,202,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17319] = {
+		Title = "똑같은 친구에게 방법을",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"저 옆에 사는 <NAVI>[친구]<INFO>lasagna,150,98,0,101,0,</INFO></NAVI>한테서 냐일굴에 어떻게 가는지 한 번 알아 봐주시면 안될까요?"
+		},
+		Summary = "치폴에게"
+	},
+	[17320] = {
+		Title = "전문가에게 조언을",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"나한테 이렇게 물어 볼 것이 아니라, 물을 두려워하지 않는 <NAVI>[어부]<INFO>lasagna,213,254,0,101,0,</INFO></NAVI>에게 물어 보면 어떨까?"
+		},
+		Summary = "어부에게"
+	},
+	[17321] = {
+		Title = "별 다른 방법이 없다",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"어부도 특별한 방법이 없다고 한다. <NAVI>[니케]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>씨에게 돌아가 이야기 해보자."
+		},
+		Summary = "니케에게"
+	},
+	[17322] = {
+		Title = "지금이라면!",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"지금이라면 갈 수 있을 것 같아요! 어서 가요! <NAVI>[냐일굴]<INFO>lasagna,81,201,0,101,0,</INFO></NAVI>로!!"
+		},
+		Summary = "냐일굴로"
+	},
+	[17323] = {
+		Title = "역시 안되겠어요",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"생선의 꼬리, 먹물, 매끈한 국수, 돼지 감자를 1개씩 부탁드릴게요! - <NAVI>[니케]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "국수의 재료"
+	},
+	[17324] = {
+		Title = "부디 이것을 전해주십시오",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"모험가님, 이걸 부디 <NAVI>[동생]<INFO>lasagna,83,189,0,101,0,</INFO></NAVI>에게 전해주세요."
+		},
+		Summary = "포에게"
+	},
+	[17325] = {
+		Title = "그것이 누구의 손맛이든",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"다 먹었으니까 이제 <NAVI>[오빠]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>에게 가서 이야기를 해 봐요."
+		},
+		Summary = "니케에게"
+	},
+	[17326] = {
+		Title = "별미 국수의 재료",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"늘 감사해요. 그럼 생선의 꼬리 1개, 먹물, 돼지 감자, 매끈한 국수는 5개씩 부탁드려요. - <NAVI>[니케]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "돼지 감자, 각종 재료"
+	},
+	[17327] = {
+		Title = "대기: 별미 국수",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"이벤트에 참가한지 얼마 안됐잖아요? 1일 1회가 원칙이라 지금 와도 할 수 없으니까 좀 쉬다가 다시 와요. 알았죠? - <NAVI>[니케]<INFO>lasagna,227,110,0,101,0,</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17328] = {
+		Title = "쿠폰: 국수 이벤트 완료",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"오늘의 국수는 어떠셨습니까? 이벤트를 모두 완료하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 쾅쾅쾅!"
+		},
+		Summary = "국수 장인 오르초 확인"
+	},
+	[17329] = {
+		Title = "쿠폰: 수박 디저트 완료",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"수박 깨기 이벤트는 완료하셨어요. 이벤트 4개를 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 쾅쾅쾅!!"
+		},
+		Summary = "진행 요원 라미 확인"
+	},
+	[17330] = {
+		Title = "쿠폰: 불량 국수 완료",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"불량 국수를 모두 잡으셨습니다. 이벤트 4개를 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>lasagna,83,206,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 찍으세요."
+		},
+		Summary = "진행 요원 도미 확인"
+	},
+	[17331] = {
+		Title = "쿠폰: 별미 국수 완료",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"별미 국수 체험을 하셨습니다. 이벤트 4개를 모두 완료 하셨으면 <NAVI>[쿠폰 접수]<INFO>malangdo,141,155,0,101,0,</INFO></NAVI>원에게 가서 쿠폰에 도장을 찍으세요."
+		},
+		Summary = "국수 전문가 니케 확인"
+	},
+	[17332] = {
+		Title = "쿠폰: 모자 교환",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"모자를 드렸습니다. 행복한 축제 즐기세요!"
+		},
+		Summary = "모자 교환 확인"
 	},
 	[21001] = {
 		Title = "Escape the Wreck",
