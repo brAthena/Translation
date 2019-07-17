@@ -2395,7 +2395,7 @@ mapTbl = {
 		signName = {
 			mainTitle = "Å¸³ªÅä½º Å¸¿ö ¾Õ"
 		},
-		backgroundBmp = "field_2"
+		backgroundBmp = "field_s2"
 	},
 	["hu_fild02.rsw"] = {
 		displayName = "Hugel Field",
@@ -2419,7 +2419,7 @@ mapTbl = {
 		signName = {
 			mainTitle = "ÈÖ°Ö ÇÊµå"
 		},
-		backgroundBmp = "field_2"
+		backgroundBmp = "field_s2"
 	},
 	["hu_fild05.rsw"] = {
 		displayName = "The Abyss Lakes",
@@ -2427,7 +2427,7 @@ mapTbl = {
 		signName = {
 			mainTitle = "ÈÖ°Ö ¾îºñ½º È£¼ö"
 		},
-		backgroundBmp = "field_2"
+		backgroundBmp = "field_s2"
 	},
 	["hu_fild06.rsw"] = {
 		displayName = "Hugel Field",
@@ -6917,7 +6917,7 @@ mapTbl = {
 		signName = {
 			mainTitle = "¿¤¸Þ½º ÇÃ·¹Åõ"
 		},
-		backgroundBmp = "field_2"
+		backgroundBmp = "field_s2"
 	},
 	["yuno_fild07.rsw"] = {
 		displayName = "El Mes Gorge (Valley of Abyss)",
