@@ -1,7 +1,7 @@
 tbl_AgitInfo = {
 	["prtg_cas01.gat"] = {
 		Number = 1,
-		Name = "Å©¸²ÈúÆ®",
+		Name = "Creamhilt",
 		Warp = {
 			TargetPosX = 107,
 			TargetPosY = 180,
@@ -15,7 +15,7 @@ tbl_AgitInfo = {
 	},
 	["prtg_cas02.gat"] = {
 		Number = 2,
-		Name = "½º¹ÝÈúÆ®",
+		Name = "Sbanhealt",
 		Warp = {
 			TargetPosX = 94,
 			TargetPosY = 56,
@@ -29,7 +29,7 @@ tbl_AgitInfo = {
 	},
 	["prtg_cas03.gat"] = {
 		Number = 3,
-		Name = "¶óÁî¸®±×½º",
+		Name = "Lazrigees",
 		Warp = {
 			TargetPosX = 46,
 			TargetPosY = 97,
@@ -43,7 +43,7 @@ tbl_AgitInfo = {
 	},
 	["prtg_cas04.gat"] = {
 		Number = 4,
-		Name = "½ºÄê±¼",
+		Name = "Squagul",
 		Warp = {
 			TargetPosX = 260,
 			TargetPosY = 262,
@@ -57,7 +57,7 @@ tbl_AgitInfo = {
 	},
 	["prtg_cas05.gat"] = {
 		Number = 5,
-		Name = "±­µé",
+		Name = "Guindull",
 		Warp = {
 			TargetPosX = 26,
 			TargetPosY = 38,
@@ -71,7 +71,7 @@ tbl_AgitInfo = {
 	},
 	["aldeg_cas01.gat"] = {
 		Number = 6,
-		Name = "³ëÀÌ½´¹Ý½ºÅ¸ÀÎ",
+		Name = "Noisyubantian",
 		Warp = {
 			TargetPosX = 212,
 			TargetPosY = 175,
@@ -85,7 +85,7 @@ tbl_AgitInfo = {
 	},
 	["aldeg_cas02.gat"] = {
 		Number = 7,
-		Name = "È£Çî½´¹Ý°¡¿ì",
+		Name = "Hohensyubangawoo",
 		Warp = {
 			TargetPosX = 82,
 			TargetPosY = 71,
@@ -99,7 +99,7 @@ tbl_AgitInfo = {
 	},
 	["aldeg_cas03.gat"] = {
 		Number = 8,
-		Name = "´µ·»º£¸£Å©",
+		Name = "Nyirenverk",
 		Warp = {
 			TargetPosX = 109,
 			TargetPosY = 112,
@@ -113,7 +113,7 @@ tbl_AgitInfo = {
 	},
 	["aldeg_cas04.gat"] = {
 		Number = 9,
-		Name = "ºß¸£Ã÷ºÎ¸£Å©",
+		Name = "Byirtsburi",
 		Warp = {
 			TargetPosX = 60,
 			TargetPosY = 116,
@@ -127,7 +127,7 @@ tbl_AgitInfo = {
 	},
 	["aldeg_cas05.gat"] = {
 		Number = 10,
-		Name = "·ÎÅÙºÎ¸£Å©",
+		Name = "Rotenburk",
 		Warp = {
 			TargetPosX = 61,
 			TargetPosY = 185,
@@ -141,7 +141,7 @@ tbl_AgitInfo = {
 	},
 	["gefg_cas01.gat"] = {
 		Number = 11,
-		Name = "·¹ÇÁ¸®¿Â",
+		Name = "Reprion",
 		Warp = {
 			TargetPosX = 40,
 			TargetPosY = 43,
@@ -155,7 +155,7 @@ tbl_AgitInfo = {
 	},
 	["gefg_cas02.gat"] = {
 		Number = 12,
-		Name = "¿çºê¸®°Å",
+		Name = "Yolbriger",
 		Warp = {
 			TargetPosX = 22,
 			TargetPosY = 66,
@@ -169,7 +169,7 @@ tbl_AgitInfo = {
 	},
 	["gefg_cas03.gat"] = {
 		Number = 13,
-		Name = "ÀÌ½º³ÚÇÁ",
+		Name = "Isinlife",
 		Warp = {
 			TargetPosX = 112,
 			TargetPosY = 23,
@@ -183,7 +183,7 @@ tbl_AgitInfo = {
 	},
 	["gefg_cas04.gat"] = {
 		Number = 14,
-		Name = "º£¸£°Ö",
+		Name = "Berigel",
 		Warp = {
 			TargetPosX = 58,
 			TargetPosY = 46,
@@ -197,7 +197,7 @@ tbl_AgitInfo = {
 	},
 	["gefg_cas05.gat"] = {
 		Number = 15,
-		Name = "¸á¼¼½ºµ¥Ã÷",
+		Name = "Melsedetsu",
 		Warp = {
 			TargetPosX = 66,
 			TargetPosY = 48,
@@ -211,7 +211,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas01.gat"] = {
 		Number = 16,
-		Name = "¸íÁ¤",
+		Name = "Mingting",
 		Warp = {
 			TargetPosX = 115,
 			TargetPosY = 57,
@@ -225,7 +225,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas02.gat"] = {
 		Number = 17,
-		Name = "Ãµ´Ü",
+		Name = "Tiantan",
 		Warp = {
 			TargetPosX = 26,
 			TargetPosY = 265,
@@ -239,7 +239,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas03.gat"] = {
 		Number = 18,
-		Name = "ºÒ¿µ",
+		Name = "Fuying",
 		Warp = {
 			TargetPosX = 43,
 			TargetPosY = 264,
@@ -253,7 +253,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas04.gat"] = {
 		Number = 19,
-		Name = "È«·ç",
+		Name = "Honglou",
 		Warp = {
 			TargetPosX = 36,
 			TargetPosY = 272,
@@ -267,7 +267,7 @@ tbl_AgitInfo = {
 	},
 	["payg_cas05.gat"] = {
 		Number = 20,
-		Name = "Á×¸²Çö",
+		Name = "Zhulinxian",
 		Warp = {
 			TargetPosX = 274,
 			TargetPosY = 246,
@@ -281,7 +281,7 @@ tbl_AgitInfo = {
 	},
 	["arug_cas01.gat"] = {
 		Number = 21,
-		Name = "¸¶¸£µ¹",
+		Name = "Mardol",
 		Warp = {
 			TargetPosX = 77,
 			TargetPosY = 371,
@@ -295,7 +295,7 @@ tbl_AgitInfo = {
 	},
 	["arug_cas02.gat"] = {
 		Number = 22,
-		Name = "½Ã¸£",
+		Name = "Cyr",
 		Warp = {
 			TargetPosX = 301,
 			TargetPosY = 332,
@@ -309,7 +309,7 @@ tbl_AgitInfo = {
 	},
 	["arug_cas03.gat"] = {
 		Number = 23,
-		Name = "È£¸¥",
+		Name = "Horn",
 		Warp = {
 			TargetPosX = 322,
 			TargetPosY = 91,
@@ -323,7 +323,7 @@ tbl_AgitInfo = {
 	},
 	["arug_cas04.gat"] = {
 		Number = 24,
-		Name = "°ÔÇÂ",
+		Name = "Gefn",
 		Warp = {
 			TargetPosX = 322,
 			TargetPosY = 91,
@@ -337,7 +337,7 @@ tbl_AgitInfo = {
 	},
 	["arug_cas05.gat"] = {
 		Number = 25,
-		Name = "¹Ù³ªµð½º",
+		Name = "Bandis",
 		Warp = {
 			TargetPosX = 322,
 			TargetPosY = 91,
@@ -351,7 +351,7 @@ tbl_AgitInfo = {
 	},
 	["schg_cas01.gat"] = {
 		Number = 26,
-		Name = "È÷¹Î",
+		Name = "Himinn",
 		Warp = {
 			TargetPosX = 233,
 			TargetPosY = 300,
@@ -365,7 +365,7 @@ tbl_AgitInfo = {
 	},
 	["schg_cas02.gat"] = {
 		Number = 27,
-		Name = "¾Èµé¶û±×",
+		Name = "Andlangr",
 		Warp = {
 			TargetPosX = 101,
 			TargetPosY = 372,
@@ -379,7 +379,7 @@ tbl_AgitInfo = {
 	},
 	["schg_cas03.gat"] = {
 		Number = 28,
-		Name = "ºñµåºí¶óÀÎ",
+		Name = "Viblainn",
 		Warp = {
 			TargetPosX = 81,
 			TargetPosY = 94,
@@ -393,7 +393,7 @@ tbl_AgitInfo = {
 	},
 	["schg_cas04.gat"] = {
 		Number = 29,
-		Name = "Èê·áµå",
+		Name = "Hljod",
 		Warp = {
 			TargetPosX = 233,
 			TargetPosY = 300,
@@ -407,7 +407,7 @@ tbl_AgitInfo = {
 	},
 	["schg_cas05.gat"] = {
 		Number = 30,
-		Name = "½ºÄ«Æ¼¸£´Ò",
+		Name = "Skidbladnir",
 		Warp = {
 			TargetPosX = 233,
 			TargetPosY = 300,
