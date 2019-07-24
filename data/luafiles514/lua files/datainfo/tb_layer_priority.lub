@@ -3,6 +3,10 @@ TB_Layer_Priority = {
 	Default_Top = 200,
 	Default_Bottom = 300,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_Pigtail_Red_Hood] = {
+			Default = 143,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_C_Electro_Two_Side_Up] = {
 			Default = 143,
 			Direction = {}

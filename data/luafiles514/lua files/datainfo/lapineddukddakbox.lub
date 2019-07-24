@@ -7533,6 +7533,21 @@ tblLapineDdukddakBox = {
 					"오래된등껍질",
 					10,
 					25313
+				},
+				{
+					"Ein_SOLIDDUST",
+					10,
+					25815
+				},
+				{
+					"Ein_RUSTHELM",
+					10,
+					25816
+				},
+				{
+					"Ein_EYEROCK",
+					10,
+					25817
 				}
 			},
 			NeedSource_String = "수집품"
@@ -8994,6 +9009,26 @@ tblLapineDdukddakBox = {
 					"C_Peony_Hair_Ornament",
 					1,
 					31766
+				},
+				{
+					"C사랑의조각",
+					1,
+					20022
+				},
+				{
+					"C프리티베어",
+					1,
+					31027
+				},
+				{
+					"C_Pigtail_Red_Hood",
+					1,
+					31698
+				},
+				{
+					"C_SharkHead",
+					1,
+					440000
 				}
 			},
 			NeedSource_String = "냥다래 의상"

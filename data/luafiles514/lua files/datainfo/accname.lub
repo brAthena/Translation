@@ -1901,5 +1901,12 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Volume_Low_TwinK] = "_Volume_Low_Twin",
 	[ACCESSORY_IDs.ACCESSORY_C_SavageB_On_Shoulder] = "_C_SavageB_On_Shoulder",
 	[ACCESSORY_IDs.ACCESSORY_C_Piamette_Roll_Hair_SV] = "_C_Piamette_Roll_Hair_SV",
-	[ACCESSORY_IDs.ACCESSORY_Magic_Helm] = "_Magic_Helm"
+	[ACCESSORY_IDs.ACCESSORY_Magic_Helm] = "_Magic_Helm",
+	[ACCESSORY_IDs.ACCESSORY_BeachBall] = "_BeachBall",
+	[ACCESSORY_IDs.ACCESSORY_SharkHead] = "_SharkHead",
+	[ACCESSORY_IDs.ACCESSORY_C_Baryon_HeadPhone_TW] = "_C_Baryon_HeadPhone_TW",
+	[ACCESSORY_IDs.ACCESSORY_C_Shih_Tzu_Long] = "_C_Shih_Tzu_Long",
+	[ACCESSORY_IDs.ACCESSORY_C_Baby_Panda] = "_C_Baby_Panda",
+	[ACCESSORY_IDs.ACCESSORY_C_Pretty_Bear_WH] = "_C_Pretty_Bear_WH",
+	[ACCESSORY_IDs.ACCESSORY_C_Cons_Of_Wind] = "_C_Cons_Of_Wind"
 }

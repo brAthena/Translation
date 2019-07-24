@@ -14,12 +14,52 @@ SignBoardList = {
 		"#0x009EBDFF"
 	},
 	{
+		"malangdo",
+		124,
+		152,
+		0,
+		IT_SIGNBOARD,
+		"item\\suffragium.bmp",
+		"  기간한정 스톤교환",
+		"#0x00FFFFFF"
+	},
+	{
 		"prontera",
 		82,
 		108,
 		0,
 		IT_BMP,
 		"유저인터페이스\\information\\over_mkect.bmp"
+	},
+	{
+		"ein_dun02",
+		16,
+		250,
+		0,
+		IT_SIGNBOARD,
+		"item\\as_poisonreact.bmp",
+		"  180Lv미만 출입금지",
+		"#0x00FFFFFF"
+	},
+	{
+		"odin_tem03",
+		276,
+		236,
+		0,
+		IT_SIGNBOARD,
+		"item\\as_poisonreact.bmp",
+		"  180Lv미만 출입금지",
+		"#0x00FFFFFF"
+	},
+	{
+		"abyss_03",
+		91,
+		110,
+		0,
+		IT_SIGNBOARD,
+		"item\\as_poisonreact.bmp",
+		"  190Lv미만 출입금지",
+		"#0x00FFFFFF"
 	},
 	{
 		"moc_para01",

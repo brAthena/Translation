@@ -8330,6 +8330,218 @@ tblLapineUpgradeBox = {
 				}
 			},
 			NeedSource_String = "그레이스 갑옷"
+		},
+		Ein_Ddbox = {
+			ItemID = 9514,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Ein_BHSWORD",
+					21054
+				},
+				{
+					"Ein_BHSTAFF",
+					2058
+				},
+				{
+					"Ein_BHHuuma",
+					13346
+				},
+				{
+					"Ein_BHKATAR",
+					28045
+				},
+				{"Ein_BHAXE", 28140},
+				{"Ein_BHBOW", 18190},
+				{
+					"Ein_1HKNUCK",
+					1867
+				},
+				{
+					"Ein_1HHAMMER",
+					16099
+				},
+				{"Ein_1HWAND", 26162},
+				{"Ein_1HWHIP", 26215},
+				{"Ein_1HBOOK", 28635},
+				{
+					"Ein_1HDAGGER",
+					28771
+				},
+				{
+					"Ein_1HMAGGER",
+					28772
+				},
+				{
+					"Ein_1HSPEAR",
+					32026
+				},
+				{"Ein_1HLUTE", 32110},
+				{
+					"Ein_1HSWORD",
+					32352
+				},
+				{"Ein_1HGUN", 32303},
+				{
+					"Ein_1H_Foxtail",
+					550006
+				}
+			},
+			NeedSource_String = "물리 개조 시스템"
+		},
+		Ein_Ddbox2 = {
+			ItemID = 9529,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Ein_BHSWORD",
+					21054
+				},
+				{
+					"Ein_BHSTAFF",
+					2058
+				},
+				{
+					"Ein_BHHuuma",
+					13346
+				},
+				{
+					"Ein_BHKATAR",
+					28045
+				},
+				{"Ein_BHAXE", 28140},
+				{"Ein_BHBOW", 18190},
+				{
+					"Ein_1HKNUCK",
+					1867
+				},
+				{
+					"Ein_1HHAMMER",
+					16099
+				},
+				{"Ein_1HWAND", 26162},
+				{"Ein_1HWHIP", 26215},
+				{"Ein_1HBOOK", 28635},
+				{
+					"Ein_1HDAGGER",
+					28771
+				},
+				{
+					"Ein_1HMAGGER",
+					28772
+				},
+				{
+					"Ein_1HSPEAR",
+					32026
+				},
+				{"Ein_1HLUTE", 32110},
+				{
+					"Ein_1HSWORD",
+					32352
+				},
+				{"Ein_1HGUN", 32303},
+				{
+					"Ein_1H_Foxtail",
+					550006
+				}
+			},
+			NeedSource_String = "마법 개조 시스템"
+		},
+		Abyss_Ddbox = {
+			ItemID = 23981,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"DragonA_Red",
+					15391
+				},
+				{
+					"DragonA_Green",
+					15392
+				},
+				{
+					"DragonA_Gold",
+					15393
+				},
+				{
+					"DragonA_Purple",
+					15394
+				},
+				{
+					"DragonA_Blue",
+					15395
+				},
+				{
+					"DragonA_Silver",
+					15396
+				}
+			},
+			NeedSource_String = "휘몰아 치는 용의 기운"
+		},
+		Abyss_Ddbox2 = {
+			ItemID = 100142,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"DragonA_Red",
+					15391
+				},
+				{
+					"DragonA_Green",
+					15392
+				},
+				{
+					"DragonA_Gold",
+					15393
+				},
+				{
+					"DragonA_Purple",
+					15394
+				},
+				{
+					"DragonA_Blue",
+					15395
+				},
+				{
+					"DragonA_Silver",
+					15396
+				}
+			},
+			NeedSource_String = "강력한 용의 기운"
+		},
+		Abyss_Ddbox3 = {
+			ItemID = 100144,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Drag_Manteau",
+					20946
+				}
+			},
+			NeedSource_String = "불타는 용의 기운"
+		},
+		Abyss_Ddbox4 = {
+			ItemID = 100145,
+			NeedRefineMin = 0,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{
+					"Dragon_Boots",
+					22208
+				}
+			},
+			NeedSource_String = "뜨거운 용의 기운"
 		}
 	},
 	serverMain = function()
