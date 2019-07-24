@@ -37430,11 +37430,11 @@ QuestInfoList = {
 		Summary = "초기화 시간 04시"
 	},
 	[14651] = {
-		Title = "이혼 결정은 신중하게",
+		Title = "Decision on divorce should be made cautiously",
 		Description = {
-			"4일간의 숙려 기간동안 배우자분과 조정할 것이 있으면 하시고 대화도 좀 나눠 보세요. 그런 뒤에 와서 이혼 절차를 마무리 하셔도 되고 이혼 신청을 철회 하셔도 됩니다. - 프론테라 동사무소 : 이혼 담당자 노튼"
+			"You have 4 days before the divorce process go through. Please make sure that you have enough talk with your spouse during this period. You can always withdraw your divorce application during the processing period or you can just complete the divorce process. - Prontera office: Divorce officer Norton"
 		},
-		Summary = "4일 후에 뵙겠습니다"
+		Summary = "I will see you in 4 days"
 	},
 	[14652] = {
 		Title = "Detailed Account 01",
@@ -38986,74 +38986,74 @@ QuestInfoList = {
 		Summary = "전직메일알림용"
 	},
 	[15110] = {
-		Title = "얼음은 불로!",
+		Title = "Fighting Ice with Fire",
 		Description = {
-			"얼음동굴에 얼어붙은 제이스와 브리드를 불로 녹이기 위해 마른 나뭇가지를 구해야 한다."
+			"Collect Dry Twigs to thaw out Zeith and Vrid in the Ice Cave."
 		},
-		Summary = "마른 나뭇가지 10개 모으기"
+		Summary = "Collect 10 Dry Twigs."
 	},
 	[15111] = {
-		Title = "분노한 아이스 티탄 잡기",
+		Title = "Hunt Furious Ice Titans",
 		Description = {
-			"얼음은 얼음으로 깨자는 브리드의 황당한 의견에 따라 분노한 아이스 티탄 10마리를 사냥하자."
+			"Vrid wants to break the ice with ice. Hunt 10 Furious Ice Titans."
 		},
-		Summary = "분노한 아이스 티탄 10마리 사냥"
+		Summary = "Hunt 10 Furious Ice Titans."
 	},
 	[15112] = {
-		Title = "문답무용!",
+		Title = "Direct Approach",
 		Description = {
-			"이것저것 다 필요없이 때려서 깨기로 결정! 제이스가 갇힌 얼음을 열심히 두들겨 패자."
+			"Let's just break the ice by hitting it. Hit the ice around Zeith first."
 		},
-		Summary = "제이스를 때려서 얼음깨기"
+		Summary = "Hit Zeith to break the ice around him."
 	},
 	[15113] = {
-		Title = "문답무용!",
+		Title = "Direct Approach",
 		Description = {
-			"이것저것 다 필요없이 때려서 깨기로 결정! 브리드가 갇힌 얼음을 열심히 두들겨 패자."
+			"Let's just break the ice by hitting it. Hit the ice around Vrid first."
 		},
-		Summary = "브리드를 때려서 얼음깨기"
+		Summary = "Hit Vrid to break the ice around him."
 	},
 	[15114] = {
-		Title = "이상한 도마뱀 잡기",
+		Title = "Catch a Strange Lizard",
 		Description = {
-			"두 사람을 얼게 만든 이상한 도마뱀에게 복수를 결심한다. 동굴 중앙에 있는 크툴라낙스를 쓰러뜨리자."
+			"Vrid and Zeith want to get revenge on the strange lizard that froze them. Eliminate Ktullanux in the center of the cave."
 		},
-		Summary = "깨어난 크툴라낙스 처치"
+		Summary = "Eliminate Awakened Ktullanux."
 	},
 	[15115] = {
-		Title = "브리드와 제이스",
+		Title = "Vrid and Zeith",
 		Description = {
-			"이 퀘스트는 오전 4시 이후에 다시 받을 수 있습니다."
+			"You can re-receive this quest after 4:00 a.m."
 		},
-		Summary = "초기화 시간 4시"
+		Summary = "Quest resets at 4:00 a.m."
 	},
 	[15116] = {
-		Title = "일루전 오브 프로즌 클리어",
+		Title = "Clear the Illusion of the Frozen",
 		Description = {
 			""
 		},
 		Summary = ""
 	},
 	[15117] = {
-		Title = "분노한 게에즈티 잡기",
+		Title = "Hunt Furious Gazetis",
 		Description = {
-			"얼음은 얼음으로 깨자는 브리드의 황당한 의견에 따라 분노한 게에즈티 10마리를 사냥하자."
+			"Vrid wants to break the ice with ice. Hunt 10 Furious Gazetis."
 		},
-		Summary = "분노한 게에즈티 10마리 사냥"
+		Summary = "Hunt 10 Furious Gazetis."
 	},
 	[15118] = {
-		Title = "분노한 스노이어 잡기",
+		Title = "Hunt Furious Snowiers",
 		Description = {
-			"얼음은 얼음으로 깨자는 브리드의 황당한 의견에 따라 분노한 스노이어 10마리를 사냥하자."
+			"Vrid wants to break the ice with ice. Hunt 10 Furious Snowiers."
 		},
-		Summary = "분노한 스노이어 10마리 사냥"
+		Summary = "Hunt 10 Furious Snowiers."
 	},
 	[15119] = {
-		Title = "단단한 고드름 잡기",
+		Title = "Hunt Hard Icicles",
 		Description = {
-			"얼음은 얼음으로 깨자는 브리드의 황당한 의견에 따라 단단한 고드름 10마리를 사냥하자."
+			"Vrid wants to break the ice with ice. Hunt 10 Hard Icicles."
 		},
-		Summary = "단단한 고드름 10마리 사냥"
+		Summary = "Hunt 10 Hard Icicles."
 	},
 	[15125] = {
 		Title = "카카오콩이 필요해",
