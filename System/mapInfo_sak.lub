@@ -698,6 +698,15 @@ mapTbl = {
 		},
 		backgroundBmp = "dungeon"
 	},
+	["abyss_04.rsw"] = {
+		displayName = "Abyss Lakes Underground Cave F4",
+		notifyEnter = true,
+		signName = {
+			subTitle = "ÈÖ°Ö ¾îºñ½º È£¼ö",
+			mainTitle = "¾îºñ½º ÁöÇÏ µ¿±¼ 4Ãþ"
+		},
+		backgroundBmp = "dungeon"
+	},
 	["airplane.rsw"] = {
 		displayName = "Airship",
 		notifyEnter = true,
@@ -1606,6 +1615,14 @@ mapTbl = {
 		notifyEnter = true,
 		signName = {
 			mainTitle = "¾ÆÀÎº£Èå ±¤»ê 2Ãþ"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ein_dun03.rsw"] = {
+		displayName = "Mine Dungeon F3",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "¾ÆÀÎº£Èå ±¤»ê 3Ãþ"
 		},
 		backgroundBmp = "dungeon_s2"
 	},
@@ -4188,6 +4205,14 @@ mapTbl = {
 			mainTitle = "³­ÆøÀÚÀÇ »óÃ³ 2Ãþ"
 		},
 		backgroundBmp = "dungeon_s2"
+	},
+	["odin_past.rsw"] = {
+		displayName = "Ancient Shirine of Odin",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "°í´ë ¿Àµò ½ÅÀü"
+		},
+		backgroundBmp = "field2_s2"
 	},
 	["odin_tem01.rsw"] = {
 		displayName = "Odin Shirine F1",
