@@ -5029,3 +5029,8 @@
 100136	1	1	1	1	0	1	1	1	//Imperial_Convert4
 100137	1	1	1	1	0	1	1	1	//Grace_Convert3
 100138	1	1	1	1	0	1	1	1	//Grace_Convert4
+9514	1	1	1	1	0	1	1	1	//Ein_Ddbox
+9529	1	1	1	1	0	1	1	1	//Ein_Ddbox2
+23985	1	1	1	1	0	1	1	1	//Abyss_itembox
+23986	1	1	1	1	0	1	1	1	//Odin_itembox
+100142	1	1	1	1	0	1	1	1	//Abyss_Ddbox2
