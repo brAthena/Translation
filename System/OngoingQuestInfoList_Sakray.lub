@@ -19022,6 +19022,270 @@ QuestInfoList = {
 		},
 		Summary = "04시 초기화"
 	},
+	[7879] = {
+		Title = "새로운 독가스 연구",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"아인베흐 광산 근처의 <NAVI>[수습연구원 샐리]<INFO>einbech,143,244,0,101,0</INFO></NAVI>는, 아인베흐 광산 던전 3층에 등장하는 포이즈너스와 톡시어스를 연구한다며 적당히 사냥해 달라고 부탁했다."
+		},
+		Summary = "포이즈너스, 톡시어스 사냥",
+		NpcSpr = "4_F_LGTGIRL",
+		NpcNavi = "einbech",
+		NpcPosX = 143,
+		NpcPosY = 244
+	},
+	[7880] = {
+		Title = "새로운 독가스 연구-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"대기시간 만료 후 아인베흐 광산 근처의 <NAVI>[수습연구원 샐리]<INFO>einbech,143,244,0,101,0</INFO></NAVI>에게서 '새로운 독가스 연구' 퀘스트를 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "4_F_LGTGIRL",
+		NpcNavi = "einbech",
+		NpcPosX = 143,
+		NpcPosY = 244
+	},
+	[7881] = {
+		Title = "특이 미네랄 연구1",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"아인베흐 광산 근처의 <NAVI>[수습연구원 샐리]<INFO>einbech,143,244,0,101,0</INFO></NAVI>는, 아인베흐 광산 던전 3층에 등장하는 그린 미네랄과 레드 미네랄을 연구한다며 적당히 사냥해 달라고 부탁했다."
+		},
+		Summary = "그린 미네랄, 레드 미네랄 사냥",
+		NpcSpr = "4_F_LGTGIRL",
+		NpcNavi = "einbech",
+		NpcPosX = 143,
+		NpcPosY = 244
+	},
+	[7882] = {
+		Title = "특이 미네랄 연구1-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"대기시간 만료 후 아인베흐 광산 근처의 <NAVI>[수습연구원 샐리]<INFO>einbech,143,244,0,101,0</INFO></NAVI>에게서 '특이 미네랄 연구1' 퀘스트를 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "4_F_LGTGIRL",
+		NpcNavi = "einbech",
+		NpcPosX = 143,
+		NpcPosY = 244
+	},
+	[7883] = {
+		Title = "특이 미네랄 연구2",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"아인베흐 광산 근처의 <NAVI>[수습연구원 샐리]<INFO>einbech,143,244,0,101,0</INFO></NAVI>는, 아인베흐 광산 던전 3층에 등장하는 화이트 미네랄과 퍼플 미네랄을 연구한다며 적당히 사냥해 달라고 부탁했다."
+		},
+		Summary = "화이트 미네랄, 퍼플 미네랄 사냥",
+		NpcSpr = "4_F_LGTGIRL",
+		NpcNavi = "einbech",
+		NpcPosX = 143,
+		NpcPosY = 244
+	},
+	[7884] = {
+		Title = "특이 미네랄 연구2-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"대기시간 만료 후 아인베흐 광산 근처의 <NAVI>[수습연구원 샐리]<INFO>einbech,143,244,0,101,0</INFO></NAVI>에게서 '특이 미네랄 연구2' 퀘스트를 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "4_F_LGTGIRL",
+		NpcNavi = "einbech",
+		NpcPosX = 143,
+		NpcPosY = 244
+	},
+	[7885] = {
+		Title = "어비스맨 연구",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"아인베흐 광산 근처의 <NAVI>[수습연구원 샐리]<INFO>einbech,143,244,0,101,0</INFO></NAVI>는, 아인베흐 광산 던전 3층에 등장하는 어비스맨을 연구한다며 적당히 사냥해 달라고 부탁했다."
+		},
+		Summary = "어비스맨 사냥",
+		NpcSpr = "4_F_LGTGIRL",
+		NpcNavi = "einbech",
+		NpcPosX = 143,
+		NpcPosY = 244
+	},
+	[7886] = {
+		Title = "어비스맨 연구-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"대기시간 만료 후 아인베흐 광산 근처의 <NAVI>[수습연구원 샐리]<INFO>einbech,143,244,0,101,0</INFO></NAVI>에게서 '어비스맨 연구' 퀘스트를 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "4_F_LGTGIRL",
+		NpcNavi = "einbech",
+		NpcPosX = 143,
+		NpcPosY = 244
+	},
+	[7887] = {
+		Title = "광산벌레 연구",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"아인베흐 광산 근처의 <NAVI>[수습연구원 샐리]<INFO>einbech,143,244,0,101,0</INFO></NAVI>는, 아인베흐 광산 던전 3층에 등장하는 화이트 폴셀리오와 쥬얼리안트를 연구한다며 적당히 사냥해 달라고 부탁했다."
+		},
+		Summary = "화이트 폴셀리오, 쥬얼리안트 사냥",
+		NpcSpr = "4_F_LGTGIRL",
+		NpcNavi = "einbech",
+		NpcPosX = 143,
+		NpcPosY = 244
+	},
+	[7888] = {
+		Title = "광산벌레 연구-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"대기시간 만료 후 아인베흐 광산 근처의 <NAVI>[수습연구원 샐리]<INFO>einbech,143,244,0,101,0</INFO></NAVI>에게서 '광산벌레 연구' 퀘스트를 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "4_F_LGTGIRL",
+		NpcNavi = "einbech",
+		NpcPosX = 143,
+		NpcPosY = 244
+	},
+	[7889] = {
+		Title = "X세기 XX골트",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"오딘신전의 작은 나루터에서 신전을 연구하던 <NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> 에게서, 고대 오딘신전 조사를 위해 두 종류의 엔젤골트 사냥을 의뢰 받았다."
+		},
+		Summary = "두 종류의 엔젤골트 사냥",
+		NpcSpr = "4_M_SITDOWN",
+		NpcNavi = "odin_tem01",
+		NpcPosX = 108,
+		NpcPosY = 152
+	},
+	[7890] = {
+		Title = "X세기 XX골트-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"대기시간 만료 후 오딘신전의 나루터에서 대기 중인 <NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> 에게서 'X세기 XX골트' 퀘스트를 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "4_M_SITDOWN",
+		NpcNavi = "odin_tem01",
+		NpcPosX = 108,
+		NpcPosY = 152
+	},
+	[7891] = {
+		Title = "발키리란 무엇인가",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"오딘신전의 작은 나루터에서 신전을 연구하던 <NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> 에게서, 고대 오딘신전 조사를 위해 홀리 프루스와 홀리 스코글을 사냥 해 달라는 부탁을 받았다."
+		},
+		Summary = "홀리 프루스, 홀리 스코글 사냥",
+		NpcSpr = "4_M_SITDOWN",
+		NpcNavi = "odin_tem01",
+		NpcPosX = 108,
+		NpcPosY = 152
+	},
+	[7892] = {
+		Title = "발키리란 무엇인가-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"대기시간 만료 후 오딘신전의 나루터에서 대기 중인 <NAVI>[민속학자 시나몬]<INFO>odin_tem01,108,152,0,101,0</INFO></NAVI> 에게서 '발키리란 무엇인가' 퀘스트를 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "4_M_SITDOWN",
+		NpcNavi = "odin_tem01",
+		NpcPosX = 108,
+		NpcPosY = 152
+	},
+	[7893] = {
+		Title = "특이한 색의 페러스",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"휘겔 광장의 <NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI> 는 어비스 던전 4층에서 속성 변종으로 보이는 '퍼플 페러스'의 연구를 도와달라고 했다."
+		},
+		Summary = "퍼플 페러스 사냥",
+		NpcSpr = "4_F_HUWOMAN",
+		NpcNavi = "hugel",
+		NpcPosX = 102,
+		NpcPosY = 143
+	},
+	[7894] = {
+		Title = "특이한 색의 페러스-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"대기시간 만료 후 휘겔 광장에서 대기 중인 <NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI> 에게서 '퍼플 페러스 연구' 퀘스트를 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "4_F_HUWOMAN",
+		NpcNavi = "hugel",
+		NpcPosX = 102,
+		NpcPosY = 143
+	},
+	[7895] = {
+		Title = "신종 미믹 조사",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"휘겔 광장의 <NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI> 는 어비스 던전 4층에서 새로운 타입의 미믹인 트레져 미믹을 사냥하고 자료를 수집해 달라는 의뢰를 했다."
+		},
+		Summary = "트레져 미믹 사냥",
+		NpcSpr = "4_F_HUWOMAN",
+		NpcNavi = "hugel",
+		NpcPosX = 102,
+		NpcPosY = 143
+	},
+	[7896] = {
+		Title = "신종 미믹 조사-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"대기시간 만료 후 휘겔 광장에서 대기 중인 <NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI> 에게서 '신종 미믹 조사' 퀘스트를 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "4_F_HUWOMAN",
+		NpcNavi = "hugel",
+		NpcPosX = 102,
+		NpcPosY = 143
+	},
+	[7897] = {
+		Title = "어시더스 속성연구",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"휘겔 광장의 <NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI> 는 어비스 던전 4층에서 블랙 어시더스와 실버 어시더스의 연구를 도와 달라고 했다."
+		},
+		Summary = "블랙 어시더스, 실버 어시더스 사냥",
+		NpcSpr = "4_F_HUWOMAN",
+		NpcNavi = "hugel",
+		NpcPosX = 102,
+		NpcPosY = 143
+	},
+	[7898] = {
+		Title = "어시더스 속성연구-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"대기시간 만료 후 휘겔 광장에서 대기 중인 <NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI> 에게서 '어시더스 속성연구' 퀘스트를 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "4_F_HUWOMAN",
+		NpcNavi = "hugel",
+		NpcPosX = 102,
+		NpcPosY = 143
+	},
+	[7899] = {
+		Title = "섭리를 거스르는 일",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"휘겔 광장의 <NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI> 는 어비스 던전 4층에 등장하는 본 페러스와 본 어시더스를 자연의 품으로 돌려보내달라고 했다."
+		},
+		Summary = "본 페러스, 본 어시더스 처치",
+		NpcSpr = "4_F_HUWOMAN",
+		NpcNavi = "hugel",
+		NpcPosX = 102,
+		NpcPosY = 143
+	},
+	[7900] = {
+		Title = "섭리를 거스르는 일-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"대기시간 만료 후 휘겔 광장에서 대기 중인 <NAVI>[민속학자 마리골드]<INFO>hugel,102,148,0,101,0</INFO></NAVI> 에게서 '섭리를 거스르는 일' 퀘스트를 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "4_F_HUWOMAN",
+		NpcNavi = "hugel",
+		NpcPosX = 102,
+		NpcPosY = 143
+	},
 	[7996] = {
 		Title = "파르페를 기부했어!",
 		IconName = "ico_ev.bmp",
