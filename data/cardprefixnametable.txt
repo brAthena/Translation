@@ -990,24 +990,24 @@
 27388#Strong Recovery#
 
 //200레벨 확장 지역 카드
-300001#하이 인베넘#
-300002#방탄복의#
-300003#오브 와일드 독#
-300004#오브 아이언 월#
-300005#오브 하이 워커#
-300006#오브 사이킥#
-300007#솔리드 브레이크#
-300008#홀리 트윙클#
-300009#고스트 매지컬#
-300010#윈드 매지컬#
-300011#세인트 매지컬#
-300012#오브 세크리드#
-300013#레긴레이브#
-300014#잉그리드#
-300015#리메디 로우레벨#
-300016#오브 트레져#
-300017#하이 핼로우드#
-300018#하이 댐드#
-300019#드래곤슬레이어의#
-300020#밀렵꾼의#
-300021#드래곤킬러#
+300001#High Envenom#
+300002#Bulletproof Vest's#
+300003#of Wild Dog#
+300004#of Iron Wall#
+300005#of High Worker#
+300006#of Psychic#
+300007#Solid Break#
+300008#Holy Twinkle#
+300009#Ghost Magical#
+300010#Wind Magical#
+300011#Saint Magical#
+300012#of Sacred#
+300013#Reginleif#
+300014#Ingrid#
+300015#Remedy Low Level#
+300016#of Treasure#
+300017#High Hallowed#
+300018#High Damned#
+300019#Dragon Slayer's#
+300020#Poacher's#
+300021#Dragon Killer#
