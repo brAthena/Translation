@@ -10901,10 +10901,10 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^7777775600% Damage, stun lasts 5 seconds^000000"
 	},
 	[SKID.SJ_LIGHTOFMOON] = {
-		"Light of the Moon﻿",
+		"Light of the Moon",
 		"MAX Lv : 5",
 		"^777777Prerequisite skill : Full Moon Kick level 3^000000",
-		"Type : ^777777Sup﻿port^000000",
+		"Type : ^777777Support^000000",
 		"Description : ^777777Moon skill.^000000",
 		"^777777Attracts moonlight, increases the damage of Full Moon Kick.^000000",
 		"^777777This skill doesn't stacks with Light of the Sun and the Light of the Star.^000000",
@@ -10915,7 +10915,7 @@ SKILL_DESCRIPT = {
 		"[Level 5] : ^777777damage increases + 25% / last 60 seconds^000000"
 	},
 	[SKID.SJ_LUNARSTANCE] = {
-		"Lunar Stance﻿﻿﻿",
+		"Lunar Stance",
 		"MAX Lv : 3",
 		"^777777Prerequisite skill : Document of Sun, Moon and Star level 1^000000",
 		"Type : ^777777Secondary / Toggle^000000",
@@ -10928,7 +10928,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.SJ_FULLMOONKICK] = {
 		"Full Moon Kick",
-		"MAX Lv : 7",
+		"MAX Lv : 10",
 		"^777777Prerequisite skill : New Moon Kick level 7^000000",
 		"Type : ^777777Attack / Special^000000",
 		"Description : ^777777Moon skill.^000000",
@@ -10941,13 +10941,16 @@ SKILL_DESCRIPT = {
 		"[Level 4] : ^777777damage 1500% / Area of effect : 7 X 7^000000",
 		"[Level 5] : ^777777damage 1600% / Area of effect : 7 X 7^000000",
 		"[Level 6] : ^777777damage 1700% / Area of effect : 7 X 7^000000",
-		"[Level 7] : ^777777damage 1800% / Area of effect : 7 X 7^000000"
+		"[Level 7] : ^777777damage 1800% / Area of effect : 7 X 7^000000",
+		"[Level 8] : ^777777damage 1900% / Area of effect : 7 X 7^000000",
+		"[Level 9] : ^777777damage 2000% / Area of effect : 7 X 7^000000",
+		"[Level 10] : ^777777damage 2100% / Area of effect : 7 X 7^000000"
 	},
 	[SKID.SJ_LIGHTOFSTAR] = {
 		"Light of the Star",
 		"MAX Lv : 5",
 		"^777777Prerequisite skill : Falling Star level 3^000000",
-		"Type : ^777777Sup﻿port^000000",
+		"Type : ^777777Support^000000",
 		"Description : ^777777Star skill^000000",
 		"^777777Attracts starlight, increases the damage of Falling Star.^000000",
 		"^777777This skill doesn't stacks with Light of the Sun and the Light of the Moon.^000000",
@@ -11046,7 +11049,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.SJ_FALLINGSTAR] = {
 		"Falling Star",
-		"MAX Lv : 7",
+		"MAX Lv : 10",
 		"^777777Prerequisite skill : Flash Kick level 7^000000",
 		"Type : ^777777Buff / Special^000000",
 		"Description : ^777777Star skill^000000",
@@ -11059,7 +11062,10 @@ SKILL_DESCRIPT = {
 		"[Level 4] : ^777777damage 500% / Area of effect : 5 X 5^000000",
 		"[Level 5] : ^777777damage 600% / Area of effect : 5 X 5^000000",
 		"[Level 6] : ^777777damage 700% / Area of effect : 5 X 5^000000",
-		"[Level 7] : ^777777damage 800% / Area of effect : 5 X 5^000000"
+		"[Level 7] : ^777777damage 800% / Area of effect : 5 X 5^000000",
+		"[Level 8] : ^777777damage 900% / Area of effect : 5 X 5^000000",
+		"[Level 9] : ^777777damage 1000% / Area of effect : 5 X 5^000000",
+		"[Level 10] : ^777777damage 1100% / Area of effect : 5 X 5^000000"
 	},
 	[SKID.SJ_GRAVITYCONTROL] = {
 		"Gravity control",
@@ -11152,20 +11158,23 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.SJ_SOLARBURST] = {
 		"Solar Burst",
-		"MAX Lv : 7",
+		"MAX Lv : 10",
 		"^777777Prerequisite skill : Prominence Kick level 7^000000",
 		"Type : ^777777Attack^000000",
 		"Description : ^777777Sun skill.^000000",
 		"^777777Must be used after Prominence Kick.^000000",
 		"^777777Endows the energy of the sun to yourself and deal damage to surrounding enemies.^000000",
 		"^777777Damage increases according to the base level.^000000",
-		"[Level 1] : ^777777damage 1000% / Area of effect : 5 X 5^000000",
-		"[Level 2] : ^777777damage 1100% / Area of effect : 5 X 5^000000",
-		"[Level 3] : ^777777damage 1200% / Area of effect : 5 X 5^000000",
-		"[Level 4] : ^777777damage 1300% / Area of effect : 5 X 5^000000",
-		"[Level 5] : ^777777damage 1400% / Area of effect : 5 X 5^000000",
-		"[Level 6] : ^777777damage 1500% / Area of effect : 5 X 5^000000",
-		"[Level 7] : ^777777damage 1600% / Area of effect : 5 X 5^000000"
+		"[Level 1] : ^777777damage 1220% / Area of effect : 7 X 7^000000",
+		"[Level 2] : ^777777damage 1440% / Area of effect : 7 X 7^000000",
+		"[Level 3] : ^777777damage 1660% / Area of effect : 7 X 7^000000",
+		"[Level 4] : ^777777damage 1880% / Area of effect : 7 X 7^000000",
+		"[Level 5] : ^777777damage 2100% / Area of effect : 7 X 7^000000",
+		"[Level 6] : ^777777damage 2320% / Area of effect : 7 X 7^000000",
+		"[Level 7] : ^777777damage 2540% / Area of effect : 7 X 7^000000",
+		"[Level 8] : ^777777damage 2760% / Area of effect : 7 X 7^000000",
+		"[Level 9] : ^777777damage 2980% / Area of effect : 7 X 7^000000",
+		"[Level 10] : ^777777damage 3200% / Area of effect : 7 X 7^000000"
 	},
 	[SKID.SJ_PROMINENCEKICK] = {
 		"Prominence Kick",
@@ -11246,16 +11255,21 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.SP_CURSEEXPLOSION] = {
 		"Curse explosion",
-		"MAX Lv : 5",
+		"MAX Lv : 10",
 		"^777777Prerequisite skill : Evil spirit's Curse level 3^000000",
 		"Type : ^777777Attack / Damage^000000",
 		"Description : ^777777Deal shadow magical damage to the target and surrounding enemies in 7 x 7 cells.^000000",
-		"^777777It will deal more damage to the cursed target.^000000",
+		"^777777It will deal more damage to the target inflicted by Evil Curse.^000000",
 		"[Level 1] : ^777777magical damage 500% / damage to the cursed target 1700%^000000",
 		"[Level 2] : ^777777magical damage 600% / damage to the cursed target 1900%^000000",
 		"[Level 3] : ^777777magical damage 700% / damage to the cursed target 2100%^000000",
 		"[Level 4] : ^777777magical damage 800% / damage to the cursed target 2300%^000000",
-		"[Level 5] : ^777777magical damage 900% / damage to the cursed target 2500%^000000"
+		"[Level 5] : ^777777magical damage 900% / damage to the cursed target 2500%^000000",
+		"[Level 6] : ^777777magical damage 1000% / damage to the cursed target 2700%^000000",
+		"[Level 7] : ^777777magical damage 1100% / damage to the cursed target 2900%^000000",
+		"[Level 8] : ^777777magical damage 1200% / damage to the cursed target 3100%^000000",
+		"[Level 9] : ^777777magical damage 1300% / damage to the cursed target 3300%^000000",
+		"[Level 10] : ^777777magical damage 1400% / damage to the cursed target 3500%^000000"
 	},
 	[SKID.SP_SOULCURSE] = {
 		"Evil spirit's Curse",
@@ -11263,7 +11277,8 @@ SKILL_DESCRIPT = {
 		"^777777Prerequisite skill : Soul Reap level 3^000000",
 		"Type : ^777777Debuff^000000",
 		"Description : ^777777Consumes 3 soul energy.^000000",
-		"^777777Uses evil spirit to curses the target and surrounding enemies.^000000",
+		"^777777Uses evil spirit to inflict Evil Curse to the target and surrounding enemies.^000000",
+		"^777777Target under Evil Curse take more damage from shadow property by 100% (20% for boss monster and players).^000000",
 		"[Level 1] : ^777777curse chance : 40% / Area of effect : 7 X 7^000000",
 		"[Level 2] : ^777777curse chance : 50% / Area of effect : 7 X 7^000000",
 		"[Level 3] : ^777777curse chance : 60% / Area of effect : 7 X 7^000000",
@@ -11272,18 +11287,24 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.SP_SPA] = {
 		"Espa",
-		"MAX Lv : 5",
+		"MAX Lv : 10",
 		"^777777Prerequisite skill : Esha level 1^000000",
 		"Type : ^777777Attack / Special^000000",
 		"Description : ^777777Consumes 1 soul energy.^000000",
 		"^777777Deal magical damage to target.^000000",
 		"^777777Damage increases according to base level, and you can use Eswhoo within 5 seconds after using Espa.^000000",
+		"^777777Consumes 1 soul energy per cast, on level 10 the skill no longer consume soul energy.^000000",
 		"^777777However, This skill can not be used on the player.^000000",
 		"[Level 1] : ^777777magical damage 750%^000000",
 		"[Level 2] : ^777777magical damage 1000%^000000",
 		"[Level 3] : ^777777magical damage 1250%^000000",
 		"[Level 4] : ^777777magical damage 1500%^000000",
-		"[Level 5] : ^777777magical damage 1750%^000000"
+		"[Level 5] : ^777777magical damage 1750%^000000",
+		"[Level 6]: ^777777magical Damage 2000%^000000",
+		"[Level 7]: ^777777magical Damage 2250%^000000",
+		"[Level 8]: ^777777magical Damage 2500%^000000",
+		"[Level 9]: ^777777magical Damage 2750%^000000",
+		"[Level 10]: ^777777magical Damage 3000%, not consume soul energy^000000"
 	},
 	[SKID.SP_SHA] = {
 		"Esha",
@@ -11302,12 +11323,13 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.SP_SWHOO] = {
 		"Eswhoo",
-		"MAX Lv : 7",
+		"MAX Lv : 10",
 		"^777777Prerequisite skill : Espa level 1^000000",
 		"Type : ^777777Attack / Special^000000",
 		"Description : ^777777Consumes 2 soul energy.^000000",
 		"^777777Deal magical damage to target and surrounding enemies.^000000",
 		"^777777Damage increases according to base level, and you can use Esma within 5 seconds after using Espa.^000000",
+		"^777777Consumes 2 soul energy per cast, on level 10 the skill consumes 1 soul energy instead.^000000",
 		"^777777However, it can not be used or influenced by the player.^000000",
 		"[Level 1] : ^777777magical damage 1300% / Area of effect : 3 X 3^000000",
 		"[Level 2] : ^777777magical damage 1500% / Area of effect : 3 X 3^000000",
@@ -11315,7 +11337,12 @@ SKILL_DESCRIPT = {
 		"[Level 4] : ^777777magical damage 1900% / Area of effect : 5 X 5^000000",
 		"[Level 5] : ^777777magical damage 2100% / Area of effect : 5 X 5^000000",
 		"[Level 6] : ^777777magical damage 2300% / Area of effect : 5 X 5^000000",
-		"[Level 7] : ^777777magical damage 2500% / Area of effect : 7 X 7^000000"
+		"[Level 7] : ^777777magical damage 2500% / Area of effect : 7 X 7^000000",
+		"[Level 6]: ^777777magical damage 2700% / Area of effect: 5 X 5^000000",
+		"[Level 7]: ^777777magical damage 2900% / Area of effect: 7 X 7^000000",
+		"[Level 8]: ^777777magical damage 3100% / Area of effect: 7 X 7^000000",
+		"[Level 9]: ^777777magical damage 3300% / Area of effect: 7 X 7^000000",
+		"[Level 10]: ^777777magical damage 3500% / Area of effect: 9 X 9^000000"
 	},
 	[SKID.SP_SOULUNITY] = {
 		"Soul Unity",
