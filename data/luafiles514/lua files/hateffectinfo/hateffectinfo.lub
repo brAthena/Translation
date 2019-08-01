@@ -121,7 +121,12 @@ HatEFID = {
 	HAT_EF_160LV_Genetic_YGreen = 120,
 	HAT_EF_WATER_BELOW3 = 121,
 	HAT_EF_WATER_BELOW4 = 122,
-	HAT_EF_C_Valkyrie_Wing = 123
+	HAT_EF_C_Valkyrie_Wing = 123,
+	HAT_EF_2019RTC_CeleAura_TW = 124,
+	HAT_EF_2019RTC1ST_TW = 125,
+	HAT_EF_2019RTC2ST_TW = 126,
+	HAT_EF_2019RTC3ST_TW = 127,
+	HAT_EF_CONS_OF_WIND = 128
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -407,7 +412,36 @@ hatEffectTable = {
 		isRenderBeforeCharacter = true,
 		isIgnoreRiding = true
 	},
-	[HatEFID.HAT_EF_C_Valkyrie_Wing] = {hatEffectID = 1377}
+	[HatEFID.HAT_EF_C_Valkyrie_Wing] = {hatEffectID = 1377},
+	[HatEFID.HAT_EF_2019RTC_CeleAura_TW] = {
+		resourceFileName = "efst_2019RTC_CeleAura_TW\\poporingb.str",
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true
+	},
+	[HatEFID.HAT_EF_2019RTC1ST_TW] = {
+		resourceFileName = "efst_2019RTC1ST_TW\\poporingb.str",
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true
+	},
+	[HatEFID.HAT_EF_2019RTC2ST_TW] = {
+		resourceFileName = "efst_2019RTC2ST_TW\\poporingb.str",
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true
+	},
+	[HatEFID.HAT_EF_2019RTC3ST_TW] = {
+		resourceFileName = "efst_2019RTC3ST_TW\\poporingb.str",
+		hatEffectPos = -10,
+		hatEffectPosX = 0,
+		isRenderBeforeCharacter = true,
+		isIgnoreRiding = true
+	},
+	[HatEFID.HAT_EF_CONS_OF_WIND] = {hatEffectID = 1531}
 }
 effectHatItemTable = {
 	20285,
