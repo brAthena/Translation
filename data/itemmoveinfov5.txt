@@ -5034,3 +5034,5 @@
 23985	1	1	1	1	0	1	1	1	//Abyss_itembox
 23986	1	1	1	1	0	1	1	1	//Odin_itembox
 100142	1	1	1	1	0	1	1	1	//Abyss_Ddbox2
+100152	1	1	1	1	0	1	1	1	//GoldPCBang_ShieldBox
+100170	1	1	1	1	0	1	1	1	//GoldPCBang_MileageBox
