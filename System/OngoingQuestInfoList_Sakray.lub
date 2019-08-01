@@ -42225,6 +42225,1890 @@ QuestInfoList = {
 		},
 		Summary = "모자 교환 확인"
 	},
+	[20000] = {
+		Title = "사망-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"사망 1회/사망 시 젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20001] = {
+		Title = "사망-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"사망 1회"},
+		Summary = "Test용"
+	},
+	[20002] = {
+		Title = "사망-타입헌팅(100▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"100 레벨 이전에 사망 1회"
+		},
+		Summary = "Test용"
+	},
+	[20003] = {
+		Title = "사망-타입헌팅(100▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"100 레벨 이후 사망 1회"
+		},
+		Summary = "Test용"
+	},
+	[20004] = {
+		Title = "PvP-일반헌팅All",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"PvP 아무나 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20005] = {
+		Title = "PvP-타입헌팅All(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"PvP 아무나 1회"
+		},
+		Summary = "Test용"
+	},
+	[20006] = {
+		Title = "PvP-타입헌팅All(100▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"PvP 100레벨 이하 아무나 1회"
+		},
+		Summary = "Test용"
+	},
+	[20007] = {
+		Title = "PvP-타입헌팅All(100▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"PvP 100레벨 이상 아무나 1회"
+		},
+		Summary = "Test용"
+	},
+	[20008] = {
+		Title = "노비스-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"노비스, 하이노비스 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20009] = {
+		Title = "노비스-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"노비스, 하이노비스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20010] = {
+		Title = "노비스-타입헌팅(50▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이하 노비스, 하이노비스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20011] = {
+		Title = "노비스-타입헌팅(50▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이상 노비스, 하이노비스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20012] = {
+		Title = "검사-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"검사, 하이 검사 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20013] = {
+		Title = "검사-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"검사, 하이 검사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20014] = {
+		Title = "검사-타입헌팅(50▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이하 검사, 하이 검사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20015] = {
+		Title = "검사-타입헌팅(50▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이상 검사, 하이 검사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20016] = {
+		Title = "마법사-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"마법사, 하이 마법사 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20017] = {
+		Title = "마법사-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"마법사, 하이 마법사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20018] = {
+		Title = "마법사-타입헌팅(50▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이하 마법사, 하이 마법사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20019] = {
+		Title = "마법사-타입헌팅(50▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이상 마법사, 하이 마법사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20020] = {
+		Title = "궁수-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"궁수, 하이 궁수 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20021] = {
+		Title = "궁수-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"궁수, 하이 궁수 1회"
+		},
+		Summary = "Test용"
+	},
+	[20022] = {
+		Title = "궁수-타입헌팅(50▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이하 궁수, 하이 궁수 1회"
+		},
+		Summary = "Test용"
+	},
+	[20023] = {
+		Title = "궁수-타입헌팅(50▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이상 궁수, 하이 궁수 1회"
+		},
+		Summary = "Test용"
+	},
+	[20024] = {
+		Title = "상인-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"상인, 하이 상인 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20025] = {
+		Title = "상인-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"상인, 하이 상인 1회"
+		},
+		Summary = "Test용"
+	},
+	[20026] = {
+		Title = "상인-타입헌팅(50▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이하 상인, 하이 상인 1회"
+		},
+		Summary = "Test용"
+	},
+	[20027] = {
+		Title = "상인-타입헌팅(50▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이상 상인, 하이 상인 1회"
+		},
+		Summary = "Test용"
+	},
+	[20028] = {
+		Title = "도둑-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"도둑, 하이 도둑 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20029] = {
+		Title = "도둑-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"도둑, 하이 도둑 1회"
+		},
+		Summary = "Test용"
+	},
+	[20030] = {
+		Title = "도둑-타입헌팅(50▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이하 도둑, 하이 도둑 1회"
+		},
+		Summary = "Test용"
+	},
+	[20031] = {
+		Title = "도둑-타입헌팅(50▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이상 도둑, 하이 도둑 1회"
+		},
+		Summary = "Test용"
+	},
+	[20032] = {
+		Title = "복사-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"복사, 하이 복사 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20033] = {
+		Title = "복사-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"복사, 하이 복사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20034] = {
+		Title = "복사-타입헌팅(50▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이하 복사, 하이 복사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20035] = {
+		Title = "복사-타입헌팅(50▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이상 복사, 하이 복사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20036] = {
+		Title = "태권-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"태권 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20037] = {
+		Title = "태권-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"태권 1회"},
+		Summary = "Test용"
+	},
+	[20038] = {
+		Title = "태권-타입헌팅(50▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이하 태권 1회"
+		},
+		Summary = "Test용"
+	},
+	[20039] = {
+		Title = "태권-타입헌팅(50▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이상 태권 1회"
+		},
+		Summary = "Test용"
+	},
+	[20040] = {
+		Title = "닌자-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"닌자 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20041] = {
+		Title = "닌자-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"닌자 1회"},
+		Summary = "Test용"
+	},
+	[20042] = {
+		Title = "닌자-타입헌팅(50▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이하 닌자 1회"
+		},
+		Summary = "Test용"
+	},
+	[20043] = {
+		Title = "닌자-타입헌팅(50▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이상 닌자 1회"
+		},
+		Summary = "Test용"
+	},
+	[20044] = {
+		Title = "건슬-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"건슬 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20045] = {
+		Title = "건슬-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"건슬 1회"},
+		Summary = "Test용"
+	},
+	[20046] = {
+		Title = "건슬-타입헌팅(50▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이하 건슬 1회"
+		},
+		Summary = "Test용"
+	},
+	[20047] = {
+		Title = "건슬-타입헌팅(50▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"50레벨 이상 건슬 1회"
+		},
+		Summary = "Test용"
+	},
+	[20048] = {
+		Title = "슈노-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"슈노, 슈노2 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20049] = {
+		Title = "슈노-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"슈노, 슈노2 1회"
+		},
+		Summary = "Test용"
+	},
+	[20050] = {
+		Title = "슈노-타입헌팅(100▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"100레벨 이하 슈노, 슈노2 1회"
+		},
+		Summary = "Test용"
+	},
+	[20051] = {
+		Title = "슈노-타입헌팅(100▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"100레벨 이상 슈노, 슈노2 1회"
+		},
+		Summary = "Test용"
+	},
+	[20052] = {
+		Title = "기사-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"기사 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20053] = {
+		Title = "기사-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"기사 1회"},
+		Summary = "Test용"
+	},
+	[20054] = {
+		Title = "기사-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 기사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20055] = {
+		Title = "기사-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 기사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20056] = {
+		Title = "위저드-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"위저드 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20057] = {
+		Title = "위저드-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"위저드 1회"},
+		Summary = "Test용"
+	},
+	[20058] = {
+		Title = "위저드-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 위저드 1회"
+		},
+		Summary = "Test용"
+	},
+	[20059] = {
+		Title = "위저드-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 위저드 1회"
+		},
+		Summary = "Test용"
+	},
+	[20060] = {
+		Title = "헌터-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"헌터 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20061] = {
+		Title = "헌터-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"헌터 1회"},
+		Summary = "Test용"
+	},
+	[20062] = {
+		Title = "헌터-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 헌터 1회"
+		},
+		Summary = "Test용"
+	},
+	[20063] = {
+		Title = "헌터-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 헌터 1회"
+		},
+		Summary = "Test용"
+	},
+	[20064] = {
+		Title = "블랙스미스-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"블랙스미스 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20065] = {
+		Title = "블랙스미스-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"블랙스미스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20066] = {
+		Title = "블랙스미스-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 블랙스미스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20067] = {
+		Title = "블랙스미스-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 블랙스미스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20068] = {
+		Title = "어쎄신-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"어쎄신 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20069] = {
+		Title = "어쎄신-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"어쎄신 1회"},
+		Summary = "Test용"
+	},
+	[20070] = {
+		Title = "어쎄신-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 어쎄신 1회"
+		},
+		Summary = "Test용"
+	},
+	[20071] = {
+		Title = "어쎄신-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 어쎄신 1회"
+		},
+		Summary = "Test용"
+	},
+	[20072] = {
+		Title = "프리스트-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"프리스트 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20073] = {
+		Title = "프리스트-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"프리스트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20074] = {
+		Title = "프리스트-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 프리스트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20075] = {
+		Title = "프리스트-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 프리스트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20076] = {
+		Title = "크루세이더-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"크루세이더 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20077] = {
+		Title = "크루세이더-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"크루세이더 1회"
+		},
+		Summary = "Test용"
+	},
+	[20078] = {
+		Title = "크루세이더-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 크루세이더 1회"
+		},
+		Summary = "Test용"
+	},
+	[20079] = {
+		Title = "크루세이더-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 크루세이더 1회"
+		},
+		Summary = "Test용"
+	},
+	[20080] = {
+		Title = "세이지-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"세이지 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20081] = {
+		Title = "세이지-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"세이지 1회"},
+		Summary = "Test용"
+	},
+	[20082] = {
+		Title = "세이지-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 세이지 1회"
+		},
+		Summary = "Test용"
+	},
+	[20083] = {
+		Title = "세이지-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 세이지 1회"
+		},
+		Summary = "Test용"
+	},
+	[20084] = {
+		Title = "바드-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"바드 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20085] = {
+		Title = "바드-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"바드 1회"},
+		Summary = "Test용"
+	},
+	[20086] = {
+		Title = "바드-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 바드 1회"
+		},
+		Summary = "Test용"
+	},
+	[20087] = {
+		Title = "바드-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 바드 1회"
+		},
+		Summary = "Test용"
+	},
+	[20088] = {
+		Title = "댄서-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"댄서 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20089] = {
+		Title = "댄서-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"댄서 1회"},
+		Summary = "Test용"
+	},
+	[20090] = {
+		Title = "댄서-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 댄서 1회"
+		},
+		Summary = "Test용"
+	},
+	[20091] = {
+		Title = "댄서-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 댄서 1회"
+		},
+		Summary = "Test용"
+	},
+	[20092] = {
+		Title = "알케미스트-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"알케미스트 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20093] = {
+		Title = "알케미스트-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"알케미스트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20094] = {
+		Title = "알케미스트-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 알케미스트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20095] = {
+		Title = "알케미스트-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 알케미스트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20096] = {
+		Title = "로그-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"로그 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20097] = {
+		Title = "로그-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"로그 1회"},
+		Summary = "Test용"
+	},
+	[20098] = {
+		Title = "로그-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 로그 1회"
+		},
+		Summary = "Test용"
+	},
+	[20099] = {
+		Title = "로그-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 로그 1회"
+		},
+		Summary = "Test용"
+	},
+	[20100] = {
+		Title = "몽크-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"몽크 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20101] = {
+		Title = "몽크-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"몽크 1회"},
+		Summary = "Test용"
+	},
+	[20102] = {
+		Title = "몽크-타입헌팅(70▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이하 몽크 1회"
+		},
+		Summary = "Test용"
+	},
+	[20103] = {
+		Title = "몽크-타입헌팅(70▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"70레벨 이상 몽크 1회"
+		},
+		Summary = "Test용"
+	},
+	[20104] = {
+		Title = "로드나이트-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"로드나이트 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20105] = {
+		Title = "로드나이트-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"로드나이트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20106] = {
+		Title = "로드나이트-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 로드나이트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20107] = {
+		Title = "로드나이트-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 로드나이트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20108] = {
+		Title = "하이위저드-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"하이위저드 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20109] = {
+		Title = "하이위저드-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"하이위저드 1회"
+		},
+		Summary = "Test용"
+	},
+	[20110] = {
+		Title = "하이위저드-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 하이위저드 1회"
+		},
+		Summary = "Test용"
+	},
+	[20111] = {
+		Title = "하이위저드-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 하이위저드 1회"
+		},
+		Summary = "Test용"
+	},
+	[20112] = {
+		Title = "스나이퍼-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"스나이퍼 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20113] = {
+		Title = "스나이퍼-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"스나이퍼 1회"
+		},
+		Summary = "Test용"
+	},
+	[20114] = {
+		Title = "스나이퍼-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 스나이퍼 1회"
+		},
+		Summary = "Test용"
+	},
+	[20115] = {
+		Title = "스나이퍼-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 스나이퍼 1회"
+		},
+		Summary = "Test용"
+	},
+	[20116] = {
+		Title = "화이트스미스-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"화이트스미스 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20117] = {
+		Title = "화이트스미스-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"화이트스미스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20118] = {
+		Title = "화이트스미스-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 화이트스미스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20119] = {
+		Title = "화이트스미스-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 화이트스미스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20120] = {
+		Title = "어쎄신크로스-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"어쎄신크로스 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20121] = {
+		Title = "어쎄신크로스-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"어쎄신크로스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20122] = {
+		Title = "어쎄신크로스-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 어쎄신크로스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20123] = {
+		Title = "어쎄신크로스-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 어쎄신크로스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20124] = {
+		Title = "하이프리스트-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"하이프리스트 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20125] = {
+		Title = "하이프리스트-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"하이프리스트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20126] = {
+		Title = "하이프리스트-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 하이프리스트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20127] = {
+		Title = "하이프리스트-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 하이프리스트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20128] = {
+		Title = "팔라딘-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"팔라딘 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20129] = {
+		Title = "팔라딘-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"팔라딘 1회"},
+		Summary = "Test용"
+	},
+	[20130] = {
+		Title = "팔라딘-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 팔라딘 1회"
+		},
+		Summary = "Test용"
+	},
+	[20131] = {
+		Title = "팔라딘-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 팔라딘 1회"
+		},
+		Summary = "Test용"
+	},
+	[20132] = {
+		Title = "프로페서-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"프로페서 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20133] = {
+		Title = "프로페서-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"프로페서 1회"
+		},
+		Summary = "Test용"
+	},
+	[20134] = {
+		Title = "프로페서-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 프로페서 1회"
+		},
+		Summary = "Test용"
+	},
+	[20135] = {
+		Title = "프로페서-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 프로페서 1회"
+		},
+		Summary = "Test용"
+	},
+	[20136] = {
+		Title = "클로운-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"클로운 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20137] = {
+		Title = "클로운-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"클로운 1회"},
+		Summary = "Test용"
+	},
+	[20138] = {
+		Title = "클로운-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 클로운 1회"
+		},
+		Summary = "Test용"
+	},
+	[20139] = {
+		Title = "클로운-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 클로운 1회"
+		},
+		Summary = "Test용"
+	},
+	[20140] = {
+		Title = "집시-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"집시 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20141] = {
+		Title = "집시-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"집시 1회"},
+		Summary = "Test용"
+	},
+	[20142] = {
+		Title = "집시-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 집시 1회"
+		},
+		Summary = "Test용"
+	},
+	[20143] = {
+		Title = "집시-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 집시 1회"
+		},
+		Summary = "Test용"
+	},
+	[20144] = {
+		Title = "크리에이터-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"크리에이터 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20145] = {
+		Title = "크리에이터-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"크리에이터 1회"
+		},
+		Summary = "Test용"
+	},
+	[20146] = {
+		Title = "크리에이터-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 크리에이터 1회"
+		},
+		Summary = "Test용"
+	},
+	[20147] = {
+		Title = "크리에이터-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 크리에이터 1회"
+		},
+		Summary = "Test용"
+	},
+	[20148] = {
+		Title = "스토커-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"스토커 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20149] = {
+		Title = "스토커-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"스토커 1회"},
+		Summary = "Test용"
+	},
+	[20150] = {
+		Title = "스토커-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 스토커 1회"
+		},
+		Summary = "Test용"
+	},
+	[20151] = {
+		Title = "스토커-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 스토커 1회"
+		},
+		Summary = "Test용"
+	},
+	[20152] = {
+		Title = "챔피언-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"챔피언 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20153] = {
+		Title = "챔피언-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"챔피언 1회"},
+		Summary = "Test용"
+	},
+	[20154] = {
+		Title = "챔피언-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 챔피언 1회"
+		},
+		Summary = "Test용"
+	},
+	[20155] = {
+		Title = "챔피언-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 챔피언 1회"
+		},
+		Summary = "Test용"
+	},
+	[20156] = {
+		Title = "룬나이트-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"룬나이트, 전승 룬나이트 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20157] = {
+		Title = "룬나이트-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"룬나이트, 전승 룬나이트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20158] = {
+		Title = "룬나이트-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 룬나이트, 전승 룬나이트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20159] = {
+		Title = "룬나이트-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 룬나이트, 전승 룬나이트 1회"
+		},
+		Summary = "Test용"
+	},
+	[20160] = {
+		Title = "워록-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"워록, 전승 워록 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20161] = {
+		Title = "워록-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"워록, 전승 워록 1회"
+		},
+		Summary = "Test용"
+	},
+	[20162] = {
+		Title = "워록-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 워록, 전승 워록 1회"
+		},
+		Summary = "Test용"
+	},
+	[20163] = {
+		Title = "워록-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 워록, 전승 워록 1회"
+		},
+		Summary = "Test용"
+	},
+	[20164] = {
+		Title = "레인저-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"레인저, 전승 레인저 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20165] = {
+		Title = "레인저-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"레인저, 전승 레인저 1회"
+		},
+		Summary = "Test용"
+	},
+	[20166] = {
+		Title = "레인저-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 레인저, 전승 레인저 1회"
+		},
+		Summary = "Test용"
+	},
+	[20167] = {
+		Title = "레인저-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 레인저, 전승 레인저 1회"
+		},
+		Summary = "Test용"
+	},
+	[20168] = {
+		Title = "미케닉-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"미케닉, 전승 미케닉 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20169] = {
+		Title = "미케닉-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"미케닉, 전승 미케닉 1회"
+		},
+		Summary = "Test용"
+	},
+	[20170] = {
+		Title = "미케닉-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 미케닉, 전승 미케닉 1회"
+		},
+		Summary = "Test용"
+	},
+	[20171] = {
+		Title = "미케닉-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 미케닉, 전승 미케닉 1회"
+		},
+		Summary = "Test용"
+	},
+	[20172] = {
+		Title = "길로틴크로스-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"길로틴크로스, 전승 길로틴크로스 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20173] = {
+		Title = "길로틴크로스-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"길로틴크로스, 전승 길로틴크로스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20174] = {
+		Title = "길로틴크로스-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 길로틴크로스, 전승 길로틴크로스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20175] = {
+		Title = "길로틴크로스-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 길로틴크로스, 전승 길로틴크로스 1회"
+		},
+		Summary = "Test용"
+	},
+	[20176] = {
+		Title = "아크비숍-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"아크비숍, 전승 아크비숍 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20177] = {
+		Title = "아크비숍-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"아크비숍, 전승 아크비숍 1회"
+		},
+		Summary = "Test용"
+	},
+	[20178] = {
+		Title = "아크비숍-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 아크비숍, 전승 아크비숍 1회"
+		},
+		Summary = "Test용"
+	},
+	[20179] = {
+		Title = "아크비숍-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 아크비숍, 전승 아크비숍 1회"
+		},
+		Summary = "Test용"
+	},
+	[20180] = {
+		Title = "로열가드-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"로열가드, 전승 로열가드 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20181] = {
+		Title = "로열가드-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"로열가드, 전승 로열가드 1회"
+		},
+		Summary = "Test용"
+	},
+	[20182] = {
+		Title = "로열가드-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 로열가드, 전승 로열가드 1회"
+		},
+		Summary = "Test용"
+	},
+	[20183] = {
+		Title = "로열가드-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 로열가드, 전승 로열가드 1회"
+		},
+		Summary = "Test용"
+	},
+	[20184] = {
+		Title = "소서러-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"소서러, 전승 소서러 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20185] = {
+		Title = "소서러-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"소서러, 전승 소서러 1회"
+		},
+		Summary = "Test용"
+	},
+	[20186] = {
+		Title = "소서러-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 소서러, 전승 소서러 1회"
+		},
+		Summary = "Test용"
+	},
+	[20187] = {
+		Title = "소서러-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 소서러, 전승 소서러 1회"
+		},
+		Summary = "Test용"
+	},
+	[20188] = {
+		Title = "민스트럴-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"민스트럴, 전승 민스트럴 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20189] = {
+		Title = "민스트럴-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"민스트럴, 전승 민스트럴 1회"
+		},
+		Summary = "Test용"
+	},
+	[20190] = {
+		Title = "민스트럴-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 민스트럴, 전승 민스트럴 1회"
+		},
+		Summary = "Test용"
+	},
+	[20191] = {
+		Title = "민스트럴-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 민스트럴, 전승 민스트럴 1회"
+		},
+		Summary = "Test용"
+	},
+	[20192] = {
+		Title = "원더러-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"원더러, 전승 원더러 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20193] = {
+		Title = "원더러-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"원더러, 전승 원더러 1회"
+		},
+		Summary = "Test용"
+	},
+	[20194] = {
+		Title = "원더러-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 원더러, 전승 원더러 1회"
+		},
+		Summary = "Test용"
+	},
+	[20195] = {
+		Title = "원더러-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 원더러, 전승 원더러 1회"
+		},
+		Summary = "Test용"
+	},
+	[20196] = {
+		Title = "제네릭-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"제네릭, 전승 제네릭 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20197] = {
+		Title = "제네릭-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"제네릭, 전승 제네릭 1회"
+		},
+		Summary = "Test용"
+	},
+	[20198] = {
+		Title = "제네릭-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 제네릭, 전승 제네릭 1회"
+		},
+		Summary = "Test용"
+	},
+	[20199] = {
+		Title = "제네릭-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 제네릭, 전승 제네릭 1회"
+		},
+		Summary = "Test용"
+	},
+	[20200] = {
+		Title = "쉐도우체이서-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"쉐도우체이서, 전승 쉐도우체이서 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20201] = {
+		Title = "쉐도우체이서-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"쉐도우체이서, 전승 쉐도우체이서 1회"
+		},
+		Summary = "Test용"
+	},
+	[20202] = {
+		Title = "쉐도우체이서-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 쉐도우체이서, 전승 쉐도우체이서 1회"
+		},
+		Summary = "Test용"
+	},
+	[20203] = {
+		Title = "쉐도우체이서-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 쉐도우체이서, 전승 쉐도우체이서 1회"
+		},
+		Summary = "Test용"
+	},
+	[20204] = {
+		Title = "수라-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"수라, 전승 수라 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20205] = {
+		Title = "수라-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"수라, 전승 수라 1회"
+		},
+		Summary = "Test용"
+	},
+	[20206] = {
+		Title = "수라-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 수라, 전승 수라 1회"
+		},
+		Summary = "Test용"
+	},
+	[20207] = {
+		Title = "수라-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 수라, 전승 수라 1회"
+		},
+		Summary = "Test용"
+	},
+	[20208] = {
+		Title = "권성-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"권성 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20209] = {
+		Title = "권성-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"권성 1회"},
+		Summary = "Test용"
+	},
+	[20210] = {
+		Title = "권성-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 권성 1회"
+		},
+		Summary = "Test용"
+	},
+	[20211] = {
+		Title = "권성-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 권성 1회"
+		},
+		Summary = "Test용"
+	},
+	[20212] = {
+		Title = "소울링커-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"소울링커 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20213] = {
+		Title = "소울링커-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"소울링커 1회"
+		},
+		Summary = "Test용"
+	},
+	[20214] = {
+		Title = "소울링커-타입헌팅(80▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이하 소울링커 1회"
+		},
+		Summary = "Test용"
+	},
+	[20215] = {
+		Title = "소울링커-타입헌팅(80▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"80레벨 이상 소울링커 1회"
+		},
+		Summary = "Test용"
+	},
+	[20216] = {
+		Title = "카게로우-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"카게로우 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20217] = {
+		Title = "카게로우-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"카게로우 1회"
+		},
+		Summary = "Test용"
+	},
+	[20218] = {
+		Title = "카게로우-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 카게로우 1회"
+		},
+		Summary = "Test용"
+	},
+	[20219] = {
+		Title = "카게로우-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 카게로우 1회"
+		},
+		Summary = "Test용"
+	},
+	[20220] = {
+		Title = "오보로-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"오보로 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20221] = {
+		Title = "오보로-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"오보로 1회"},
+		Summary = "Test용"
+	},
+	[20222] = {
+		Title = "오보로-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 오보로 1회"
+		},
+		Summary = "Test용"
+	},
+	[20223] = {
+		Title = "오보로-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 오보로 1회"
+		},
+		Summary = "Test용"
+	},
+	[20224] = {
+		Title = "리벨리온-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"리벨리온 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20225] = {
+		Title = "리벨리온-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"리벨리온 1회"
+		},
+		Summary = "Test용"
+	},
+	[20226] = {
+		Title = "리벨리온-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 리벨리온 1회"
+		},
+		Summary = "Test용"
+	},
+	[20227] = {
+		Title = "리벨리온-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 리벨리온 1회"
+		},
+		Summary = "Test용"
+	},
+	[20228] = {
+		Title = "소환사-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"소환사 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20229] = {
+		Title = "소환사-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"소환사 1회"},
+		Summary = "Test용"
+	},
+	[20230] = {
+		Title = "소환사-타입헌팅(100▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"100레벨 이하 소환사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20231] = {
+		Title = "소환사-타입헌팅(100▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"100레벨 이상 소환사 1회"
+		},
+		Summary = "Test용"
+	},
+	[20232] = {
+		Title = "성제-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"성제 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20233] = {
+		Title = "성제-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {"성제 1회"},
+		Summary = "Test용"
+	},
+	[20234] = {
+		Title = "성제-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 성제 1회"
+		},
+		Summary = "Test용"
+	},
+	[20235] = {
+		Title = "성제-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 성제 1회"
+		},
+		Summary = "Test용"
+	},
+	[20236] = {
+		Title = "소울리퍼-일반헌팅",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"소울리퍼 1회/젤로피 50%"
+		},
+		Summary = "Test용"
+	},
+	[20237] = {
+		Title = "소울리퍼-타입헌팅(제한X)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"소울리퍼 1회"
+		},
+		Summary = "Test용"
+	},
+	[20238] = {
+		Title = "소울리퍼-타입헌팅(150▼)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이하 소울리퍼 1회"
+		},
+		Summary = "Test용"
+	},
+	[20239] = {
+		Title = "소울리퍼-타입헌팅(150▲)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"150레벨 이상 소울리퍼 1회"
+		},
+		Summary = "Test용"
+	},
+	[20240] = {
+		Title = "사망-타입헌팅(30-50)",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"30-50 레벨 사이에 사망 1회"
+		},
+		Summary = "Test용"
+	},
 	[21001] = {
 		Title = "Escape the Wreck",
 		Description = {
