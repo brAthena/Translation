@@ -5036,3 +5036,4 @@
 100142	1	1	1	1	0	1	1	1	//Abyss_Ddbox2
 100152	1	1	1	1	0	1	1	1	//GoldPCBang_ShieldBox
 100170	1	1	1	1	0	1	1	1	//GoldPCBang_MileageBox
+100127	1	1	1	1	1	1	1	1	//Kr_B_Special02
