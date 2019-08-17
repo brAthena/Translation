@@ -3029,7 +3029,7 @@ mapTbl = {
 		signName = {
 			mainTitle = "유페로스 폐허 외부"
 		},
-		backgroundBmp = "dungeon_2"
+		backgroundBmp = "dungeon_s2"
 	},
 	["juperos_02.rsw"] = {
 		displayName = "The Ruins of Juperos F2",
@@ -3037,7 +3037,7 @@ mapTbl = {
 		signName = {
 			mainTitle = "유페로스 폐허 내부"
 		},
-		backgroundBmp = "dungeon_2"
+		backgroundBmp = "dungeon_s2"
 	},
 	["kh_dun01.rsw"] = {
 		displayName = "Robot Factory F1",
