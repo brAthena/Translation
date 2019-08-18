@@ -123,7 +123,15 @@ tblLapineUpgradeBox = {
 					"Ray_Knuckle",
 					560005
 				},
-				{"Saint_Hall", 590003}
+				{"Saint_Hall", 590003},
+				{
+					"Blue_Crystal_Staff",
+					640004
+				},
+				{
+					"Freezing_Rod",
+					550007
+				}
 			},
 			NeedSource_String = "영웅의 무기"
 		},
@@ -250,7 +258,15 @@ tblLapineUpgradeBox = {
 					"Ray_Knuckle",
 					560005
 				},
-				{"Saint_Hall", 590003}
+				{"Saint_Hall", 590003},
+				{
+					"Blue_Crystal_Staff",
+					640004
+				},
+				{
+					"Freezing_Rod",
+					550007
+				}
 			},
 			NeedSource_String = "영웅의 무기"
 		},
@@ -2951,183 +2967,291 @@ tblLapineUpgradeBox = {
 				},
 				{
 					"S_Triangle_Armor",
-					1,
 					24524
 				},
 				{
 					"S_Triangle_Shield",
-					1,
 					24525
 				},
 				{
 					"S_Triangle_Shoes",
-					1,
 					24526
 				},
 				{
 					"S_Shadowspell_Weapon",
-					1,
 					24527
 				},
 				{
 					"S_Shadowspell_Pendant",
-					1,
 					24528
 				},
 				{
 					"S_Shadowspell_Earing",
-					1,
 					24529
 				},
 				{
 					"S_Menace_Armor",
-					1,
 					24530
 				},
 				{
 					"S_Menace_Shield",
-					1,
 					24531
 				},
 				{
 					"S_Menace_Shoes",
-					1,
 					24532
 				},
 				{
 					"S_Paint_Weapon",
-					1,
 					24533
 				},
 				{
 					"S_Paint_Pendant",
-					1,
 					24534
 				},
 				{
 					"S_Paint_Earing",
-					1,
 					24535
 				},
 				{
 					"S_Rolling_Armor",
-					1,
 					24536
 				},
 				{
 					"S_Rolling_Shield",
-					1,
 					24537
 				},
 				{
 					"S_Rolling_Shoes",
-					1,
 					24538
 				},
 				{
 					"S_Katar_Weapon",
-					1,
 					24539
 				},
 				{
 					"S_Katar_Pendant",
-					1,
 					24540
 				},
 				{
 					"S_Katar_Earing",
-					1,
 					24541
 				},
 				{
 					"S_Slash_Armor",
-					1,
 					24542
 				},
 				{
 					"S_Slash_Shield",
-					1,
 					24543
 				},
 				{
 					"S_Slash_Shoes",
-					1,
 					24544
 				},
 				{
 					"S_Ripper_Weapon",
-					1,
 					24545
 				},
 				{
 					"S_Ripper_Pendant",
-					1,
 					24546
 				},
 				{
 					"S_Ripper_Earing",
-					1,
 					24547
 				},
 				{
 					"S_Dust_Armor",
-					1,
 					24548
 				},
 				{
 					"S_Dust_Shield",
-					1,
 					24549
 				},
 				{
 					"S_Dust_Shoes",
-					1,
 					24550
 				},
 				{
 					"S_Grave_Weapon",
-					1,
 					24551
 				},
 				{
 					"S_Grave_Pendant",
-					1,
 					24552
 				},
 				{
 					"S_Grave_Earing",
-					1,
 					24553
 				},
 				{
 					"S_Psychic_Armor",
-					1,
 					24554
 				},
 				{
 					"S_Psychic_Shield",
-					1,
 					24555
 				},
 				{
 					"S_Psychic_Shoes",
-					1,
 					24556
 				},
 				{
 					"S_Varetyr_Weapon",
-					1,
 					24557
 				},
 				{
 					"S_Varetyr_Pendant",
-					1,
 					24558
 				},
 				{
 					"S_Varetyr_Earing",
-					1,
 					24559
+				},
+				{
+					"S_Jack_Armor",
+					24512
+				},
+				{
+					"S_Jack_Shield",
+					24513
+				},
+				{
+					"S_Jack_Shoes",
+					24514
+				},
+				{
+					"S_Strain_Weapon",
+					24515
+				},
+				{
+					"S_Strain_Pendant",
+					24516
+				},
+				{
+					"S_Strain_Earing",
+					24517
+				},
+				{
+					"S_Crimson_Armor",
+					24518
+				},
+				{
+					"S_Crimson_Shield",
+					24519
+				},
+				{
+					"S_Crimson_Shoes",
+					24520
+				},
+				{
+					"S_Chain_Weapon",
+					24521
+				},
+				{
+					"S_Chain_Pendant",
+					24522
+				},
+				{
+					"S_Chain_Earing",
+					24523
+				},
+				{
+					"S_Cart_Tornado_Armor",
+					24560
+				},
+				{
+					"S_Cart_Tornado_Shield",
+					24561
+				},
+				{
+					"S_Cart_Tornado_Shoes",
+					24562
+				},
+				{
+					"S_Cannon_Cart_Weapon",
+					24563
+				},
+				{
+					"S_Cannon_Cart_Pendant",
+					24564
+				},
+				{
+					"S_Cannon_Cart_Earing",
+					24565
+				},
+				{
+					"S_Spore_Bomb_Armor",
+					24566
+				},
+				{
+					"S_Spore_Bomb_Shield",
+					24567
+				},
+				{
+					"S_Spore_Bomb_Shoes",
+					24568
+				},
+				{
+					"S_Crazy_Weapon",
+					24569
+				},
+				{
+					"S_Crazy_Pendant",
+					24570
+				},
+				{
+					"S_Crazy_Earing",
+					24571
+				},
+				{
+					"S_Brand_Armor",
+					24572
+				},
+				{
+					"S_Brand_Shield",
+					24573
+				},
+				{
+					"S_Brand_Shoes",
+					24574
+				},
+				{
+					"S_Chain_Press_Weapon",
+					24575
+				},
+				{
+					"S_Chain_Press_Pendant",
+					24576
+				},
+				{
+					"S_Chain_Press_Earing",
+					24577
+				},
+				{
+					"S_Banish_Cannon_Armor",
+					24578
+				},
+				{
+					"S_Banish_Cannon_Shield",
+					24579
+				},
+				{
+					"S_Banish_Cannon_Shoes",
+					24580
+				},
+				{
+					"S_Genesis_Weapon",
+					24581
+				},
+				{
+					"S_Genesis_Pendant",
+					24582
+				},
+				{
+					"S_Genesis_Earing",
+					24583
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
@@ -4995,183 +5119,291 @@ tblLapineUpgradeBox = {
 				},
 				{
 					"S_Triangle_Armor",
-					1,
 					24524
 				},
 				{
 					"S_Triangle_Shield",
-					1,
 					24525
 				},
 				{
 					"S_Triangle_Shoes",
-					1,
 					24526
 				},
 				{
 					"S_Shadowspell_Weapon",
-					1,
 					24527
 				},
 				{
 					"S_Shadowspell_Pendant",
-					1,
 					24528
 				},
 				{
 					"S_Shadowspell_Earing",
-					1,
 					24529
 				},
 				{
 					"S_Menace_Armor",
-					1,
 					24530
 				},
 				{
 					"S_Menace_Shield",
-					1,
 					24531
 				},
 				{
 					"S_Menace_Shoes",
-					1,
 					24532
 				},
 				{
 					"S_Paint_Weapon",
-					1,
 					24533
 				},
 				{
 					"S_Paint_Pendant",
-					1,
 					24534
 				},
 				{
 					"S_Paint_Earing",
-					1,
 					24535
 				},
 				{
 					"S_Rolling_Armor",
-					1,
 					24536
 				},
 				{
 					"S_Rolling_Shield",
-					1,
 					24537
 				},
 				{
 					"S_Rolling_Shoes",
-					1,
 					24538
 				},
 				{
 					"S_Katar_Weapon",
-					1,
 					24539
 				},
 				{
 					"S_Katar_Pendant",
-					1,
 					24540
 				},
 				{
 					"S_Katar_Earing",
-					1,
 					24541
 				},
 				{
 					"S_Slash_Armor",
-					1,
 					24542
 				},
 				{
 					"S_Slash_Shield",
-					1,
 					24543
 				},
 				{
 					"S_Slash_Shoes",
-					1,
 					24544
 				},
 				{
 					"S_Ripper_Weapon",
-					1,
 					24545
 				},
 				{
 					"S_Ripper_Pendant",
-					1,
 					24546
 				},
 				{
 					"S_Ripper_Earing",
-					1,
 					24547
 				},
 				{
 					"S_Dust_Armor",
-					1,
 					24548
 				},
 				{
 					"S_Dust_Shield",
-					1,
 					24549
 				},
 				{
 					"S_Dust_Shoes",
-					1,
 					24550
 				},
 				{
 					"S_Grave_Weapon",
-					1,
 					24551
 				},
 				{
 					"S_Grave_Pendant",
-					1,
 					24552
 				},
 				{
 					"S_Grave_Earing",
-					1,
 					24553
 				},
 				{
 					"S_Psychic_Armor",
-					1,
 					24554
 				},
 				{
 					"S_Psychic_Shield",
-					1,
 					24555
 				},
 				{
 					"S_Psychic_Shoes",
-					1,
 					24556
 				},
 				{
 					"S_Varetyr_Weapon",
-					1,
 					24557
 				},
 				{
 					"S_Varetyr_Pendant",
-					1,
 					24558
 				},
 				{
 					"S_Varetyr_Earing",
-					1,
 					24559
+				},
+				{
+					"S_Jack_Armor",
+					24512
+				},
+				{
+					"S_Jack_Shield",
+					24513
+				},
+				{
+					"S_Jack_Shoes",
+					24514
+				},
+				{
+					"S_Strain_Weapon",
+					24515
+				},
+				{
+					"S_Strain_Pendant",
+					24516
+				},
+				{
+					"S_Strain_Earing",
+					24517
+				},
+				{
+					"S_Crimson_Armor",
+					24518
+				},
+				{
+					"S_Crimson_Shield",
+					24519
+				},
+				{
+					"S_Crimson_Shoes",
+					24520
+				},
+				{
+					"S_Chain_Weapon",
+					24521
+				},
+				{
+					"S_Chain_Pendant",
+					24522
+				},
+				{
+					"S_Chain_Earing",
+					24523
+				},
+				{
+					"S_Cart_Tornado_Armor",
+					24560
+				},
+				{
+					"S_Cart_Tornado_Shield",
+					24561
+				},
+				{
+					"S_Cart_Tornado_Shoes",
+					24562
+				},
+				{
+					"S_Cannon_Cart_Weapon",
+					24563
+				},
+				{
+					"S_Cannon_Cart_Pendant",
+					24564
+				},
+				{
+					"S_Cannon_Cart_Earing",
+					24565
+				},
+				{
+					"S_Spore_Bomb_Armor",
+					24566
+				},
+				{
+					"S_Spore_Bomb_Shield",
+					24567
+				},
+				{
+					"S_Spore_Bomb_Shoes",
+					24568
+				},
+				{
+					"S_Crazy_Weapon",
+					24569
+				},
+				{
+					"S_Crazy_Pendant",
+					24570
+				},
+				{
+					"S_Crazy_Earing",
+					24571
+				},
+				{
+					"S_Brand_Armor",
+					24572
+				},
+				{
+					"S_Brand_Shield",
+					24573
+				},
+				{
+					"S_Brand_Shoes",
+					24574
+				},
+				{
+					"S_Chain_Press_Weapon",
+					24575
+				},
+				{
+					"S_Chain_Press_Pendant",
+					24576
+				},
+				{
+					"S_Chain_Press_Earing",
+					24577
+				},
+				{
+					"S_Banish_Cannon_Armor",
+					24578
+				},
+				{
+					"S_Banish_Cannon_Shield",
+					24579
+				},
+				{
+					"S_Banish_Cannon_Shoes",
+					24580
+				},
+				{
+					"S_Genesis_Weapon",
+					24581
+				},
+				{
+					"S_Genesis_Pendant",
+					24582
+				},
+				{
+					"S_Genesis_Earing",
+					24583
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
@@ -6825,183 +7057,291 @@ tblLapineUpgradeBox = {
 				},
 				{
 					"S_Triangle_Armor",
-					1,
 					24524
 				},
 				{
 					"S_Triangle_Shield",
-					1,
 					24525
 				},
 				{
 					"S_Triangle_Shoes",
-					1,
 					24526
 				},
 				{
 					"S_Shadowspell_Weapon",
-					1,
 					24527
 				},
 				{
 					"S_Shadowspell_Pendant",
-					1,
 					24528
 				},
 				{
 					"S_Shadowspell_Earing",
-					1,
 					24529
 				},
 				{
 					"S_Menace_Armor",
-					1,
 					24530
 				},
 				{
 					"S_Menace_Shield",
-					1,
 					24531
 				},
 				{
 					"S_Menace_Shoes",
-					1,
 					24532
 				},
 				{
 					"S_Paint_Weapon",
-					1,
 					24533
 				},
 				{
 					"S_Paint_Pendant",
-					1,
 					24534
 				},
 				{
 					"S_Paint_Earing",
-					1,
 					24535
 				},
 				{
 					"S_Rolling_Armor",
-					1,
 					24536
 				},
 				{
 					"S_Rolling_Shield",
-					1,
 					24537
 				},
 				{
 					"S_Rolling_Shoes",
-					1,
 					24538
 				},
 				{
 					"S_Katar_Weapon",
-					1,
 					24539
 				},
 				{
 					"S_Katar_Pendant",
-					1,
 					24540
 				},
 				{
 					"S_Katar_Earing",
-					1,
 					24541
 				},
 				{
 					"S_Slash_Armor",
-					1,
 					24542
 				},
 				{
 					"S_Slash_Shield",
-					1,
 					24543
 				},
 				{
 					"S_Slash_Shoes",
-					1,
 					24544
 				},
 				{
 					"S_Ripper_Weapon",
-					1,
 					24545
 				},
 				{
 					"S_Ripper_Pendant",
-					1,
 					24546
 				},
 				{
 					"S_Ripper_Earing",
-					1,
 					24547
 				},
 				{
 					"S_Dust_Armor",
-					1,
 					24548
 				},
 				{
 					"S_Dust_Shield",
-					1,
 					24549
 				},
 				{
 					"S_Dust_Shoes",
-					1,
 					24550
 				},
 				{
 					"S_Grave_Weapon",
-					1,
 					24551
 				},
 				{
 					"S_Grave_Pendant",
-					1,
 					24552
 				},
 				{
 					"S_Grave_Earing",
-					1,
 					24553
 				},
 				{
 					"S_Psychic_Armor",
-					1,
 					24554
 				},
 				{
 					"S_Psychic_Shield",
-					1,
 					24555
 				},
 				{
 					"S_Psychic_Shoes",
-					1,
 					24556
 				},
 				{
 					"S_Varetyr_Weapon",
-					1,
 					24557
 				},
 				{
 					"S_Varetyr_Pendant",
-					1,
 					24558
 				},
 				{
 					"S_Varetyr_Earing",
-					1,
 					24559
+				},
+				{
+					"S_Jack_Armor",
+					24512
+				},
+				{
+					"S_Jack_Shield",
+					24513
+				},
+				{
+					"S_Jack_Shoes",
+					24514
+				},
+				{
+					"S_Strain_Weapon",
+					24515
+				},
+				{
+					"S_Strain_Pendant",
+					24516
+				},
+				{
+					"S_Strain_Earing",
+					24517
+				},
+				{
+					"S_Crimson_Armor",
+					24518
+				},
+				{
+					"S_Crimson_Shield",
+					24519
+				},
+				{
+					"S_Crimson_Shoes",
+					24520
+				},
+				{
+					"S_Chain_Weapon",
+					24521
+				},
+				{
+					"S_Chain_Pendant",
+					24522
+				},
+				{
+					"S_Chain_Earing",
+					24523
+				},
+				{
+					"S_Cart_Tornado_Armor",
+					24560
+				},
+				{
+					"S_Cart_Tornado_Shield",
+					24561
+				},
+				{
+					"S_Cart_Tornado_Shoes",
+					24562
+				},
+				{
+					"S_Cannon_Cart_Weapon",
+					24563
+				},
+				{
+					"S_Cannon_Cart_Pendant",
+					24564
+				},
+				{
+					"S_Cannon_Cart_Earing",
+					24565
+				},
+				{
+					"S_Spore_Bomb_Armor",
+					24566
+				},
+				{
+					"S_Spore_Bomb_Shield",
+					24567
+				},
+				{
+					"S_Spore_Bomb_Shoes",
+					24568
+				},
+				{
+					"S_Crazy_Weapon",
+					24569
+				},
+				{
+					"S_Crazy_Pendant",
+					24570
+				},
+				{
+					"S_Crazy_Earing",
+					24571
+				},
+				{
+					"S_Brand_Armor",
+					24572
+				},
+				{
+					"S_Brand_Shield",
+					24573
+				},
+				{
+					"S_Brand_Shoes",
+					24574
+				},
+				{
+					"S_Chain_Press_Weapon",
+					24575
+				},
+				{
+					"S_Chain_Press_Pendant",
+					24576
+				},
+				{
+					"S_Chain_Press_Earing",
+					24577
+				},
+				{
+					"S_Banish_Cannon_Armor",
+					24578
+				},
+				{
+					"S_Banish_Cannon_Shield",
+					24579
+				},
+				{
+					"S_Banish_Cannon_Shoes",
+					24580
+				},
+				{
+					"S_Genesis_Weapon",
+					24581
+				},
+				{
+					"S_Genesis_Pendant",
+					24582
+				},
+				{
+					"S_Genesis_Earing",
+					24583
 				}
 			},
 			NeedSource_String = "+7 쉐도우 아이템"

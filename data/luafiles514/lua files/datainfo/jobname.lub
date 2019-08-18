@@ -4071,5 +4071,6 @@ JobNameTable = {
 	[jobtbl.JT_ACIDUS_S] = "ACIDUS_S",
 	[jobtbl.JT_BONE_FERUS] = "BONE_FERUS",
 	[jobtbl.JT_BONE_ACIDUS] = "BONE_ACIDUS",
-	[jobtbl.JT_BONE_DETALE] = "BONE_DETALE"
+	[jobtbl.JT_BONE_DETALE] = "BONE_DETALE",
+	[jobtbl.JT_GLOOMUNDERNIGHT2] = "gloomundernight2"
 }

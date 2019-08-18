@@ -1280,6 +1280,16 @@ worldtable_main = {
 		"90"
 	},
 	{
+		45,
+		"odin_past.rsw",
+		1146,
+		109,
+		1236,
+		145,
+		WORLD_MSGID.MSI_45_ODIN_PAST,
+		"180"
+	},
+	{
 		100,
 		"hugel.rsw",
 		871,
@@ -2949,6 +2959,15 @@ worldtable_main_Dun = {
 		619,
 		WORLD_MSGID.MSI_DUN43,
 		"90"
+	},
+	{
+		45,
+		1083,
+		136,
+		1103,
+		156,
+		WORLD_MSGID.MSI_DUN45,
+		"180"
 	}
 }
 worldtable_dimensions = {

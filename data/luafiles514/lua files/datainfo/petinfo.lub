@@ -98,7 +98,8 @@ PetNameTable = {
 	[jobtbl.JT_WANDER_MAN_H] = "wander_man_mj",
 	[jobtbl.JT_ALIOT] = "ALIOT",
 	[jobtbl.JT_ALICEL] = "ALICEL",
-	[jobtbl.JT_ALIZA] = "ALIZA"
+	[jobtbl.JT_ALIZA] = "ALIZA",
+	[jobtbl.JT_GLOOMUNDERNIGHT2] = "gloomundernight2"
 }
 PetIllustNameTable = {
 	[jobtbl.JT_BAPHOMET_] = "Æê_¹ÙÆ÷¸ÞÆ®.bmp",
@@ -202,7 +203,8 @@ PetIllustNameTable = {
 	[jobtbl.JT_WANDER_MAN_H] = "Wander_Man_H.bmp",
 	[jobtbl.JT_ALIOT] = "Aliot.bmp",
 	[jobtbl.JT_ALICEL] = "Alicel.bmp",
-	[jobtbl.JT_ALIZA] = "Aliza.bmp"
+	[jobtbl.JT_ALIZA] = "Aliza.bmp",
+	[jobtbl.JT_GLOOMUNDERNIGHT2] = "pet_gloomundernight2.bmp"
 }
 PetIllustNameTable_Eng = {
 	[jobtbl.JT_BAPHOMET_] = "PET_BAPHOMET.bmp",
@@ -307,7 +309,8 @@ PetIllustNameTable_Eng = {
 	[jobtbl.JT_WANDER_MAN_H] = "Wander_Man_H.bmp",
 	[jobtbl.JT_ALIOT] = "Aliot.bmp",
 	[jobtbl.JT_ALICEL] = "Alicel.bmp",
-	[jobtbl.JT_ALIZA] = "Aliza.bmp"
+	[jobtbl.JT_ALIZA] = "Aliza.bmp",
+	[jobtbl.JT_GLOOMUNDERNIGHT2] = "pet_gloomundernight2.bmp"
 }
 PetAccIDs = {
 	ACC_FIRST = 10000,
@@ -542,7 +545,8 @@ PetStringTable = {
 	[jobtbl.JT_WANDER_MAN_H] = "¿À¿°µÈ ¹èÈ¸ÇÏ´Â ÀÚ",
 	[jobtbl.JT_ALIOT] = "¿¤¸®¾ù",
 	[jobtbl.JT_ALICEL] = "¿¤¸®¼¿",
-	[jobtbl.JT_ALIZA] = "¿¤¸®ÀÚ"
+	[jobtbl.JT_ALIZA] = "¿¤¸®ÀÚ",
+	[jobtbl.JT_GLOOMUNDERNIGHT2] = "±×·ë ¾ð´õ ³ªÀÌÆ®"
 }
 PetEggItemID_PetJobID = {
 	[9001] = jobtbl.JT_PORING,
@@ -647,7 +651,8 @@ PetEggItemID_PetJobID = {
 	[9117] = jobtbl.JT_WANDER_MAN_H,
 	[9118] = jobtbl.JT_ALIOT,
 	[9119] = jobtbl.JT_ALICEL,
-	[9120] = jobtbl.JT_ALIZA
+	[9120] = jobtbl.JT_ALIZA,
+	[9122] = jobtbl.JT_GLOOMUNDERNIGHT2
 }
 PetFoodTable = {
 	[jobtbl.JT_PORING] = 531,
@@ -753,5 +758,6 @@ PetFoodTable = {
 	[jobtbl.JT_WANDER_MAN_H] = 537,
 	[jobtbl.JT_ALIOT] = 537,
 	[jobtbl.JT_ALICEL] = 537,
-	[jobtbl.JT_ALIZA] = 537
+	[jobtbl.JT_ALIZA] = 537,
+	[jobtbl.JT_GLOOMUNDERNIGHT2] = 25377
 }

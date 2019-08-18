@@ -380,5 +380,7 @@ WORLD_MSGID = {
 	MSI_1_LASA_DUN03 = "Dragon Nest 3rd floor",
 	MSI_112_MALANGDO = "Malangdo",
 	MSI_DUN43 = "Starlight Coral Zone",
-	MSI_43_MAL_DUN01 = "Starlight Coral Zone"
+	MSI_43_MAL_DUN01 = "Starlight Coral Zone",
+	MSI_45_ODIN_PAST = "Ancient Odin Temple",
+	MSI_DUN45 = "Ancient Odin Temple"
 }
