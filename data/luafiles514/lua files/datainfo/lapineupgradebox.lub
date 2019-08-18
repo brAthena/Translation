@@ -8822,7 +8822,7 @@ tblLapineUpgradeBox = {
 					15396
 				}
 			},
-			NeedSource_String = "휘몰아 치는 용의 기운"
+			NeedSource_String = "소용돌이 치는 용의 힘"
 		},
 		Abyss_Ddbox2 = {
 			ItemID = 100142,
@@ -8855,7 +8855,7 @@ tblLapineUpgradeBox = {
 					15396
 				}
 			},
-			NeedSource_String = "강력한 용의 기운"
+			NeedSource_String = "안정된 용의 힘"
 		},
 		Abyss_Ddbox3 = {
 			ItemID = 100144,
@@ -8868,7 +8868,7 @@ tblLapineUpgradeBox = {
 					20946
 				}
 			},
-			NeedSource_String = "불타는 용의 기운"
+			NeedSource_String = "불타는 용의 힘"
 		},
 		Abyss_Ddbox4 = {
 			ItemID = 100145,
@@ -8881,7 +8881,7 @@ tblLapineUpgradeBox = {
 					22208
 				}
 			},
-			NeedSource_String = "뜨거운 용의 기운"
+			NeedSource_String = "뜨거운 용의 힘"
 		}
 	},
 	serverMain = function()
