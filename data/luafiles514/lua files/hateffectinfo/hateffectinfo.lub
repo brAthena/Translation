@@ -126,7 +126,8 @@ HatEFID = {
 	HAT_EF_2019RTC1ST_TW = 125,
 	HAT_EF_2019RTC2ST_TW = 126,
 	HAT_EF_2019RTC3ST_TW = 127,
-	HAT_EF_CONS_OF_WIND = 128
+	HAT_EF_CONS_OF_WIND = 128,
+	HAT_EF_Maple_Falls = 129
 }
 hatEffectTable = {
 	[HatEFID.HAT_EF_Blossom_Fluttering] = {
@@ -524,7 +525,14 @@ hatEffectTable = {
 		isAdjustPositionWhenShrinkState = true,
 		isAdjustSizeWhenShrinkState = true
 	},
-	[HatEFID.HAT_EF_CONS_OF_WIND] = {hatEffectID = 1531}
+	[HatEFID.HAT_EF_CONS_OF_WIND] = {hatEffectID = 1531},
+	[HatEFID.HAT_EF_Maple_Falls] = {
+		resourceFileName = "efst_maple_falls\\maple_falls.str",
+		hatEffectPos = -5,
+		hatEffectPosX = 0,
+		isAdjustPositionWhenShrinkState = true,
+		isAdjustSizeWhenShrinkState = true
+	}
 }
 effectHatItemTable = {
 	20285,

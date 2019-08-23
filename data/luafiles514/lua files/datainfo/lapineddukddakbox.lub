@@ -4,6 +4,7 @@ tblLapineDdukddakBox = {
 			ItemID = 100060,
 			NeedCount = 1,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"C흰토끼의귀",
@@ -117,6 +118,7 @@ tblLapineDdukddakBox = {
 			ItemID = 100053,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"액서큐서너웨폰S",
@@ -175,6 +177,7 @@ tblLapineDdukddakBox = {
 			ItemID = 100058,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"헤이스티슈즈S2",
@@ -198,6 +201,7 @@ tblLapineDdukddakBox = {
 			ItemID = 100010,
 			NeedCount = 3,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"빅웨폰S",
@@ -236,6 +240,7 @@ tblLapineDdukddakBox = {
 			ItemID = 100011,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"매직액서큐서너웨폰S",
@@ -294,6 +299,7 @@ tblLapineDdukddakBox = {
 			ItemID = 100000,
 			NeedCount = 3,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"젤로피",
@@ -317,6 +323,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23967,
 			NeedCount = 1,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"C체인퍼펫",
@@ -425,6 +432,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23818,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -443,6 +451,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23819,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -461,6 +470,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23820,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -479,6 +489,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23821,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -497,6 +508,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23822,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -515,6 +527,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23823,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -533,6 +546,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23824,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -551,6 +565,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23825,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -569,6 +584,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23826,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -587,6 +603,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23827,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -605,6 +622,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23828,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -623,6 +641,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23829,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -641,6 +660,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23830,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -659,6 +679,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23831,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -677,6 +698,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23832,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -695,6 +717,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23833,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -713,6 +736,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23834,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -731,6 +755,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23835,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -749,6 +774,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23836,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -767,6 +793,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23837,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -785,6 +812,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23838,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -803,6 +831,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23839,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -821,6 +850,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23840,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -839,6 +869,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23841,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -857,6 +888,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23842,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -875,6 +907,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23843,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -893,6 +926,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23844,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -911,6 +945,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23845,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -929,6 +964,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23846,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -947,6 +983,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23847,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -965,6 +1002,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23848,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -983,6 +1021,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23849,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1001,6 +1040,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23850,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1019,6 +1059,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23851,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1037,6 +1078,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23852,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1055,6 +1097,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23853,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1073,6 +1116,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23894,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1091,6 +1135,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23854,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1109,6 +1154,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23855,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1127,6 +1173,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23856,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1145,6 +1192,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23857,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1163,6 +1211,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23858,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1181,6 +1230,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23859,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1199,6 +1249,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23860,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1217,6 +1268,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23861,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1235,6 +1287,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23862,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1253,6 +1306,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23863,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1271,6 +1325,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23864,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1289,6 +1344,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23865,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1307,6 +1363,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23866,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1325,6 +1382,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23867,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1343,6 +1401,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23868,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1361,6 +1420,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23869,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1379,6 +1439,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23870,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1397,6 +1458,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23871,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1415,6 +1477,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23872,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1433,6 +1496,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23873,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1451,6 +1515,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23874,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1469,6 +1534,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23875,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1487,6 +1553,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23876,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1505,6 +1572,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23877,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1523,6 +1591,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23879,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1541,6 +1610,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23880,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1559,6 +1629,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23881,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1577,6 +1648,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23882,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1595,6 +1667,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23883,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1613,6 +1686,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23884,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1631,6 +1705,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23885,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1649,6 +1724,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23886,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1667,6 +1743,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23887,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1685,6 +1762,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23888,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1703,6 +1781,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23889,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1721,6 +1800,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23890,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1739,6 +1819,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23891,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1757,6 +1838,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23892,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1775,6 +1857,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23893,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1793,6 +1876,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23665,
 			NeedCount = 3,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"피지컬웨폰S",
@@ -1831,6 +1915,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23666,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"이뮨드아머S",
@@ -1854,6 +1939,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23667,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"하드아머S",
@@ -1877,6 +1963,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23668,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"킹버드웨폰S",
@@ -1895,6 +1982,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23669,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"크리티컬슈즈S",
@@ -1923,6 +2011,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23545,
 			NeedCount = 1,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Bloody_Knight_Shield",
@@ -1936,6 +2025,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23474,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"인피니티이어링S",
@@ -1954,6 +2044,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23324,
 			NeedCount = 3,
 			NeedRefineMin = 5,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"플라스터러즈아머S",
@@ -2052,6 +2143,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23308,
 			NeedCount = 1,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"매지컬부스터K",
@@ -2061,62 +2153,11 @@ tblLapineDdukddakBox = {
 			},
 			NeedSource_String = "매지컬 부스터"
 		},
-		["마법고양이손"] = {
-			ItemID = 23311,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"고양이레이스머리띠K",
-					1,
-					19242
-				}
-			},
-			NeedSource_String = "새끼 고양이 헤드드레스"
-		},
-		["사탕축복스크롤_물리"] = {
-			ItemID = 23289,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"안토니오가방_물리",
-					1,
-					20842
-				}
-			},
-			NeedSource_String = "사탕 주머니 가방(물리)"
-		},
-		["사탕축복스크롤_원거리"] = {
-			ItemID = 23290,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"안토니오가방_원거리",
-					1,
-					20843
-				}
-			},
-			NeedSource_String = "사탕 주머니 가방(원거리)"
-		},
-		["사탕축복스크롤_마법"] = {
-			ItemID = 23291,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"안토니오가방_마법",
-					1,
-					20844
-				}
-			},
-			NeedSource_String = "사탕 주머니 가방(마법)"
-		},
 		["레이스S변환상자"] = {
 			ItemID = 23281,
 			NeedCount = 4,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"호머즈쉴드S",
@@ -2215,6 +2256,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23250,
 			NeedCount = 4,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"콜드볼트아머S",
@@ -2237,12 +2279,13 @@ tblLapineDdukddakBox = {
 					24222
 				}
 			},
-			NeedSource_String = "+7 볼트계열 쉐도우"
+			NeedSource_String = "볼트계열 쉐도우"
 		},
 		["베어러즈S변환상자"] = {
 			ItemID = 23249,
 			NeedCount = 3,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"베어러즈슈즈S",
@@ -2275,12 +2318,13 @@ tblLapineDdukddakBox = {
 					24185
 				}
 			},
-			NeedSource_String = "+7 베어러즈 쉐도우"
+			NeedSource_String = "베어러즈 쉐도우"
 		},
 		["젬스톤S변환상자"] = {
 			ItemID = 23248,
 			NeedCount = 3,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"젬스톤펜던트S",
@@ -2313,12 +2357,13 @@ tblLapineDdukddakBox = {
 					24087
 				}
 			},
-			NeedSource_String = "+7 젬스톤 쉐도우"
+			NeedSource_String = "젬스톤 쉐도우"
 		},
 		["스테이터스S변환상자"] = {
 			ItemID = 23247,
 			NeedCount = 5,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"럭키웨폰S",
@@ -2381,12 +2426,13 @@ tblLapineDdukddakBox = {
 					24045
 				}
 			},
-			NeedSource_String = "+7 스테이터스 쉐도우"
+			NeedSource_String = "스테이터스 쉐도우"
 		},
 		["직업S변환상자_웨폰"] = {
 			ItemID = 23236,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"슈퍼노비스웨폰S",
@@ -2490,6 +2536,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23237,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"나이트아머S",
@@ -2598,6 +2645,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23238,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"나이트슈즈S",
@@ -2706,6 +2754,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23239,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"룬나이트쉴드S",
@@ -2809,6 +2858,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23240,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"소드맨펜던트S",
@@ -2847,6 +2897,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23241,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"소드맨이어링S",
@@ -2881,28 +2932,11 @@ tblLapineDdukddakBox = {
 			},
 			NeedSource_String = "+7 클래스 이어링 쉐도우"
 		},
-		["타락천사날개초기화권"] = {
-			ItemID = 23229,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"K타락천사의날개",
-					1,
-					20835
-				},
-				{
-					"타락천사의날개",
-					1,
-					2589
-				}
-			},
-			NeedSource_String = "타락천사의 날개"
-		},
 		["쉐도우뚝딱상자"] = {
 			ItemID = 22529,
 			NeedCount = 3,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"피지컬이어링S",
@@ -4465,6 +4499,26 @@ tblLapineDdukddakBox = {
 					24327
 				},
 				{
+					"포스액서듀얼웨폰S2",
+					1,
+					24328
+				},
+				{
+					"스피릿매직듀얼웨폰S2",
+					1,
+					24329
+				},
+				{
+					"캐스터아머S2",
+					1,
+					24330
+				},
+				{
+					"리로드아머S2",
+					1,
+					24331
+				},
+				{
 					"크리티컬쉴드S",
 					1,
 					24332
@@ -5647,23 +5701,11 @@ tblLapineDdukddakBox = {
 			},
 			NeedSource_String = "쉐도우 아이템"
 		},
-		["건슬링거두루마리"] = {
-			ItemID = 23100,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"늘어진건슬링거",
-					1,
-					19157
-				}
-			},
-			NeedSource_String = "늘어진 건슬링거"
-		},
 		["선풍기개조키트"] = {
 			ItemID = 23170,
 			NeedCount = 1,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"해달선풍기",
@@ -5673,23 +5715,11 @@ tblLapineDdukddakBox = {
 			},
 			NeedSource_String = "해달 미니 선풍기"
 		},
-		["제복수선키트"] = {
-			ItemID = 23175,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"카프라제복",
-					1,
-					15186
-				}
-			},
-			NeedSource_String = "카프라 제복"
-		},
 		["의상스톤뚝딱상자"] = {
 			ItemID = 23151,
 			NeedCount = 3,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"회복스톤_상단",
@@ -6650,6 +6680,66 @@ tblLapineDdukddakBox = {
 					"ArchbishopStone_Robe2",
 					1,
 					1000019
+				},
+				{
+					"WarlockStone_Robe2",
+					1,
+					1000213
+				},
+				{
+					"WarlockStone_Top2",
+					1,
+					1000214
+				},
+				{
+					"WarlockStone_Middle2",
+					1,
+					1000215
+				},
+				{
+					"WarlockStone_Bottom2",
+					1,
+					1000216
+				},
+				{
+					"RoyalguardStone_Robe2",
+					1,
+					1000217
+				},
+				{
+					"PaladinStone_Top2",
+					1,
+					1000218
+				},
+				{
+					"PaladinStone_Middle2",
+					1,
+					1000219
+				},
+				{
+					"PaladinStone_Bottom2",
+					1,
+					1000220
+				},
+				{
+					"GuillcrossStone_Robe2",
+					1,
+					1000221
+				},
+				{
+					"AssacrossStone_Top2",
+					1,
+					1000222
+				},
+				{
+					"AssacrossStone_Middle2",
+					1,
+					1000223
+				},
+				{
+					"AssacrossStone_Bottom2",
+					1,
+					1000224
 				}
 			},
 			NeedSource_String = "의상인챈트스톤"
@@ -6658,6 +6748,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23152,
 			NeedCount = 10,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"댕기머리",
@@ -7736,6 +7827,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23153,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"포링알",
@@ -8094,6 +8186,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23154,
 			NeedCount = 1,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"C토끼귀모자",
@@ -8791,11 +8884,6 @@ tblLapineDdukddakBox = {
 					20449
 				},
 				{
-					"C졸린고양이모자",
-					1,
-					20263
-				},
-				{
 					"C할퀴는고양이",
 					1,
 					20195
@@ -9209,6 +9297,26 @@ tblLapineDdukddakBox = {
 					"C_SharkHead",
 					1,
 					440000
+				},
+				{
+					"C_Baby_Panda",
+					1,
+					31798
+				},
+				{
+					"C_SavageB_On_Shoulder",
+					1,
+					31787
+				},
+				{
+					"C_BeachBall",
+					1,
+					400020
+				},
+				{
+					"C_Big_Foxtail",
+					1,
+					20584
 				}
 			},
 			NeedSource_String = "냥다래 의상"
@@ -9235,6 +9343,13 @@ tblLapineDdukddakBox = {
 			return box.NeedRefineMin
 		end
 		return 0
+	end,
+	get_max_need_refine = function(in_box_id)
+		local box = tblLapineDdukddakBox.get_lapine_box(in_box_id)
+		if nil ~= box and nil ~= box.NeedRefineMax then
+			return box.NeedRefineMax
+		end
+		return 20
 	end,
 	get_need_source_string = function(in_box_id)
 		local box = tblLapineDdukddakBox.get_lapine_box(in_box_id)

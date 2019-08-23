@@ -1912,5 +1912,13 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Shih_Tzu_Long = 1921,
 	ACCESSORY_C_Baby_Panda = 1922,
 	ACCESSORY_C_Pretty_Bear_WH = 1923,
-	ACCESSORY_C_Cons_Of_Wind = 1924
+	ACCESSORY_C_Cons_Of_Wind = 1924,
+	ACCESSORY_C_Angola_Intention = 1925,
+	ACCESSORY_C_Rabbit_Winged_Robe = 1926,
+	ACCESSORY_C_Rabbit_Two_Side_Up = 1927,
+	ACCESSORY_C_Cat_Ear_LongK = 1928,
+	ACCESSORY_C_Cat_Ear_ShortK = 1929,
+	ACCESSORY_C_TopPlayer_TW = 1930,
+	ACCESSORY_C_Dullahan_Mask = 1931,
+	ACCESSORY_C_Turkey_Hat = 1932
 }
