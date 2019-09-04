@@ -256,6 +256,62 @@ tblLapineUpgradeBox = {
 				{
 					"아처이어링S",
 					28392
+				},
+				{
+					"S_Rebellion_Armor",
+					24402
+				},
+				{
+					"S_Kagerou_Armor",
+					24403
+				},
+				{
+					"S_Oboro_Armor",
+					24404
+				},
+				{
+					"S_Rebellion_Shoes",
+					24405
+				},
+				{
+					"S_Kagerou_Shoes",
+					24406
+				},
+				{
+					"S_Oboro_Shoes",
+					24407
+				},
+				{
+					"S_DoramPhysical_Armor",
+					24408
+				},
+				{
+					"S_DoramPhysical_Shoes",
+					24409
+				},
+				{
+					"S_DoramMagical_Armor",
+					24410
+				},
+				{
+					"S_DoramMagical_Shoes",
+					24411
+				},
+				{
+					"S_Star_Emperor_Armor",
+					24412
+				},
+				{
+					"S_Star_Emperor_Shoes",
+					24413
+				},
+				{
+					"S_Soul_Reaper_Armor",
+					24414
+				},
+				{
+					"S_Soul_Reaper_Shoes",
+					24415
 				}
 			},
 			NeedSource_String = "클래스 쉐도우"
@@ -516,6 +572,62 @@ tblLapineUpgradeBox = {
 				{
 					"아처이어링S",
 					28392
+				},
+				{
+					"S_Rebellion_Armor",
+					24402
+				},
+				{
+					"S_Kagerou_Armor",
+					24403
+				},
+				{
+					"S_Oboro_Armor",
+					24404
+				},
+				{
+					"S_Rebellion_Shoes",
+					24405
+				},
+				{
+					"S_Kagerou_Shoes",
+					24406
+				},
+				{
+					"S_Oboro_Shoes",
+					24407
+				},
+				{
+					"S_DoramPhysical_Armor",
+					24408
+				},
+				{
+					"S_DoramPhysical_Shoes",
+					24409
+				},
+				{
+					"S_DoramMagical_Armor",
+					24410
+				},
+				{
+					"S_DoramMagical_Shoes",
+					24411
+				},
+				{
+					"S_Star_Emperor_Armor",
+					24412
+				},
+				{
+					"S_Star_Emperor_Shoes",
+					24413
+				},
+				{
+					"S_Soul_Reaper_Armor",
+					24414
+				},
+				{
+					"S_Soul_Reaper_Shoes",
+					24415
 				}
 			},
 			NeedSource_String = "클래스 쉐도우"
