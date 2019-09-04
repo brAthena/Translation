@@ -1,5 +1,99 @@
 tblLapineDdukddakBox = {
 	sources = {
+		Skill_Sha_M_S_Weapon = {
+			ItemID = 100151,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Zelunium",
+					50,
+					25731
+				},
+				{
+					"Shadowdecon",
+					50,
+					25729
+				}
+			},
+			NeedSource_String = "溅档快单坷能, 力福唇"
+		},
+		Skill_Sha_M_S_Shield = {
+			ItemID = 100209,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Zelunium",
+					50,
+					25731
+				},
+				{
+					"Shadowdecon",
+					50,
+					25729
+				}
+			},
+			NeedSource_String = "溅档快单坷能, 力福唇"
+		},
+		Skill_Sha_M_S_Pendant = {
+			ItemID = 100210,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					50,
+					25729
+				}
+			},
+			NeedSource_String = "溅档快单坷能"
+		},
+		Skill_Sha_M_S_Earing = {
+			ItemID = 100211,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					50,
+					25729
+				}
+			},
+			NeedSource_String = "溅档快单坷能"
+		},
+		Skill_Sha_M_S_Shoes = {
+			ItemID = 100212,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Zelunium",
+					50,
+					25731
+				}
+			},
+			NeedSource_String = "力福唇"
+		},
+		Skill_Sha_M_S_Armor = {
+			ItemID = 100213,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Zelunium",
+					50,
+					25731
+				}
+			},
+			NeedSource_String = "力福唇"
+		},
 		EnchantStone_Recipe_4m = {
 			ItemID = 100060,
 			NeedCount = 1,
