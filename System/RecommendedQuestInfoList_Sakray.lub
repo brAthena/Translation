@@ -22,6 +22,24 @@ RecommendedQuestInfoList = {
 			"^ff0000※ This page is an update introduction, not a quest. Please note that completing quests will not remove them.^000000"
 		}
 	},
+	[2] = {
+		Title = "추수 감사제",
+		IconName = "ico_ev.bmp",
+		Summary = "불놓기 행사에 참여하세요!",
+		BgName = "reco_02.bmp",
+		QuestInfo1 = {
+			"<NAVI>[알베르타 항구]<INFO>alberta,138,169,0,101,0</INFO></NAVI>에서 추수 감사제가 진행되고 있습니다.",
+			"알베르타로 오셔서 불놓기 행사부터 참여해보세요.",
+			"푸짐한 선물이 모험가님을 기다리고 있답니다!"
+		},
+		QuestInfo2 = {
+			"올 해의 추수 감사제는",
+			"알베르타 항구도시에서!"
+		},
+		QuestInfo3 = {
+			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
+		}
+	},
 	[4] = {
 		Title = "글래스트 헤임 도전모드",
 		IconName = "ico_sc.bmp",
