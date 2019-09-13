@@ -593,6 +593,11 @@ HOTKEY_3 = {
 	},
 	[55] = {
 		EXE = MsgStrID.MSI_HK_CHANGE_SKILLBAR
+	},
+	[56] = {
+		EXE = MsgStrID.MSI_HK_COSEQUIPWND_ONOFF,
+		KEY1 = 88,
+		KEY2 = 18
 	}
 }
 HOTKEY_4 = {
