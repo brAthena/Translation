@@ -5037,3 +5037,5 @@
 100152	1	1	1	1	0	1	1	1	//GoldPCBang_ShieldBox
 100170	1	1	1	1	0	1	1	1	//GoldPCBang_MileageBox
 100127	1	1	1	1	1	1	1	1	//Kr_B_Special02
+14908	1	1	1	1	1	1	1	1	//Korea_Rice_Cake_B
+100081	1	1	1	1	1	1	1	1	//Kr_B_Special01
