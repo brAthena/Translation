@@ -2716,15 +2716,15 @@ Total : %s Crackers#
 The Crackers.#
 ^0000ff more than crackers^000000Did you enter the correct amount?#
 Over than 10billions secure check#
-10억 仙貝 이상 입력하셔도 가격은 10억 仙貝로 판매됩니다.#
-9,999仙貝 이상 입력하셔도 가격은 9,999仙貝로 판매됩니다.#
-가격이 0 仙貝인 아이템이 존재 합니다. 상점을 열수 없습니다!#
-상대 캐릭터가 최대 보유 仙貝량을 초과하여 거래가 불가능 합니다.#
-%s 아이템의 가격을 10억仙貝 이하로 입력해 주세요.#
-%s  :  %s  仙貝 => %s EA#
-제한 금액 : %s 仙貝#
-%s %s 仙貝 %d 개#
-%s %d개를 %d 仙貝에 판매 하였습니다. 수수료는 3%% 입니다.#
+If you fill over 1 billion, the price will be automatically set as 10 billion Crackers.#
+If you fill over 9,999 Crackers, the price will automatically set as 9,999 Crackers.#
+There are items priced 0 Crackers. You cannot open vending.#
+The opponent is over the Crackers limit. Trade failed.#
+Please fill out %s item price less than 1 billion Crackers.#
+%s:  %s  Crackers => %s pc.#
+Limited price: %s Crackers#
+%s %s %d Crackers#
+%d %s are sold. In total %d Crackers. 3%% charge will be imposed.#
 RODEX#
 SEND#
 RECEIVE#
@@ -2735,7 +2735,7 @@ Unequipped Arrow/Ammunition.#
 Consuming item in inventory will close mail compose window.#
 Do not have Magnifier.#
 Close email window if you want to discard item.#
-상대방이 친구 요청중입니다#
+The opponent has already requested you to be a friend.#
 SCRIPT ERROR AID#
 \nErrorfile : %s\nErrorLine : %d item\nErrorContext: %s#
 ^ff0000Are you sure want to purchase the item? after confirmation will consume %d point and %d crackers.#
@@ -3386,15 +3386,15 @@ Back#
 휴대폰에 다운받은 GNJOY MOTP를#
 실행하여 인증번호를 입력해 주세요.#
 NPC가 있는 맵의 랜덤 좌표로 이동 됩니다.#
-태권#
+Taekwon#
  에게 전체채팅 및 귓말 거부상태#
  에게 전체채팅 및 귓말 거부 요청 실패#
  에게 전체채팅 및 귓말 거부 요청실패 (인원초과)#
  에게 전체채팅 및 귓말 가능상태#
  에게 전체채팅 및 귓말 가능 요청실패#
  에게 전체채팅 및 귓말 가능 요청실패 (인원초과)#
-차단 리스트가 없습니다#
--차단 리스트-#
+Ignore-list is empty#
+-Characters in ignore-list-#
 진행중#
 추천#
 보류중#
@@ -3484,7 +3484,7 @@ This is not the current attendance check event#
 파트너의 SP가 부족하거나, 스킬 사용 불가 상태입니다.#
 아르바이트 노점 강제 종료 알림메일#
 안녕하세요. 운영팀입니다.\r\n해당 아르바이트 노점은 운영정책 위배되는 사항이 확인되어 강제 종료되었습니다.\r\n자세한 확인을 원하시는 경우에는 1:1 문의를 접수해 주시기 바랍니다.\r\n감사합니다#
-50% 이상의 값을 입력할 수 없습니다.#
+The guild tax rate can't be set to more than 50%.#
 파티 가입 요청을 보냈습니다.#
 모험가 중개소에 파티를 등록할 수 없습니다#
 수락#
@@ -3536,18 +3536,18 @@ Emblem 테두리를 그려주지 않습니다#
 E X P : %.1f%% ( basic 100.0%% %s %.1f%%)#
 DROP  : %.1f%% ( basic 100.0%% %s %.1f%%)#
 DEATH : %.1f%% ( basic 100.0%% %s %.1f%%)#
-영문이나 러시아어 단독으로만 사용이 가능합니다.#
+Forbidden symbols in character name.#
 you must have an AccessTicket to login#
 창고를 불러오는 중입니다.#
 NOW LOADING..#
-삭제#
-답장#
-전송#
-이름확인#
-공지#
-일반#
-반송#
-검색#
+Delete#
+Reply#
+Send#
+Name Check#
+Notice#
+Normal#
+Return#
+Search#
 펫 먹이주기에 실패했습니다. 먹이를 줄 수 없는 상태입니다.#
 호문 먹이주기에 실패했습니다. 먹이를 줄 수 없는 상태입니다.#
 화폐#
