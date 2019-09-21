@@ -9411,6 +9411,26 @@ tblLapineDdukddakBox = {
 					"C_Big_Foxtail",
 					1,
 					20584
+				},
+				{
+					"C_T_Bear_Bag",
+					1,
+					20582
+				},
+				{
+					"C_Poring_On_Shoulder",
+					1,
+					31688
+				},
+				{
+					"C_FortunetellinSealed",
+					1,
+					31735
+				},
+				{
+					"C_Pretty_Bear_WH",
+					1,
+					31799
 				}
 			},
 			NeedSource_String = "냥다래 의상"
