@@ -5126,6 +5126,26 @@ achievement_tbl = {
 		},
 		score = 10
 	},
+	[130005] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 4,
+		minor = 0,
+		title = "왕을 만든 자",
+		content = {
+			summary = "내가 만든 나의 왕",
+			details = "테라 글로리아의 영광을 되찾고 그 영광의 주역에게 왕관을 씌우라."
+		},
+		resource = {
+			[1] = {
+				text = "룬-미드가츠의 새로운 국왕이 탄생하는 대관식을 참관한다."
+			}
+		},
+		reward = {
+			title = 1046
+		},
+		score = 10
+	},
 	[170000] = {
 		UI_Type = 0,
 		group = "HEAR",
