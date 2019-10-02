@@ -4034,5 +4034,155 @@ SignBoardList = {
 		0,
 		IT_BMP,
 		"information\\over_madogear.bmp"
+	},
+	{
+		"airplane_01",
+		243,
+		73,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  비공정 출구",
+		"#0x00FFFFFF"
+	},
+	{
+		"airplane_01",
+		243,
+		30,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  비공정 출구",
+		"#0x00FFFFFF"
+	},
+	{
+		"izlude",
+		202,
+		75,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  유노-라헬 행",
+		"#0x00FFFFFF"
+	},
+	{
+		"ra_fild12",
+		295,
+		208,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  유노-이즈루드 행",
+		"#0x00FFFFFF"
+	},
+	{
+		"y_airport",
+		148,
+		46,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  이즈루드-라헬 행",
+		"#0x00FFFFFF"
+	},
+	{
+		"y_airport",
+		158,
+		46,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  이즈루드-라헬 행",
+		"#0x00FFFFFF"
+	},
+	{
+		"airplane",
+		243,
+		73,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  비공정 출구",
+		"#0x00FFFFFF"
+	},
+	{
+		"airplane",
+		243,
+		30,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  비공정 출구",
+		"#0x00FFFFFF"
+	},
+	{
+		"y_airport",
+		128,
+		46,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  슈발츠발드 국내선",
+		"#0x00FFFFFF"
+	},
+	{
+		"y_airport",
+		138,
+		46,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  슈발츠발드 국내선",
+		"#0x00FFFFFF"
+	},
+	{
+		"hugel",
+		186,
+		147,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  슈발츠발드 국내선",
+		"#0x00FFFFFF"
+	},
+	{
+		"airport",
+		148,
+		46,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  슈발츠발드 국내선",
+		"#0x00FFFFFF"
+	},
+	{
+		"airport",
+		138,
+		46,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  슈발츠발드 국내선",
+		"#0x00FFFFFF"
+	},
+	{
+		"lhz_airport",
+		148,
+		43,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  슈발츠발드 국내선",
+		"#0x00FFFFFF"
+	},
+	{
+		"lhz_airport",
+		138,
+		43,
+		0,
+		IT_SIGNBOARD,
+		"information\\over_valkyrie_air.bmp",
+		"  슈발츠발드 국내선",
+		"#0x00FFFFFF"
 	}
 }

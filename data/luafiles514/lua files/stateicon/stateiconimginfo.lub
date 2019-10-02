@@ -61,7 +61,8 @@ StateIconImgList = {
 		[EFST_IDs.EFST_SOULCURSE] = "HL_Curse.tga",
 		[EFST_IDs.EFST_SOUND_OF_DESTRUCTION] = "SOUNDOFDESTRUCTION.tga",
 		[EFST_IDs.EFST_MAGIC_POISON] = "VACUUM_EXTREME.tga",
-		[EFST_IDs.EFST_MISTY_FROST] = "FROSTMISTY.tga"
+		[EFST_IDs.EFST_MISTY_FROST] = "FROSTMISTY.tga",
+		[EFST_IDs.EFST_LOCKON_LASER] = "크림즌마커.tga"
 	},
 	[PRIORITY_BLUE] = {
 		[EFST_IDs.EFST_ATTHASTE_CASH] = "ASPDCASH.TGA",
@@ -217,7 +218,11 @@ StateIconImgList = {
 		[EFST_IDs.EFST_SWEETSFAIR_MATK] = "efst_matk.tga",
 		[EFST_IDs.EFST_FLOWER_LEAF2] = "gogi.TGA",
 		[EFST_IDs.EFST_FLOWER_LEAF3] = "efst_atk.tga",
-		[EFST_IDs.EFST_FLOWER_LEAF4] = "efst_matk.tga"
+		[EFST_IDs.EFST_FLOWER_LEAF4] = "efst_matk.tga",
+		[EFST_IDs.EFST_BATH_FOAM_A] = "Bath_Foam_A.tga",
+		[EFST_IDs.EFST_BATH_FOAM_B] = "Bath_Foam_B.tga",
+		[EFST_IDs.EFST_BATH_FOAM_C] = "Bath_Foam_C.tga",
+		[EFST_IDs.EFST_AROMA_OIL] = "Aroma_Oil.tga"
 	},
 	[PRIORITY_GREEN] = {
 		[EFST_IDs.EFST_SET_NUM_DEF] = "SETDEF.TGA",
@@ -321,6 +326,12 @@ StateIconImgList = {
 		[EFST_IDs.EFST_APPLEIDUN] = "APPLEIDUN.tga",
 		[EFST_IDs.EFST_HELPANGEL] = "HELPANGEL.TGA",
 		[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = "UNLIMITEDHUMMINGVOICE.tga",
-		[EFST_IDs.EFST_MOONLIT_SERENADE] = "달빛의세레나데.tga"
+		[EFST_IDs.EFST_MOONLIT_SERENADE] = "달빛의세레나데.tga",
+		[EFST_IDs.EFST_GIANTGROWTH] = "rk_turisuss.tga",
+		[EFST_IDs.EFST_FIGHTINGSPIRIT] = "rk_eisir.tga",
+		[EFST_IDs.EFST_VITALITYACTIVATION] = "rk_isha.tga",
+		[EFST_IDs.EFST_LUXANIMA] = "rk_lux.tga",
+		[EFST_IDs.EFST_LKCONCENTRATION] = "EXEEDBREAK.tga",
+		[EFST_IDs.EFST_AURABLADE] = "icon04.tga"
 	}
 }

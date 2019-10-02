@@ -3102,7 +3102,7 @@ SKILL_INFO_LIST = {
 		"HW_MAGICPOWER",
 		SkillName = "Mystical Amplification",
 		MaxLv = 10,
-		SpAmount = { 14, 18, 22, 26, 30, 34, 38, 42, 46, 50 },
+		SpAmount = { 30, 35, 40, 45, 50, 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
 	},
@@ -3246,7 +3246,7 @@ SKILL_INFO_LIST = {
 		"ASC_BREAKER",
 		SkillName = "Soul Destroyer",
 		MaxLv = 10,
-		SpAmount = { 20, 20, 20, 20, 20, 30, 30, 30, 30, 30 },
+		SpAmount = { 20, 20, 20, 20, 20, 20, 20, 20, 20, 20 },
 		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
@@ -6828,7 +6828,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Shrink",
 		MaxLv = 1,
 		Type = "Quest",
-		SpAmount = { 15 },
+		SpAmount = { 100 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
 	},
@@ -6846,7 +6846,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Venom Knife",
 		MaxLv = 1,
 		Type = "Quest",
-		SpAmount = { 15 },
+		SpAmount = { 35 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
 	},
@@ -6855,7 +6855,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Close Confine",
 		MaxLv = 1,
 		Type = "Quest",
-		SpAmount = { 25 },
+		SpAmount = { 40 },
 		bSeperateLv = false,
 		AttackRange = { 2 }
 	},
@@ -6864,7 +6864,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Sight Blaster",
 		MaxLv = 1,
 		Type = "Quest",
-		SpAmount = { 40 },
+		SpAmount = { 80 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
 	},
@@ -6891,7 +6891,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Phantasmic Arrow",
 		MaxLv = 1,
 		Type = "Quest",
-		SpAmount = { 10 },
+		SpAmount = { 50 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
 	},
@@ -6900,7 +6900,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Pang Voice",
 		MaxLv = 1,
 		Type = "Quest",
-		SpAmount = { 20 },
+		SpAmount = { 40 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
 	},
@@ -6909,7 +6909,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Charming Wink",
 		MaxLv = 1,
 		Type = "Quest",
-		SpAmount = { 20 },
+		SpAmount = { 40 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
 	},
@@ -6936,7 +6936,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Redemptio",
 		MaxLv = 1,
 		Type = "Quest",
-		SpAmount = { 400 },
+		SpAmount = { 800 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
 	},
@@ -6954,7 +6954,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Excruciating Palm",
 		MaxLv = 1,
 		Type = "Quest",
-		SpAmount = { 20 },
+		SpAmount = { 40 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
 	},
@@ -7025,7 +7025,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 10,
 		SpAmount = { 60, 60, 60, 60, 60, 60, 60, 60, 60, 60 },
 		bSeperateLv = true,
-		AttackRange = { 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 },
+		AttackRange = { 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 },
 		_NeedSkillList = {
 			{ SKID.RK_PHANTOMTHRUST, 3 }
 		}
@@ -7034,7 +7034,7 @@ SKILL_INFO_LIST = {
 		"RK_WINDCUTTER",
 		SkillName = "Wind Cutter",
 		MaxLv = 5,
-		SpAmount = { 20, 24, 28, 32, 36 },
+		SpAmount = { 34, 38, 42, 46, 50 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -7190,9 +7190,9 @@ SKILL_INFO_LIST = {
 		"GC_CROSSIMPACT",
 		SkillName = "Cross Impact",
 		MaxLv = 5,
-		SpAmount = { 25, 25, 25, 25, 25 },
+		SpAmount = { 40, 40, 40, 40, 40 },
 		bSeperateLv = false,
-		AttackRange = { 3, 3, 3, 3, 3 },
+		AttackRange = { 7, 7, 7, 7, 7 },
 		_NeedSkillList = {
 			{ SKID.AS_SONICBLOW, 10 }
 		}
@@ -7705,7 +7705,7 @@ SKILL_INFO_LIST = {
 		"WL_HELLINFERNO",
 		SkillName = "Hell Inferno",
 		MaxLv = 5,
-		SpAmount = { 35, 40, 45, 50, 55 },
+		SpAmount = { 64, 70, 76, 82, 88 },
 		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
@@ -7716,7 +7716,7 @@ SKILL_INFO_LIST = {
 		"WL_COMET",
 		SkillName = "Comet",
 		MaxLv = 5,
-		SpAmount = { 480, 560, 640, 720, 800 },
+		SpAmount = { 70, 90, 110, 130, 150 },
 		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
@@ -7762,10 +7762,10 @@ SKILL_INFO_LIST = {
 	[SKID.WL_SUMMONFB] = {
 		"WL_SUMMONFB",
 		SkillName = "Summon Fire Ball",
-		MaxLv = 5,
-		SpAmount = { 10, 12, 14, 16, 18 },
+		MaxLv = 2,
+		SpAmount = { 10, 50 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 },
+		AttackRange = { 1, 1 },
 		_NeedSkillList = {
 			{ SKID.WZ_METEOR, 1 }
 		}
@@ -7773,10 +7773,10 @@ SKILL_INFO_LIST = {
 	[SKID.WL_SUMMONBL] = {
 		"WL_SUMMONBL",
 		SkillName = "Summon Lightning Ball",
-		MaxLv = 5,
-		SpAmount = { 10, 12, 14, 16, 18 },
+		MaxLv = 2,
+		SpAmount = { 10, 50 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 },
+		AttackRange = { 1, 1 },
 		_NeedSkillList = {
 			{ SKID.WZ_VERMILION, 1 }
 		}
@@ -7784,10 +7784,10 @@ SKILL_INFO_LIST = {
 	[SKID.WL_SUMMONWB] = {
 		"WL_SUMMONWB",
 		SkillName = "Summon Water Ball",
-		MaxLv = 5,
-		SpAmount = { 10, 12, 14, 16, 18 },
+		MaxLv = 2,
+		SpAmount = { 10, 50 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 },
+		AttackRange = { 1, 1 },
 		_NeedSkillList = {
 			{ SKID.WZ_STORMGUST, 1 }
 		}
@@ -7795,10 +7795,10 @@ SKILL_INFO_LIST = {
 	[SKID.WL_SUMMONSTONE] = {
 		"WL_SUMMONSTONE",
 		SkillName = "Summon Stone",
-		MaxLv = 5,
-		SpAmount = { 10, 12, 14, 16, 18 },
+		MaxLv = 2,
+		SpAmount = { 10, 50 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 },
+		AttackRange = { 1, 1 },
 		_NeedSkillList = {
 			{ SKID.WZ_HEAVENDRIVE, 1 }
 		}
@@ -7807,7 +7807,7 @@ SKILL_INFO_LIST = {
 		"WL_RELEASE",
 		SkillName = "Release",
 		MaxLv = 2,
-		SpAmount = { 3, 20 },
+		SpAmount = { 10, 10 },
 		bSeperateLv = true,
 		AttackRange = { 11, 11 }
 	},
@@ -7815,17 +7815,9 @@ SKILL_INFO_LIST = {
 		"WL_READING_SB",
 		SkillName = "Reading Spell Book",
 		MaxLv = 1,
-		SpAmount = { 40 },
+		SpAmount = { 0 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
-	},
-	[SKID.WL_READING_SB_READING] = {
-		"WL_READING_SB_READING",
-		SkillName = "Reading Spell Book",
-		MaxLv = 10,
-		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
-		bSeperateLv = false,
-		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
 	},
 	[SKID.WL_FREEZE_SP] = {
 		"WL_FREEZE_SP",
@@ -11161,6 +11153,15 @@ SKILL_INFO_LIST = {
 			{ SKID.RK_DRAGONTRAINING, 2 }
 		}
 	},
+	[SKID.RK_LUXANIMA] = {
+		"RK_LUXANIMA",
+		SkillName = "Lux Anima",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 1 },
+		_NeedSkillList = {}
+	},
 	[SKID.NC_MAGMA_ERUPTION] = {
 		"NC_MAGMA_ERUPTION",
 		SkillName = "Magma Eruption",
@@ -11737,6 +11738,14 @@ SKILL_INFO_LIST = {
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {}
+	},
+	[SKID.WL_READING_SB_READING] = {
+		"WL_READING_SB_READING",
+		SkillName = "Reading Spell Book",
+		MaxLv = 10,
+		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
 	},
 	[SKID.HLIF_HEAL] = {
 		"HLIF_HEAL",

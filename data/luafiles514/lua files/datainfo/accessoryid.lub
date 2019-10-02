@@ -1929,5 +1929,7 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Bicolor_Cat_Witch_Hat = 1938,
 	ACCESSORY_C_Halloween_Cat_Short = 1939,
 	ACCESSORY_C_Halloween_Cat_Long = 1940,
-	ACCESSORY_C_2019_D10_Muffler_TW = 1941
+	ACCESSORY_C_2019_D10_Muffler_TW = 1941,
+	ACCESSORY_BJ_HeadsetA = 1942,
+	ACCESSORY_BJ_HeadsetB = 1943
 }

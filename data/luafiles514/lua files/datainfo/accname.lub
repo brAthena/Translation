@@ -1925,5 +1925,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Bicolor_Cat_Witch_Hat] = "_C_Bicolor_Cat_Witch_Hat",
 	[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Short] = "_C_Halloween_Cat_Short",
 	[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Long] = "_C_Halloween_Cat_Long",
-	[ACCESSORY_IDs.ACCESSORY_C_2019_D10_Muffler_TW] = "_C_2019_D10_Muffler_TW"
+	[ACCESSORY_IDs.ACCESSORY_C_2019_D10_Muffler_TW] = "_C_2019_D10_Muffler_TW",
+	[ACCESSORY_IDs.ACCESSORY_BJ_HeadsetA] = "_BJ_HeadsetA",
+	[ACCESSORY_IDs.ACCESSORY_BJ_HeadsetB] = "_BJ_HeadsetB",
 }
