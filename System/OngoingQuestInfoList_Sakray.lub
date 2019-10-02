@@ -6444,7 +6444,7 @@ QuestInfoList = {
 		Title = "대기: 배고픈 멧돼지",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"지금은 멧돼지 트랩을 손질해야 해요. 새벽 시간이 지난 후에 <NAVI>[저]<INFO>alberta,152,198,0,101,0</INFO></NAVI>에게 다시 찾아 오시ㅤㄱㅖㅆ어요?"
+			"지금은 멧돼지 트랩을 손질해야 해요. 새벽 시간이 지난 후에 <NAVI>[저]<INFO>alberta,152,198,0,101,0</INFO></NAVI>에게 다시 찾아 오시?어요?"
 		},
 		Summary = "초기화 시간 04시"
 	},
@@ -6536,6 +6536,14 @@ QuestInfoList = {
 		},
 		Summary = "김서방의 부탁을 들어주기"
 	},
+	[3384] = {
+		Title = "쿤룬으로 넘어가야 하는 이유- 대기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"새벽이 지나 다시 배를 띄울 수 있는 시간이 되었을 때, 김서방을 다시 찾아가도록 하자."
+		},
+		Summary = "초기화 시간 04시"
+	},
 	[3385] = {
 		Title = "은월의 용건",
 		IconName = "ico_ev.bmp",
@@ -6567,6 +6575,34 @@ QuestInfoList = {
 			"은월이 추수제 기념과자를 더 필요로 할 때, 다시 오도록 하자."
 		},
 		Summary = "초기화 시간 04시"
+	},
+	[3389] = {
+		Title = "생체 전자 방해 칩 제거",
+		Description = {
+			"칩 제거에 성공하여 에오르파와의 소통이 원활하게 되었다."
+		},
+		Summary = "에오르파의 시스템이 재시작 되면 말을 걸어보자."
+	},
+	[3390] = {
+		Title = "제 2 마력 발전소 관리자 에오르파",
+		Description = {
+			"^4d4dff마력중독 사나레^000000로부터 감자칩을 빼앗아 오자!"
+		},
+		Summary = "감자칩 10개를 회수해 오자."
+	},
+	[3391] = {
+		Title = "일루시온이 뿌린 감자칩 - 대기",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[에오르파]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[3392] = {
+		Title = "일루시온이 뿌린 감자칩",
+		Description = {
+			"^4d4dff마력중독 사나레^000000로부터 감자칩을 빼앗아 오자!"
+		},
+		Summary = "감자칩 10개를 회수해 오자."
 	},
 	[4000] = {
 		Title = "Sherin's Job Interview",
@@ -13408,6 +13444,106 @@ QuestInfoList = {
 			{ ItemID = 25669, ItemNum = 5 },
 			{ ItemID = 25723, ItemNum = 1 }
 		}
+	},
+	[5892] = {
+		Title = "청소로봇Ω",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"청소로봇Ω"
+		},
+		Summary = "청소로봇Ω와 대화 완료"
+	},
+	[5893] = {
+		Title = "하수처리장 청소Ⅰ",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[하수 베네눔]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
+			" ",
+			"보상은 하수처리장 청소Ⅰ, 하수처리장 청소Ⅱ, 하수처리장 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
+		},
+		Summary = "하수 베네눔 44개체",
+		NpcSpr = "EP17_2_OMEGA_CLEANER"
+	},
+	[5894] = {
+		Title = "하수처리장 청소Ⅱ",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[하수 크램프]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
+			" ",
+			"보상은 하수처리장 청소Ⅰ, 하수처리장 청소Ⅱ, 하수처리장 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
+		},
+		Summary = "하수 크램프 44개체",
+		NpcSpr = "EP17_2_OMEGA_CLEANER"
+	},
+	[5895] = {
+		Title = "하수처리장 청소Ⅲ",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[하수 워터폴]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
+			" ",
+			"보상은 하수처리장 청소Ⅰ, 하수처리장 청소Ⅱ, 하수처리장 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
+		},
+		Summary = "하수 워터폴 44개체",
+		NpcSpr = "EP17_2_OMEGA_CLEANER"
+	},
+	[5896] = {
+		Title = "[대기]하수처리장 청소",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"일정 시간이 지난 후",
+			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>에게 하수처리장 청소 퀘스트를 다시 받을 수 있습니다."
+		},
+		Summary = "초기화 04시",
+		NpcSpr = "EP17_2_OMEGA_CLEANER"
+	},
+	[5897] = {
+		Title = "제1 마력발전소 청소Ⅰ",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[엘리트 벨라레]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
+			" ",
+			"보상은 제1 마력발전소 청소Ⅰ, 제1 마력발전소 청소Ⅱ, 제1 마력발전소 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
+		},
+		Summary = "엘리트 벨라레 44개체",
+		NpcSpr = "EP17_2_OMEGA_CLEANER"
+	},
+	[5898] = {
+		Title = "제1 마력발전소 청소Ⅱ",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[마력중독 돌로르]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
+			" ",
+			"보상은 제1 마력발전소 청소Ⅰ, 제1 마력발전소 청소Ⅱ, 제1 마력발전소 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
+		},
+		Summary = "마력중독 돌로르 44개체",
+		NpcSpr = "EP17_2_OMEGA_CLEANER"
+	},
+	[5899] = {
+		Title = "제1 마력발전소 청소Ⅲ",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[풀려난 마력]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
+			" ",
+			"보상은 제1 마력발전소 청소Ⅰ, 제1 마력발전소 청소Ⅱ, 제1 마력발전소 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
+		},
+		Summary = "풀려난 마력 44개체",
+		NpcSpr = "EP17_2_OMEGA_CLEANER"
+	},
+	[5900] = {
+		Title = "[대기]제1 마력발전소 청소",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"일정 시간이 지난 후",
+			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>에게 안전확보 퀘스트를 다시 받을 수 있습니다."
+		},
+		Summary = "초기화 04시",
+		NpcSpr = "EP17_2_OMEGA_CLEANER"
 	},
 	[6000] = {
 		Title = "Job Change to Taekwon",
@@ -22507,6 +22643,83 @@ QuestInfoList = {
 		},
 		Summary = "달콤이 껍질 30개 조달"
 	},
+	[8586] = {
+		Title = "사육장 안내",
+		Description = {
+			"사육장은 시설 안내와 주의 사항을 듣지 않으면 입장을 허가할 수 없다고 한다. <NAVI>[루이난]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>에게 자세한 이야기를 들어 보자."
+		},
+		Summary = "루이난과 대화"
+	},
+	[8587] = {
+		Title = "일일 농장 체험 - 대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"보람찬 수확은 언제나 당신을 기다립니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[8588] = {
+		Title = "꼬리 회수",
+		Description = {
+			"농장 체험을 하는 동안 모은 피타야의 여러 가지 꼬리를 체험 마무리 점검을 하는 자동인형 실크에게 건네주면 된다."
+		},
+		Summary = "던전 끝의 실크에게 꼬리 전달"
+	},
+	[8589] = {
+		Title = "보스 야옹이가!",
+		Description = {
+			"실크는 루이난에게 내부 서버로 보고를 마쳤으나, 그래도 분이 풀리지 않는지 손님으로서 <NAVI>[루이난]<INFO>ba_maison,311,205,0,101,0</INFO></NAVI>에게 직접 클레임을 넣어 달라고 부탁했다."
+		},
+		Summary = "루이난과 대화"
+	},
+	[8590] = {
+		Title = "빨간 피타야와 놀아주기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"자동인형 <NAVI>[코튼]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>은 지정된 노동량을 채우기 위해서라면 무슨 수라도 쓰고 싶어한다. 손님에게 노동을 부과하는 것조차 망설이지 않는다. 빨간 피타야 20마리와 놀아주면 코튼은 대가를 줄 것이다."
+		},
+		Summary = "빨간 피타야 처치"
+	},
+	[8591] = {
+		Title = "노란 피타야와 놀아주기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"자동인형 <NAVI>[코튼]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>은 지정된 노동량을 채우기 위해서라면 무슨 수라도 쓰고 싶어한다. 손님에게 노동을 부과하는 것조차 망설이지 않는다. 노란 피타야 20마리와 놀아주면 코튼은 대가를 줄 것이다."
+		},
+		Summary = "노란 피타야 처치"
+	},
+	[8592] = {
+		Title = "파란 피타야와 놀아주기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"자동인형 <NAVI>[코튼]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>은 지정된 노동량을 채우기 위해서라면 무슨 수라도 쓰고 싶어한다. 손님에게 노동을 부과하는 것조차 망설이지 않는다. 파란 피타야 20마리와 놀아주면 코튼은 대가를 줄 것이다."
+		},
+		Summary = "파란 피타야 처치"
+	},
+	[8593] = {
+		Title = "보라 피타야와 놀아주기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"자동인형 <NAVI>[코튼]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>은 지정된 노동량을 채우기 위해서라면 무슨 수라도 쓰고 싶어한다. 손님에게 노동을 부과하는 것조차 망설이지 않는다. 보라 피타야 20마리와 놀아주면 코튼은 대가를 줄 것이다."
+		},
+		Summary = "보라 피타야 처치"
+	},
+	[8594] = {
+		Title = "초록 피타야와 놀아주기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"자동인형 <NAVI>[코튼]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>은 지정된 노동량을 채우기 위해서라면 무슨 수라도 쓰고 싶어한다. 손님에게 노동을 부과하는 것조차 망설이지 않는다. 초록 피타야 20마리와 놀아주면 코튼은 대가를 줄 것이다."
+		},
+		Summary = "초록 피타야 처치"
+	},
+	[8595] = {
+		Title = "피타야와 놀아주기 - 대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"<NAVI>[코튼]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>은 언제나 당신을 기다립니다. 내일 다시 노동을 하고 대가를 요구합시다."
+		},
+		Summary = "04시 초기화"
+	},
 	[9000] = {
 		Title = "Job Change to Knight",
 		Description = {
@@ -29637,6 +29850,198 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Summary = ""
 	},
+	[11615] = {
+		Title = "하수관의 낙오자",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"물에 빠진 사람이 전투불능 상태인 것 같다. 이그드라실의 나뭇잎을 사용해서 회복시켜 주자."
+		},
+		Summary = "이그드라실의 나뭇잎 1개"
+	},
+	[11616] = {
+		Title = "하수관의 낙오자",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"듀 일행도 리벨리온의 외뢰를 받고 저택을 조사하게 되었다고 한다. 다른 일행들과 합류하자."
+		},
+		Summary = "마기의 목소리가 들리는 곳으로"
+	},
+	[11617] = {
+		Title = "하수관의 낙오자",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"위로 올라가는 문을 찾았다. 함께 이동하자."
+		},
+		Summary = "알프가 있는 곳으로"
+	},
+	[11618] = {
+		Title = "하수관의 낙오자",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"드디어 지상으로 올라온 것 같다. 라시스와 대화하자."
+		},
+		Summary = "라시스와 대화"
+	},
+	[11620] = {
+		Title = "하수관의 낙오자",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"안쪽 문은 잠겨있는 듯 하다. 밖으로 나가서 일행과 대화하자."
+		},
+		Summary = "타마린과 대화"
+	},
+	[11621] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"듀가 갑자기 분수대가 있는 곳으로 뛰어갔다. 듀를 따라가보자."
+		},
+		Summary = "분수대를 확인"
+	},
+	[11622] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"모두가 궁금해하는 도서관을 조사하자."
+		},
+		Summary = "도서관 내부로"
+	},
+	[11623] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"문에 붙어있는 불을 끄고 도서관으로 입장했다."
+		},
+		Summary = "도서관 관리자β와 대화"
+	},
+	[11624] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"도서관에서는 추가로 도서관 이용 등록이 필요하다고 한다. 마크에게 이야기 해주자."
+		},
+		Summary = "도서관에 있는 마크와 대화"
+	},
+	[11625] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"도서관에서는 추가로 도서관 이용 등록이 필요하다고 한다. 마기에게 이야기 해주자."
+		},
+		Summary = "도서관에 있는 마기와 대화"
+	},
+	[11626] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"도서관에서는 추가로 도서관 이용 등록이 필요하다고 한다. 알프에게 이야기 해주자."
+		},
+		Summary = "도서관에 있는 알프와 대화"
+	},
+	[11627] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"도서관에서는 추가로 도서관 이용 등록이 필요하다고 한다. 타마린에게 이야기 해주자."
+		},
+		Summary = "도서관에 있는 타마린과 대화"
+	},
+	[11628] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"도서관에서는 추가로 도서관 이용 등록이 필요하다고 한다. 올리버에게 이야기 해주자."
+		},
+		Summary = "도서관에 있는 올리버와 대화"
+	},
+	[11629] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"마크와 대화를 나누었다. 다른 일행들과도 대화가 끝나면 도서관 관리자β에게 돌아가자."
+		},
+		Summary = "도서관 관리자β에게로"
+	},
+	[11630] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"마기와 대화를 나누었다. 다른 일행들과도 대화가 끝나면 도서관 관리자β에게 돌아가자."
+		},
+		Summary = "도서관 관리자β에게로"
+	},
+	[11631] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"알프와 대화를 나누었다. 다른 일행들과도 대화가 끝나면 도서관 관리자β에게 돌아가자."
+		},
+		Summary = "도서관 관리자β에게로"
+	},
+	[11632] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"타마린과 대화를 나누었다. 다른 일행들과도 대화가 끝나면 도서관 관리자β에게 돌아가자."
+		},
+		Summary = "도서관 관리자β에게로"
+	},
+	[11633] = {
+		Title = "도서관에서는 조용히!",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"마올리버와 대화를 나누었다. 다른 일행들과도 대화가 끝나면 도서관 관리자β에게 돌아가자."
+		},
+		Summary = "도서관 관리자β에게로"
+	},
+	[11634] = {
+		Title = "궁극의 책벌레 사냥",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"마법서를 갉아먹는 책벌레 때문에 도서관 관리에 골머리를 앓고 있는 듯 하다. 책벌레를 처치하고 도서관 관리자β에게 돌아가자."
+		},
+		Summary = "책벌레 20마리 사냥"
+	},
+	[11635] = {
+		Title = "궁극의 책벌레 사냥",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"오늘의 퀘스트를 완료했다."
+		},
+		Summary = "04시 초기화"
+	},
+	[11636] = {
+		Title = "궁극의 책정리",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"책장을 빠져나가 배회하는 마법서들 때문에 책장이 엉망진창인 듯하다. 배회하는 마법서를 회수해서 도서관 관리자β에게 돌아가자."
+		},
+		Summary = "배회하는 마법서 20권 회수"
+	},
+	[11637] = {
+		Title = "궁극의 책정리",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"오늘의 퀘스트를 완료했다."
+		},
+		Summary = "04시 초기화"
+	},
+	[11638] = {
+		Title = "궁극의 고철수집",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"부서진 가디언의 부품을 회수해서 가져오면 가디언을 수리할 수 있다고 한다. 가디언의 부품을 회수해서 제 1연구소 앞의 타마린에게 돌아가자."
+		},
+		Summary = "가디언의 잔해 20개 회수"
+	},
+	[11639] = {
+		Title = "궁극의 고철수집",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"오늘의 퀘스트를 완료했다."
+		},
+		Summary = "04시 초기화"
+	},
 	[12000] = {
 		Title = "An old friend",
 		Description = {
@@ -32202,42 +32607,42 @@ QuestInfoList = {
 	[12383] = {
 		Title = "Sweet Potato Delivery",
 		Description = {
-			"Get 160 <ITEM>Sweet Potatoes<INFO>516</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from 	merchants in big cities."
+			"Get 160 <ITEM>Sweet Potatoes<INFO>516</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from \tmerchants in big cities."
 		},
 		Summary = "160 Sweet Potatoes"
 	},
 	[12384] = {
 		Title = "Meat Delivery",
 		Description = {
-			"Get 50 <ITEM>Meats<INFO>517</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in 	big cities."
+			"Get 50 <ITEM>Meats<INFO>517</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants in \tbig cities."
 		},
 		Summary = "50 Meats"
 	},
 	[12385] = {
 		Title = "Carrot Delivery",
 		Description = {
-			"Get 160 <ITEM>Carrots<INFO>515</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants 	in big cities."
+			"Get 160 <ITEM>Carrots<INFO>515</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants \tin big cities."
 		},
 		Summary = "160 Carrots"
 	},
 	[12386] = {
 		Title = "Banana Delivery",
 		Description = {
-			"Get 160 <ITEM>Bananas<INFO>513</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants 	in big cities."
+			"Get 160 <ITEM>Bananas<INFO>513</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants \tin big cities."
 		},
 		Summary = "160 Bananas"
 	},
 	[12387] = {
 		Title = "Pumpkin Delivery",
 		Description = {
-			"Get 160 <ITEM>Pumpkins<INFO>535</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants 	in big cities."
+			"Get 160 <ITEM>Pumpkins<INFO>535</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants \tin big cities."
 		},
 		Summary = "160 Pumpkins"
 	},
 	[12388] = {
 		Title = "Mushroom Delivery",
 		Description = {
-			"Get 60 <ITEM>Mushrooms<INFO>581</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants 	in big cities."
+			"Get 60 <ITEM>Mushrooms<INFO>581</INFO></ITEM> from the mainland and deliver them to the Food Distributor in Rock Ridge. You can buy them from merchants \tin big cities."
 		},
 		Summary = "60 Mushrooms"
 	},
@@ -32395,7 +32800,6 @@ QuestInfoList = {
 		},
 		Summary = "Quest resets at 4:00 a.m."
 	},
-
 	[12412] = {
 		Title = "초심자 모드",
 		Description = {
@@ -32880,6 +33284,41 @@ QuestInfoList = {
 			"오염된 차원이 이 세계를 물들이지 않도록 막아낼 사람은 당신 뿐입니다."
 		},
 		Summary = "차원 오염 정화"
+	},
+	[12496] = {
+		Title = "화원 출입허가 대기",
+		Description = {
+			"한번 출입한 화원은 일정 대기시간이 필요합니다. 얌전히 대기해주십시오."
+		},
+		Summary = "출입 허가 대기"
+	},
+	[12497] = {
+		Title = "보안구역 출입 허가",
+		Description = {
+			"보안구역의 출입이 허가되었습니다."
+		},
+		Summary = "보안구역 출입 허가"
+	},
+	[12498] = {
+		Title = "보안구역 출입허가 대기",
+		Description = {
+			"보안구역은 마음대로 드나들 수 있는 곳이 아닙니다. 다음 출입 허가가 나올때까지 대기하십시오."
+		},
+		Summary = "남은 대기시간 1일"
+	},
+	[12499] = {
+		Title = "레드페퍼-카파 제압",
+		Description = {
+			"보안구역 관리자 3인방중 하나인 레드페퍼 카파를 제압하고 관리자 권한을 빼앗아야합니다. 물론 시간이 지나면 다시 회복하겠지만..."
+		},
+		Summary = "시간 벌기"
+	},
+	[12500] = {
+		Title = "레드페퍼-오메가 제압",
+		Description = {
+			"보안구역 관리자 3인방중 하나인 레드페퍼 오메가를 제압하고 관리자 권한을 빼앗아야합니다. 물론 시간이 지나면 다시 회복하겠지만..."
+		},
+		Summary = "시간 벌기"
 	},
 	[13000] = {
 		Title = "RWC 2011Card Gathering",
@@ -41694,6 +42133,406 @@ QuestInfoList = {
 			{ ItemID = 25786, ItemNum = 3 }
 		}
 	},
+	[16404] = {
+		Title = "행복한 알 탐사",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"축제가 시작되었다. <NAVI>[축제 위원]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> 율라타에게 가 축제에 대해 듣자."
+		},
+		Summary = "알 축제 참가"
+	},
+	[16405] = {
+		Title = "행복한 알 탐사-대기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[축제 위원]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> 율라타를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[16406] = {
+		Title = "행복한 알 탐사",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"축제가 계속된다. 던전 및 필드에 숨어 있는 행복한 알 3개를 깨트리고 <NAVI>[축제 위원]<INFO>yuno.gat,175,162,0,101,0</INFO></NAVI> 율라타에게 돌아가자."
+		},
+		Summary = "알 축제 참가"
+	},
+	[16407] = {
+		Title = "행복한 클로버 장식-대기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[축제 장식 플래너]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[16408] = {
+		Title = "행복한 클로버 장식",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"축제가 계속된다. 던전 및 필드에서 클로버 루나틱을 3마리 사냥하고, <ITEM>[행복의 세잎 클로버]<INFO>25295</INFO></ITEM>를 세 개 모아 <NAVI>[축제 장식 플래너]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = "클로버 장식 참가"
+	},
+	[16409] = {
+		Title = "행복한 알 재료 배달-대기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[질리언]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[16410] = {
+		Title = "행복한 아몬드 배달",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"이즈루드의 <NAVI>[농부 쉐란]<INFO>izlude.gat,164,148,0,101,0</INFO></NAVI>씨에게 가서 아몬드 한 자루를 받자."
+		},
+		Summary = "아몬드 받아 오기"
+	},
+	[16411] = {
+		Title = "행복한 초콜렛 배달",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라의 <NAVI>[파티시에 이언]<INFO>prontera.gat,268,156,0,101,0</INFO></NAVI>에게 가서 초콜렛 한 판을 받자."
+		},
+		Summary = "초콜렛 받아 오기"
+	},
+	[16412] = {
+		Title = "행복한 아몬드 배달",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"이즈루드의 농부 쉐란 씨에게 아몬드 한 자루를 받았다. 초콜렛도 챙긴 뒤 <NAVI>[질리언]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = "아몬드 배달"
+	},
+	[16413] = {
+		Title = "행복한 초콜렛 배달",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"프론테라의 파티시에 이언에게 가서 초콜렛 한 판을 받았다. 아몬드도 챙긴 뒤 <NAVI>[질리언]<INFO>yuno.gat,142,163,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = "초콜렛 배달"
+	},
+	[16414] = {
+		Title = "행복한 큐펫 산책-대기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[세이럼]<INFO>yuno.gat,150,155,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[16415] = {
+		Title = "행복한 큐펫 산책",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"선택한 큐펫에게 말을 걸어 함께 산책을 시작하자."
+		},
+		Summary = "큐펫과 산책"
+	},
+	[16416] = {
+		Title = "행복한 큐펫 산책",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"첫 번째 <NAVI>[거점]<INFO>yuno,195,302,0,101,0</INFO></NAVI>까지 큐펫과 산책하자."
+		},
+		Summary = "첫 번째 거점까지 산책"
+	},
+	[16417] = {
+		Title = "행복한 큐펫 산책",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"두 번째 <NAVI>[거점]<INFO>yuno,343,257,0,101,0</INFO></NAVI>까지 큐펫과 산책하자."
+		},
+		Summary = "두 번째 거점까지 산책"
+	},
+	[16418] = {
+		Title = "행복한 큐펫 산책",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"세 번째 <NAVI>[거점]<INFO>yuno,282,102,0,101,0</INFO></NAVI>까지 큐펫과 산책하자."
+		},
+		Summary = "세 번째 거점까지 산책"
+	},
+	[16419] = {
+		Title = "행복한 큐펫 산책",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"그만 <NAVI>[광장]<INFO>yuno,150,155,0,101,0</INFO></NAVI>으로 돌아가 산책을 마치도록 하자."
+		},
+		Summary = "광장으로 귀환"
+	},
+	[16420] = {
+		Title = "행복한 루나틱과 산책",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"행복한 루나틱과 산책!"
+		},
+		Summary = "루나틱과 산책"
+	},
+	[16421] = {
+		Title = "행복한 포링과 산책",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"행복한 포링과 산책!"
+		},
+		Summary = "포링과 산책"
+	},
+	[16422] = {
+		Title = "행복한 새끼 데저트울프와 산책",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"행복한 새끼 데저트울프와 산책!"
+		},
+		Summary = "새끼 데저트울프와 산책"
+	},
+	[16423] = {
+		Title = "행복한 데비루치와 산책",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"행복한 데비루치와 산책!"
+		},
+		Summary = "데비루치와 산책"
+	},
+	[16424] = {
+		Title = "행복한 큐펫 자판기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"행복한 큐펫 자판기 사용법에 대해 들었다."
+		},
+		Summary = "행복한 큐펫 자판기"
+	},
+	[16425] = {
+		Title = "행복한 산책 첫 번째",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"첫 번째 산책을 마쳤다."
+		},
+		Summary = "첫 번째 산책"
+	},
+	[16426] = {
+		Title = "행복한 산책 두 번째",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"두 번째 산책을 마쳤다."
+		},
+		Summary = "두 번째 산책"
+	},
+	[16427] = {
+		Title = "중독",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"엘류미나가 유해물질에 노출되었다. <NAVI>[저택 쪽]<INFO> ba_maison,169,270,0,101,0</INFO></NAVI>으로 가 도움을 요청해 보자."
+		},
+		Summary = "저택으로 이동"
+	},
+	[16428] = {
+		Title = "해독제 제작",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"자동인형들이 엘류미나를 배척해, 대신 정보를 얻었다. 수상정원으로 가기 위해 <NAVI>[나루터]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>로 가자."
+		},
+		Summary = "나루터로 이동"
+	},
+	[16429] = {
+		Title = "실바 파필리아",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"해독제를 만들기 위해 실바 파필리아를 사냥한 뒤 <NAVI>[세이휴]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = "실바 파필리아 사냥"
+	},
+	[16430] = {
+		Title = "해독제 완성",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"세이휴에게 부탁해 완성한 해독제를 <NAVI>[엘류미나]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>에게 전해 주자."
+		},
+		Summary = "엘류미나와 대화"
+	},
+	[16431] = {
+		Title = "실바 파필리아 사냥",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"수상정원 안의 실바 파필리아를 사냥한 뒤 <NAVI>[세이휴]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = "실바 파필리아 사냥"
+	},
+	[16432] = {
+		Title = "실바 파필리아 사냥-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[세이휴]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[16433] = {
+		Title = "그랑 파필리아 사냥",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"수상정원 안의 그랑 파필리아를 사냥한 뒤 <NAVI>[세이휴]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>에게 돌아가자."
+		},
+		Summary = "그랑 파필리아 사냥"
+	},
+	[16434] = {
+		Title = "그랑 파필리아 사냥-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[세이휴]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[16435] = {
+		Title = "정원사 탐색",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"미로 정원에서 나오지 않은 정원사가 있다고 한다. 찾아내어 안부를 확인한 뒤 <NAVI>[세이휴]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>에게 보고하자."
+		},
+		Summary = ""
+	},
+	[16436] = {
+		Title = "정원사 탐색-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[세이휴]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[16437] = {
+		Title = "수상정원",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"수상정원 보통 난이도에 도전했다."
+		},
+		Summary = "수상정원 일반"
+	},
+	[16438] = {
+		Title = "수상정원 어려움",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"수상정원 어려움 난이도에 도전했다.."
+		},
+		Summary = "수상정원 어려움"
+	},
+	[16439] = {
+		Title = "수상정원-대기",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[세이휴]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
+		},
+		Summary = "04시 초기화"
+	},
+	[16440] = {
+		Title = "그것이 알고 싶다",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[디엔]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>에게 말을 걸어 원로들이 필로폰테스와 대립하는 이유를 들어 보자."
+		},
+		Summary = "디엔과 대화"
+	},
+	[16441] = {
+		Title = "그것이 알고 싶다",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"저택 관리자들에게 다양한 이야기를 들어 본 뒤 <NAVI>[찻집]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI>으로 돌아와 보고하자."
+		},
+		Summary = "관리자와 대화"
+	},
+	[16442] = {
+		Title = "그 관리자의 이야기",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"저택 <NAVI>[관리자]<INFO>ba_maison,189,56,0,101,0</INFO></NAVI>에게 이야기를 들어 보자."
+		},
+		Summary = "관리자와 대화"
+	},
+	[16443] = {
+		Title = "그 관리자의 이야기",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"저택 <NAVI>[관리자]<INFO>ba_maison,318,169,0,101,0</INFO></NAVI>에게 이야기를 들어 보자."
+		},
+		Summary = "관리자와 대화"
+	},
+	[16444] = {
+		Title = "그 관리자의 이야기",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"저택 <NAVI>[관리자]<INFO>ba_maison,249,161,0,101,0</INFO></NAVI>에게 이야기를 들어 보자."
+		},
+		Summary = "관리자와 대화"
+	},
+	[16445] = {
+		Title = "그 관리자의 이야기",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"저택 <NAVI>[관리자]<INFO>ba_maison,232,310,0,101,0</INFO></NAVI>에게 이야기를 들어 보자."
+		},
+		Summary = "관리자와 대화"
+	},
+	[16446] = {
+		Title = "그것이 알고 싶다",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"그동안 숨겨져 있던 이야기가 계속된다. <NAVI>[리드쉬]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI>에게 말을 걸어 마저 이야기를 들어 보자."
+		},
+		Summary = "리드쉬와 대화"
+	},
+	[16447] = {
+		Title = "그것이 알고 싶다",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"기업이 숨기고 있던 이야기가 계속된다. <NAVI>[카야 토스]<INFO>ba_in01,207,102,0,101,0</INFO></NAVI>에게 말을 걸어 마저 이야기를 들어 보자."
+		},
+		Summary = "카야와 대화"
+	},
+	[16448] = {
+		Title = "그것이 알고 싶다",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"카야가 자리를 비우자 루키가 말을 걸어왔다. <NAVI>[루키]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI>의 용무를 들어 보자."
+		},
+		Summary = "루키와 대화"
+	},
+	[16449] = {
+		Title = "그것이 알고 싶다",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"카야 토스는 홀로 정원에 나와 있다. 아니, 혼자인가? <NAVI>[카야 토스]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>에게 다가가 보자."
+		},
+		Summary = "카야와 대화"
+	},
+	[16450] = {
+		Title = "그것이 알고 싶다",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"디엔은 생각이 조금 바뀌었는지도 모른다. <NAVI>[디엔]<INFO>ba_maison,100,90,0,101,0</INFO></NAVI>의 이야기를 들어 보자."
+		},
+		Summary = "디엔과 대화"
+	},
+	[16451] = {
+		Title = "그것이 알고 싶다",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"카야는 최대한 빨리 일을 진전시키려고 한다. <NAVI>[카야]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>의 이야기를 들어 보자."
+		},
+		Summary = "카야와 대화"
+	},
+	[16452] = {
+		Title = "그것이 알고 싶다",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[타티오]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI>가 도착했다. 그에게서 기업의 앞날에 대한 이야기를 듣도록 하자."
+		},
+		Summary = "타티오와 대화"
+	},
+	[16453] = {
+		Title = "그것이 알고 싶다",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[안내]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>에 따라 이동하여, 에이치가 낯선 사람과 이야기하던 장소에 찾아가 탐색해 보자."
+		},
+		Summary = "안내에 따라 이동"
+	},
 	[17000] = {
 		Title = "대화 거부",
 		IconName = "ico_ep.bmp",
@@ -42411,6 +43250,566 @@ QuestInfoList = {
 		},
 		Summary = "모자 교환 확인"
 	},
+	[17333] = {
+		Title = "저택의 손님",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"저택 내의 네트워크로 손님 리스트 공유를 하던 중에 문제가 생긴 것 같다. <NAVI>[저택 관리자α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>에게 확인해보자."
+		},
+		Summary = "저택 관리자α"
+	},
+	[17334] = {
+		Title = "중계기 확인: 식당",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"가장 가까운 <NAVI>[식당]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>쪽으로 가보시는 것이 좋을 것 같습니다. 고장난 중계기 주변의 자동 인형에게 고장 사항을 전달하면 알아서 처리할 것입니다."
+		},
+		Summary = "식당으로"
+	},
+	[17335] = {
+		Title = "중계기의 부품",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"고장난 베타를 처리한 다음에 자동인형 통신칩 1개만 가지고 와. 중계기를 바로 고쳐야 하니까. - <NAVI>[맛짱]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>"
+		},
+		Summary = "부품 1개"
+	},
+	[17336] = {
+		Title = "중계기 확인: 정자",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[정자]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>는 이 길을 쭉 따라서 가면 돼. 고장난 중계기는 함부로 만지지 말고 주변의 자동 인형들에게 얘기하면 될 거야."
+		},
+		Summary = "정자로"
+	},
+	[17337] = {
+		Title = "중계기 확인: 중앙 정원",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"저택의 <NAVI>[중앙 정원]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>은 정자 쪽에서 위로 쭉 올라가서 왼쪽으로 꺾으시면 돼요."
+		},
+		Summary = "중앙 정원으로"
+	},
+	[17338] = {
+		Title = "중계기 확인 완료",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"고장난 중계기를 확인한 후 자동 인형에게 고장 사항을 전달했다. <NAVI>[저택 관리자α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>에게 돌아가 보고하자."
+		},
+		Summary = "저택 관리자α에게"
+	},
+	[17339] = {
+		Title = "예비 부품 수급",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"예비 부품을 가져다 달라는 부탁을 받았다."
+		},
+		Summary = "부품 수급"
+	},
+	[17340] = {
+		Title = "예비 부품 수급",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"고장난 베타들을 처리하고 중계기에 사용할 부품을 10개만 가져다 주십시오. 하루치의 예비분량이 그 정도입니다. - <NAVI>[저택 관리자α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+		},
+		Summary = "부품 10개"
+	},
+	[17341] = {
+		Title = "대기: 신호 없음",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"사정이 괜찮으시다면 내일 새벽이 지난 후에 또 부탁을 드리고 싶습니다. 이만 푹 쉬십시오. - <NAVI>[저택 관리자α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17342] = {
+		Title = "좋아하는 건 아닌데",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"그럼 부탁을 드려도 되겠습니다. 고장난 청소로봇 5체 정도 처리를 부탁드립니다. 그럼, 유희를 즐기시길 바랍니다. - <NAVI>[짹]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+		},
+		Summary = "고장난 청소로봇 5체"
+	},
+	[17343] = {
+		Title = "무서워...",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[계단]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI>을 내려가셔서 지하의 상황이 어떤지 확인하고 오십시오."
+		},
+		Summary = "지하 상황 확인"
+	},
+	[17344] = {
+		Title = "열쇠가 없어",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"계단으로 통하는 문은자물쇠로 굳게 잠겨있다. <NAVI>[짹]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>에게 열쇠를 받아와야겠다."
+		},
+		Summary = "짹에게"
+	},
+	[17345] = {
+		Title = "계단실의 열쇠 1",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[돌고있는 세상]<INFO>ba_2whs01,110,217,0,101,0</INFO></NAVI>. 그 밑에 모든 진리가 있다 하셨지요."
+		},
+		Summary = "비상 열쇠 찾기"
+	},
+	[17346] = {
+		Title = "계단실의 열쇠 2",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"숨마저 얼어붙는 <NAVI>[곳]<INFO>ba_2whs01,110,217,0,101,0</INFO></NAVI>에서는 모든 것이 영원히 변질되지 않고 그 모습 그대로를 유지한다고 하셨습니다."
+		},
+		Summary = "비상 열쇠 찾기"
+	},
+	[17347] = {
+		Title = "계단실의 열쇠 3",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"모든 공기는 흘러야 한다고 하셨습니다. 거기엔 거대한 에너지도 사용된다고도 하셨지요. <NAVI>[그런 장소]<INFO>ba_2whs01,110,217,0,101,0</INFO></NAVI>가 어딘지 짐작도 가지 않지만요."
+		},
+		Summary = "비상 열쇠 찾기"
+	},
+	[17348] = {
+		Title = "열쇠 확보",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"비상열쇠를 다 찾았으니 <NAVI>[잠긴 문]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI>을 열러 가 보자."
+		},
+		Summary = "계단실의 문으로"
+	},
+	[17349] = {
+		Title = "문이 열렸다",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"지하로 통하는 문이 열렸다. 어서 내려가서 <NAVI>[소리가 나는 곳]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>을 확인해보자."
+		},
+		Summary = "지하로"
+	},
+	[17350] = {
+		Title = "머리 몸 팔 다리",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"<NAVI>[몸이 있는 곳]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI>이 제일 가까우니까 그쪽 먼저 가면 되?다. 빠르게 갖다 줘. 나 무서워."
+		},
+		Summary = "몸을 찾으러"
+	},
+	[17351] = {
+		Title = "머리 몸 팔 다리",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"몸은 찾았으니 다음은 <NAVI>[팔]<INFO>ba_2whs02,129,82,0,101,0</INFO></NAVI>을 찾으러 가야겠다."
+		},
+		Summary = "팔을 찾으러"
+	},
+	[17352] = {
+		Title = "머리 몸 팔 다리",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"팔을 찾았으니 <NAVI>[다리]<INFO>ba_2whs02,239,124,0,101,0</INFO></NAVI>를 찾으러 가야겠다."
+		},
+		Summary = "다리를 찾으러"
+	},
+	[17353] = {
+		Title = "머리 몸 팔 다리",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"몸, 팔, 다리로 쓸만한 것을 찾았으니 <NAVI>[머리]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>에게로 돌아가자."
+		},
+		Summary = "머리에게로"
+	},
+	[17354] = {
+		Title = "머리 몸 팔 다리",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"멋진 형태로 조립되었다."
+		},
+		Summary = "조립 완료"
+	},
+	[17355] = {
+		Title = "머리 몸 팔 다리",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"멋진 형태로 조립되었다."
+		},
+		Summary = "조립 완료"
+	},
+	[17356] = {
+		Title = "머리 몸 팔 다리",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"멋진 형태로 조립되었다."
+		},
+		Summary = "조립 완료"
+	},
+	[17357] = {
+		Title = "머리 몸 팔 다리",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"멋진 형태로 조립되었다."
+		},
+		Summary = "조립 완료"
+	},
+	[17358] = {
+		Title = "지하 상황 확인 완료",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"이 정도면 나를 지킬 수 있겠어! 올라가서 다른 <NAVI>[자동인형]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>에게 보고해야 한다고 했지? 어서 가."
+		},
+		Summary = "짹에게로"
+	},
+	[17359] = {
+		Title = "지상 창고 정리",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"정말 전투를 좋아하시는군요. 그럼 지상층의 하트헌터 척후병 20명 처리를 부탁드립니다. - <NAVI>[짹]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+		},
+		Summary = "하트헌터 척후병 20"
+	},
+	[17360] = {
+		Title = "대기: 지상 창고 정리",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"개체수가 줄어든 것이 확인됩니다. 이제 제 일을 시작해도 되겠습니다. 감사합니다. 새벽이 지난 후에 다시 찾아주십시오. - <NAVI>[짹]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17361] = {
+		Title = "지하 창고 정리",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"정말 전투를 좋아하시는군요. 그럼 지하층의 고장난 경비형 베타 20체 처리를 부탁드립니다. - <NAVI>[짹]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+		},
+		Summary = "지하층 20체"
+	},
+	[17362] = {
+		Title = "대기: 지하 창고 정리",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"개체수가 줄어든 것이 확인됩니다. 이제 제 일을 시작해도 되겠습니다. 감사합니다. 새벽이 지난 후에 다시 찾아주십시오. - <NAVI>[짹]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17363] = {
+		Title = "목욕탕 탐색",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"목욕탕 <NAVI>[안으로]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI> 들어가면 바로 탐색을 시작할 거예요."
+		},
+		Summary = "목욕탕 안으로"
+	},
+	[17364] = {
+		Title = "보일러 작동 중지 요청",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"모험가님은 <NAVI>[보일러실]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>로 가서 보일러 작동을 중지해달라고 해주세요. 곧 따라갈게요."
+		},
+		Summary = "보일러실로"
+	},
+	[17365] = {
+		Title = "이미 중지했는데?",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"보일러는 이미 작동을 중지했다고 한다. <NAVI>[루키]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>에게로 돌아가서 보고하자."
+		},
+		Summary = "루키에게로"
+	},
+	[17366] = {
+		Title = "이렇게 갑자기?",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"청소 중에 배수구를 잘못 밟으면 하수처리장 대신 호수로 빠진다고하니 뭔가 있을지도 모릅니다. <NAVI>[그곳]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>을 살펴보고 오십시오."
+		},
+		Summary = "호수 탐색"
+	},
+	[17367] = {
+		Title = "대책 마련",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"뭐가 됐든 더 큰 혼란에 빠지기 전에 수습해야겠어요. 모험가님도 <NAVI>[휴게실]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>로 가요."
+		},
+		Summary = "휴게실로"
+	},
+	[17368] = {
+		Title = "트랩 설치 1",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"모험가님, 이걸 목욕탕 <NAVI>[구석]<INFO>ba_bath,55,55,0,101,0</INFO></NAVI>에 설치해주세요. 자리에 두고 흔들리지 않게 고정만 해두시면 돼요."
+		},
+		Summary = "지정된 장소로 이동"
+	},
+	[17369] = {
+		Title = "트랩 설치 2",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"트랩을 고정하자 냉기가 흘러나왔다. 다음 <NAVI>[다음 장소]<INFO>ba_bath,306,121,0,101,0</INFO></NAVI>로 이동하자."
+		},
+		Summary = "다음 장소로 이동"
+	},
+	[17370] = {
+		Title = "트랩 설치 3",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"루키가 이야기한 장소에 트랩을 고정했다. <NAVI>[다음 장소]<INFO>ba_bath,21,276,0,101,0</INFO></NAVI>로 이동하자."
+		},
+		Summary = "다음 장소로 이동"
+	},
+	[17371] = {
+		Title = "트랩 설치 4",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"표시된 장소에 트랩을 놓아 단단히 고정시켰다. <NAVI>[다음 장소]<INFO>ba_bath,155,305,0,101,0</INFO></NAVI>로 이동하자."
+		},
+		Summary = "다음 장소로 이동"
+	},
+	[17372] = {
+		Title = "트랩 설치 완료",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"트랩은 다 설치하셨어요? 이쪽은 벌써 시작됐어요. 서둘러 <NAVI>[작전 장소]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>로 이동해요."
+		},
+		Summary = "작전지로 이동"
+	},
+	[17373] = {
+		Title = "어쨌든 대화를 해보자",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"고니의 모습을 한 정체불명의 <NAVI>[사람]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>은 할 말을 고르는 듯 했다. 다시 대화를 시도해보자."
+		},
+		Summary = "가짜 고니와 대화"
+	},
+	[17374] = {
+		Title = "대체 왜 그러셨어요?",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"루키가 <NAVI>[인어]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>와 본격적인 대화를 시작할 모양이다."
+		},
+		Summary = "인어와 대화"
+	},
+	[17375] = {
+		Title = "보일러의 요청",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"고장난 세신사 20체정도 처리하고 고장난 자동인형 부품도 5개정도 가져다 주세여. - <NAVI>[보일러]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+		},
+		Summary = "보일러의 요청을 들었다"
+	},
+	[17376] = {
+		Title = "열탕과 냉탕사이",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"고장난 세신사 20체정도 처리하고 고장난 자동인형 부품도 5개정도 가져다 주세여. - <NAVI>[보일러]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+		},
+		Summary = "고장난 자동인형 처리"
+	},
+	[17377] = {
+		Title = "대기: 열탕과 냉탕사이",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"오늘은 이만 쉬시구, 새벽이 지난 후 다시 찾아오면 고맙겠어여. - <NAVI>[보일러]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17378] = {
+		Title = "싹쓸이의 요청",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"열탕 마르크 15마리와 열탕 피라니아 15마리 소멸을 부탁한다. 모두 이 안에서 처리하면 된다. - <NAVI>[싹쓸이]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+		},
+		Summary = "싹쓸이의 요청을 들었다."
+	},
+	[17379] = {
+		Title = "목욕탕 청소중입니다",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"열탕 마르크 15마리와 열탕 피라니아 15마리 소멸을 부탁한다. 모두 이 안에서 처리하면 된다. - <NAVI>[싹쓸이]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+		},
+		Summary = "물고기 30마리"
+	},
+	[17380] = {
+		Title = "대기: 목욕탕 청소중입니다",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"새벽이 지난 후 다시 찾아오는 것이 좋겠다. 생선은 그때도 넘쳐날 테니. - <NAVI>[싹쓸이]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17381] = {
+		Title = "일행과 합류",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"먼저 오신 일행분들은 현재 <NAVI>[찻집]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>에 머물고 계시니 한 번 둘러 보시며 담소 나누십시오."
+		},
+		Summary = "찻집으로"
+	},
+	[18000] = {
+		Title = "진입 준비",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"드디어 하수관의 잠금장치 해제에 성공한 리벨리온. 루키는 하수관으로 진입할 준비가 다 되면 다시 말을 걸어 달라고 했다."
+		},
+		Summary = "루키와 대화"
+	},
+	[18001] = {
+		Title = "저택의 개구멍",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"코르의 루키는 하수관을 통해 내부로 진입하라고 한다. 하수관 내에서 헤매고 있는 동료를 발견하면 함께 이동하라고 했다."
+		},
+		Summary = "듀리안과 대화"
+	},
+	[18002] = {
+		Title = "망가진 코어 회수",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"루키와 함께 하트헌터에게 공격받은 자동인형들의 코어를 회수하기로 했다. 코어를 회수하며 루키와 약속한 지정지점으로 향하자."
+		},
+		Summary = "망가진 코어 5개 이상 회수"
+	},
+	[18003] = {
+		Title = "망가진 코어01",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"부서진 관리자의 소체에서 코어를 확인합니다."
+		},
+		Summary = ""
+	},
+	[18004] = {
+		Title = "망가진 코어02",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"부서진 관리자의 소체에서 코어를 확인합니다."
+		},
+		Summary = ""
+	},
+	[18005] = {
+		Title = "망가진 코어03",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"부서진 관리자의 소체에서 코어를 확인합니다."
+		},
+		Summary = ""
+	},
+	[18006] = {
+		Title = "망가진 코어04",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"부서진 관리자의 소체에서 코어를 확인합니다."
+		},
+		Summary = ""
+	},
+	[18007] = {
+		Title = "망가진 코어05",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"부서진 관리자의 소체에서 코어를 확인합니다."
+		},
+		Summary = ""
+	},
+	[18008] = {
+		Title = "망가진 코어06",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"부서진 관리자의 소체에서 코어를 확인합니다."
+		},
+		Summary = ""
+	},
+	[18009] = {
+		Title = "망가진 코어07",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"부서진 관리자의 소체에서 코어를 확인합니다."
+		},
+		Summary = ""
+	},
+	[18010] = {
+		Title = "망가진 코어08",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"부서진 관리자의 소체에서 코어를 확인합니다."
+		},
+		Summary = ""
+	},
+	[18011] = {
+		Title = "망가진 코어09",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"부서진 관리자의 소체에서 코어를 확인합니다."
+		},
+		Summary = ""
+	},
+	[18012] = {
+		Title = "망가진 코어10",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"부서진 관리자의 소체에서 코어를 확인합니다."
+		},
+		Summary = ""
+	},
+	[18013] = {
+		Title = "지정 지점으로",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"망가진 관리자의 코어를 일부 회수했다.  루키와 만나기로 한 <NAVI>[지점]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI> 에서 합류해야 한다."
+		},
+		Summary = "엘레나 볼코바와 대화"
+	},
+	[18014] = {
+		Title = "뜻밖의 월척",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"엘레나의 기지로 아이젠 베르너를 생포했다. 엘레나는 아이벤 베르너를 대동하고 엘류미나가 억류되어 있는 <NAVI>[사용인숙소]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI>로 향했다. 합류해서 아이젠을 취조하자."
+		},
+		Summary = "루키와 대화"
+	},
+	[18015] = {
+		Title = "일루시온 추적기",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"엘류미나는 일루시온을 추적할 수 있는 추적기를 만들어 주겠다고 한다. 추적기 제작에 필요한 재료는 젤로피 10개, 가렛 10개다."
+		},
+		Summary = "엘류미나에게 젤로피10, 가렛 10 전달"
+	},
+	[18016] = {
+		Title = "작전 회의",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"에스트와 함께, 바르문트 저택을 수색해 숨은 하트헌터와 일루시온을 찾아낼 작전을 짜자."
+		},
+		Summary = "에스트와 대화"
+	},
+	[18017] = {
+		Title = "해충 박멸 작전",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"해가 진 저택의 정원을 수색해 일루시온을 압박하자. 사냥은 몰아야 제 맛이다."
+		},
+		Summary = "스위티 처치"
+	},
+	[18018] = {
+		Title = "비공정 거치장으로",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"사로잡은 스위티를 통해 무언가 정보를 얻을 수 있을지도 모른다. 비공정 거치장으로."
+		},
+		Summary = "알파와 대화"
+	},
+	[18019] = {
+		Title = "스위티와 대화",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"비공정 거치장에서 스위티를 수리하던 아몬드는 스위티가 깨어났으니 이야기를 나눠보라고 한다."
+		},
+		Summary = "스위티와 대화"
+	},
+	[18021] = {
+		Title = "찾아온 손님",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"프론테라 왕궁에서 크룩스가 찾아왔다. 왕궁으로 데려가기 왔다는 크룩스. 사용인 숙소 휴게실의 크룩스에게 말을 걸어보자."
+		},
+		Summary = "크룩스와 대화"
+	},
 	[20000] = {
 		Title = "사망-일반헌팅",
 		IconName = "ico_nq.bmp",
@@ -42422,7 +43821,9 @@ QuestInfoList = {
 	[20001] = {
 		Title = "사망-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"사망 1회"},
+		Description = {
+			"사망 1회"
+		},
 		Summary = "Test용"
 	},
 	[20002] = {
@@ -42708,7 +44109,9 @@ QuestInfoList = {
 	[20037] = {
 		Title = "태권-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"태권 1회"},
+		Description = {
+			"태권 1회"
+		},
 		Summary = "Test용"
 	},
 	[20038] = {
@@ -42738,7 +44141,9 @@ QuestInfoList = {
 	[20041] = {
 		Title = "닌자-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"닌자 1회"},
+		Description = {
+			"닌자 1회"
+		},
 		Summary = "Test용"
 	},
 	[20042] = {
@@ -42768,7 +44173,9 @@ QuestInfoList = {
 	[20045] = {
 		Title = "건슬-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"건슬 1회"},
+		Description = {
+			"건슬 1회"
+		},
 		Summary = "Test용"
 	},
 	[20046] = {
@@ -42830,7 +44237,9 @@ QuestInfoList = {
 	[20053] = {
 		Title = "기사-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"기사 1회"},
+		Description = {
+			"기사 1회"
+		},
 		Summary = "Test용"
 	},
 	[20054] = {
@@ -42860,7 +44269,9 @@ QuestInfoList = {
 	[20057] = {
 		Title = "위저드-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"위저드 1회"},
+		Description = {
+			"위저드 1회"
+		},
 		Summary = "Test용"
 	},
 	[20058] = {
@@ -42890,7 +44301,9 @@ QuestInfoList = {
 	[20061] = {
 		Title = "헌터-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"헌터 1회"},
+		Description = {
+			"헌터 1회"
+		},
 		Summary = "Test용"
 	},
 	[20062] = {
@@ -42952,7 +44365,9 @@ QuestInfoList = {
 	[20069] = {
 		Title = "어쎄신-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"어쎄신 1회"},
+		Description = {
+			"어쎄신 1회"
+		},
 		Summary = "Test용"
 	},
 	[20070] = {
@@ -43046,7 +44461,9 @@ QuestInfoList = {
 	[20081] = {
 		Title = "세이지-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"세이지 1회"},
+		Description = {
+			"세이지 1회"
+		},
 		Summary = "Test용"
 	},
 	[20082] = {
@@ -43076,7 +44493,9 @@ QuestInfoList = {
 	[20085] = {
 		Title = "바드-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"바드 1회"},
+		Description = {
+			"바드 1회"
+		},
 		Summary = "Test용"
 	},
 	[20086] = {
@@ -43106,7 +44525,9 @@ QuestInfoList = {
 	[20089] = {
 		Title = "댄서-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"댄서 1회"},
+		Description = {
+			"댄서 1회"
+		},
 		Summary = "Test용"
 	},
 	[20090] = {
@@ -43168,7 +44589,9 @@ QuestInfoList = {
 	[20097] = {
 		Title = "로그-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"로그 1회"},
+		Description = {
+			"로그 1회"
+		},
 		Summary = "Test용"
 	},
 	[20098] = {
@@ -43198,7 +44621,9 @@ QuestInfoList = {
 	[20101] = {
 		Title = "몽크-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"몽크 1회"},
+		Description = {
+			"몽크 1회"
+		},
 		Summary = "Test용"
 	},
 	[20102] = {
@@ -43420,7 +44845,9 @@ QuestInfoList = {
 	[20129] = {
 		Title = "팔라딘-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"팔라딘 1회"},
+		Description = {
+			"팔라딘 1회"
+		},
 		Summary = "Test용"
 	},
 	[20130] = {
@@ -43482,7 +44909,9 @@ QuestInfoList = {
 	[20137] = {
 		Title = "클로운-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"클로운 1회"},
+		Description = {
+			"클로운 1회"
+		},
 		Summary = "Test용"
 	},
 	[20138] = {
@@ -43512,7 +44941,9 @@ QuestInfoList = {
 	[20141] = {
 		Title = "집시-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"집시 1회"},
+		Description = {
+			"집시 1회"
+		},
 		Summary = "Test용"
 	},
 	[20142] = {
@@ -43574,7 +45005,9 @@ QuestInfoList = {
 	[20149] = {
 		Title = "스토커-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"스토커 1회"},
+		Description = {
+			"스토커 1회"
+		},
 		Summary = "Test용"
 	},
 	[20150] = {
@@ -43604,7 +45037,9 @@ QuestInfoList = {
 	[20153] = {
 		Title = "챔피언-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"챔피언 1회"},
+		Description = {
+			"챔피언 1회"
+		},
 		Summary = "Test용"
 	},
 	[20154] = {
@@ -44050,7 +45485,9 @@ QuestInfoList = {
 	[20209] = {
 		Title = "권성-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"권성 1회"},
+		Description = {
+			"권성 1회"
+		},
 		Summary = "Test용"
 	},
 	[20210] = {
@@ -44144,7 +45581,9 @@ QuestInfoList = {
 	[20221] = {
 		Title = "오보로-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"오보로 1회"},
+		Description = {
+			"오보로 1회"
+		},
 		Summary = "Test용"
 	},
 	[20222] = {
@@ -44206,7 +45645,9 @@ QuestInfoList = {
 	[20229] = {
 		Title = "소환사-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"소환사 1회"},
+		Description = {
+			"소환사 1회"
+		},
 		Summary = "Test용"
 	},
 	[20230] = {
@@ -44236,7 +45677,9 @@ QuestInfoList = {
 	[20233] = {
 		Title = "성제-타입헌팅(제한X)",
 		IconName = "ico_nq.bmp",
-		Description = {"성제 1회"},
+		Description = {
+			"성제 1회"
+		},
 		Summary = "Test용"
 	},
 	[20234] = {
