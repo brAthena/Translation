@@ -13457,7 +13457,7 @@ QuestInfoList = {
 		Title = "하수처리장 청소Ⅰ",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
 			"<NAVI>[하수 베네눔]<INFO>EP17_2_VENENUM3,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
 			" ",
 			"보상은 하수처리장 청소Ⅰ, 하수처리장 청소Ⅱ, 하수처리장 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
@@ -13469,7 +13469,7 @@ QuestInfoList = {
 		Title = "하수처리장 청소Ⅱ",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
 			"<NAVI>[하수 크램프]<INFO>EP17_2_CRAMP,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
 			" ",
 			"보상은 하수처리장 청소Ⅰ, 하수처리장 청소Ⅱ, 하수처리장 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
@@ -13481,7 +13481,7 @@ QuestInfoList = {
 		Title = "하수처리장 청소Ⅲ",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
 			"<NAVI>[하수 워터폴]<INFO>EP17_2_WATERFALL,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
 			" ",
 			"보상은 하수처리장 청소Ⅰ, 하수처리장 청소Ⅱ, 하수처리장 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
@@ -13494,7 +13494,7 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"일정 시간이 지난 후",
-			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>에게 하수처리장 청소 퀘스트를 다시 받을 수 있습니다."
+			"<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>에게 하수처리장 청소 퀘스트를 다시 받을 수 있습니다."
 		},
 		Summary = "초기화 04시",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -13503,7 +13503,7 @@ QuestInfoList = {
 		Title = "제1 마력발전소 청소Ⅰ",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
 			"<NAVI>[엘리트 벨라레]<INFO>EP17_2_BELLARE3,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
 			" ",
 			"보상은 제1 마력발전소 청소Ⅰ, 제1 마력발전소 청소Ⅱ, 제1 마력발전소 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
@@ -13515,7 +13515,7 @@ QuestInfoList = {
 		Title = "제1 마력발전소 청소Ⅱ",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
 			"<NAVI>[마력중독 돌로르]<INFO>EP17_2_DOLOR3,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
 			" ",
 			"보상은 제1 마력발전소 청소Ⅰ, 제1 마력발전소 청소Ⅱ, 제1 마력발전소 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
@@ -13527,7 +13527,7 @@ QuestInfoList = {
 		Title = "제1 마력발전소 청소Ⅲ",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
+			"<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>는 청소를 못해 슬퍼하고 있다.",
 			"<NAVI>[풀려난 마력]<INFO>EP17_2_PLASMA_Y,0,0,3,-222,1</INFO></NAVI> 44 개체를 ^0000FF맴매^000000해주자.",
 			" ",
 			"보상은 제1 마력발전소 청소Ⅰ, 제1 마력발전소 청소Ⅱ, 제1 마력발전소 청소Ⅲ를 모두 완료해야 받을 수 있습니다."
@@ -13540,7 +13540,7 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"일정 시간이 지난 후",
-			"<NAVI>[청소로봇Ω]<INFO>ba_in,24,322,0,101,0</INFO></NAVI>에게 안전확보 퀘스트를 다시 받을 수 있습니다."
+			"<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>에게 안전확보 퀘스트를 다시 받을 수 있습니다."
 		},
 		Summary = "초기화 04시",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
