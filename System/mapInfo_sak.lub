@@ -15,6 +15,22 @@ mapTbl = {
 		},
 		backgroundBmp = "dungeon_s2"
 	},
+	["1@bamn.rsw"] = {
+		displayName = "어스름밤의 정원",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "어스름밤의 정원"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["1@bamq.rsw"] = {
+		displayName = "비공정 거치장",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "비공정 거치장"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
 	["1@begi.rsw"] = {
 		displayName = "포링 마을",
 		notifyEnter = true,
@@ -160,6 +176,15 @@ mapTbl = {
 	["1@gef_in.rsw"] = {
 		displayName = "Geffen Magic Tournament"
 	},
+	["1@ghg.rsw"] = {
+		displayName = "오르투스 아콰",
+		notifyEnter = true,
+		signName = {
+			subTitle = "수상정원",
+			mainTitle = "오르투스 아콰"
+		},
+		backgroundBmp = "dungeon"
+	},
 	["1@gl_he.rsw"] = {
 		displayName = "오염된 차원",
 		notifyEnter = true,
@@ -238,6 +263,14 @@ mapTbl = {
 		},
 		backgroundBmp = "noname_s2"
 	},
+	["1@herbs.rsw"] = {
+		displayName = "숨겨진 화원",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "숨겨진 화원"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
 	["1@infi.rsw"] = {
 		displayName = "Infinite Space",
 		notifyEnter = true,
@@ -269,6 +302,15 @@ mapTbl = {
 			mainTitle = "보르세브의 연구실"
 		},
 		backgroundBmp = "dungeon_s2"
+	},
+	["1@lost.rsw"] = {
+		displayName = "시간에게 잊혀진 사육장",
+		notifyEnter = true,
+		signName = {
+			subTitle = "로스트밸리",
+			mainTitle = "시간에게 잊혀진 사육장"
+		},
+		backgroundBmp = "dungeon"
 	},
 	["1@ma_b.rsw"] = {
 		displayName = "Bakonawa Hideout",
@@ -1063,6 +1105,98 @@ mapTbl = {
 			mainTitle = "아요타야"
 		},
 		backgroundBmp = "village_s2"
+	},
+	["ba_2whs01.rsw"] = {
+		displayName = "저장고 타르타로스 상층",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "저장고 타르타로스 상층"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_2whs02.rsw"] = {
+		displayName = "저장고 타르타로스 하층",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "저장고 타르타로스 하층"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_bath.rsw"] = {
+		displayName = "대욕장 메디타티오",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "대욕장 메디타티오"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_chess.rsw"] = {
+		displayName = "체크메이트",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "체크메이트"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_go.rsw"] = {
+		displayName = "수상전장 (手相戰場)",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "수상전장 (手相戰場)"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_in01.rsw"] = {
+		displayName = "바르문트 저택 내부"
+	},
+	["ba_lib.rsw"] = {
+		displayName = "도서관 기억의 회랑",
+		notifyEnter = true,
+		signName = {
+			subTitle = "도서관",
+			mainTitle = "기억의 회랑"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["ba_lost.rsw"] = {
+		displayName = "사육장 로스트밸리",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "사육장 로스트밸리"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_maison.rsw"] = {
+		displayName = "바르문트 저택 정원",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "바르문트 저택 정원"
+		},
+		backgroundBmp = "noname_s2"
+	},
+	["ba_pw01.rsw"] = {
+		displayName = "제 1 마력발전소",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "제 1 마력발전소"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_pw02.rsw"] = {
+		displayName = "하수처리장",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "하수처리장"
+		},
+		backgroundBmp = "dungeon_s2"
+	},
+	["ba_pw03.rsw"] = {
+		displayName = "제 2 마력발전소",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "제 2 마력발전소"
+		},
+		backgroundBmp = "dungeon_s2"
 	},
 	["bat_a01.rsw"] = {
 		displayName = "Tierra Valley",
