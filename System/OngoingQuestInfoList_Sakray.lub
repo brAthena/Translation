@@ -42325,7 +42325,7 @@ QuestInfoList = {
 		Title = "중독",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"엘류미나가 유해물질에 노출되었다. <NAVI>[저택 쪽]<INFO> ba_maison,169,270,0,101,0</INFO></NAVI>으로 가 도움을 요청해 보자."
+			"엘류미나가 유해물질에 노출되었다. <NAVI>[저택 쪽]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI>으로 가 도움을 요청해 보자."
 		},
 		Summary = "저택으로 이동"
 	},
