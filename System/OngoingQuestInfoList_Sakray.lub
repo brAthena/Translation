@@ -43354,7 +43354,7 @@ QuestInfoList = {
 		Title = "계단실의 열쇠 1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[돌고있는 세상]<INFO>ba_2whs01,110,217,0,101,0</INFO></NAVI>. 그 밑에 모든 진리가 있다 하셨지요."
+			"<NAVI>[돌고있는 세상]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>. 그 밑에 모든 진리가 있다 하셨지요."
 		},
 		Summary = "비상 열쇠 찾기"
 	},
@@ -43362,7 +43362,7 @@ QuestInfoList = {
 		Title = "계단실의 열쇠 2",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"숨마저 얼어붙는 <NAVI>[곳]<INFO>ba_2whs01,110,217,0,101,0</INFO></NAVI>에서는 모든 것이 영원히 변질되지 않고 그 모습 그대로를 유지한다고 하셨습니다."
+			"숨마저 얼어붙는 <NAVI>[곳]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI>에서는 모든 것이 영원히 변질되지 않고 그 모습 그대로를 유지한다고 하셨습니다."
 		},
 		Summary = "비상 열쇠 찾기"
 	},
@@ -43370,7 +43370,7 @@ QuestInfoList = {
 		Title = "계단실의 열쇠 3",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"모든 공기는 흘러야 한다고 하셨습니다. 거기엔 거대한 에너지도 사용된다고도 하셨지요. <NAVI>[그런 장소]<INFO>ba_2whs01,110,217,0,101,0</INFO></NAVI>가 어딘지 짐작도 가지 않지만요."
+			"모든 공기는 흘러야 한다고 하셨습니다. 거기엔 거대한 에너지도 사용된다고도 하셨지요. <NAVI>[그런 장소]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>가 어딘지 짐작도 가지 않지만요."
 		},
 		Summary = "비상 열쇠 찾기"
 	},
