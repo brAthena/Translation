@@ -6578,6 +6578,7 @@ QuestInfoList = {
 	},
 	[3389] = {
 		Title = "생체 전자 방해 칩 제거",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"칩 제거에 성공하여 에오르파와의 소통이 원활하게 되었다."
 		},
@@ -6585,6 +6586,7 @@ QuestInfoList = {
 	},
 	[3390] = {
 		Title = "제 2 마력 발전소 관리자 에오르파",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"^4d4dff마력중독 사나레^000000로부터 감자칩을 빼앗아 오자!"
 		},
@@ -6592,6 +6594,7 @@ QuestInfoList = {
 	},
 	[3391] = {
 		Title = "일루시온이 뿌린 감자칩 - 대기",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[에오르파]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>를 통해 퀘스트 수주가 가능합니다."
 		},
@@ -6599,6 +6602,7 @@ QuestInfoList = {
 	},
 	[3392] = {
 		Title = "일루시온이 뿌린 감자칩",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"^4d4dff마력중독 사나레^000000로부터 감자칩을 빼앗아 오자!"
 		},
