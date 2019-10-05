@@ -43514,7 +43514,7 @@ QuestInfoList = {
 		Title = "이미 중지했는데?",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"보일러는 이미 작동을 중지했다고 한다. <NAVI>[루키]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>에게로 돌아가서 보고하자."
+			"보일러는 이미 작동을 중지했다고 한다. <NAVI>[루키]<INFO>ba_bath,270,94,0,101,0</INFO></NAVI>에게로 돌아가서 보고하자."
 		},
 		Summary = "루키에게로"
 	},
