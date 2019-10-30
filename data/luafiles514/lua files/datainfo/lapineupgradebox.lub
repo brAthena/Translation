@@ -10765,6 +10765,10 @@ tblLapineUpgradeBox = {
 					500007
 				},
 				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
 					"Ep172_1h_Wand",
 					550008
 				},
@@ -10827,6 +10831,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ep172_1h_Inst",
 					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
 				},
 				{
 					"Ep172_Bh_Huuma",
@@ -10871,6 +10879,10 @@ tblLapineUpgradeBox = {
 					500007
 				},
 				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
 					"Ep172_1h_Wand",
 					550008
 				},
@@ -10933,6 +10945,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ep172_1h_Inst",
 					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
 				},
 				{
 					"Ep172_Bh_Huuma",
@@ -10977,6 +10993,10 @@ tblLapineUpgradeBox = {
 					500007
 				},
 				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
 					"Ep172_1h_Wand",
 					550008
 				},
@@ -11039,6 +11059,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ep172_1h_Inst",
 					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
 				},
 				{
 					"Ep172_Bh_Huuma",
@@ -11083,6 +11107,10 @@ tblLapineUpgradeBox = {
 					500007
 				},
 				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
 					"Ep172_1h_Wand",
 					550008
 				},
@@ -11145,6 +11173,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ep172_1h_Inst",
 					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
 				},
 				{
 					"Ep172_Bh_Huuma",
@@ -11189,6 +11221,10 @@ tblLapineUpgradeBox = {
 					500007
 				},
 				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
 					"Ep172_1h_Wand",
 					550008
 				},
@@ -11251,6 +11287,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ep172_1h_Inst",
 					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
 				},
 				{
 					"Ep172_Bh_Huuma",
@@ -11295,6 +11335,10 @@ tblLapineUpgradeBox = {
 					500007
 				},
 				{
+					"Ep172_Bh_Sword",
+					600008
+				},
+				{
 					"Ep172_1h_Wand",
 					550008
 				},
@@ -11357,6 +11401,10 @@ tblLapineUpgradeBox = {
 				{
 					"Ep172_1h_Inst",
 					570005
+				},
+				{
+					"Ep172_Bh_Bow3",
+					700009
 				},
 				{
 					"Ep172_Bh_Huuma",
