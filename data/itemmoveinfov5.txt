@@ -5064,3 +5064,5 @@
 1000232	1	1	1	1	0	1	1	1	//Autodoll_Communicator
 1000226	1	1	1	1	0	1	1	1	//Broken_Dollcore
 1000231	1	1	1	1	0	1	1	1	//Broken_AutoDoll_Parts
+100251	1	1	0	1	1	1	1	1	//Illu_Enhance_Cube
+100252	1	1	0	1	1	1	1	1	//Auto_Enhance_Cube
