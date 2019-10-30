@@ -5617,4 +5617,138 @@
             <perfor_2>  그루우움......  </perfor_2>
         </so_full>
     </gloomundernight2>
+    <child_admin_b>
+        <hungry>
+            <feeding>연료 충전 중...     ￣▽￣</feeding>
+            <dead>아직 저를 키우기엔 버거운 분이시군요 (⊙_⊙)</dead>
+            <connect>어서오세요. 반가워요^_^</connect>
+            <stand>식사 시간이 많이 지났어요... ☞☜</stand>
+            <levelup>저도 어른이 되고 싶어요. *'▼'*</levelup>
+            <perfor_1>무엇을 도와드릴까요?</perfor_1>
+            <perfor_1>Loading..■■□□□..</perfor_1>
+            <perfor_2>어디로 안내할까요?</perfor_2>
+            <perfor_2>시스템 가동 중 ◎_◎!</perfor_2>
+        </hungry>
+        <bit_hungry>
+            <feeding>연료 충전 중...     ￣▽￣</feeding>
+            <dead>아직 저를 키우기엔 버거운 분이시군요 (⊙_⊙)</dead>
+            <connect>어서오세요. 반가워요^_^</connect>
+            <stand>식사 시간이 지났어요... ☞☜</stand>
+            <levelup>저도 어른이 되고 싶어요. *'▼'*</levelup>
+            <perfor_1>무엇을 도와드릴까요?</perfor_1>
+            <perfor_1>Loading..■■□□□..</perfor_1>
+            <perfor_2>어디로 안내할까요?</perfor_2>
+            <perfor_2>시스템 가동 중 ◎_◎!</perfor_2>
+        </bit_hungry>
+        <noting>
+            <feeding>연료 충전 중...     ￣▽￣</feeding>
+            <dead>아직 저를 키우기엔 버거운 분이시군요 (⊙_⊙)</dead>
+            <connect>어서오세요. 반가워요^_^</connect>
+            <stand>어디로 가실 예정인가요?</stand>
+            <stand>놀아주세요 *'▼'*...</stand>
+            <hunting>힘내라 힘!</hunting>
+            <danger>어어어.. 조심하세요 T^T</danger>
+            <levelup>저도 어른이 되고 싶어요. *'▼'*</levelup>
+            <perfor_1>무엇을 도와드릴까요?</perfor_1>
+            <perfor_1>Loading..■■□□□..</perfor_1>
+            <perfor_2>어디로 안내할까요?</perfor_2>
+            <perfor_2>시스템 가동 중 ◎_◎!</perfor_2>
+        </noting>
+        <full>
+            <feeding>이미 연료가 가득 찼어요..≥_≤</feeding>
+            <dead>아직 저를 키우기엔 버거운 분이시군요 (⊙_⊙)</dead>
+            <connect>어서오세요. 반가워요^_^</connect>
+            <stand>어디로 가실 예정인가요?</stand>
+            <stand>놀아주세요 *'▼'*...</stand>
+            <hunting>힘내라 힘!</hunting>
+            <danger>어어어.. 조심하세요 T^T</danger>
+            <levelup>저도 어른이 되고 싶어요. *'▼'*</levelup>
+            <perfor_1>무엇을 도와드릴까요?</perfor_1>
+            <perfor_1>Loading..■■□□□..</perfor_1>
+            <perfor_2>어디로 안내할까요?</perfor_2>
+            <perfor_2>시스템 가동 중 ◎_◎!</perfor_2>
+        </full>
+        <so_full>
+            <feeding>이미 연료가 가득 찼어요..≥_≤</feeding>
+            <dead>아직 저를 키우기엔 버거운 분이시군요 ⊙_⊙</dead>
+            <connect>어서오세요. 반가워요^_^</connect>
+            <stand>어디로 가실 예정인가요?</stand>
+            <stand>놀아주세요 *'▼'*...</stand>
+            <stand>신호 수신중..⊙_⊙* ☎ Connect..</stand>
+            <hunting>힘내라 힘!</hunting>
+            <danger>어어어.. 조심하세요 T^T</danger>
+            <levelup>저도 어른이 되고 싶어요. *'▼'*</levelup>
+            <perfor_1>무엇을 도와드릴까요?</perfor_1>
+            <perfor_1>Loading..■■□□□..</perfor_1>
+            <perfor_2>어디로 안내할까요?</perfor_2>
+            <perfor_2>시스템 가동 중 ◎_◎!</perfor_2>
+        </so_full>
+    </child_admin_b>
+    <child_admin_a>
+        <hungry>
+            <feeding>연료 충전 중...     ￣▽￣</feeding>
+            <dead>아직 저를 키우기엔 버거운 분이시군요 (⊙_⊙)</dead>
+            <connect>어서오세요. 반가워요^_^</connect>
+            <stand>식사 시간이 많이 지났어요... ☞☜</stand>
+            <levelup>저도 어른이 되고 싶어요. *'▼'*</levelup>
+            <perfor_1>무엇을 도와드릴까요?</perfor_1>
+            <perfor_1>Loading..■■□□□..</perfor_1>
+            <perfor_2>어디로 안내할까요?</perfor_2>
+            <perfor_2>시스템 가동 중 ◎_◎!</perfor_2>
+        </hungry>
+        <bit_hungry>
+            <feeding>연료 충전 중...     ￣▽￣</feeding>
+            <dead>아직 저를 키우기엔 버거운 분이시군요 (⊙_⊙)</dead>
+            <connect>어서오세요. 반가워요^_^</connect>
+            <stand>식사 시간이 지났어요... ☞☜</stand>
+            <levelup>저도 어른이 되고 싶어요. *'▼'*</levelup>
+            <perfor_1>무엇을 도와드릴까요?</perfor_1>
+            <perfor_1>Loading..■■□□□..</perfor_1>
+            <perfor_2>어디로 안내할까요?</perfor_2>
+            <perfor_2>시스템 가동 중 ◎_◎!</perfor_2>
+        </bit_hungry>
+        <noting>
+            <feeding>연료 충전 중...     ￣▽￣</feeding>
+            <dead>아직 저를 키우기엔 버거운 분이시군요 (⊙_⊙)</dead>
+            <connect>어서오세요. 반가워요^_^</connect>
+            <stand>어디로 가실 예정인가요?</stand>
+            <stand>놀아주세요 *'▼'*...</stand>
+            <hunting>힘내라 힘!</hunting>
+            <danger>어어어.. 조심하세요 T^T</danger>
+            <levelup>저도 어른이 되고 싶어요. *'▼'*</levelup>
+            <perfor_1>무엇을 도와드릴까요?</perfor_1>
+            <perfor_1>Loading..■■□□□..</perfor_1>
+            <perfor_2>어디로 안내할까요?</perfor_2>
+            <perfor_2>시스템 가동 중 ◎_◎!</perfor_2>
+        </noting>
+        <full>
+            <feeding>이미 연료가 가득 찼어요..≥_≤</feeding>
+            <dead>아직 저를 키우기엔 버거운 분이시군요 (⊙_⊙)</dead>
+            <connect>어서오세요. 반가워요^_^</connect>
+            <stand>어디로 가실 예정인가요?</stand>
+            <stand>놀아주세요 *'▼'*...</stand>
+            <hunting>힘내라 힘!</hunting>
+            <danger>어어어.. 조심하세요 T^T</danger>
+            <levelup>저도 어른이 되고 싶어요. *'▼'*</levelup>
+            <perfor_1>무엇을 도와드릴까요?</perfor_1>
+            <perfor_1>Loading..■■□□□..</perfor_1>
+            <perfor_2>어디로 안내할까요?</perfor_2>
+            <perfor_2>시스템 가동 중 ◎_◎!</perfor_2>
+        </full>
+        <so_full>
+            <feeding>이미 연료가 가득 찼어요..≥_≤</feeding>
+            <dead>아직 저를 키우기엔 버거운 분이시군요 ⊙_⊙</dead>
+            <connect>어서오세요. 반가워요^_^</connect>
+            <stand>어디로 가실 예정인가요?</stand>
+            <stand>놀아주세요 *'▼'*...</stand>
+            <stand>신호 수신중..⊙_⊙* ☎ Connect..</stand>
+            <hunting>힘내라 힘!</hunting>
+            <danger>어어어.. 조심하세요 T^T</danger>
+            <levelup>저도 어른이 되고 싶어요. *'▼'*</levelup>
+            <perfor_1>무엇을 도와드릴까요?</perfor_1>
+            <perfor_1>Loading..■■□□□..</perfor_1>
+            <perfor_2>어디로 안내할까요?</perfor_2>
+            <perfor_2>시스템 가동 중 ◎_◎!</perfor_2>
+        </so_full>
+    </child_admin_a>
 </monster_talk_table>
