@@ -13544,7 +13544,7 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"일정 시간이 지난 후",
-			"<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>에게 안전확보 퀘스트를 다시 받을 수 있습니다."
+			"<NAVI>[청소로봇Ω]<INFO>ba_in01,24,322,0,101,0</INFO></NAVI>에게 제1 마력발전소 퀘스트를 다시 받을 수 있습니다."
 		},
 		Summary = "초기화 04시",
 		NpcSpr = "EP17_2_OMEGA_CLEANER"
@@ -43907,6 +43907,14 @@ QuestInfoList = {
 			"비공정 거치장에서 스위티를 수리하던 아몬드는 스위티가 깨어났으니 이야기를 나눠보라고 한다."
 		},
 		Summary = "스위티와 대화"
+	},
+	[18020] = {
+		Title = "인사",
+		IconName = "ico_ep.bmp",
+		Description = {
+			"니힐과 짧게 대화를 나누었다."
+		},
+		Summary = "니힐과  대화"
 	},
 	[18021] = {
 		Title = "찾아온 손님",

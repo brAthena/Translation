@@ -22,20 +22,23 @@ RecommendedQuestInfoList = {
 			"^ff0000※ This page is an update introduction, not a quest. Please note that completing quests will not remove them.^000000"
 		}
 	},
-	[2] = {
-		Title = "잭과 이상한 잭의 할로윈 이벤트",
-		IconName = "ico_ev.bmp",
-		Summary = "뭔가 이상한 걸?",
-		BgName = "reco_02.bmp",
+	[3] = {
+		Title = "에피소드 17.2 현자의 유산",
+		IconName = "ico_ep.bmp",
+		Summary = "선발대를 따라 뒤처지지 않도록...",
+		NpcSpr = "4_M_ROOKIE",
+		NpcNavi = "sp_cor",
+		NpcPosX = 255,
+		NpcPosY = 285,
+		BgName = "reco_03.bmp",
 		QuestInfo1 = {
-			"니플헤임에서는 할로윈 준비가 한창이야!",
-			"할로윈 축제에는 잭도 조금 이상한 잭도 이상한 잭도 많이 필요하니까 꼭 놀러와줘~",
-			"^ff0000참가조건 :  레벨 30 이상^000000"
+			"특수경계지역 코르의 한 쪽. 유일한 통로로 추정되던 하수관이 드디어 열렸습니다.",
+			"리벨리온을 위시한 대원들은 일루시온을 추적하기 위해 하수관 내부로 진입하기로 합니다."
 		},
 		QuestInfo2 = {
-			"^ff9632☜☞GARLIC☜☞^000000",
-			"   ★OR★",
-			"^ff9632☜☞TREAT☜☞^000000"
+			"선행 조건",
+			"에피소드 ^99000017.1^000000 완료",
+			"^990000레벨 130 이상^000000의 모험가"
 		},
 		QuestInfo3 = {
 			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
@@ -121,29 +124,6 @@ RecommendedQuestInfoList = {
 		QuestInfo2 = {
 			"공략 조건",
 			"^990000레벨 130^000000 이상의 모험가"
-		},
-		QuestInfo3 = {
-			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
-		}
-	},
-	[8] = {
-		Title = "에피소드 17.1 일루시온",
-		IconName = "ico_ep.bmp",
-		Summary = "본격적인 연합 작전이 시작된다.",
-		NpcSpr = "4_M_PHILOFONTES",
-		NpcNavi = "pub_cat",
-		NpcPosX = 93,
-		NpcPosY = 105,
-		BgName = "reco_08.bmp",
-		QuestInfo1 = {
-			"에피소드의 무대가 슈발츠발드로 이동!",
-			"리벨리온과 비밀의 날개가 펼치는 본격적인 연합 작전이 시작된다.",
-			"^003355아인브로크에도 작전 거점을 마련한 리벨리온은 비밀의 날개가 가져온 정보로 발견된 비밀 연구 시설을 함께 공략하기로 하는데 …^000000"
-		},
-		QuestInfo2 = {
-			"선행 조건",
-			"에피소드 ^99000016.2^000000 완료",
-			"^990000레벨 110 이상^000000의 모험가"
 		},
 		QuestInfo3 = {
 			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
