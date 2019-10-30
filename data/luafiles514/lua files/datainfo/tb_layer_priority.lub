@@ -3,6 +3,7 @@ TB_Layer_Priority = {
 	Default_Top = 200,
 	Default_Bottom = 300,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_Floating_Ball] = {Default = 304},
 		[ACCESSORY_IDs.ACCESSORY_C_Mermaid_Wig] = {
 			Default = 143,
 			Direction = {}
