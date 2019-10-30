@@ -4165,6 +4165,10 @@ JobNameTable = {
 	[jobtbl.JT_EP17_2_SANARE3] = "ep17_2_sanare",
 	[jobtbl.JT_EP17_2_PLASMA_R] = "plasma_r",
 	[jobtbl.JT_EP17_2_PLASMA_R2] = "plasma_r",
+	[jobtbl.JT_E_GARLING] = "E_GARLING",
 	[jobtbl.JT_EP17_2_CHILD_ADMIN1] = "child_admin1",
-	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin2"
+	[jobtbl.JT_EP17_2_CHILD_ADMIN2] = "child_admin2",
+	[jobtbl.JT_G_ASSISTANT] = "assistant",
+	[jobtbl.JT_G_BELLARE3] = "ep17_2_vellare",
+	[jobtbl.JT_G_BETA_SCISSORE_NG] = "beta_scissore_ng"
 }

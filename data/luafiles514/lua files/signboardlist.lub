@@ -53,6 +53,16 @@ SignBoardList = {
 	},
 	{
 		"moc_para01",
+		105,
+		41,
+		10,
+		IT_SIGNBOARD,
+		"information\\over_nmtrade.bmp",
+		"  파라마켓",
+		"#0x00FFFFFF"
+	},
+	{
+		"moc_para01",
 		110,
 		97,
 		10,
