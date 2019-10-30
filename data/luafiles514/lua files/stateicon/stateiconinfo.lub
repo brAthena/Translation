@@ -724,7 +724,7 @@ StateIconList[EFST_IDs.EFST_AURABLADE] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "오러 블레이드", COLOR_TITLE_BUFF },
+		{ "오라 블레이드", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "물리 공격력 증가" }
 	}

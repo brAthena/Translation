@@ -3,6 +3,18 @@ TB_Layer_Priority = {
 	Default_Top = 200,
 	Default_Bottom = 300,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_Mermaid_Wig] = {
+			Default = 143,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Long] = {
+			Default = 143,
+			Direction = {}
+		},
+		[ACCESSORY_IDs.ACCESSORY_C_Halloween_Cat_Short] = {
+			Default = 143,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_C_Volume_Low_Twin_CB] = {
 			Default = 143,
 			Direction = {}
