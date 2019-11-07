@@ -855,6 +855,10 @@
 27331#S_Kronecker_Card#
 27332#Skia_Card#
 27333#S_Skia_Card#
+300127#Wolf_Card_E#
+300128#S_Wolf_Card#
+300129#Poe_Card#
+300130#S_Poe_Card#
 
 //2018³â 1¿ù ¿µ¿õÀÇÈçÀûp2,3Ä«µå
 27181#AirShip_Raid_Card#
