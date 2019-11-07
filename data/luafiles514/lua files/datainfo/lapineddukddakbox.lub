@@ -1,5 +1,75 @@
 tblLapineDdukddakBox = {
 	sources = {
+		Remodel_Hero_Boots = {
+			ItemID = 100273,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Ancient_Hero_Boots",
+					1,
+					22171
+				}
+			},
+			NeedSource_String = "고대 영웅의 부츠"
+		},
+		Oriental_Sword_Cube = {
+			ItemID = 100274,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Oriental_Sword",
+					1,
+					21038
+				}
+			},
+			NeedSource_String = "동방의 보검"
+		},
+		Dragonic_Slayer_Cube = {
+			ItemID = 100275,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Dragonic_Slayer",
+					1,
+					600004
+				}
+			},
+			NeedSource_String = "드래고닉 슬레이어"
+		},
+		Shiver_Katar_K_Cube = {
+			ItemID = 100276,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Shiver_Katar_K",
+					1,
+					28039
+				}
+			},
+			NeedSource_String = "전율의 카타르"
+		},
+		Blade_Katar_Cube = {
+			ItemID = 100277,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Blade_Katar",
+					1,
+					610003
+				}
+			},
+			NeedSource_String = "블레이드 카타르"
+		},
 		Skill_Sha_M_S_Weapon = {
 			ItemID = 100151,
 			NeedCount = 2,

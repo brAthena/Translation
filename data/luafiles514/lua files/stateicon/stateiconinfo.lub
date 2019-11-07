@@ -5430,9 +5430,10 @@ StateIconList[EFST_IDs.EFST_FLOWER_LEAF2] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "회피, 공격속도 증가, 변동 캐스팅 감소", COLOR_TITLE_BUFF },
+		{ "사냥꾼의 날렵함", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Flee 증가, 완전 회피 증가" },
+		{ "Flee + 30" },
+		{ "완전회피 + 2" },
 		{ "공격 속도 증가" },
 		{ "변동 캐스팅 감소" }
 	}
