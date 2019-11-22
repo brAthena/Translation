@@ -22,23 +22,6 @@ RecommendedQuestInfoList = {
 			"^ff0000※ This page is an update introduction, not a quest. Please note that completing quests will not remove them.^000000"
 		}
 	},
-	[2] = {
-		Title = "왕실 사냥 대회",
-		IconName = "ico_ev.bmp",
-		Summary = "왕실 사냥 대회에 참가하세요!",
-		BgName = "reco_02.bmp",
-		QuestInfo1 = {
-			"<NAVI>[프론테라 북쪽 필드]<INFO>prt_fild01,98,171,0,101,0</INFO></NAVI>에서 왕실 사냥 대회가 진행되고 있습니다.",
-			"모험가님의 실력을 뽐낼 수 있는 기회랍니다.",
-			"멋진 보상도 준비되어 있으니 어서 참가 신청을 하세요!"
-		},
-		QuestInfo2 = {
-			"왕가의 명예를 위해!"
-		},
-		QuestInfo3 = {
-			"^ff0000※ 이 페이지는 퀘스트가 아닌 업데이트 소개입니다. 퀘스트를 완료 하여도 삭제되지 않으니 참고하시기 바랍니다.^000000"
-		}
-	},
 	[3] = {
 		Title = "에피소드 17.2 현자의 유산",
 		IconName = "ico_ep.bmp",
