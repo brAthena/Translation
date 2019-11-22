@@ -2389,7 +2389,8 @@ StateIconList[EFST_IDs.EFST_SYMPHONY_LOVE] = {
 	descript = {
 		{ "Symphony of Lover", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "Increases MDEF" }
+		{ "Increases MDEF" },
+		{ "염속성, 성속성 내성 상승" }
 	}
 }
 StateIconList[EFST_IDs.EFST_DEEP_SLEEP] = {
@@ -5527,9 +5528,47 @@ StateIconList[EFST_IDs.EFST_AROMA_OIL] = {
 		{ "물리/마법 데미지 10% 감소" }
 	}
 }
+StateIconList[EFST_IDs.EFST_HELLS_PLANT_ARMOR] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "헬즈 플랜트", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "주변 범위내 대상에게" },
+		{ "근접 물리 데미지" }
+	}
+}
 StateIconList[EFST_IDs.EFST_LOCKON_LASER] = {
 	descript = {
 		{ "포격 지점 설정", COLOR_TITLE_DEBUFF },
 		{ "일정 시간마다 포격 공격 지점 생성" }
+	}
+}
+StateIconList[EFST_IDs.EFST_REF_T_POTION] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "골든 이그제", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "받는 반사 데미지 100% 감소" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ADD_ATK_DAMAGE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "레드허브 액티베이션", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "근접 물리 데미지 15% 증가" },
+		{ "원거리 물리 데미지 15% 증가" }
+	}
+}
+StateIconList[EFST_IDs.EFST_ADD_MATK_DAMAGE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "블루허브 액티베이션", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "모든 속성 마법 데미지 15% 증가" }
 	}
 }

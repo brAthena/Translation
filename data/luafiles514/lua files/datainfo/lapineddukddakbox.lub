@@ -9521,6 +9521,26 @@ tblLapineDdukddakBox = {
 					"C_Dark_Snake_Lord_Stall",
 					1,
 					31611
+				},
+				{
+					"C_Twin_Canon",
+					1,
+					31671
+				},
+				{
+					"C_Picnic_Basket",
+					1,
+					31673
+				},
+				{
+					"C_Magic_Helm",
+					1,
+					31884
+				},
+				{
+					"C_ManyStars_TW",
+					1,
+					31479
 				}
 			},
 			NeedSource_String = "냥다래 의상"
