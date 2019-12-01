@@ -9,6 +9,14 @@ OffsetItemPos.Direction = {
 	FRONTRIGHT = 7
 }
 OffsetItemPos.Sex = {MALE = 1, FEMALE = 2}
+OffsetItemPos.AddOffsetForDoram(1982, OffsetItemPos.Direction.FRONT, {y = -30})
+OffsetItemPos.AddOffsetForDoram(1982, OffsetItemPos.Direction.FRONTLEFT, {y = -30})
+OffsetItemPos.AddOffsetForDoram(1982, OffsetItemPos.Direction.LEFT, {y = -30})
+OffsetItemPos.AddOffsetForDoram(1982, OffsetItemPos.Direction.BACKLEFT, {y = -30})
+OffsetItemPos.AddOffsetForDoram(1982, OffsetItemPos.Direction.BACK, {y = -30})
+OffsetItemPos.AddOffsetForDoram(1982, OffsetItemPos.Direction.BACKRIGHT, {y = -30})
+OffsetItemPos.AddOffsetForDoram(1982, OffsetItemPos.Direction.RIGHT, {y = -30})
+OffsetItemPos.AddOffsetForDoram(1982, OffsetItemPos.Direction.FRONTRIGHT, {y = -30})
 OffsetItemPos.AddOffsetForDoram(1924, OffsetItemPos.Direction.FRONT, {y = -30})
 OffsetItemPos.AddOffsetForDoram(1924, OffsetItemPos.Direction.FRONTLEFT, {y = -30})
 OffsetItemPos.AddOffsetForDoram(1924, OffsetItemPos.Direction.LEFT, {y = -30})
