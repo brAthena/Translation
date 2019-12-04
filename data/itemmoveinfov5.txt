@@ -5066,3 +5066,4 @@
 1000231	1	1	1	1	0	1	1	1	//Broken_AutoDoll_Parts
 100251	1	1	0	1	1	1	1	1	//Illu_Enhance_Cube
 100252	1	1	0	1	1	1	1	1	//Auto_Enhance_Cube
+1000274	1	1	0	1	1	1	1	1	//Cachua_Coupon
