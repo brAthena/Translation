@@ -4425,7 +4425,7 @@ SKILL_INFO_LIST = {
 		"CR_ACIDDEMONSTRATION",
 		SkillName = "Acid Demonstration",
 		MaxLv = 10,
-		SpAmount = { 30, 30, 30, 30, 30, 30, 30, 30, 30, 30 },
+		SpAmount = { 50, 50, 50, 50, 50, 50, 50, 50, 50, 50 },
 		bSeperateLv = false,
 		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
