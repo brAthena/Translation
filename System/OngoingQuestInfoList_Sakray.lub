@@ -30198,7 +30198,7 @@ QuestInfoList = {
 		},
 		Summary = "나비의 날개 1개",
 		RewardItemList = {
-			{ItemID = 12347, ItemNum = 1}
+			{ ItemID = 12347, ItemNum = 1 }
 		}
 	},
 	[11655] = {
@@ -30233,7 +30233,7 @@ QuestInfoList = {
 		},
 		Summary = "갈링 20마리 처치",
 		RewardItemList = {
-			{ItemID = 6658, ItemNum = 1}
+			{ ItemID = 6658, ItemNum = 1 }
 		}
 	},
 	[11659] = {
@@ -43860,6 +43860,62 @@ QuestInfoList = {
 		},
 		Summary = "찻집으로"
 	},
+	[17408] = {
+		Title = "타나토스 타워 용병 계약",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"레켄베르사와의 타나토스 타워 용병 계약을 마쳤습니다."
+		},
+		Summary = "계약 완료"
+	},
+	[17409] = {
+		Title = "빨간 열쇠를 쥐고",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"빨간 열쇠를 쥐자 희미하게 떨리며 미약한 힘이 느껴진다. 힘이 <NAVI>[이끄는 곳]<INFO>tha_t03,70,70,0,101,0</INFO></NAVI>으로 가 보자."
+		},
+		Summary = "힘이 이끄는 곳으로"
+	},
+	[17410] = {
+		Title = "노란 열쇠를 쥐고",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"노란 열쇠를 쥐자 희미하게 떨리며 미약한 힘이 느껴진다. 힘이 <NAVI>[이끄는 곳]<INFO>tha_t04,199,199,0,101,0</INFO></NAVI>으로 가 보자."
+		},
+		Summary = "힘이 이끄는 곳으로"
+	},
+	[17411] = {
+		Title = "파란 열쇠를 쥐고",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"파란 열쇠를 쥐자 희미하게 떨리며 미약한 힘이 느껴진다. 힘이 <NAVI>[이끄는 곳]<INFO>tha_t05,62,184,0,101,0</INFO></NAVI>으로 가 보자."
+		},
+		Summary = "힘이 이끄는 곳으로"
+	},
+	[17412] = {
+		Title = "초록 열쇠를 쥐고",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"초록 열쇠를 쥐자 희미하게 떨리며 미약한 힘이 느껴진다. 힘이 <NAVI>[이끄는 곳]<INFO>tha_t06,221,230,0,101,0</INFO></NAVI>으로 가 보자."
+		},
+		Summary = "힘이 이끄는 곳으로"
+	},
+	[17413] = {
+		Title = "검정 열쇠를 쥐고",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"검정 열쇠를 쥐자 희미하게 떨리며 미약한 힘이 느껴진다. 힘이 <NAVI>[이끄는 곳]<INFO>tha_t06,200,181,0,101,0</INFO></NAVI>으로 가 보자."
+		},
+		Summary = "힘이 이끄는 곳으로"
+	},
+	[17414] = {
+		Title = "타나토스 타워의 비밀",
+		IconName = "ico_nq.bmp",
+		Description = {
+			"입수한 수첩을 <NAVI>[블레드 콘시드]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>에게 보여주자."
+		},
+		Summary = "블레드 콘시드에게"
+	},
 	[18000] = {
 		Title = "진입 준비",
 		IconName = "ico_ep.bmp",
@@ -44067,6 +44123,42 @@ QuestInfoList = {
 			"해당 퀘스트는 대기시간이 지난 뒤 비공정 거치장의 <NAVI>[아몬드]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI>에게서 받을 수 있습니다."
 		},
 		Summary = "04시 초기화"
+	},
+	[18026] = {
+		Title = "마검사 타나토스의 기억",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"과거 모로크와 대적했다는 마검사 타나토스가 타워에서 목격된다고 한다. 소문의 진상을 확인하러 온 루민을 대신 해 타나토스 타워 상층을 탐험하고 마검사 타나토스를 찾아보자."
+		},
+		Summary = "타나토스의 기억 처치",
+		NpcSpr = "4_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
+	},
+	[18027] = {
+		Title = "마검사 타나토스의 기억",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"과거 모로크와 대적했다는 마검사 타나토스가 타워에서 목격된다고 한다. 소문의 진상을 확인하러 온 루민을 대신 해 타나토스 타워 상층을 탐험하고 마검사 타나토스를 찾아보자."
+		},
+		Summary = "파괴된 타나토스의 기억 처치",
+		NpcSpr = "5_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
+	},
+	[18028] = {
+		Title = "마검사 타나토스의 기억-대기",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"해당 퀘스트는 대기시간이 지난 뒤 타나토스 타워 <NAVI>[루민]<INFO>thana_step,154,367,0,101,0</INFO></NAVI>을 통해 다시 받을 수 있습니다."
+		},
+		Summary = "04시 초기화",
+		NpcSpr = "6_M_AC_RUMIN",
+		NpcNavi = "thana_step",
+		NpcPosX = 154,
+		NpcPosY = 367
 	},
 	[20000] = {
 		Title = "사망-일반헌팅",
