@@ -5072,7 +5072,7 @@ StateIconList[EFST_IDs.EFST_ATK_POPCORN] = {
 	descript = {
 		{ "공격력 증가", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "ATK 3% 증가." }
+		{ "ATK 10% 증가." }
 	}
 }
 StateIconList[EFST_IDs.EFST_MATK_POPCORN] = {
@@ -5081,7 +5081,7 @@ StateIconList[EFST_IDs.EFST_MATK_POPCORN] = {
 	descript = {
 		{ "마법 공격력 증가", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "MATK 3% 증가." }
+		{ "MATK 10% 증가." }
 	}
 }
 StateIconList[EFST_IDs.EFST_ASPD_POPCORN] = {
