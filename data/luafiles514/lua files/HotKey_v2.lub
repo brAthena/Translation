@@ -598,6 +598,16 @@ HOTKEY_3 = {
 		EXE = MsgStrID.MSI_HK_COSEQUIPWND_ONOFF,
 		KEY1 = 88,
 		KEY2 = 18
+	},
+	[57] = {
+		EXE = MsgStrID.MSI_HK_PARTYBOARDWND_ONOFF,
+		KEY1 = 90,
+		KEY2 = 17
+	},
+	[58] = {
+		EXE = MsgStrID.MSI_HK_HUNTINGQUEST_INFO_ONOFF,
+		KEY1 = 72,
+		KEY2 = 17
 	}
 }
 HOTKEY_4 = {
@@ -733,7 +743,8 @@ BEHAVIOR_TO_WINDOWID = {
 	[270] = 49,
 	[263] = 51,
 	[282] = 53,
-	[315] = 54
+	[315] = 54,
+	[324] = 57
 }
 function GetKeyDes(key1, key2)
 	local keyName1 = KEYNAME[key1]
