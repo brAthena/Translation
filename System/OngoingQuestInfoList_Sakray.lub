@@ -43860,6 +43860,182 @@ QuestInfoList = {
 		},
 		Summary = "찻집으로"
 	},
+	[17382] = {
+		Title = "눈꽃다발 만들기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"눈꽃다발을 만들고 싶으시다고요? 그럼 눈동자가 주는 <ITEM>[마력의 눈꽃]<INFO>25425</INFO></ITEM> 10개를 가지고 다시 <NAVI>[이곳]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>으로 오세요."
+		},
+		Summary = "마력의 눈꽃 10개"
+	},
+	[17383] = {
+		Title = "눈꽃다발 만들기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"눈꽃다발 만들기 이벤트는 앞으로 <NAVI>[환상의 눈꽃술사]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>가 담당하게 될 겁니다. 관심이 있으면 찾아가 보세요."
+		},
+		Summary = "환상의 눈꽃술사에게"
+	},
+	[17384] = {
+		Title = "따뜻한 겨울나기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"눈이 내리지 않는 지역에는 흰 눈을, 추운 지역에는 따뜻한 솜옷을! 따뜻한 겨울나기를 돕고 싶으시다면 <NAVI>[코티]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>와 울시를 찾아가 보세요."
+		},
+		Summary = "코티에게"
+	},
+	[17385] = {
+		Title = "축제 카드 교환",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"당신의 선물상자에서 특별한 카드를 찾으셨다고요? 그럼 <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>과 블링에게 가지고 가세요. 특별한 선물을 받으실 수 있을 겁니다."
+		},
+		Summary = "트윙클에게"
+	},
+	[17386] = {
+		Title = "참관객들과 교류를",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"눈꽃 축제에 찾아 온 <NAVI>[참관객]<INFO>aldebaran,162,127,0,101,0</INFO></NAVI>들과 함께 축제를 즐겨 보시는 건 어떤지요?"
+		},
+		Summary = "시계탑 근처로"
+	},
+	[17387] = {
+		Title = "눈꽃다발 만들기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"눈꽃다발을 만들기 위해서는 <ITEM>[마력의 눈꽃]<INFO>25425</INFO></ITEM> 10개가 필요해요. 눈사람들이 코에 장식할 당근도 원하고 있으니 <ITEM>[당근]<INFO>515</INFO></ITEM> 1개도 잊지 마시고요. - <NAVI>[마린]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
+		},
+		Summary = "눈꽃 10개, 당근 1개"
+	},
+	[17388] = {
+		Title = "대기: 냉기가 남아있다",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"아직 마력의 눈꽃 효력이 남아 있어요. 새벽이 지난 후에 다시 찾아 주세요. - <NAVI>[마린]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17389] = {
+		Title = "따뜻한 겨울나기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"눈이 오지 않는 어린이들에겐 눈을! 추운 지역의 어린이들에겐 따뜻한 솜옷을! <NAVI>[저희]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>에게 <ITEM>[따뜻한 솜]<INFO>25426</INFO></ITEM> 10개를 기부해 주세요!"
+		},
+		Summary = "따뜻한 솜 10개"
+	},
+	[17390] = {
+		Title = "대기: 솜은 포장 중",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"솜은 지금 포장 중이에요. 새벽무렵에는 포장이 끝날 것 같은데 새벽이 지난 후에 다시 찾아 주세요! - <NAVI>[코티]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17391] = {
+		Title = "축제 카드 교환",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"모험가님의 행운의 단어는 DECEMBER!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 D.E.C.E.M.B.E.R 낱말 카드를 모아 오시면 돼요. 총 8장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+		},
+		Summary = "DECEMBER 카드 모으기"
+	},
+	[17392] = {
+		Title = "축제 카드 교환",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"모험가님의 행운의 단어는 SNOW!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 S.N.O.W 낱말 카드를 모아 오시면 돼요. 총 4장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+		},
+		Summary = "SNOW 카드 모으기"
+	},
+	[17393] = {
+		Title = "축제 카드 교환",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"모험가님의 행운의 단어는 FESTIVAL!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 F.E.S.T.I.V.A.L 낱말 카드를 모아 오시면 돼요. 총 8장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+		},
+		Summary = "FESTIVAL 카드 모으기"
+	},
+	[17394] = {
+		Title = "축제 카드 교환",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"모험가님의 행운의 단어는 WHITE!! 당신의 선물상자에서 나오는 눈꽃 카드 봉투를 열어 보세요. 그 속에 들어 있는 W.H.I.T.E 낱말 카드를 모아 오시면 돼요. 총 5장이에요. - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+		},
+		Summary = "WHITE 카드 모으기"
+	},
+	[17395] = {
+		Title = "대기: 카드 교환은 1일 1회",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"낱말 카드 교환은 1일 1회예요. 아셨죠? 그러니까 새벽이 지난 후에 다시 오세요! - <NAVI>[트윙클]<INFO>aldebaran,217,212,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17396] = {
+		Title = "시간아 멈추어다오",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"울고 있는 <NAVI>[스파클]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>을 달래어 이야기를 들어 보자."
+		},
+		Summary = "스파클과 대화"
+	},
+	[17397] = {
+		Title = "시간아 멈추어다오",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"고구마 3개, 우유 3개, 눈꽃 축제 낱말카드 L.O.V.E 각각 1장씩 가져다 주세요! - <NAVI>[스파클]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
+		},
+		Summary = "사랑의 겨울간식 준비"
+	},
+	[17398] = {
+		Title = "시간아 멈추어다오",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"자! 어서 그 <NAVI>[악당]<INFO>aldebaran,242,118,0,101,0</INFO></NAVI>들에게 사랑의 간식을 가져다 주러 가요!"
+		},
+		Summary = "악당에게 겨울간식을 1"
+	},
+	[17399] = {
+		Title = "시간아 멈추어다오",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"이제 다음 <NAVI>[악당]<INFO>aldebaran,36,78,0,101,0</INFO></NAVI>에게 사랑의 간식을 가져다 주러 가요!"
+		},
+		Summary = "악당에게 겨울간식을 2"
+	},
+	[17400] = {
+		Title = "시간아 멈추어다오",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"마지막 <NAVI>[악당]<INFO>aldebaran,138,181,0,101,0</INFO></NAVI>에게 사랑의 간식을 가져다 주러 가요!"
+		},
+		Summary = "악당에게 겨울간식을 3"
+	},
+	[17401] = {
+		Title = "시간아 멈추어다오",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"이제 다시 시계탑 근처로 돌아가서 <NAVI>[악당]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI> 대장의 계획을 막아요!"
+		},
+		Summary = "시계탑 근처로"
+	},
+	[17402] = {
+		Title = "관심이 필요합니다",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"악당들도 겨울간식을 좋아할 줄 알았죠. 고구마 3개랑 당신의 선물상자 5마리를 잡고 눈꽃 카드 봉투 3개를 가져다 주세요! - <NAVI>[스파클]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
+		},
+		Summary = "악당들을 위한 선물"
+	},
+	[17403] = {
+		Title = "대기: 관심이 필요합니다",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"역시 겨울간식과 애정어린 카드가 통할 줄 알았어요. 이제 푹 쉬고 새벽이 지난 후에 다시 도와주세요. - <NAVI>[스파클]<INFO>aldebaran,159,127,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
 	[17408] = {
 		Title = "타나토스 타워 용병 계약",
 		IconName = "ico_nq.bmp",
@@ -43915,6 +44091,94 @@ QuestInfoList = {
 			"입수한 수첩을 <NAVI>[블레드 콘시드]<INFO>tha_t02,231,161,0,101,0</INFO></NAVI>에게 보여주자."
 		},
 		Summary = "블레드 콘시드에게"
+	},
+	[17415] = {
+		Title = "의뢰 수락",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"솔리스의 의뢰를 수락하였습니다."
+		},
+		Summary = "수락 완료"
+	},
+	[17416] = {
+		Title = "09층의 몬스터",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"타나토스 타워의 9층에서 크로우 듀크와 크로우 바론을 각각 20마리씩 상대하시면 돼요. 만약 슬픔의 파편 10개를 가지고 오신다면 추가로 보수를 더 드리죠. - <NAVI>[솔리스]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "슬픔의 파편 10개"
+	},
+	[17417] = {
+		Title = "10층의 몬스터",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"타나토스 타워의 10층에서 보이드 미믹, 죽음의 책, 엘디스트를 각각 15마리씩 상대하시면 돼요. 만약 절망의 파편 10개를 가지고 오신다면 추가로 보수를 더 드리죠. - <NAVI>[솔리스]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "절망의 파편 10개"
+	},
+	[17418] = {
+		Title = "11층의 몬스터",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"타나토스 타워의 11층에서 공감하는 자, 행복을 주는 자를 각각 15마리씩 상대하시면 돼요. 만약 증오의 파편 10개를 가지고 오신다면 추가로 보수를 더 드리죠. - <NAVI>[솔리스]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "증오의 파편 10개"
+	},
+	[17419] = {
+		Title = "11층의 몬스터",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"타나토스 타워의 11층에서 축원하는 자, 웃음을 주는 자를 각각 15마리씩 상대하시면 돼요. - <NAVI>[솔리스]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = ""
+	},
+	[17420] = {
+		Title = "12층의 몬스터",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"타나토스 타워의 12층에서 타나토스의 분노, 타나토스의 공포를 각각 10마리씩 상대하시면 돼요. 만약 고뇌의 파편 10개를 가지고 오신다면 추가로 보수를 더 드리죠. - <NAVI>[솔리스]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "고뇌의 파편 10개"
+	},
+	[17421] = {
+		Title = "12층의 몬스터",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"타나토스 타워의 12층에서 타나토스의 후회, 타나토스의 원망을 각각 10마리씩 상대하시면 돼요. - <NAVI>[솔리스]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = ""
+	},
+	[17422] = {
+		Title = "대기: 타나토스 타워 09층",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"저희는 자료를 정리해야 하니까요, 새벽이 지난 후에 다시 찾아와 주세요. - <NAVI>[솔리스]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17423] = {
+		Title = "대기: 타나토스 타워 10층",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"저희는 자료를 정리해야 하니까요, 새벽이 지난 후에 다시 찾아와 주세요. - <NAVI>[솔리스]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17424] = {
+		Title = "대기: 타나토스 타워 11층",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"저희는 자료를 정리해야 하니까요, 새벽이 지난 후에 다시 찾아와 주세요. - <NAVI>[솔리스]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
+	},
+	[17425] = {
+		Title = "대기: 타나토스 타워 12층",
+		IconName = "ico_dq.bmp",
+		Description = {
+			"저희는 자료를 정리해야 하니까요, 새벽이 지난 후에 다시 찾아와 주세요. - <NAVI>[솔리스]<INFO>tha_t01,161,78,0,101,0</INFO></NAVI>"
+		},
+		Summary = "04시 초기화"
 	},
 	[18000] = {
 		Title = "진입 준비",
