@@ -194,6 +194,15 @@ mapTbl = {
 		},
 		backgroundBmp = "dungeon"
 	},
+	["1@gl_he2.rsw"] = {
+		displayName = "이벤트모드 불완전한 차원",
+		notifyEnter = true,
+		signName = {
+			subTitle = "이벤트 모드",
+			mainTitle = "불완전한 차원"
+		},
+		backgroundBmp = "dungeon"
+	},
 	["1@gl_k.rsw"] = {
 		displayName = "2nd floor of Old Glast Heim Chivalry",
 		notifyEnter = true,
