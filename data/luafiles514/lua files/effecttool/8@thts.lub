@@ -145,7 +145,7 @@ _8thts_magicfloorInfo = {
 		FullDisplayAngle = {0},
 		pos = {
 			260.2,
-			-97.5,
+			-96.5,
 			-269.2
 		},
 		Height0 = {0},

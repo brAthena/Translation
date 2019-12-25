@@ -1,4 +1,3 @@
-
 ShadowFactorTable = {
 	[jobtbl.JT_WARPNPC] = 0,
 	[jobtbl.JT_FACEWORM_QUEEN_Y] = 2,
@@ -780,6 +779,13 @@ ShadowFactorTable = {
 	[jobtbl.JT_MD_C_AMDARAIS] = 3.5,
 	[jobtbl.JT_MD_C_CORRUPTION_ROOT] = 1.5,
 	[jobtbl.JT_MD_C_WHITEKNIGHT_G] = 2.5,
+	[jobtbl.JT_MD_EVENT_AMDARAIS] = 3.5,
 	[jobtbl.JT_GLOOMUNDERNIGHT2] = 2,
-	[jobtbl.JT_E_GARLING] = 1.2
+	[jobtbl.JT_E_GARLING] = 1.2,
+	[jobtbl.JT_MD_THANATOS] = 2,
+	[jobtbl.JT_MD_BROKEN_THANATOS] = 2,
+	[jobtbl.JT_MD_THA_ANGER] = 1.5,
+	[jobtbl.JT_THA_ANGER] = 1.5,
+	[jobtbl.JT_MD_THA_ANGER] = 1.5,
+	[jobtbl.JT_THA_ANGER] = 1.5
 }

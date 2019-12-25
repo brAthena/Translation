@@ -4199,6 +4199,8 @@ JobNameTable = {
 	[jobtbl.JT_MD_THA_MAERO] = "tha_maero",
 	[jobtbl.JT_MD_THA_DOLOR] = "tha_dolor",
 	[jobtbl.JT_MD_OBSERVATION] = "observation",
+	[jobtbl.JT_MD_EVENT_HEMEL] = "c_himel",
+	[jobtbl.JT_MD_EVENT_AMDARAIS] = "c_amdarais",
 	[jobtbl.JT_PRAY_GIVER] = "PRAY_GIVER",
 	[jobtbl.JT_SMILE_GIVER] = "SMILE_GIVER"
 }
