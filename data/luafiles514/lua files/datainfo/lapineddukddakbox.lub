@@ -6904,6 +6904,66 @@ tblLapineDdukddakBox = {
 					"AssacrossStone_Bottom2",
 					1,
 					1000224
+				},
+				{
+					"RuneknightStone_Robe2",
+					1,
+					1000296
+				},
+				{
+					"RuneknightStone_Top2",
+					1,
+					1000297
+				},
+				{
+					"RuneknightStone_Middle2",
+					1,
+					1000298
+				},
+				{
+					"RuneknightStone_Bottom2",
+					1,
+					1000299
+				},
+				{
+					"GeneticStone_Robe2",
+					1,
+					1000300
+				},
+				{
+					"GeneticStone_Top2",
+					1,
+					1000301
+				},
+				{
+					"GeneticStone_Middle2",
+					1,
+					1000302
+				},
+				{
+					"GeneticStone_Bottom2",
+					1,
+					1000303
+				},
+				{
+					"WanderMinsStone_Robe2",
+					1,
+					1000304
+				},
+				{
+					"WanderMinsStone_Top2",
+					1,
+					1000305
+				},
+				{
+					"WanderMinsStone_Middle2",
+					1,
+					1000306
+				},
+				{
+					"WanderMinsStone_Bottom2",
+					1,
+					1000307
 				}
 			},
 			NeedSource_String = "의상인챈트스톤"
@@ -9541,6 +9601,26 @@ tblLapineDdukddakBox = {
 					"C_ManyStars_TW",
 					1,
 					31479
+				},
+				{
+					"C_Santa_Backpack",
+					1,
+					20592
+				},
+				{
+					"C_Fawn_Ear",
+					1,
+					31509
+				},
+				{
+					"C_Royalguard_Necklace",
+					1,
+					31559
+				},
+				{
+					"C_Happy_Cat_TW",
+					1,
+					440002
 				}
 			},
 			NeedSource_String = "냥다래 의상"
