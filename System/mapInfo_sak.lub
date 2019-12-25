@@ -1630,6 +1630,7 @@ mapTbl = {
 		displayName = "Volcanic Island of Krakatoa",
 		notifyEnter = true,
 		signName = {
+			subTitle = "데와타",
 			mainTitle = "크라카토 화산섬"
 		},
 		backgroundBmp = "dungeon"
@@ -1638,6 +1639,7 @@ mapTbl = {
 		displayName = "Tina Grace Cave",
 		notifyEnter = true,
 		signName = {
+			subTitle = "데와타",
 			mainTitle = "이스타나 동굴"
 		},
 		backgroundBmp = "dungeon"
