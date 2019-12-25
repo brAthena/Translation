@@ -1,6 +1,12 @@
-//-- 최종갱신 사크라이 2019-12-02
+//-- 최종갱신 사크라이 2019-12-16
 
-//MD 타나토스 타워
+// 글래스트 헤임 이벤트 도전모드
+1@gl_he2.gnd#1@gl_he2.gnd#
+1@gl_he2.gat#1@gl_he2.gat#
+1@gl_he2.rsw#1@gl_he2.rsw#
+유저인터페이스\map\1@gl_he2.bmp#유저인터페이스\map\1@gl_he2.bmp#
+
+// MD 타나토스 타워
 1@thts.gnd#1@thts.gnd#
 1@thts.gat#1@thts.gat#
 1@thts.rsw#1@thts.rsw#
