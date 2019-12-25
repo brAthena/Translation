@@ -5067,3 +5067,6 @@
 100251	1	1	0	1	1	1	1	1	//Illu_Enhance_Cube
 100252	1	1	0	1	1	1	1	1	//Auto_Enhance_Cube
 1000274	1	1	0	1	1	1	1	1	//Cachua_Coupon
+400055	1	1	0	1	1	1	1	1	//C_ShineSantaPoringE
+100332	1	1	0	1	1	1	1	1	//2019_Chrismas_Present
+100333	1	1	0	1	1	1	1	1	//E_Infinity_Drink
