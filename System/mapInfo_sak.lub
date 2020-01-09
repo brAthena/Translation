@@ -2924,6 +2924,22 @@ mapTbl = {
 		},
 		backgroundBmp = "noname_s1"
 	},
+	["iz_d04_i.rsw"] = {
+		displayName = "심연의 해저동굴 상층",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "심연의 해저동굴 상층"
+		},
+		backgroundBmp = "dungeon"
+	},
+	["iz_d05_i.rsw"] = {
+		displayName = "심연의 해저동굴 하층",
+		notifyEnter = true,
+		signName = {
+			mainTitle = "심연의 해저동굴 하층"
+		},
+		backgroundBmp = "dungeon"
+	},
 	["iz_dun00.rsw"] = {
 		displayName = "Undersea Tunnel F1",
 		notifyEnter = true,
