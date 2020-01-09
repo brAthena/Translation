@@ -1,5 +1,75 @@
 tblLapineDdukddakBox = {
 	sources = {
+		Sword_Of_Bluefire_Cube = {
+			ItemID = 100327,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Sword_Of_Bluefire",
+					1,
+					13485
+				}
+			},
+			NeedSource_String = "홍련의 검"
+		},
+		Slate_Sword_Cube = {
+			ItemID = 100328,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Slate_Sword",
+					1,
+					500004
+				}
+			},
+			NeedSource_String = "슬레이트 소드"
+		},
+		Narcis_Bow_Cube = {
+			ItemID = 100329,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Narcis_Bow",
+					1,
+					18170
+				}
+			},
+			NeedSource_String = "나르시스 보우"
+		},
+		Trumpet_Shell_K_Cube = {
+			ItemID = 100330,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Trumpet_Shell_K",
+					1,
+					570002
+				}
+			},
+			NeedSource_String = "소라고둥 나팔"
+		},
+		Barb_Wire_K_Cube = {
+			ItemID = 100331,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Barb_Wire_K",
+					1,
+					580002
+				}
+			},
+			NeedSource_String = "가시철사 채찍"
+		},
 		Remodel_Hero_Boots = {
 			ItemID = 100273,
 			NeedCount = 1,
