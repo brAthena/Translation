@@ -5070,3 +5070,4 @@
 400055	1	1	0	1	1	1	1	1	//C_ShineSantaPoringE
 100332	1	1	0	1	1	1	1	1	//2019_Chrismas_Present
 100333	1	1	0	1	1	1	1	1	//E_Infinity_Drink
+25898	1	1	1	1	1	1	1	1	//Siroods_Fish_Rod													
