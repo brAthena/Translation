@@ -4362,6 +4362,18 @@ tbl = {
 		MonsterEff = {
 			EFFECT.EF_AMDARAIS_EFFECT
 		}
+	},
+	[20846] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_BOTTOM_EVILLAND
+		}
+	},
+	[20847] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_MAP_MAGICZONE
+		}
 	}
 }
 function main()
