@@ -30340,6 +30340,86 @@ QuestInfoList = {
 		},
 		Summary = "04시 초기화"
 	},
+	[11659] = {
+		Title = "잭과 이상한 잭의 조금 이상한 이야기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"갈링을 처치했다. 더 이상 무리하면 정화되어버릴지도 모른다고 하니 04시 이후 다시 찾아오자."
+		},
+		Summary = "04시 초기화"
+	},
+	[11660] = {
+		Title = "다람쥐도 쥐인가요?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"말랑도 문어축제에 넛크랙커님이 방문했다고 한다. 넛크랙커와 대화하자."
+		},
+		Summary = "넛크랙커와 대화"
+	},
+	[11661] = {
+		Title = "다람쥐도 쥐인가요?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"문어축제 진행요원과 대화하자."
+		},
+		Summary = "문어축제 진행요원과 대화"
+	},
+	[11662] = {
+		Title = "다람쥐도 쥐인가요?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"넛크랙커에게 복수하고 싶어하던 워넛이 혼란을 틈타 도망쳤다. 멀리 도망치기 전에 워넛을 잡으려면 말랑도 해안가를 조사해보자."
+		},
+		Summary = "해변 조사"
+	},
+	[11663] = {
+		Title = "다람쥐도 쥐인가요?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"워넛은 이미 프론테라행 배를 타고 탈출해 버린 것 같다. 프론테라에서 정보를 찾아보자."
+		},
+		Summary = "프론테라로 이동"
+	},
+	[11664] = {
+		Title = "다람쥐도 쥐인가요?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"여행자는 워넛은 보지 못했지만 커다란 줄무늬 고양이가 워넛을 찾는 모습을 봤다고 한다. 여행자가 말한 방향으로 가보자."
+		},
+		Summary = "커다란 줄무늬 고양이와 대화"
+	},
+	[11665] = {
+		Title = "다람쥐도 쥐인가요?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"워넛을 잡았다. 말랑도로 돌아가 넛크랙커와 대화하자."
+		},
+		Summary = "넛크랙커와 대화",
+		RewardItemList = {
+			{ ItemID = 23921, ItemNum = 1 },
+			{ ItemID = 766, ItemNum = 1 }
+		}
+	},
+	[11666] = {
+		Title = "다람쥐도 쥐인가요?",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"넛크랙커를 습격한 워넛은 잡았지만 워넛의 동료들이 미드가르드 대륙 전체에 퍼져있는 듯 하다. 워넛을 10알 정도 체포해서 돌아가자."
+		},
+		Summary = "워넛 10알 체포",
+		RewardItemList = {
+			{ ItemID = 23921, ItemNum = 1 },
+			{ ItemID = 766, ItemNum = 1 }
+		}
+	},
+	[11667] = {
+		Title = "다람쥐도 쥐인가요? -대기",
+		IconName = "ico_ev.bmp",
+		Description = {
+			"워넛을 체포하느라 너무 피곤하다. 내일 다시 방문하자."
+		},
+		Summary = "04시 초기화"
+	},
 	[12000] = {
 		Title = "An old friend",
 		Description = {
