@@ -1967,4 +1967,5 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Happy_Cat_TW] = "_C_Happy_Cat_TW",
 	[ACCESSORY_IDs.ACCESSORY_C_Pure_Love_Muffler] = "_C_Pure_Love_Muffler",
 	[ACCESSORY_IDs.ACCESSORY_Cons_Of_Earth] = "_Cons_Of_Earth",
+	[ACCESSORY_IDs.ACCESSORY_Nut_Cracker] = "_Nut_Cracker",
 }
