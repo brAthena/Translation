@@ -6762,6 +6762,7 @@ QuestInfoList = {
 	},
 	[3413] = {
 		Title = "심연의 정수 수집 - 일일",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"^4d4dff심연의 정수^000000 10개를 수집하여 <NAVI>[제리몬]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>에게 가져다 주자."
 		},
@@ -6769,6 +6770,7 @@ QuestInfoList = {
 	},
 	[3414] = {
 		Title = "심연의 정수 수집 - 대기",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[제리몬]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."
 		},
@@ -6776,6 +6778,7 @@ QuestInfoList = {
 	},
 	[3415] = {
 		Title = "상층의 심해 생물 처치 - 일일",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"^4d4dff심해의 스로포^000000와 ^4d4dff심해의 데비우스^000000 그리고 ^4d4dff심해의 마르스^000000를 각각 10마리씩 처치하자."
 		},
@@ -6783,6 +6786,7 @@ QuestInfoList = {
 	},
 	[3416] = {
 		Title = "상층의 심해 생물 처치 - 대기",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[제리몬]<INFO>iz_d04_i,127,228,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."
 		},
@@ -6790,6 +6794,7 @@ QuestInfoList = {
 	},
 	[3417] = {
 		Title = "하층의 심해 생물 처치 - 일일",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"^4d4dff심해의 소드 피쉬^000000와 ^4d4dff심해의 휀^000000 그리고 ^4d4dff심해의 킹 드라모^000000를 각각 10마리씩 처치하자."
 		},
@@ -6797,6 +6802,7 @@ QuestInfoList = {
 	},
 	[3418] = {
 		Title = "하층의 심해 생물 처치 - 대기",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[케나]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."
 		},
@@ -6804,6 +6810,7 @@ QuestInfoList = {
 	},
 	[3419] = {
 		Title = "하층의 어인족 처치 - 일일",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"^4d4dff심연의 세도라^000000와 ^4d4dff심연의 스트라우프^000000를 각각 15마리씩 처치하자."
 		},
@@ -6811,6 +6818,7 @@ QuestInfoList = {
 	},
 	[3420] = {
 		Title = "하층의 어인족 처치 - 대기",
+		IconName = "ico_dq.bmp",
 		Description = {
 			"해당 퀘스트는 일일 퀘스트로, 대기시간 만료 시 다시 받아 수행할 수 있습니다. <NAVI>[케나]<INFO>iz_d05_i,138,186,0,101,0</INFO></NAVI>을 통해 퀘스트 수주가 가능합니다."
 		},
