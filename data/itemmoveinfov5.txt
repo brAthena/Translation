@@ -5072,3 +5072,5 @@
 100333	1	1	0	1	1	1	1	1	//E_Infinity_Drink
 25898	1	1	1	1	1	1	1	1	//Siroods_Fish_Rod													
 766	1	1	1	1	0	1	1	1	//Silky_Fur_Bundle
+200031	1	1	0	1	1	1	1	1	//LI_Nyangvine_Box100
+200032	1	1	0	1	1	1	1	1	//LI_A_3_Potion_pack
