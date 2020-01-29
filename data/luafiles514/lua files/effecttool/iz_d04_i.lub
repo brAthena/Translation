@@ -18,13 +18,13 @@ _iz_d04_i_emitterInfo = {
 		},
 		pos = {
 			103.8,
-			-3,
+			-24,
 			144.9
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -32,14 +32,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -66,13 +66,13 @@ _iz_d04_i_emitterInfo = {
 		},
 		pos = {
 			-48.6,
-			-15,
+			-53,
 			350
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -80,14 +80,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
+		rate = {1, 8},
+		size = {3, 6},
 		life = {3, 6},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {20},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -114,7 +114,7 @@ _iz_d04_i_emitterInfo = {
 		},
 		pos = {
 			-181.5,
-			-31,
+			-37,
 			410
 		},
 		radius = {
@@ -135,7 +135,7 @@ _iz_d04_i_emitterInfo = {
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {15},
+		maxcount = {8},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -162,13 +162,13 @@ _iz_d04_i_emitterInfo = {
 		},
 		pos = {
 			-467.3,
-			-3,
+			-44,
 			349.2
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -176,14 +176,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {20},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -210,13 +210,13 @@ _iz_d04_i_emitterInfo = {
 		},
 		pos = {
 			-411.3,
-			0,
+			-30,
 			462.3
 		},
 		radius = {
-			30,
-			5,
-			10
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -224,14 +224,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -257,14 +257,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			190.3,
-			0,
-			424.6
+			-53.5,
+			-36,
+			234.2
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -272,14 +272,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {15},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -305,14 +305,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			-53.5,
-			1,
-			234.2
+			33.4,
+			-61,
+			473.7
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -320,14 +320,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -353,14 +353,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			33.4,
-			-31,
-			473.7
+			93.6,
+			-27,
+			270.2
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -368,14 +368,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -401,14 +401,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			93.6,
-			0,
-			270.2
+			440.2,
+			-36,
+			27
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -416,14 +416,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
+		rate = {1, 8},
+		size = {3, 6},
 		life = {3, 6},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -449,14 +449,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			440.2,
-			0,
-			27
+			-102.6,
+			-40,
+			69.2
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -464,14 +464,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -497,14 +497,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			447.3,
-			0,
-			-119.2
+			-275.9,
+			-34,
+			-150.2
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -512,14 +512,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 6},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -545,9 +545,9 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			-102.6,
-			0,
-			69.2
+			-108.7,
+			-43,
+			-80.3
 		},
 		radius = {
 			40,
@@ -560,14 +560,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {5},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -593,14 +593,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			-275.9,
-			-58,
-			-150.2
+			45.5,
+			-42,
+			-158.9
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -608,14 +608,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
-		speed = {1.5},
+		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {20},
+		maxcount = {7},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -641,14 +641,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			157.5,
-			0,
-			-108.6
+			-140.3,
+			-42,
+			-214.3
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -656,14 +656,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {5},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -689,14 +689,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			43.6,
-			-1,
-			20
+			51.6,
+			-46,
+			-303.6
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -704,14 +704,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -737,14 +737,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			345.3,
-			0,
-			124.5
+			-408.3,
+			-52,
+			-295.1
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -752,14 +752,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {15},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -785,14 +785,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			-108.7,
-			0,
-			-80.3
+			-522.7,
+			-46,
+			136.7
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -800,14 +800,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -833,14 +833,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			45.5,
-			0,
-			-158.9
+			-47,
+			-52,
+			-505.6
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -848,14 +848,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -881,14 +881,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			-140.3,
-			0,
-			-214.3
+			157.2,
+			-55,
+			-571.6
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -896,14 +896,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 6},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -929,14 +929,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			51.6,
-			-15,
-			-303.6
+			280.9,
+			-46,
+			-521.8
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -944,14 +944,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -967,9 +967,9 @@ _iz_d04_i_emitterInfo = {
 			-3
 		},
 		dir2 = {
-			3,
+			5,
 			0,
-			3
+			5
 		},
 		gravity = {
 			0.7,
@@ -977,14 +977,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			-408.3,
-			0,
-			-295.1
+			-255.4,
+			-67,
+			-564.3
 		},
 		radius = {
-			70,
-			30,
-			50
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -992,14 +992,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -1015,9 +1015,9 @@ _iz_d04_i_emitterInfo = {
 			-3
 		},
 		dir2 = {
-			3,
+			5,
 			0,
-			3
+			5
 		},
 		gravity = {
 			0.7,
@@ -1025,14 +1025,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			-522.7,
-			0,
-			136.7
+			-228.2,
+			-50,
+			-459.7
 		},
 		radius = {
-			70,
-			30,
-			50
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -1040,14 +1040,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
-		speed = {1.4},
+		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -1063,9 +1063,9 @@ _iz_d04_i_emitterInfo = {
 			-3
 		},
 		dir2 = {
-			3,
+			5,
 			0,
-			3
+			5
 		},
 		gravity = {
 			0.7,
@@ -1073,14 +1073,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			-47,
-			0,
-			-505.6
+			-495.8,
+			-44,
+			-13
 		},
 		radius = {
-			70,
-			30,
-			50
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -1088,14 +1088,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -1111,9 +1111,9 @@ _iz_d04_i_emitterInfo = {
 			-3
 		},
 		dir2 = {
-			3,
+			5,
 			0,
-			3
+			5
 		},
 		gravity = {
 			0.7,
@@ -1121,14 +1121,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			157.2,
-			0,
-			-571.6
+			331.9,
+			-30,
+			-408.7
 		},
 		radius = {
-			70,
-			30,
-			50
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -1136,14 +1136,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
+		rate = {1, 6},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -1169,14 +1169,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			280.9,
-			0,
-			-521.8
+			-428.9,
+			-40,
+			-154.4
 		},
 		radius = {
-			70,
-			30,
-			50
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -1184,14 +1184,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -1207,9 +1207,9 @@ _iz_d04_i_emitterInfo = {
 			-3
 		},
 		dir2 = {
-			3,
+			5,
 			0,
-			3
+			5
 		},
 		gravity = {
 			0.7,
@@ -1217,14 +1217,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			-255.4,
-			-16,
-			-564.3
+			396.6,
+			-24,
+			-303.2
 		},
 		radius = {
-			70,
-			30,
-			50
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -1232,14 +1232,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -1255,9 +1255,9 @@ _iz_d04_i_emitterInfo = {
 			-3
 		},
 		dir2 = {
-			3,
+			5,
 			0,
-			3
+			5
 		},
 		gravity = {
 			0.7,
@@ -1265,14 +1265,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			-228.2,
-			0,
-			-459.7
+			458.5,
+			-45,
+			305.3
 		},
 		radius = {
-			70,
-			30,
-			50
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -1280,14 +1280,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -1303,9 +1303,9 @@ _iz_d04_i_emitterInfo = {
 			-3
 		},
 		dir2 = {
-			3,
+			5,
 			0,
-			3
+			5
 		},
 		gravity = {
 			0.7,
@@ -1313,14 +1313,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			-495.8,
-			0,
-			-13
+			453.9,
+			-40,
+			476.9
 		},
 		radius = {
-			70,
-			30,
-			50
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -1328,14 +1328,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
-		speed = {1.4},
+		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -1361,14 +1361,14 @@ _iz_d04_i_emitterInfo = {
 			0.7
 		},
 		pos = {
-			331.9,
-			0,
-			-408.7
+			-526.5,
+			-129,
+			-551.4
 		},
 		radius = {
-			70,
-			30,
-			50
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -1376,14 +1376,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {10},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -1393,246 +1393,6 @@ _iz_d04_i_emitterInfo = {
 		}
 	},
 	[29] = {
-		dir1 = {
-			-3,
-			-5,
-			-3
-		},
-		dir2 = {
-			3,
-			0,
-			3
-		},
-		gravity = {
-			0.7,
-			-2,
-			0.7
-		},
-		pos = {
-			-428.9,
-			0,
-			-154.4
-		},
-		radius = {
-			70,
-			30,
-			50
-		},
-		color = {
-			140,
-			100,
-			160,
-			200
-		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
-		texture = "effect\\bubble01.bmp",
-		speed = {1},
-		srcmode = {5},
-		destmode = {2},
-		maxcount = {10},
-		zenable = {1},
-		billboard_off = {0},
-		rotate_angle = {
-			0,
-			0,
-			0
-		}
-	},
-	[30] = {
-		dir1 = {
-			-3,
-			-5,
-			-3
-		},
-		dir2 = {
-			3,
-			0,
-			3
-		},
-		gravity = {
-			0.7,
-			-2,
-			0.7
-		},
-		pos = {
-			396.6,
-			0,
-			-303.2
-		},
-		radius = {
-			70,
-			30,
-			50
-		},
-		color = {
-			140,
-			100,
-			160,
-			200
-		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
-		texture = "effect\\bubble01.bmp",
-		speed = {1},
-		srcmode = {5},
-		destmode = {2},
-		maxcount = {10},
-		zenable = {1},
-		billboard_off = {0},
-		rotate_angle = {
-			0,
-			0,
-			0
-		}
-	},
-	[31] = {
-		dir1 = {
-			-3,
-			-5,
-			-3
-		},
-		dir2 = {
-			5,
-			0,
-			5
-		},
-		gravity = {
-			0.7,
-			-2,
-			0.7
-		},
-		pos = {
-			434.3,
-			0,
-			306.4
-		},
-		radius = {
-			40,
-			10,
-			20
-		},
-		color = {
-			140,
-			100,
-			160,
-			200
-		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
-		texture = "effect\\bubble01.bmp",
-		speed = {1},
-		srcmode = {5},
-		destmode = {2},
-		maxcount = {10},
-		zenable = {1},
-		billboard_off = {0},
-		rotate_angle = {
-			0,
-			0,
-			0
-		}
-	},
-	[32] = {
-		dir1 = {
-			-3,
-			-5,
-			-3
-		},
-		dir2 = {
-			5,
-			0,
-			5
-		},
-		gravity = {
-			0.7,
-			-2,
-			0.7
-		},
-		pos = {
-			483.4,
-			0,
-			477.2
-		},
-		radius = {
-			40,
-			10,
-			20
-		},
-		color = {
-			140,
-			100,
-			160,
-			200
-		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
-		texture = "effect\\bubble01.bmp",
-		speed = {1},
-		srcmode = {5},
-		destmode = {2},
-		maxcount = {15},
-		zenable = {1},
-		billboard_off = {0},
-		rotate_angle = {
-			0,
-			0,
-			0
-		}
-	},
-	[33] = {
-		dir1 = {
-			-3,
-			-5,
-			-3
-		},
-		dir2 = {
-			3,
-			0,
-			3
-		},
-		gravity = {
-			0.7,
-			-2,
-			0.7
-		},
-		pos = {
-			-526.5,
-			-97,
-			-551.4
-		},
-		radius = {
-			70,
-			30,
-			50
-		},
-		color = {
-			140,
-			100,
-			160,
-			200
-		},
-		rate = {1, 7},
-		size = {1, 6},
-		life = {2, 7},
-		texture = "effect\\bubble01.bmp",
-		speed = {1},
-		srcmode = {5},
-		destmode = {2},
-		maxcount = {10},
-		zenable = {1},
-		billboard_off = {0},
-		rotate_angle = {
-			0,
-			0,
-			0
-		}
-	},
-	[34] = {
 		dir1 = {
 			-3,
 			-5,
@@ -1680,7 +1440,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[35] = {
+	[30] = {
 		dir1 = {
 			-3,
 			-5,
@@ -1728,7 +1488,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[36] = {
+	[31] = {
 		dir1 = {
 			-3,
 			-5,
@@ -1776,7 +1536,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[37] = {
+	[32] = {
 		dir1 = {
 			-3,
 			-5,
@@ -1794,13 +1554,13 @@ _iz_d04_i_emitterInfo = {
 		},
 		pos = {
 			-222.5,
-			0,
+			-44,
 			119.9
 		},
 		radius = {
-			40,
-			10,
-			20
+			80,
+			20,
+			80
 		},
 		color = {
 			140,
@@ -1808,14 +1568,14 @@ _iz_d04_i_emitterInfo = {
 			160,
 			200
 		},
-		rate = {2, 7},
-		size = {1, 5},
-		life = {3, 6},
+		rate = {1, 8},
+		size = {3, 6},
+		life = {3, 10},
 		texture = "effect\\bubble01.bmp",
 		speed = {1},
 		srcmode = {5},
 		destmode = {2},
-		maxcount = {20},
+		maxcount = {6},
 		zenable = {1},
 		billboard_off = {0},
 		rotate_angle = {
@@ -1824,7 +1584,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[38] = {
+	[33] = {
 		dir1 = {
 			-3,
 			-5,
@@ -1872,7 +1632,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[39] = {
+	[34] = {
 		dir1 = {
 			-3,
 			-5,
@@ -1920,7 +1680,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[40] = {
+	[35] = {
 		dir1 = {
 			-3,
 			-5,
@@ -1938,7 +1698,7 @@ _iz_d04_i_emitterInfo = {
 		},
 		pos = {
 			-250,
-			-51,
+			-7,
 			-25
 		},
 		radius = {
@@ -1968,7 +1728,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[41] = {
+	[36] = {
 		dir1 = {
 			-3,
 			-5,
@@ -1986,7 +1746,7 @@ _iz_d04_i_emitterInfo = {
 		},
 		pos = {
 			-478.1,
-			3,
+			-20,
 			307.1
 		},
 		radius = {
@@ -2016,7 +1776,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[42] = {
+	[37] = {
 		dir1 = {
 			-3,
 			-5,
@@ -2064,7 +1824,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[43] = {
+	[38] = {
 		dir1 = {
 			-3,
 			-5,
@@ -2112,7 +1872,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[44] = {
+	[39] = {
 		dir1 = {
 			-3,
 			-5,
@@ -2160,7 +1920,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[45] = {
+	[40] = {
 		dir1 = {
 			-3,
 			-5,
@@ -2208,7 +1968,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[46] = {
+	[41] = {
 		dir1 = {
 			-3,
 			-5,
@@ -2256,7 +2016,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[47] = {
+	[42] = {
 		dir1 = {
 			-3,
 			-5,
@@ -2304,7 +2064,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[48] = {
+	[43] = {
 		dir1 = {
 			-3,
 			-5,
@@ -2322,7 +2082,7 @@ _iz_d04_i_emitterInfo = {
 		},
 		pos = {
 			-59,
-			-28,
+			-36,
 			241
 		},
 		radius = {
@@ -2352,7 +2112,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[49] = {
+	[44] = {
 		dir1 = {
 			-3,
 			-5,
@@ -2400,7 +2160,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[50] = {
+	[45] = {
 		dir1 = {
 			-3,
 			-5,
@@ -2448,7 +2208,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[51] = {
+	[46] = {
 		dir1 = {
 			-3,
 			-5,
@@ -2496,7 +2256,7 @@ _iz_d04_i_emitterInfo = {
 			0
 		}
 	},
-	[52] = {
+	[47] = {
 		dir1 = {
 			-3,
 			-5,
