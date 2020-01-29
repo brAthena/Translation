@@ -9691,6 +9691,26 @@ tblLapineDdukddakBox = {
 					"C_Happy_Cat_TW",
 					1,
 					440002
+				},
+				{
+					"C모노크롬캡",
+					1,
+					20153
+				},
+				{
+					"C추억의밤하늘",
+					1,
+					20451
+				},
+				{
+					"C_Ice_Wing",
+					1,
+					20593
+				},
+				{
+					"C_Under_Rim_Glasses_Bu",
+					1,
+					31601
 				}
 			},
 			NeedSource_String = "냥다래 의상"
