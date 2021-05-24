@@ -1,4 +1,17 @@
-//-- 최종갱신 사크라이 2018-08-27
+//-- 최종갱신 사크라이 2019-05-20
+
+// 글래스트 헤임 도전모드
+1@gl_he.rsw#오염된 차원#
+
+// EDDA 생체연구소 - 원정의 여로
+1@gol1.rsw#생체 실험동#
+1@gol2.rsw#시체 보관소#
+
+// 일루전 오브 라비린스
+prt_mz03_i.rsw#뒤틀린 미궁 숲#
+
+// 2018 할로윈
+1@halo.rsw#할로윈 축제장#
 
 // EDDA 글래스트 헤임의 몰락
 1@gl_prq.rsw#글래스트 헤임의 몰락#
@@ -424,11 +437,11 @@ que_qaru02.rsw#Fallacious Okolnir#
 que_qaru03.rsw#Fallacious Okolnir#
 que_qaru04.rsw#Fallacious Okolnir#
 que_qaru05.rsw#Fallacious Okolnir#
-arug_cas01.rsw#Valfreyja Guild#
-arug_cas02.rsw#Valfreyja Guild#
-arug_cas03.rsw#Valfreyja Guild#
-arug_cas04.rsw#Valfreyja Guild#
-arug_cas05.rsw#Valfreyja Guild#
+arug_cas01.rsw#Valfreyja#
+arug_cas02.rsw#Valfreyja#
+arug_cas03.rsw#Valfreyja#
+arug_cas04.rsw#Valfreyja#
+arug_cas05.rsw#Valfreyja#
 aru_gld.rsw#Valfreyja#
 moscovia.rsw#Moscovia#
 mosk_in.rsw#Inside Moscovia#
@@ -439,11 +452,11 @@ mosk_dun01.rsw#Les Forest#
 mosk_dun02.rsw#Temny Forest#
 mosk_dun03.rsw#Dremuci Forest#
 mosk_que.rsw#Marozka's Cave#
-schg_cas01.rsw#Nidhoggur Guild#
-schg_cas02.rsw#Nidhoggur Guild#
-schg_cas03.rsw#Nidhoggur Guild#
-schg_cas04.rsw#Nidhoggur Guild#
-schg_cas05.rsw#Nidhoggur Guild#
+schg_cas01.rsw#Nidhoggur#
+schg_cas02.rsw#Nidhoggur#
+schg_cas03.rsw#Nidhoggur#
+schg_cas04.rsw#Nidhoggur#
+schg_cas05.rsw#Nidhoggur#
 sch_gld.rsw#Nidhoggur#
 cave.rsw#Cave Village#
 moc_fild20.rsw#Sograt Desert - Continental Guard Quarantine#
@@ -705,28 +718,28 @@ gld_dun04.rsw#Britoniah Guild Dungeon#
 gld_dun03.rsw#Valkyrie Guild Dungeon#
 gld_dun02.rsw#Luina Guild Dungeon#
 gld_dun01.rsw#Baldur Guild Dungeon#
-payg_cas05.rsw#Greenwood Lake Guild#
-payg_cas04.rsw#Greenwood Lake Guild#
-payg_cas03.rsw#Greenwood Lake Guild#
-payg_cas02.rsw#Greenwood Lake Guild#
-payg_cas01.rsw#Greenwood Lake Guild#
+payg_cas05.rsw#Greenwood Lake#
+payg_cas04.rsw#Greenwood Lake#
+payg_cas03.rsw#Greenwood Lake#
+payg_cas02.rsw#Greenwood Lake#
+payg_cas01.rsw#Greenwood Lake#
 pay_gld.rsw#Greenwood Lake#
-aldeg_cas05.rsw#Luina Guild#
-aldeg_cas04.rsw#Luina Guild#
-aldeg_cas03.rsw#Luina Guild#
-aldeg_cas02.rsw#Luina Guild#
-aldeg_cas01.rsw#Luina Guild#
+aldeg_cas05.rsw#Luina#
+aldeg_cas04.rsw#Luina#
+aldeg_cas03.rsw#Luina#
+aldeg_cas02.rsw#Luina#
+aldeg_cas01.rsw#Luina#
 alde_gld.rsw#Luina, the satellite of Aldebaran#
-gefg_cas05.rsw#Britoniah Guild#
-gefg_cas04.rsw#Britoniah Guild#
-gefg_cas03.rsw#Britoniah Guild#
-gefg_cas02.rsw#Britoniah Guild#
-gefg_cas01.rsw#Britoniah Guild#
-prtg_cas05.rsw#Valkyrie Realm Guild#
-prtg_cas04.rsw#Valkyrie Realm Guild#
-prtg_cas03.rsw#Valkyrie Realm Guild#
-prtg_cas02.rsw#Valkyrie Realm Guild#
-prtg_cas01.rsw#Valkyrie Realm Guild#
+gefg_cas05.rsw#Britoniah#
+gefg_cas04.rsw#Britoniah#
+gefg_cas03.rsw#Britoniah#
+gefg_cas02.rsw#Britoniah#
+gefg_cas01.rsw#Britoniah#
+prtg_cas05.rsw#Valkyrie Realm#
+prtg_cas04.rsw#Valkyrie Realm#
+prtg_cas03.rsw#Valkyrie Realm#
+prtg_cas02.rsw#Valkyrie Realm#
+prtg_cas01.rsw#Valkyrie Realm#
 prt_gld.rsw#Valkyrie Realm#
 tur_dun01.rsw#Turtle Island#
 tur_dun02.rsw#Turtle Island Dungeon#

@@ -2716,15 +2716,15 @@ Total : %s Crackers#
 The Crackers.#
 ^0000ff more than crackers^000000Did you enter the correct amount?#
 Over than 10billions secure check#
-10억 仙貝 이상 입력하셔도 가격은 10억 仙貝로 판매됩니다.#
-9,999仙貝 이상 입력하셔도 가격은 9,999仙貝로 판매됩니다.#
-가격이 0 仙貝인 아이템이 존재 합니다. 상점을 열수 없습니다!#
-상대 캐릭터가 최대 보유 仙貝량을 초과하여 거래가 불가능 합니다.#
-%s 아이템의 가격을 10억仙貝 이하로 입력해 주세요.#
-%s  :  %s  仙貝 => %s EA#
-제한 금액 : %s 仙貝#
-%s %s 仙貝 %d 개#
-%s %d개를 %d 仙貝에 판매 하였습니다. 수수료는 3%% 입니다.#
+If you fill over 1 billion, the price will be automatically set as 10 billion Crackers.#
+If you fill over 9,999 Crackers, the price will automatically set as 9,999 Crackers.#
+There are items priced 0 Crackers. You cannot open vending.#
+The opponent is over the Crackers limit. Trade failed.#
+Please fill out %s item price less than 1 billion Crackers.#
+%s:  %s  Crackers => %s pc.#
+Limited price: %s Crackers#
+%s %s %d Crackers#
+%d %s are sold. In total %d Crackers. 3%% charge will be imposed.#
 RODEX#
 SEND#
 RECEIVE#
@@ -2735,7 +2735,7 @@ Unequipped Arrow/Ammunition.#
 Consuming item in inventory will close mail compose window.#
 Do not have Magnifier.#
 Close email window if you want to discard item.#
-상대방이 친구 요청중입니다#
+The opponent has already requested you to be a friend.#
 SCRIPT ERROR AID#
 \nErrorfile : %s\nErrorLine : %d item\nErrorContext: %s#
 ^ff0000Are you sure want to purchase the item? after confirmation will consume %d point and %d crackers.#
@@ -2810,7 +2810,7 @@ Send Mail#
 E X P : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
 DROP  : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
 DEATH : %.1f%% ( basic 100.0%% VIP Bonus %.1f%% + %s %.1f%%)#
-Name with this tag cannot be used.#
+The content cannot be used as a name.#
 Style Shop#
 No serial number, Please visit the store to buy.#
 Please turn on Serial item number window box.#
@@ -3354,47 +3354,47 @@ Back#
 동일한 맵으로 이동할 수 없습니다.#
 사망시 이동이 불가능합니다.#
 캐릭터 생성#
-모험가 중개소 등록#
-모집 중단#
-모험가 중개소 설정#
-전 지역#
-직접기재#
-검사계열#
-법사계열#
-궁수계열#
-복사계열#
-상인계열#
-도둑계열#
-태권계열#
-닌자계열#
-건슬링거계열#
-도람족계열#
-지역명#
-지역명 검색#
-가입 요청하기#
-신고하기#
-파티 모집 중단#
-지역명을 입력해주세요.#
-지역#
-전 직업#
-로그인#
-계정#
-종료#
-신청#
-접속#
-확인#
+Adventurer Agency Registration#
+Registering in The Adventurer Agency#
+Recruitment#
+Memo#
+Quest#
+Field#
+Dungeon#
+MD#
+Paradise#
+Other#
+Search#
+Reset#
+Application for party#
+Purpose#
+Rule breaking language usage is punishable.#
+Register#
+The text contains words that can't be used.#
+Join Party#
+1:1 Chat#
+Stop recruiting#
+Edit#
+All#
+[%s] Has applied to join the party.#
+Login#
+Account#
+End#
+Apply#
+Connect#
+Confirm#
 휴대폰에 다운받은 GNJOY MOTP를#
 실행하여 인증번호를 입력해 주세요.#
 NPC가 있는 맵의 랜덤 좌표로 이동 됩니다.#
-태권#
+Taekwon#
  에게 전체채팅 및 귓말 거부상태#
  에게 전체채팅 및 귓말 거부 요청 실패#
  에게 전체채팅 및 귓말 거부 요청실패 (인원초과)#
  에게 전체채팅 및 귓말 가능상태#
  에게 전체채팅 및 귓말 가능 요청실패#
  에게 전체채팅 및 귓말 가능 요청실패 (인원초과)#
-차단 리스트가 없습니다#
--차단 리스트-#
+Ignore-list is empty#
+-Characters in ignore-list-#
 진행중#
 추천#
 보류중#
@@ -3413,12 +3413,12 @@ JEXP#
 비밀번호#
 아이디#
 회원가입#
-노비스계열#
-슈퍼노비스계열#
-모험가 중개소 등록에 실패했습니다.#
-모험가 중개소에 등록되었습니다.#
-직업을 한 개 이상 선택해주세요.#
-지역명을 두 글자 이상 입력해주세요.#
+Leader#
+Your level doesn't match the requirements to join the party.#
+Failed to register in The Adventurer Agency.#
+Registered at The Adventurer Agency.#
+Search content#
+Tanker#
 %.1f%% (+ %s서버 %.1f%%)#
 /ex (캐릭터이름) or /차단 (캐릭터이름) : 해당 캐릭터에 대해 전체채팅 및 귓말 차단#
 /in (캐릭터이름) or /해제 (캐릭터이름) : 해당 캐릭터에 대해 전체채팅 및 귓말 허용#
@@ -3440,9 +3440,9 @@ JEXP#
 현재 접속이 지연되고 있습니다. 순차적으로 접속이 가능하니 잠시 후 재접속 부탁드립니다.#
 현재 접속이 지연되고 있으니 잠시 후 재접속 부탁드립니다.#
 불량 단어가 포함된 이름은 검색할 수 없습니다.#
-파티 마스터가 요청을 받을 수 없는 맵에 있습니다.#
+파티 마스터가 요청을 받을 수 없는 상태입니다.#
 파티를 찾을 수 없습니다.#
-님의 파티요청입니다.#
+Dealer#
 http://ro.gnjoy.com#
 ▲#
 ▼#
@@ -3484,39 +3484,39 @@ This is not the current attendance check event#
 파트너의 SP가 부족하거나, 스킬 사용 불가 상태입니다.#
 아르바이트 노점 강제 종료 알림메일#
 안녕하세요. 운영팀입니다.\r\n해당 아르바이트 노점은 운영정책 위배되는 사항이 확인되어 강제 종료되었습니다.\r\n자세한 확인을 원하시는 경우에는 1:1 문의를 접수해 주시기 바랍니다.\r\n감사합니다#
-50% 이상의 값을 입력할 수 없습니다.#
-파티 가입 요청을 보냈습니다.#
+The guild tax rate can't be set to more than 50%.#
+The party has been registered with the Adventurer's Agency, and cannot change the party leader.#
 모험가 중개소에 파티를 등록할 수 없습니다#
-수락#
-거절#
-설정 권한은 파티장에게 있습니다.#
+Accept#
+Reject#
+Healer#
 해당 캐릭터를 찾을 수 없습니다.#
 노점 강제 철거#
 해당 파티의 파티장을 찾을 수 없습니다.#
 잡레벨이 낮아 파티에 가입 할 수 없습니다.#
-현재 요청자가 파티가입이 불가능한 지역에 있습니다.#
-파티 인원수가 초과되었습니다.#
-%s 파티의 파티장이 파티 가입을 승인했습니다.#
-%s 파티의 파티장이 파티 가입을 거부했습니다.#
-%s 님이 이미 파티에 가입 중입니다.#
-%s 님의 파티 가입을 수락했습니다.#
-%s 님의 파티 가입을 거부했습니다.#
-파티 요청을 받을 수 없는 상태여서 %s님의 신청이 거절되었습니다.#
-모험가 중개소 리스트#
-파티 가입 요청#
-파티장이 아닌 경우, 모험가 중개소에 파티를 등록할 수 없습니다.#
+The player is currently in an area that doesn't allow joining a party.#
+Party number exceeded.#
+%s's party leader accepted the join request.#
+%s's party leader refused the join request.#
+%s is already in a party.#
+%s's party join request has been accepted.#
+%s's party join request has been declined.#
+%s's application was rejected because the party request could not be received.#
+Adventurer Agency List#
+Request to join party#
+파티장이 아닌 경우 모험가 중개소에 파티를 등록할 수 없습니다.#
 파티 모집을 중단할 수 없습니다.#
-존재하지 않는 파티 글입니다.#
+Assist#
 Zoom Out#
 %s : Zoom Out을 켜거나 끌수 있습니다 On Off#
 Zoom Out 기능을 켭니다 (On)#
 Zoom Out 기능을 해제합니다 (Off)#
 /zoom#
-모험가 중개소#
+Adventurer Agency#
 파티장인 경우, 가입 요청을 할 수 없습니다.#
-모험가 중개소에 등록 중입니다. 잠시만 기다려 주세요.#
+The maximum level to join a party must be higher than the minimum level setting.#
 더 이상 직업을 선택할 수 없습니다.#
-게임 중 해당 유저의 가입 요청을 받지 않습니다.#
+Blacklist this user from sending you join requests. (Valid until next game restart)#
 잠시 후 다시 열어주시기 바랍니다.#
 공성시작 전 %d분 동안은 해당 기능을 이용하실 수 없습니다.#
 /viewclear#
@@ -3536,7 +3536,240 @@ Emblem 테두리를 그려주지 않습니다#
 E X P : %.1f%% ( basic 100.0%% %s %.1f%%)#
 DROP  : %.1f%% ( basic 100.0%% %s %.1f%%)#
 DEATH : %.1f%% ( basic 100.0%% %s %.1f%%)#
-영문이나 러시아어 단독으로만 사용이 가능합니다.#
+Forbidden symbols in character name.#
 you must have an AccessTicket to login#
 창고를 불러오는 중입니다.#
 NOW LOADING..#
+Delete#
+Reply#
+Send#
+Name Check#
+Notice#
+Normal#
+Return#
+Search#
+펫 먹이주기에 실패했습니다. 먹이를 줄 수 없는 상태입니다.#
+호문 먹이주기에 실패했습니다. 먹이를 줄 수 없는 상태입니다.#
+화폐#
+%s %d개#
+교환에 실패하였습니다.#
+교환이 잘 이루어졌습니다.#
+교환에 필요한 재화가 부족합니다.#
+해당 아이템은 이미 판매되어 재고가 부족합니다.#
+사망#
+PvP#
+아이템 소지 확장#
+^0000ff%s^000000을 소모하여, 아이템 최대 소지 종류수를 확장하시겠습니까? \n(^0000ff%d^000000)에서 (^0000ff%d^000000)로 확장됩니다.\n^ff0000※ 소모된 아이템 및 확장된 최대 소지 종류수는 되돌릴 수 없습니다.^000000#
+아이템 최대 소지 종류수 확장에 실패하였습니다.#
+아이템 최대 소지 종류수 확장을 위해, 다른 작업을 종료하여 주시기 바랍니다.#
+아이템 최대 소지 종류수 확장에 필요한 아이템을 소지하고 있지 않습니다.#
+더 이상 아이템 최대 소지 종류수를 확장 할 수 없습니다.#
+아이템 최대 소지 종류수 확장에 성공하였습니다.#
+같은 아이템을 %d개 이상 가질 수 없습니다.#
+소지 한계량 초과로 구입이 불가능합니다.#
+해당 아이템은 한 번에 한 개만 살 수 있습니다.#
+성제#
+소울리퍼#
+설정한 내용은 정상 종료 시 서버에 저장됩니다.#
+Capture Monster#
+message#
+TITLE#
+데미지 표기 확장#
+맵 이름 표기#
+시스템 메세지 : 현재 노점보기 기능이 %s 상태입니다. (/노점보기)#
+수직 동기#
+자료#
+http://rodata.zhaouc.com/renwu.html#
+작위#
+프레임 제한#
+%d개를 초과할 경우 더 이상 설치 할 수 없습니다.#
+목적지#
+잠시 후 다시 시도해주세요.#
+등록할 수 없는 파일입니다.#
+선택 삭제#
+모두 삭제#
+[%s]편지함의 모든 메일을 삭제하시겠습니까?#
+선택 받기#
+모두 받기#
+선택한 메일의 첨부 물품을 받으시겠습니까?#
+[%s]편지함의 모든 첨부 물품을 받으시겠습니까?#
+스킬바2#
+스킬바 교체#
+←#
+↑#
+→#
+↓#
+▤#
+←#
+로딩중에는 창을 닫을 수 없습니다.#
+리딩 스펠북으로 저장된 마법이 없습니다.#
+이동 시 사용한 아이템은 재교환이 불가능합니다.#
+자유이동권을 구매 하였습니다#
+자유이동권 사용 중, 관련 아이템을 소모하지 않습니다.#
+적용#
+중지#
+자유이동권#
+%d시간 이용, %s %d개#
+자유이용권 사용중#
+특성 스테이터스#
+파워 파라메터\n^cc0000물리 공격력, 특성 공격력^ffffff 증가#
+스테미나 파라메터\n^cc0000물리 저항력^ffffff 증가#
+위즈덤 파라메터\n^cc0000마법 저항력^ffffff 증가#
+스펠 파라메터\n^cc0000마법 공격력, 마법 공격력^ffffff 증가#
+컨센트레이션 파라메터\n^cc0000명중률, 회피율, 특성 물리/마법 공격력^ffffff 증가#
+크리에이티브 파라메터\n^cc0000특성 힐 회복량, 크리티컬 데미지 비율^ffffff 증가#
+특성 물리 공격력#
+특성 마법 공격력#
+물리 저항력#
+마법 저항력#
+특성 힐 회복량#
+크리티컬 데미지 비율#
+특성 파라메터 레벨업에 사용되는 포인트#
+J.Lv#
+AP#
+영지로 이동#
+상업도/방어도 확인#
+관리영지 "%s"(으)로 이동하시겠습니까?\n이동 시 마다 %d제니가 소모됩니다.\n(공성전 시간에는 %d제니가 소모됩니다.)#
+\n관리영지 "%s"\n	\n방어도: %d / %d\n상업도: %d / %d#
+공성 영지에서는 사용할 수 없는 기능입니다.#
+기본 기능 스킬을 습득하지 않은 캐릭터입니다.#
+접속하신 IP는 라그나로크 제로 이용이 불가능합니다.\n고객센터 또는 홈페이지로 문의해 주십시오.#
+탑승/장착 해제#
+가져오기#
+직전 노점에 등록된 아이템 정보를 가져옵니다.#
+서버 이슈로 인해 로그인이 제한되고 있습니다.#
+메시지#
++18 이상만 플레이가 가능합니다.#
+3시간 이상의 게임 플레이를 권장하지 않습니다.#
+AP가 부족합니다.#
+제련도가 높아서 조합할 수 없습니다.#
+제련도가 조합에 필요한 요구치보다 높습니다.#
+카드가 끼워져있거나 인챈트 되어 있습니다.#
+∞#
+Z#
+Total : %s Zeny#
+계정한정판매 등록창#
+아이템 DB명#
+아이템 DB번호#
+판매 갯수#
+판매 시작시간#
+판매 종료시간#
+계정 한정#
+판매기간 : %d월 %d일 %d시 %d분#
+계정당 구매가능#
+%d개 한정#
+>> ItemName : %s /  수량 : %d / 판매기간 : %d월:%d일:%d시:%d분 ~ %d월:%d일:%d시:%d분#
+Sold Out#
+[%s]은(는) 현재 소환할 수 없는 지역에 있습니다.#
+~ %d월 %d일 %d시 %d분#
+상품을 더이상 추가할 수 없습니다#
+장착 중인 아이템은 교환할 수 없습니다. 장착을 해제한 뒤 시도해 주시길 바랍니다.#
+길드 창고 이용 중엔 캐릭터 선택창으로 이동 할 수 없습니다.#
+아이템 태그가 포함되어 있어 사용할 수 없습니다.#
+Monster#
+Unknown#
+Undead#
+Animal#
+Plant#
+Insect#
+Marine#
+Devil#
+Human#
+Angel#
+Dragon#
+Balance: %s %c#
+ ^ff0000본 아이템을 구매 후 7일 이내에는 청약 철회가 가능합니다. 다만, 7일이 지났거나 아이템을 개봉하시면 청약 철회 대상에서 제외 됩니다.또한 구매시 사용된 무료캐시는 청약철회시 반환되지 않습니다.^000000 정말로 아이템을 구매하시겠습니까? 구매하실 경우 %s캐시가 차감됩니다.#
+ ^ff0000본 아이템을 구매 후 7일 이내에는 청약 철회가 가능합니다. 다만, 7일이 지났거나 아이템을 개봉하시면 청약 철회 대상에서 제외 됩니다.또한 구매시 사용된 무료캐시는 청약철회시 반환되지 않습니다.^000000 정말로 아이템을 구매하시겠습니까? 구매하실 경우 일반 %s캐시, 무료 %s캐시가 차감됩니다.#
+호출이 거부되었습니다.#
+구매 한도액은 소지액을 초과할 수 없습니다.#
+노점을 여는데 실패하였습니다. 구매노점 개설을 닫아주시기 바랍니다.#
+판매 노점 아이템 리스트가 저장되었습니다.#
+구매 노점 아이템 리스트가 저장되었습니다.#
+VTC 인증에 실패하였습니다.#
+물물교환 중에는 장비를 착용할 수 없습니다.#
+교환하려는 품목#
+ 1차, 2차, 3차 직업 스킬 %d개를 더 올려 주십시오.#
+같은 아이템은 %d개까지 소유할 수 있습니다.#
+같은 아이템은 한 번에 %d개까지 교환할 수 있습니다.#
+해당 로덱스는 "%s"서버에서 열 수 있습니다.#
+[공지]편지함의 모든 메일을 삭제하시겠습니까 ? \n(해당 "%s"서버의 메일만 삭제됩니다.)#
+[공지]편지함의 모든 첨부 물품을 받으시겠습니까? \n(해당 "%s"서버의 메일의 물품만 받으실 수 있습니다.)#
+해당 메일은 "%s"서버에서만 삭제 가능합니다.#
+해당 메일은 "%s"서버에서만 물품 받기가 가능합니다.#
+해당 메일은 "%s"서버에서만 내용읽기가 가능합니다.#
+합계 : %d z#
+메세지#
+구매상점 개설 중에는 개인상점의 물건을 구입할 수 없습니다.#
+등급강화가 성공적으로 되었습니다.#
+등급강화가 실패하였습니다.#
+등급 수치가 하향 조정 되었습니다.#
+장비가 파괴되었습니다.#
+장비가 보호되었습니다.#
+재료가 선택되지 않았습니다.#
+재료가 부족합니다.#
+소지 금액이 부족합니다.#
+아이템 공간이 부족합니다.#
+장비가 보호되고 있습니다.#
+장비가 파괴될 수 있습니다.#
+등급강화 실패 시 등급이 내려갑니다.#
+등급강화 중에는 로덱스를 사용할 수 없습니다. 로덱스를 강제 종료하였습니다.#
+등급강화 중에는 로덱스를 사용할 수 없습니다.#
+등급강화 중에는 은행을 사용할 수 없습니다. 은행을 강제 종료하였습니다.#
+등급강화 중에는 은행을 사용할 수 없습니다.#
+[%s] 님이 등급강화를 성공하여, [%s등급 %s] 아이템을 획득하였습니다.#
+[%s] 님이 [%s등급 %s] 아이템의 등급강화에 실패하였습니다.#
+등급 강화가 불가능한 장비입니다.#
+체인지 메테리얼#
+가나다 정렬#
+기본 결과물은 %s %d개 이나, 낮은 확률로 최대 %d개까지 생성될 수 있습니다.#
+성공 %d%%#
+아이템 태그는 소지한 아이템만 태그할 수 있습니다.#
+공격력 및 특성 공격력이 증가되었습니다.#
+강인한 신념 효과가 해제되었습니다.#
+HP 및 물리 저항력이 증가되었습니다.#
+굳건한 신념 효과가 해제되었습니다.#
+공격 속도 및 유도 공격 확률이 증가되었습니다.#
+신실한 신념 효과가 해제되었습니다.#
+POW, CRT 및 CON 이 증가되었습니다.#
+베네딕툼 효과가 해제되었습니다.#
+SPL, WIS 및 CRT 가 증가되었습니다.#
+렐리지오 효과가 해제되었습니다.#
+특성 공격력 및 특성 마법 공격력이 증가되었습니다.#
+콤페텐티아 효과가 해제되었습니다.#
+크리티컬 데미지 비율이 증가되었습니다.#
+프레센스 아치에스 효과가 해제되었습니다.#
+물리 저항력 무시 효과가 부여되었습니다.#
+아르구투스 텔룸 효과가 해제되었습니다.#
+마법 저항력 무시 효과가 부여되었습니다.#
+아르구투스 비타 효과가 해제되었습니다.#
+Num: %d/%d Weight: %d/%d#
+서번트 웨폰 효과가 해제되었습니다.#
+챠징 피어스 효과가 해제되었습니다.#
+비고르 효과가 해제되었습니다.#
+공격력이 증가하고, 방어력이 감소되었습니다.#
+어택 스탠스 효과가 해제되었습니다.#
+방어력이 증가하고, 공격력이 감소되었습니다.#
+가드 스탠스 효과가 해제되었습니다.#
+배리어가 부여되었습니다.#
+가디언 쉴드 효과가 해제되었습니다.#
+헌신 효과로 받는 데미지가 감소되었습니다.#
+리바운드 쉴드 효과가 해제되었습니다.#
+성속성 마법 데미지와 암/불사속성 내성이 증가되었습니다. #
+홀리 쉴드 효과가 해제되었습니다.#
+즉시 부활 효과가 부여되었습니다.#
+얼티메이트 세크리파이스 효과가 해제되었습니다.#
+특정 스킬의 효능이 변경되었습니다.#
+클라이막스 효과가 해제되었습니다.#
+특정 스킬의 효능이 변경되었습니다.#
+쉐도우 익시드 효과가 해제되었습니다.#
+물리 저항력 무시 효과가 부여되었습니다.#
+포텐트 베넘 효과가 해제되었습니다.#
+매 공격 시, 일정 확률로 대상이 받는 데미지를 증가시킵니다.#
+인챈팅 쉐도우 효과가 해제되었습니다.#
+토벌 카운트 On#
+토벌 카운트 Off#
+대상의 AP가 최대치입니다#
+ ^ff0000본 아이템을 구매 후 7일 이내에는 청약 철회가 가능합니다. 다만, 7일이 지났거나 아이템을 개봉하시면 청약 철회 대상에서 제외 됩니다.또한 구매시 사용된 무료캐시는 청약철회시 반환되지 않습니다.일부(이벤트) 아이템의 경우	이벤트 종료 시 삭제될 수 있으며, 아이템 설명 내 기재된 삭제기간을 확인해 주시기 바랍니다.^000000 정말로 아이템을 구매하시겠습니까? 구매하실 경우 %d캐시가 차감됩니다.#
+ ^ff0000본 아이템을 구매 후 7일 이내에는 청약 철회가 가능합니다. 다만, 7일이 지났거나 아이템을 개봉하시면 청약 철회 대상에서 제외 됩니다.또한 구매시 사용된 무료캐시는 청약철회시 반환되지 않습니다.일부(이벤트) 아이템의 경우	이벤트 종료 시 삭제될 수 있으며, 아이템 설명 내 기재된 삭제기간을 확인해 주시기 바랍니다.^000000 정말로 아이템을 구매하시겠습니까? 구매하실 경우 일반 %d캐시, 무료 %d캐시가 차감됩니다.#
+서번트 웨폰 %d개가 필요합니다.#
+https://member.gnjoy.com.tw/billing.aspx#

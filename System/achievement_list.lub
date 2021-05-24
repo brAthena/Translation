@@ -5067,6 +5067,27 @@ achievement_tbl = {
 		},
 		score = 50
 	},
+	[129021] = {
+		UI_Type = 1,
+		group = "BATTLE",
+		major = 5,
+		minor = 0,
+		title = "글래스트 헤임 도전모드",
+		content = {
+			summary = "글래스트 헤임 도전모드 공략 완료",
+			details = "메모리얼 던전을 끝까지 진행"
+		},
+		resource = {
+			[1] = {
+				text = "도전 성공 횟수",
+				count = 100
+			}
+		},
+		reward = {
+			title = 1045
+		},
+		score = 10
+	},
 	[130000] = {
 		UI_Type = 0,
 		group = "CHATTING",
@@ -5102,6 +5123,26 @@ achievement_tbl = {
 		},
 		reward = {
 			title = 1034
+		},
+		score = 10
+	},
+	[130005] = {
+		UI_Type = 0,
+		group = "CHATTING",
+		major = 4,
+		minor = 0,
+		title = "왕을 만든 자",
+		content = {
+			summary = "내가 만든 나의 왕",
+			details = "테라 글로리아의 영광을 되찾고 그 영광의 주역에게 왕관을 씌우라."
+		},
+		resource = {
+			[1] = {
+				text = "룬-미드가츠의 새로운 국왕이 탄생하는 대관식을 참관한다."
+			}
+		},
+		reward = {
+			title = 1046
 		},
 		score = 10
 	},
@@ -7167,7 +7208,7 @@ achievement_tbl = {
 				count = 1,
 			}
 		},
-		score = 15
+		score = 20
 	},
 	[230203] = {
 		UI_Type = 1,

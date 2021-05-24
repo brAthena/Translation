@@ -1,9 +1,563 @@
 tblLapineDdukddakBox = {
 	sources = {
+		Sword_Of_Bluefire_Cube = {
+			ItemID = 100327,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Sword_Of_Bluefire",
+					1,
+					13485
+				}
+			},
+			NeedSource_String = "홍련의 검"
+		},
+		Slate_Sword_Cube = {
+			ItemID = 100328,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Slate_Sword",
+					1,
+					500004
+				}
+			},
+			NeedSource_String = "슬레이트 소드"
+		},
+		Narcis_Bow_Cube = {
+			ItemID = 100329,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Narcis_Bow",
+					1,
+					18170
+				}
+			},
+			NeedSource_String = "나르시스 보우"
+		},
+		Trumpet_Shell_K_Cube = {
+			ItemID = 100330,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Trumpet_Shell_K",
+					1,
+					570002
+				}
+			},
+			NeedSource_String = "소라고둥 나팔"
+		},
+		Barb_Wire_K_Cube = {
+			ItemID = 100331,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Barb_Wire_K",
+					1,
+					580002
+				}
+			},
+			NeedSource_String = "가시철사 채찍"
+		},
+		Remodel_Hero_Boots = {
+			ItemID = 100273,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Ancient_Hero_Boots",
+					1,
+					22171
+				}
+			},
+			NeedSource_String = "고대 영웅의 부츠"
+		},
+		Oriental_Sword_Cube = {
+			ItemID = 100274,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Oriental_Sword",
+					1,
+					21038
+				}
+			},
+			NeedSource_String = "동방의 보검"
+		},
+		Dragonic_Slayer_Cube = {
+			ItemID = 100275,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Dragonic_Slayer",
+					1,
+					600004
+				}
+			},
+			NeedSource_String = "드래고닉 슬레이어"
+		},
+		Shiver_Katar_K_Cube = {
+			ItemID = 100276,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Shiver_Katar_K",
+					1,
+					28039
+				}
+			},
+			NeedSource_String = "전율의 카타르"
+		},
+		Blade_Katar_Cube = {
+			ItemID = 100277,
+			NeedCount = 1,
+			NeedRefineMin = 9,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Blade_Katar",
+					1,
+					610003
+				}
+			},
+			NeedSource_String = "블레이드 카타르"
+		},
+		Skill_Sha_M_S_Weapon = {
+			ItemID = 100151,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Zelunium",
+					50,
+					25731
+				},
+				{
+					"Shadowdecon",
+					50,
+					25729
+				}
+			},
+			NeedSource_String = "쉐도우데오콘, 제르늄"
+		},
+		Skill_Sha_M_S_Shield = {
+			ItemID = 100209,
+			NeedCount = 2,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Zelunium",
+					50,
+					25731
+				},
+				{
+					"Shadowdecon",
+					50,
+					25729
+				}
+			},
+			NeedSource_String = "쉐도우데오콘, 제르늄"
+		},
+		Skill_Sha_M_S_Pendant = {
+			ItemID = 100210,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					50,
+					25729
+				}
+			},
+			NeedSource_String = "쉐도우데오콘"
+		},
+		Skill_Sha_M_S_Earing = {
+			ItemID = 100211,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Shadowdecon",
+					50,
+					25729
+				}
+			},
+			NeedSource_String = "쉐도우데오콘"
+		},
+		Skill_Sha_M_S_Shoes = {
+			ItemID = 100212,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Zelunium",
+					50,
+					25731
+				}
+			},
+			NeedSource_String = "제르늄"
+		},
+		Skill_Sha_M_S_Armor = {
+			ItemID = 100213,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"Zelunium",
+					50,
+					25731
+				}
+			},
+			NeedSource_String = "제르늄"
+		},
+		EnchantStone_Recipe_4m = {
+			ItemID = 100060,
+			NeedCount = 1,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"C흰토끼의귀",
+					1,
+					31139
+				},
+				{
+					"C_Autumn_Headband",
+					1,
+					31606
+				},
+				{
+					"C토끼뿅모자",
+					1,
+					31249
+				},
+				{
+					"C주황색할로윈모자",
+					1,
+					20174
+				},
+				{
+					"C뱀파이어헤어밴드",
+					1,
+					20098
+				},
+				{
+					"C검은마녀의모자",
+					1,
+					20395
+				},
+				{
+					"C디아볼릭헤드폰",
+					1,
+					20175
+				},
+				{
+					"C_Poporing_Muffler",
+					1,
+					31586
+				},
+				{
+					"C_Princess_Ribbon_Crown",
+					1,
+					31565
+				},
+				{
+					"C_LunaticMuffler",
+					1,
+					31693
+				},
+				{
+					"C눈토끼니트모자",
+					1,
+					19990
+				},
+				{
+					"C_Snow_Bear_Food",
+					1,
+					31440
+				},
+				{
+					"C_CatCoffeeCup_TW",
+					1,
+					31481
+				},
+				{
+					"C_Cat_Ears_Punkish",
+					1,
+					31382
+				},
+				{
+					"C_HeartOfCat_TW",
+					1,
+					31624
+				},
+				{
+					"C트윈마가레트",
+					1,
+					20486
+				},
+				{
+					"C블랙래빗보넷",
+					1,
+					20257
+				},
+				{
+					"C_Kishu_Inu",
+					1,
+					31600
+				},
+				{
+					"C_Panda_Rabbit",
+					1,
+					31512
+				},
+				{
+					"C_Fox",
+					1,
+					31614
+				},
+				{
+					"C_Full_BloomCherry_Tree",
+					1,
+					20519
+				}
+			},
+			NeedSource_String = "4월의 냥다래 의상"
+		},
+		Piercing_Mix = {
+			ItemID = 100053,
+			NeedCount = 2,
+			NeedRefineMin = 7,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"액서큐서너웨폰S",
+					1,
+					24156
+				},
+				{
+					"엑소시스트웨폰S",
+					1,
+					24157
+				},
+				{
+					"헌팅웨폰S",
+					1,
+					24158
+				},
+				{
+					"인섹트넷웨폰S",
+					1,
+					24159
+				},
+				{
+					"피싱웨폰S",
+					1,
+					24160
+				},
+				{
+					"드래곤킬러웨폰S",
+					1,
+					24161
+				},
+				{
+					"커럽트웨폰S",
+					1,
+					24162
+				},
+				{
+					"바이브레이션웨폰S",
+					1,
+					24163
+				},
+				{
+					"홀리워터웨폰S",
+					1,
+					24164
+				},
+				{
+					"시저스웨폰S",
+					1,
+					24165
+				}
+			},
+			NeedSource_String = "+7 피어싱 쉐도우"
+		},
+		Hasty_Mix = {
+			ItemID = 100058,
+			NeedCount = 2,
+			NeedRefineMin = 7,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"헤이스티슈즈S2",
+					1,
+					24320
+				},
+				{
+					"헤이스티아머S",
+					1,
+					24197
+				},
+				{
+					"헤이스티슈즈S",
+					1,
+					24196
+				}
+			},
+			NeedSource_String = "+7 헤이스티 쉐도우"
+		},
+		PerfectSize_Mix = {
+			ItemID = 100010,
+			NeedCount = 3,
+			NeedRefineMin = 7,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"빅웨폰S",
+					1,
+					24075
+				},
+				{
+					"미디움웨폰S",
+					1,
+					24076
+				},
+				{
+					"스몰웨폰S",
+					1,
+					24077
+				},
+				{
+					"빅아머S",
+					1,
+					24072
+				},
+				{
+					"미디움아머S",
+					1,
+					24073
+				},
+				{
+					"스몰아머S",
+					1,
+					24074
+				}
+			},
+			NeedSource_String = "+7 사이즈 쉐도우"
+		},
+		MagicPiercing_Mix = {
+			ItemID = 100011,
+			NeedCount = 2,
+			NeedRefineMin = 7,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"매직액서큐서너웨폰S",
+					1,
+					24170
+				},
+				{
+					"매직엑소시스트웨폰S",
+					1,
+					24171
+				},
+				{
+					"매직헌팅웨폰S",
+					1,
+					24172
+				},
+				{
+					"매직인섹트넷웨폰S",
+					1,
+					24173
+				},
+				{
+					"매직피싱웨폰S",
+					1,
+					24174
+				},
+				{
+					"매직드래곤킬러웨폰S",
+					1,
+					24175
+				},
+				{
+					"매직커럽트웨폰S",
+					1,
+					24176
+				},
+				{
+					"매직바이브레이션웨폰S",
+					1,
+					24177
+				},
+				{
+					"매직홀리워터웨폰S",
+					1,
+					24178
+				},
+				{
+					"매직시저스웨폰S",
+					1,
+					24179
+				}
+			},
+			NeedSource_String = "+7 매직 피어싱 쉐도우"
+		},
+		IDTest_Special = {
+			ItemID = 100000,
+			NeedCount = 3,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{
+					"젤로피",
+					1,
+					909
+				},
+				{
+					"솜털",
+					1,
+					914
+				},
+				{
+					"단단한껍질",
+					1,
+					935
+				}
+			},
+			NeedSource_String = "젤로피,솜털,단단한껍질"
+		},
 		EnchantStone_Recipe_9m = {
 			ItemID = 23967,
 			NeedCount = 1,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"C체인퍼펫",
@@ -112,6 +666,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23818,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -130,6 +685,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23819,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -148,6 +704,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23820,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -166,6 +723,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23821,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -184,6 +742,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23822,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -202,6 +761,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23823,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -220,6 +780,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23824,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -238,6 +799,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23825,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -256,6 +818,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23826,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -274,6 +837,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23827,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -292,6 +856,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23828,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -310,6 +875,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23829,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -328,6 +894,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23830,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -346,6 +913,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23831,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -364,6 +932,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23832,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -382,6 +951,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23833,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -400,6 +970,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23834,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -418,6 +989,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23835,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -436,6 +1008,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23836,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -454,6 +1027,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23837,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -472,6 +1046,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23838,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -490,6 +1065,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23839,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -508,6 +1084,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23840,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -526,6 +1103,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23841,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -544,6 +1122,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23842,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -562,6 +1141,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23843,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -580,6 +1160,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23844,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -598,6 +1179,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23845,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -616,6 +1198,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23846,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -634,6 +1217,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23847,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -652,6 +1236,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23848,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -670,6 +1255,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23849,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -688,6 +1274,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23850,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -706,6 +1293,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23851,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -724,6 +1312,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23852,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -742,6 +1331,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23853,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -760,6 +1350,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23894,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -778,6 +1369,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23854,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -796,6 +1388,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23855,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -814,6 +1407,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23856,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -832,6 +1426,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23857,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -850,6 +1445,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23858,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -868,6 +1464,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23859,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -886,6 +1483,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23860,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -904,6 +1502,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23861,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -922,6 +1521,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23862,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -940,6 +1540,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23863,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -958,6 +1559,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23864,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -976,6 +1578,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23865,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -994,6 +1597,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23866,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1012,6 +1616,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23867,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1030,6 +1635,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23868,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1048,6 +1654,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23869,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1066,6 +1673,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23870,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1084,6 +1692,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23871,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1102,6 +1711,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23872,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1120,6 +1730,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23873,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1138,6 +1749,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23874,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1156,6 +1768,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23875,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1174,6 +1787,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23876,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1192,6 +1806,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23877,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1210,6 +1825,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23879,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1228,6 +1844,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23880,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1246,6 +1863,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23881,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1264,6 +1882,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23882,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1282,6 +1901,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23883,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1300,6 +1920,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23884,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1318,6 +1939,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23885,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1336,6 +1958,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23886,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1354,6 +1977,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23887,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Zelunium",
@@ -1372,6 +1996,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23888,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1390,6 +2015,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23889,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1408,6 +2034,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23890,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1426,6 +2053,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23891,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1444,6 +2072,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23892,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1462,6 +2091,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23893,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Shadowdecon",
@@ -1480,6 +2110,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23665,
 			NeedCount = 3,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"피지컬웨폰S",
@@ -1518,6 +2149,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23666,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"이뮨드아머S",
@@ -1541,6 +2173,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23667,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"하드아머S",
@@ -1564,6 +2197,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23668,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"킹버드웨폰S",
@@ -1582,6 +2216,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23669,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"크리티컬슈즈S",
@@ -1610,6 +2245,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23545,
 			NeedCount = 1,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"Bloody_Knight_Shield",
@@ -1623,6 +2259,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23474,
 			NeedCount = 2,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"인피니티이어링S",
@@ -1641,6 +2278,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23324,
 			NeedCount = 3,
 			NeedRefineMin = 5,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"플라스터러즈아머S",
@@ -1739,6 +2377,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23308,
 			NeedCount = 1,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"매지컬부스터K",
@@ -1748,62 +2387,11 @@ tblLapineDdukddakBox = {
 			},
 			NeedSource_String = "매지컬 부스터"
 		},
-		["마법고양이손"] = {
-			ItemID = 23311,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"고양이레이스머리띠K",
-					1,
-					19242
-				}
-			},
-			NeedSource_String = "새끼 고양이 헤드드레스"
-		},
-		["사탕축복스크롤_물리"] = {
-			ItemID = 23289,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"안토니오가방_물리",
-					1,
-					20842
-				}
-			},
-			NeedSource_String = "사탕 주머니 가방(물리)"
-		},
-		["사탕축복스크롤_원거리"] = {
-			ItemID = 23290,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"안토니오가방_원거리",
-					1,
-					20843
-				}
-			},
-			NeedSource_String = "사탕 주머니 가방(원거리)"
-		},
-		["사탕축복스크롤_마법"] = {
-			ItemID = 23291,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"안토니오가방_마법",
-					1,
-					20844
-				}
-			},
-			NeedSource_String = "사탕 주머니 가방(마법)"
-		},
 		["레이스S변환상자"] = {
 			ItemID = 23281,
 			NeedCount = 4,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"호머즈쉴드S",
@@ -1902,6 +2490,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23250,
 			NeedCount = 4,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"콜드볼트아머S",
@@ -1924,12 +2513,13 @@ tblLapineDdukddakBox = {
 					24222
 				}
 			},
-			NeedSource_String = "+7 볼트계열 쉐도우"
+			NeedSource_String = "볼트계열 쉐도우"
 		},
 		["베어러즈S변환상자"] = {
 			ItemID = 23249,
 			NeedCount = 3,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"베어러즈슈즈S",
@@ -1962,12 +2552,13 @@ tblLapineDdukddakBox = {
 					24185
 				}
 			},
-			NeedSource_String = "+7 베어러즈 쉐도우"
+			NeedSource_String = "베어러즈 쉐도우"
 		},
 		["젬스톤S변환상자"] = {
 			ItemID = 23248,
 			NeedCount = 3,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"젬스톤펜던트S",
@@ -2000,12 +2591,13 @@ tblLapineDdukddakBox = {
 					24087
 				}
 			},
-			NeedSource_String = "+7 젬스톤 쉐도우"
+			NeedSource_String = "젬스톤 쉐도우"
 		},
 		["스테이터스S변환상자"] = {
 			ItemID = 23247,
 			NeedCount = 5,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"럭키웨폰S",
@@ -2068,12 +2660,13 @@ tblLapineDdukddakBox = {
 					24045
 				}
 			},
-			NeedSource_String = "+7 스테이터스 쉐도우"
+			NeedSource_String = "스테이터스 쉐도우"
 		},
 		["직업S변환상자_웨폰"] = {
 			ItemID = 23236,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"슈퍼노비스웨폰S",
@@ -2177,6 +2770,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23237,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"나이트아머S",
@@ -2285,6 +2879,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23238,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"나이트슈즈S",
@@ -2393,6 +2988,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23239,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"룬나이트쉴드S",
@@ -2496,6 +3092,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23240,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"소드맨펜던트S",
@@ -2534,6 +3131,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23241,
 			NeedCount = 1,
 			NeedRefineMin = 7,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"소드맨이어링S",
@@ -2568,28 +3166,11 @@ tblLapineDdukddakBox = {
 			},
 			NeedSource_String = "+7 클래스 이어링 쉐도우"
 		},
-		["타락천사날개초기화권"] = {
-			ItemID = 23229,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"K타락천사의날개",
-					1,
-					20835
-				},
-				{
-					"타락천사의날개",
-					1,
-					2589
-				}
-			},
-			NeedSource_String = "타락천사의 날개"
-		},
 		["쉐도우뚝딱상자"] = {
 			ItemID = 22529,
 			NeedCount = 3,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"피지컬이어링S",
@@ -4152,6 +4733,26 @@ tblLapineDdukddakBox = {
 					24327
 				},
 				{
+					"포스액서듀얼웨폰S2",
+					1,
+					24328
+				},
+				{
+					"스피릿매직듀얼웨폰S2",
+					1,
+					24329
+				},
+				{
+					"캐스터아머S2",
+					1,
+					24330
+				},
+				{
+					"리로드아머S2",
+					1,
+					24331
+				},
+				{
 					"크리티컬쉴드S",
 					1,
 					24332
@@ -4525,27 +5126,820 @@ tblLapineDdukddakBox = {
 					"S_Soul_Reaper_Shoes",
 					1,
 					24415
+				},
+				{
+					"S_Tempest_Weapon",
+					1,
+					24423
+				},
+				{
+					"S_Tempest_Armor",
+					1,
+					24424
+				},
+				{
+					"S_PerfectSize_Weapon",
+					1,
+					24425
+				},
+				{
+					"S_PerfectSize_Armor",
+					1,
+					24426
+				},
+				{
+					"S_M_Exo_Co_Weapon",
+					1,
+					24427
+				},
+				{
+					"S_M_Viv_Dr_Weapon",
+					1,
+					24428
+				},
+				{
+					"S_M_Sci_Hu_Weapon",
+					1,
+					24429
+				},
+				{
+					"S_M_Fis_In_Weapon",
+					1,
+					24430
+				},
+				{
+					"S_M_Exe_Ho_Weapon",
+					1,
+					24431
+				},
+				{
+					"S_Penetration_Weapon",
+					1,
+					24432
+				},
+				{
+					"S_Penetration_Armor",
+					1,
+					24433
+				},
+				{
+					"S_Exe_Ho_Weapon",
+					1,
+					24434
+				},
+				{
+					"S_Fis_In_Weapon",
+					1,
+					24435
+				},
+				{
+					"S_Sci_Hu_Weapon",
+					1,
+					24436
+				},
+				{
+					"S_Viv_Dr_Weapon",
+					1,
+					24437
+				},
+				{
+					"S_Exo_Co_Weapon",
+					1,
+					24438
+				},
+				{
+					"S_Hasty_Weapon",
+					1,
+					24439
+				},
+				{
+					"S_Sonic_Armor",
+					1,
+					24440
+				},
+				{
+					"S_Sonic_Shield",
+					1,
+					24441
+				},
+				{
+					"S_Sonic_Shoes",
+					1,
+					24442
+				},
+				{
+					"S_Ignition_Weapon",
+					1,
+					24443
+				},
+				{
+					"S_Ignition_Pendant",
+					1,
+					24444
+				},
+				{
+					"S_Ignition_Earing",
+					1,
+					24445
+				},
+				{
+					"S_W_Breath_Armor",
+					1,
+					24446
+				},
+				{
+					"S_W_Breath_Shield",
+					1,
+					24447
+				},
+				{
+					"S_W_Breath_Shoes",
+					1,
+					24448
+				},
+				{
+					"S_F_Breath_Weapon",
+					1,
+					24449
+				},
+				{
+					"S_F_Breath_Pendant",
+					1,
+					24450
+				},
+				{
+					"S_F_Breath_Earing",
+					1,
+					24451
+				},
+				{
+					"S_Cluster_Armor",
+					1,
+					24452
+				},
+				{
+					"S_Cluster_Shield",
+					1,
+					24453
+				},
+				{
+					"S_Cluster_Shoes",
+					1,
+					24454
+				},
+				{
+					"S_Aimed_Weapon",
+					1,
+					24455
+				},
+				{
+					"S_Aimed_Pendant",
+					1,
+					24456
+				},
+				{
+					"S_Aimed_Earing",
+					1,
+					24457
+				},
+				{
+					"S_Arrow_Armor",
+					1,
+					24458
+				},
+				{
+					"S_Arrow_Shield",
+					1,
+					24459
+				},
+				{
+					"S_Arrow_Shoes",
+					1,
+					24460
+				},
+				{
+					"S_Shooting_Weapon",
+					1,
+					24461
+				},
+				{
+					"S_Shooting_Pendant",
+					1,
+					24462
+				},
+				{
+					"S_Shooting_Earing",
+					1,
+					24463
+				},
+				{
+					"S_Tornado_Armor",
+					1,
+					24464
+				},
+				{
+					"S_Tornado_Shield",
+					1,
+					24465
+				},
+				{
+					"S_Tornado_Shoes",
+					1,
+					24466
+				},
+				{
+					"S_Boomerang_Weapon",
+					1,
+					24467
+				},
+				{
+					"S_Boomerang_Pendant",
+					1,
+					24468
+				},
+				{
+					"S_Boomerang_Earing",
+					1,
+					24469
+				},
+				{
+					"S_Vulcan_Armor",
+					1,
+					24470
+				},
+				{
+					"S_Vulcan_Shield",
+					1,
+					24471
+				},
+				{
+					"S_Vulcan_Shoes",
+					1,
+					24472
+				},
+				{
+					"S_Arms_Weapon",
+					1,
+					24473
+				},
+				{
+					"S_Arms_Pendant",
+					1,
+					24474
+				},
+				{
+					"S_Arms_Earing",
+					1,
+					24475
+				},
+				{
+					"S_Rampage_Armor",
+					1,
+					24476
+				},
+				{
+					"S_Rampage_Shield",
+					1,
+					24477
+				},
+				{
+					"S_Rampage_Shoes",
+					1,
+					24478
+				},
+				{
+					"S_Skynetblow_Weapon",
+					1,
+					24479
+				},
+				{
+					"S_Skynetblow_Pendant",
+					1,
+					24480
+				},
+				{
+					"S_Skynetblow_Earing",
+					1,
+					24481
+				},
+				{
+					"S_Knucklearrow_Armor",
+					1,
+					24482
+				},
+				{
+					"S_Knucklearrow_Shield",
+					1,
+					24483
+				},
+				{
+					"S_Knucklearrow_Shoes",
+					1,
+					24484
+				},
+				{
+					"S_TigerCannon_Weapon",
+					1,
+					24485
+				},
+				{
+					"S_Tigercannon_Pendant",
+					1,
+					24486
+				},
+				{
+					"S_Tigercannon_Earing",
+					1,
+					24487
+				},
+				{
+					"S_Duplelight_Armor",
+					1,
+					24488
+				},
+				{
+					"S_Duplelight_Shield",
+					1,
+					24489
+				},
+				{
+					"S_Duplelight_Shoes",
+					1,
+					24490
+				},
+				{
+					"S_Adoramus_Weapon",
+					1,
+					24491
+				},
+				{
+					"S_Adoramus_Pendant",
+					1,
+					24492
+				},
+				{
+					"S_Adoramus_Earing",
+					1,
+					24493
+				},
+				{
+					"S_Judex_Armor",
+					1,
+					24494
+				},
+				{
+					"S_Judex_Shield",
+					1,
+					24495
+				},
+				{
+					"S_Judex_Shoes",
+					1,
+					24496
+				},
+				{
+					"S_Magnus_Weapon",
+					1,
+					24497
+				},
+				{
+					"S_Magnus_Pendant",
+					1,
+					24498
+				},
+				{
+					"S_Magnus_Earing",
+					1,
+					24499
+				},
+				{
+					"S_Rainstorm_Armor",
+					1,
+					24500
+				},
+				{
+					"S_Rainstorm_Shield",
+					1,
+					24501
+				},
+				{
+					"S_Rainstorm_Shoes",
+					1,
+					24502
+				},
+				{
+					"S_Arrowvulcan_Weapon",
+					1,
+					24503
+				},
+				{
+					"S_Arrowvulcan_Pendant",
+					1,
+					24504
+				},
+				{
+					"S_Arrowvulcan_Earing",
+					1,
+					24505
+				},
+				{
+					"S_Metalic_Armor",
+					1,
+					24506
+				},
+				{
+					"S_Metalic_Shield",
+					1,
+					24507
+				},
+				{
+					"S_Metalic_Shoes",
+					1,
+					24508
+				},
+				{
+					"S_Reverberation_Weapon",
+					1,
+					24509
+				},
+				{
+					"S_Reverberation_Pendant",
+					1,
+					24510
+				},
+				{
+					"S_Reverberation_Earing",
+					1,
+					24511
+				},
+				{
+					"S_Triangle_Armor",
+					1,
+					24524
+				},
+				{
+					"S_Triangle_Shield",
+					1,
+					24525
+				},
+				{
+					"S_Triangle_Shoes",
+					1,
+					24526
+				},
+				{
+					"S_Shadowspell_Weapon",
+					1,
+					24527
+				},
+				{
+					"S_Shadowspell_Pendant",
+					1,
+					24528
+				},
+				{
+					"S_Shadowspell_Earing",
+					1,
+					24529
+				},
+				{
+					"S_Menace_Armor",
+					1,
+					24530
+				},
+				{
+					"S_Menace_Shield",
+					1,
+					24531
+				},
+				{
+					"S_Menace_Shoes",
+					1,
+					24532
+				},
+				{
+					"S_Paint_Weapon",
+					1,
+					24533
+				},
+				{
+					"S_Paint_Pendant",
+					1,
+					24534
+				},
+				{
+					"S_Paint_Earing",
+					1,
+					24535
+				},
+				{
+					"S_Rolling_Armor",
+					1,
+					24536
+				},
+				{
+					"S_Rolling_Shield",
+					1,
+					24537
+				},
+				{
+					"S_Rolling_Shoes",
+					1,
+					24538
+				},
+				{
+					"S_Katar_Weapon",
+					1,
+					24539
+				},
+				{
+					"S_Katar_Pendant",
+					1,
+					24540
+				},
+				{
+					"S_Katar_Earing",
+					1,
+					24541
+				},
+				{
+					"S_Slash_Armor",
+					1,
+					24542
+				},
+				{
+					"S_Slash_Shield",
+					1,
+					24543
+				},
+				{
+					"S_Slash_Shoes",
+					1,
+					24544
+				},
+				{
+					"S_Ripper_Weapon",
+					1,
+					24545
+				},
+				{
+					"S_Ripper_Pendant",
+					1,
+					24546
+				},
+				{
+					"S_Ripper_Earing",
+					1,
+					24547
+				},
+				{
+					"S_Dust_Armor",
+					1,
+					24548
+				},
+				{
+					"S_Dust_Shield",
+					1,
+					24549
+				},
+				{
+					"S_Dust_Shoes",
+					1,
+					24550
+				},
+				{
+					"S_Grave_Weapon",
+					1,
+					24551
+				},
+				{
+					"S_Grave_Pendant",
+					1,
+					24552
+				},
+				{
+					"S_Grave_Earing",
+					1,
+					24553
+				},
+				{
+					"S_Psychic_Armor",
+					1,
+					24554
+				},
+				{
+					"S_Psychic_Shield",
+					1,
+					24555
+				},
+				{
+					"S_Psychic_Shoes",
+					1,
+					24556
+				},
+				{
+					"S_Varetyr_Weapon",
+					1,
+					24557
+				},
+				{
+					"S_Varetyr_Pendant",
+					1,
+					24558
+				},
+				{
+					"S_Varetyr_Earing",
+					1,
+					24559
+				},
+				{
+					"S_Jack_Armor",
+					1,
+					24512
+				},
+				{
+					"S_Jack_Shield",
+					1,
+					24513
+				},
+				{
+					"S_Jack_Shoes",
+					1,
+					24514
+				},
+				{
+					"S_Strain_Weapon",
+					1,
+					24515
+				},
+				{
+					"S_Strain_Pendant",
+					1,
+					24516
+				},
+				{
+					"S_Strain_Earing",
+					1,
+					24517
+				},
+				{
+					"S_Crimson_Armor",
+					1,
+					24518
+				},
+				{
+					"S_Crimson_Shield",
+					1,
+					24519
+				},
+				{
+					"S_Crimson_Shoes",
+					1,
+					24520
+				},
+				{
+					"S_Chain_Weapon",
+					1,
+					24521
+				},
+				{
+					"S_Chain_Pendant",
+					1,
+					24522
+				},
+				{
+					"S_Chain_Earing",
+					1,
+					24523
+				},
+				{
+					"S_Cart_Tornado_Armor",
+					1,
+					24560
+				},
+				{
+					"S_Cart_Tornado_Shield",
+					1,
+					24561
+				},
+				{
+					"S_Cart_Tornado_Shoes",
+					1,
+					24562
+				},
+				{
+					"S_Cannon_Cart_Weapon",
+					1,
+					24563
+				},
+				{
+					"S_Cannon_Cart_Pendant",
+					1,
+					24564
+				},
+				{
+					"S_Cannon_Cart_Earing",
+					1,
+					24565
+				},
+				{
+					"S_Spore_Bomb_Armor",
+					1,
+					24566
+				},
+				{
+					"S_Spore_Bomb_Shield",
+					1,
+					24567
+				},
+				{
+					"S_Spore_Bomb_Shoes",
+					1,
+					24568
+				},
+				{
+					"S_Crazy_Weapon",
+					1,
+					24569
+				},
+				{
+					"S_Crazy_Pendant",
+					1,
+					24570
+				},
+				{
+					"S_Crazy_Earing",
+					1,
+					24571
+				},
+				{
+					"S_Brand_Armor",
+					1,
+					24572
+				},
+				{
+					"S_Brand_Shield",
+					1,
+					24573
+				},
+				{
+					"S_Brand_Shoes",
+					1,
+					24574
+				},
+				{
+					"S_Chain_Press_Weapon",
+					1,
+					24575
+				},
+				{
+					"S_Chain_Press_Pendant",
+					1,
+					24576
+				},
+				{
+					"S_Chain_Press_Earing",
+					1,
+					24577
+				},
+				{
+					"S_Banish_Cannon_Armor",
+					1,
+					24578
+				},
+				{
+					"S_Banish_Cannon_Shield",
+					1,
+					24579
+				},
+				{
+					"S_Banish_Cannon_Shoes",
+					1,
+					24580
+				},
+				{
+					"S_Genesis_Weapon",
+					1,
+					24581
+				},
+				{
+					"S_Genesis_Pendant",
+					1,
+					24582
+				},
+				{
+					"S_Genesis_Earing",
+					1,
+					24583
 				}
 			},
 			NeedSource_String = "쉐도우 아이템"
-		},
-		["건슬링거두루마리"] = {
-			ItemID = 23100,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"늘어진건슬링거",
-					1,
-					19157
-				}
-			},
-			NeedSource_String = "늘어진 건슬링거"
 		},
 		["선풍기개조키트"] = {
 			ItemID = 23170,
 			NeedCount = 1,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"해달선풍기",
@@ -4555,23 +5949,11 @@ tblLapineDdukddakBox = {
 			},
 			NeedSource_String = "해달 미니 선풍기"
 		},
-		["제복수선키트"] = {
-			ItemID = 23175,
-			NeedCount = 1,
-			NeedRefineMin = 0,
-			SourceItems = {
-				{
-					"카프라제복",
-					1,
-					15186
-				}
-			},
-			NeedSource_String = "카프라 제복"
-		},
 		["의상스톤뚝딱상자"] = {
 			ItemID = 23151,
 			NeedCount = 3,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"회복스톤_상단",
@@ -5144,12 +6526,12 @@ tblLapineDdukddakBox = {
 					25453
 				},
 				{
-					"WarlockStone_Middle ",
+					"WarlockStone_Middle",
 					1,
 					25454
 				},
 				{
-					"WarlockStone_Bottom ",
+					"WarlockStone_Bottom",
 					1,
 					25455
 				},
@@ -5307,6 +6689,351 @@ tblLapineDdukddakBox = {
 					"GuillcrossStone_Robe",
 					1,
 					25717
+				},
+				{
+					"SuraStone_Robe2",
+					1,
+					25797
+				},
+				{
+					"SuraStone_Bottom2",
+					1,
+					25798
+				},
+				{
+					"SuraStone_Middle2",
+					1,
+					25799
+				},
+				{
+					"SuraStone_Top2",
+					1,
+					25800
+				},
+				{
+					"SorcererStone_Robe2",
+					1,
+					25801
+				},
+				{
+					"SorcererStone_Bottom2",
+					1,
+					25802
+				},
+				{
+					"SorcererStone_Middle2",
+					1,
+					25803
+				},
+				{
+					"SorcererStone_Top2",
+					1,
+					25804
+				},
+				{
+					"ShadowchaserStone_Robe2",
+					1,
+					25805
+				},
+				{
+					"ShadowchasStone_Bottom2",
+					1,
+					25806
+				},
+				{
+					"ShadowchasStone_Middle2",
+					1,
+					25807
+				},
+				{
+					"ShadowchaserStone_Top2",
+					1,
+					25808
+				},
+				{
+					"SoulreaperStone_Robe",
+					1,
+					25842
+				},
+				{
+					"SoullinkerStone_Top",
+					1,
+					25843
+				},
+				{
+					"SoullinkerStone_Middle",
+					1,
+					25844
+				},
+				{
+					"SoullinkerStone_Bottom",
+					1,
+					25845
+				},
+				{
+					"GladiatorStone_Top",
+					1,
+					25846
+				},
+				{
+					"GladiatorStone_Middle",
+					1,
+					25847
+				},
+				{
+					"GladiatorStone_Bottom",
+					1,
+					25848
+				},
+				{
+					"StaremperorStone_Robe",
+					1,
+					25849
+				},
+				{
+					"NinjaStone_Top",
+					1,
+					25850
+				},
+				{
+					"NinjaStone_Middle",
+					1,
+					25851
+				},
+				{
+					"NinjaStone_Bottom",
+					1,
+					25852
+				},
+				{
+					"KagerouStone_Robe",
+					1,
+					25853
+				},
+				{
+					"OboroStone_Robe",
+					1,
+					25854
+				},
+				{
+					"GunslingerStone_Top",
+					1,
+					25855
+				},
+				{
+					"GunslingerStone_Middle",
+					1,
+					25856
+				},
+				{
+					"GunslingerStone_Bottom",
+					1,
+					25857
+				},
+				{
+					"RebellionStone_Robe",
+					1,
+					25858
+				},
+				{
+					"DoramStone_Top",
+					1,
+					25859
+				},
+				{
+					"DoramStone_Middle",
+					1,
+					25860
+				},
+				{
+					"DoramStone_Bottom",
+					1,
+					25861
+				},
+				{
+					"DoramStone_Robe",
+					1,
+					25862
+				},
+				{
+					"RangerStone_Top2",
+					1,
+					1000008
+				},
+				{
+					"RangerStone_Middle2",
+					1,
+					1000009
+				},
+				{
+					"RangerStone_Bottom2",
+					1,
+					1000010
+				},
+				{
+					"RangerStone_Robe2",
+					1,
+					1000011
+				},
+				{
+					"MechanicStone_Top2",
+					1,
+					1000012
+				},
+				{
+					"MechanicStone_Middle2",
+					1,
+					1000013
+				},
+				{
+					"MechanicStone_Bottom2",
+					1,
+					1000014
+				},
+				{
+					"MechanicStone_Robe2",
+					1,
+					1000015
+				},
+				{
+					"HighpriestStone_Top2",
+					1,
+					1000016
+				},
+				{
+					"HighpriestStone_Middle2",
+					1,
+					1000017
+				},
+				{
+					"HighpriestStone_Bottom2",
+					1,
+					1000018
+				},
+				{
+					"ArchbishopStone_Robe2",
+					1,
+					1000019
+				},
+				{
+					"WarlockStone_Robe2",
+					1,
+					1000213
+				},
+				{
+					"WarlockStone_Top2",
+					1,
+					1000214
+				},
+				{
+					"WarlockStone_Middle2",
+					1,
+					1000215
+				},
+				{
+					"WarlockStone_Bottom2",
+					1,
+					1000216
+				},
+				{
+					"RoyalguardStone_Robe2",
+					1,
+					1000217
+				},
+				{
+					"PaladinStone_Top2",
+					1,
+					1000218
+				},
+				{
+					"PaladinStone_Middle2",
+					1,
+					1000219
+				},
+				{
+					"PaladinStone_Bottom2",
+					1,
+					1000220
+				},
+				{
+					"GuillcrossStone_Robe2",
+					1,
+					1000221
+				},
+				{
+					"AssacrossStone_Top2",
+					1,
+					1000222
+				},
+				{
+					"AssacrossStone_Middle2",
+					1,
+					1000223
+				},
+				{
+					"AssacrossStone_Bottom2",
+					1,
+					1000224
+				},
+				{
+					"RuneknightStone_Robe2",
+					1,
+					1000296
+				},
+				{
+					"RuneknightStone_Top2",
+					1,
+					1000297
+				},
+				{
+					"RuneknightStone_Middle2",
+					1,
+					1000298
+				},
+				{
+					"RuneknightStone_Bottom2",
+					1,
+					1000299
+				},
+				{
+					"GeneticStone_Robe2",
+					1,
+					1000300
+				},
+				{
+					"GeneticStone_Top2",
+					1,
+					1000301
+				},
+				{
+					"GeneticStone_Middle2",
+					1,
+					1000302
+				},
+				{
+					"GeneticStone_Bottom2",
+					1,
+					1000303
+				},
+				{
+					"WanderMinsStone_Robe2",
+					1,
+					1000304
+				},
+				{
+					"WanderMinsStone_Top2",
+					1,
+					1000305
+				},
+				{
+					"WanderMinsStone_Middle2",
+					1,
+					1000306
+				},
+				{
+					"WanderMinsStone_Bottom2",
+					1,
+					1000307
 				}
 			},
 			NeedSource_String = "의상인챈트스톤"
@@ -5315,6 +7042,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23152,
 			NeedCount = 10,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"댕기머리",
@@ -6370,6 +8098,21 @@ tblLapineDdukddakBox = {
 					"오래된등껍질",
 					10,
 					25313
+				},
+				{
+					"Ein_SOLIDDUST",
+					10,
+					25815
+				},
+				{
+					"Ein_RUSTHELM",
+					10,
+					25816
+				},
+				{
+					"Ein_EYEROCK",
+					10,
+					25817
 				}
 			},
 			NeedSource_String = "수집품"
@@ -6378,6 +8121,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23153,
 			NeedCount = 2,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"포링알",
@@ -6736,6 +8480,7 @@ tblLapineDdukddakBox = {
 			ItemID = 23154,
 			NeedCount = 1,
 			NeedRefineMin = 0,
+			NeedRefineMax = 20,
 			SourceItems = {
 				{
 					"C토끼귀모자",
@@ -7433,11 +9178,6 @@ tblLapineDdukddakBox = {
 					20449
 				},
 				{
-					"C졸린고양이모자",
-					1,
-					20263
-				},
-				{
 					"C할퀴는고양이",
 					1,
 					20195
@@ -7661,6 +9401,316 @@ tblLapineDdukddakBox = {
 					"C토끼뿅모자",
 					1,
 					31249
+				},
+				{
+					"C_Halloween_Poring_Bag",
+					1,
+					20543
+				},
+				{
+					"C주황색할로윈모자",
+					1,
+					20174
+				},
+				{
+					"C뱀파이어헤어밴드",
+					1,
+					20098
+				},
+				{
+					"C검은마녀의모자",
+					1,
+					20395
+				},
+				{
+					"C디아볼릭헤드폰",
+					1,
+					20175
+				},
+				{
+					"C_Princess_Ribbon_Crown",
+					1,
+					31565
+				},
+				{
+					"C_Poporing_Muffler",
+					1,
+					31586
+				},
+				{
+					"C_Protect_Cloth",
+					1,
+					31625
+				},
+				{
+					"C_Backside_Ribbon_Bell",
+					1,
+					20546
+				},
+				{
+					"C타락천사의날개",
+					1,
+					20764
+				},
+				{
+					"C눈토끼니트모자",
+					1,
+					19990
+				},
+				{
+					"C_Snow_Bear_Food",
+					1,
+					31440
+				},
+				{
+					"C_LunaticMuffler",
+					1,
+					31693
+				},
+				{
+					"C_Sleep_Sheep_TW",
+					1,
+					31616
+				},
+				{
+					"C_HeartChocoBag",
+					1,
+					20570
+				},
+				{
+					"C_Cat_Ears_Punkish",
+					1,
+					31382
+				},
+				{
+					"C_CatCoffeeCup_TW",
+					1,
+					31481
+				},
+				{
+					"C_HeartOfCat_TW",
+					1,
+					31624
+				},
+				{
+					"C트윈마가레트",
+					1,
+					20486
+				},
+				{
+					"C블랙래빗보넷",
+					1,
+					20257
+				},
+				{
+					"C_Smiling_Eyes",
+					1,
+					31699
+				},
+				{
+					"C_WingOfHeart",
+					1,
+					20572
+				},
+				{
+					"C_Kishu_Inu",
+					1,
+					31600
+				},
+				{
+					"C_Panda_Rabbit",
+					1,
+					31512
+				},
+				{
+					"C_Full_BloomCherry_Tree",
+					1,
+					20519
+				},
+				{
+					"C_Fox",
+					1,
+					31614
+				},
+				{
+					"C_OpenAir_Headset",
+					1,
+					31569
+				},
+				{
+					"C_Mobile_Pursuit_System",
+					1,
+					31572
+				},
+				{
+					"C_Mecha_Cat_Ears",
+					1,
+					31573
+				},
+				{
+					"C_Cyber_Income",
+					1,
+					31574
+				},
+				{
+					"C_Cat_Fork",
+					1,
+					20576
+				},
+				{
+					"C_CatEarRibbon_TW",
+					1,
+					31483
+				},
+				{
+					"C_Garnet_Tiara",
+					1,
+					31765
+				},
+				{
+					"C_Peony_Hair_Ornament",
+					1,
+					31766
+				},
+				{
+					"C사랑의조각",
+					1,
+					20022
+				},
+				{
+					"C프리티베어",
+					1,
+					31027
+				},
+				{
+					"C_Pigtail_Red_Hood",
+					1,
+					31698
+				},
+				{
+					"C_SharkHead",
+					1,
+					440000
+				},
+				{
+					"C_Baby_Panda",
+					1,
+					31798
+				},
+				{
+					"C_SavageB_On_Shoulder",
+					1,
+					31787
+				},
+				{
+					"C_BeachBall",
+					1,
+					400020
+				},
+				{
+					"C_Big_Foxtail",
+					1,
+					20584
+				},
+				{
+					"C_T_Bear_Bag",
+					1,
+					20582
+				},
+				{
+					"C_Poring_On_Shoulder",
+					1,
+					31688
+				},
+				{
+					"C_FortunetellinSealed",
+					1,
+					31735
+				},
+				{
+					"C_Pretty_Bear_WH",
+					1,
+					31799
+				},
+				{
+					"C_Bicolor_Cat_Witch_Hat",
+					1,
+					31832
+				},
+				{
+					"C_Nifl_Bloom",
+					1,
+					20588
+				},
+				{
+					"C_Floating_Ball_TW",
+					1,
+					31568
+				},
+				{
+					"C_Dark_Snake_Lord_Stall",
+					1,
+					31611
+				},
+				{
+					"C_Twin_Canon",
+					1,
+					31671
+				},
+				{
+					"C_Picnic_Basket",
+					1,
+					31673
+				},
+				{
+					"C_Magic_Helm",
+					1,
+					31884
+				},
+				{
+					"C_ManyStars_TW",
+					1,
+					31479
+				},
+				{
+					"C_Santa_Backpack",
+					1,
+					20592
+				},
+				{
+					"C_Fawn_Ear",
+					1,
+					31509
+				},
+				{
+					"C_Royalguard_Necklace",
+					1,
+					31559
+				},
+				{
+					"C_Happy_Cat_TW",
+					1,
+					440002
+				},
+				{
+					"C모노크롬캡",
+					1,
+					20153
+				},
+				{
+					"C추억의밤하늘",
+					1,
+					20451
+				},
+				{
+					"C_Ice_Wing",
+					1,
+					20593
+				},
+				{
+					"C_Under_Rim_Glasses_Bu",
+					1,
+					31601
 				}
 			},
 			NeedSource_String = "냥다래 의상"
@@ -7687,6 +9737,13 @@ tblLapineDdukddakBox = {
 			return box.NeedRefineMin
 		end
 		return 0
+	end,
+	get_max_need_refine = function(in_box_id)
+		local box = tblLapineDdukddakBox.get_lapine_box(in_box_id)
+		if nil ~= box and nil ~= box.NeedRefineMax then
+			return box.NeedRefineMax
+		end
+		return 20
 	end,
 	get_need_source_string = function(in_box_id)
 		local box = tblLapineDdukddakBox.get_lapine_box(in_box_id)

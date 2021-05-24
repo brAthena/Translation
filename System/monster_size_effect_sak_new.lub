@@ -1098,6 +1098,16 @@ EFFECT.EF_ACH_COMPLETE = 1094
 EFFECT.EF_TIME_ACCESSORY = 1095
 EFFECT.EF_SPRITEMABLE = 1096
 EFFECT.EF_TUNAPARTY = 1097
+EFFECT.EF_AMDARAIS_EFFECT = 1419
+EFFECT.EF_BLUE_WAVE1 = 1611
+EFFECT.EF_BLUE_WAVE2 = 1612
+EFFECT.EF_BLUE_WAVE3 = 1613
+EFFECT.EF_RED_WAVE1 = 1614
+EFFECT.EF_RED_WAVE2 = 1615
+EFFECT.EF_RED_WAVE3 = 1616
+EFFECT.EF_BLACK_BUBBLE1 = 1617
+EFFECT.EF_BLACK_BUBBLE2 = 1618
+EFFECT.EF_BLACK_BUBBLE3 = 1619
 tbl = {
 	[2603] = {
 		MonsterSize = 1.2,
@@ -3001,12 +3011,6 @@ tbl = {
 			EFFECT.EF_REDLIGHTBODY
 		}
 	},
-	[3207] = {
-		MonsterSize = 2,
-		MonsterEff = {
-			EFFECT.EF_REDLIGHTBODY
-		}
-	},
 	[3240] = {
 		MonsterSize = 1,
 		MonsterEff = {
@@ -4184,6 +4188,30 @@ tbl = {
 			EFFECT.EF_GREEN99_6
 		}
 	},
+	[20421] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[20422] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[20419] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
 	[20426] = {
 		MonsterSize = 1,
 		MonsterEff = {
@@ -4230,6 +4258,121 @@ tbl = {
 		MonsterSize = 1,
 		MonsterEff = {
 			EFFECT.EF_REFLECTBODY
+		}
+	},
+	[20519] = {
+		MonsterSize = 1.7,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[20520] = {
+		MonsterSize = 1.5,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[2080] = {
+		MonsterSize = 0.6,
+		MonsterEff = {
+			EFFECT.EF_NONE
+		}
+	},
+	[20573] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_AMDARAIS_EFFECT
+		}
+	},
+	[20580] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_BLUELIGHTBODY
+		}
+	},
+	[20601] = {
+		MonsterSize = 1.2,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[20610] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[20611] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[20618] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[20690] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_RED_WAVE1,
+			EFFECT.EF_RED_WAVE2
+		}
+	},
+	[20693] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_BLUE_WAVE1,
+			EFFECT.EF_BLUE_WAVE2
+		}
+	},
+	[20694] = {
+		MonsterSize = 1.3,
+		MonsterEff = {
+			EFFECT.EF_RED_WAVE1,
+			EFFECT.EF_RED_WAVE2
+		}
+	},
+	[20648] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_GREEN99_3,
+			EFFECT.EF_GREEN99_5,
+			EFFECT.EF_GREEN99_6
+		}
+	},
+	[20573] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_AMDARAIS_EFFECT
+		}
+	},
+	[20813] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_AMDARAIS_EFFECT
+		}
+	},
+	[20846] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_BOTTOM_EVILLAND
+		}
+	},
+	[20847] = {
+		MonsterSize = 1,
+		MonsterEff = {
+			EFFECT.EF_MAP_MAGICZONE
 		}
 	}
 }

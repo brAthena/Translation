@@ -828,6 +828,15 @@
 27201#아그네스의#
 27202#유르겐의#
 27203#스피카의#
+//2018 11월 사냥대회
+27330#Kronecker's#
+27331#of Granz Heine#
+27332#Skia's#
+27333#of Shiny Nerius#
+300127#Wolf's#
+300128#of Wolf Lugenburg#
+300129#Poe's#
+300130#of Richard#
 
 //2018년 1월 영웅의흔적p2,3카드
 27181#Bane Band#
@@ -911,33 +920,164 @@
 27298#of Big Shield#
 
 //2018 에피 17.1 카드
-27304#헬스#
-27305#헬 인페르노#
-27306#파이어 댄스#
-27307#헤비 트립#
-27308#세크리드#
-27309#오브 홀리파워#
-27310#오브 임모탈#
-27311#헤비 너클#
-27312#이블 피어싱#
-27313#파워 피스트#
-27314#동물 사냥꾼#
-27315#동물 마법사냥꾼#
-27316#안티 포이즌#
-27317#내츄럴 피어싱#
-27318#오브 타이거파워#
-27319#포이즌 브레이크#
-27320#인핸스 파이어#
+27304#Health#
+27305#Hell Inferno#
+27306#Fire Dance#
+27307#Heavy Trip#
+27308#Sacred#
+27309#of Holy Power#
+27310#of Immortal#
+27311#Heavy Knuckle#
+27312#Evil Piercing#
+27313#Power Fist#
+27314#Animal Hunter#
+27315#Animal Magic Hunter#
+27316#Anti Poison#
+27317#Natural Piercing#
+27318#of Tiger Power#
+27319#Poison Break#
+27320#Enhance Fire#
 
 //에다 글래스트
-27329#오브 슈미츠#
+27329#of Schmidt#
 
 //에피소드14.3 모로크카드
-27325#무스펠헤임#
-27326#파멸의#
-27327#사신안쿠#
-27321#마신의#
-27328#타락한 생명의#
-27322#위압자의#
-27323#조율자의#
-27324#브리나라네아#
+27325#Muspelheim#
+27326#Destructive#
+27327#Grim Reaper Ankou#
+27321#Demon God's#
+27328#Corrupt Life#
+27322#Dominator's#
+27323#Coordinator's#
+27324#Brinaranea#
+
+//일루전오브라비린스 카드
+27338#오브 더블파워#
+27339#고쓰#
+27340#오브 앵그리킬러#
+27334#오브 카오틱#
+27341#오브 워터쉘#
+27335#오브 블랙가드#
+27342#메탈그라운드#
+27336#오브 바이퍼#
+27343#홀리스펠#
+27337#헌팅브리즈#
+
+//어비스 및 노그 3층
+27346#of Howling#
+27347#Crack#
+27348#Nowhere#
+27349#of Flame Barrier#
+27350#of Dragon Spirit#
+27351#of Dragon Heart#
+27352#Slumber#
+27353#of Demonic Barrier#
+27354#of Deprave#
+27355#Depraved#
+27356#of Frozen Guard#
+27357#of Dirty Glove#
+27358#Breaking#
+27359#Cold Magic#
+27360#Fire Magic#
+27361#Heavy Blade#
+27362#of Queen Spider#
+27363#Doomed#
+
+//고성 도전모드
+27381#of Fallen Angel#
+27382#of Creep#
+27383#of Relax#
+27384#Magical Knightage#
+27385#Magical Knightage#
+27386#Exorcist's#
+27387#Undead Slayer's#
+27388#Strong Recovery#
+
+//200레벨 확장 지역 카드
+300001#High Envenom#
+300002#Bulletproof Vest's#
+300003#of Wild Dog#
+300004#of Iron Wall#
+300005#of High Worker#
+300006#of Psychic#
+300007#Solid Break#
+300008#Holy Twinkle#
+300009#Ghost Magical#
+300010#Wind Magical#
+300011#Saint Magical#
+300012#of Sacred#
+300013#Reginleif#
+300014#Ingrid#
+300015#Remedy Low Level#
+300016#of Treasure#
+300017#High Hallowed#
+300018#High Damned#
+300019#Dragon Slayer's#
+300020#Poacher's#
+300021#Dragon Killer#
+
+//에피소드17.2카드
+300076#of Royal Guard#
+300077#of Mechanic#
+300078#Mad Dance#
+300079#Middle Dry#
+300080#Dry#
+300081#of Magician#
+300082#Piercing#
+300083#of Ninja#
+300084#of Holy#
+300085#of Taekwon#
+300086#Vanguard's#
+300087#of Shadow Cat#
+300088#Fallen Star#
+300089#of Assault#
+300090#of Land Power#
+300091#of Gunman#
+300092#of Merchant#
+300093#of Acolyte#
+300094#Mad Lethal#
+300095#of Keen#
+300096#Harmony#
+300097#of Thief#
+300098#Arcane#
+300099#of Minor Guard#
+300100#of Major Guard#
+300101#of Rune Knight#
+300102#of Genetic#
+300103#Mermaid#
+300104#of Sorcerer#
+300105#of Warlock#
+300106#Fire Magical#
+300107#Fruit#
+300108#of Shadow Chaser#
+300109#of Guillotine Cross#
+300110#of Kagerou#
+300111#of Oboro#
+300112#of Soul Reaper#
+300113#of Talent#
+300114#Immortal Magical#
+300115#of Archbishop#
+300116#of Sura#
+300117#of Ranger#
+300118#of Star Master#
+300119#of Rebellion#
+300120#Shoal's#
+300121#Water Surface's#
+300122#Saint#
+300123#Formless's#
+300124#Water Magical#
+300125#of Summoner#
+
+//일루전오브언더워터
+300140#Enhance Thunder#
+300141#Mermaid's#
+300142#Undersea#
+300143#of Anti Insect#
+300144#Stabbing#
+300145#of Abyss Witch#
+300146#Fatal Fish#
+300147#Seabed#
+300148#Deep Sea#
+300149#of Fish Killer#
+300150#of Sword Expert#
+300151#Marine Nightmare#
